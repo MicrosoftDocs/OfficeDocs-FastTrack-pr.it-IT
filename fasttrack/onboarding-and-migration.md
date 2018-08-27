@@ -3,7 +3,7 @@ title: Fasi del processo di onboarding e migrazione
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Il processo di onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che, come si può vedere nella figura seguente, possono essere seguite da una fase facoltativa di migrazione dei dati.
-ms.openlocfilehash: 77c13b6aee3fc37e5b3fcb876e310dbd67e4c958
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: ec7366da4df6306d0c33ee99e37a3190777d839a
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498853"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449106"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fasi del processo di onboarding e migrazione
 
@@ -24,6 +24,9 @@ Il processo di onboarding di Office 365 prevede quattro fasi principali (ovvero 
   
 ![Fasi del vantaggio del processo di onboarding](media/O365-Onboarding-Phases.png)
   
+> [!NOTE]
+>Per informazioni sul processo di onboarding e migrazione per Office 365 US Government, vedere [Processo di onboarding e migrazione per Office 365 US Government](US-Gov-appendix-onboarding-and-migration.md). 
+
 Per le attività dettagliate di ogni fase, vedere [Responsabilità di FastTrack](fasttrack-responsibilities.md) e [Responsabilità dell'utente](your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Fase di avvio
@@ -49,7 +52,7 @@ Ciò include una collaborazione con l'utente per comprendere in che modo intende
 
 Il responsabile FastTrack effettua una chiamata interattiva con l'utente e il team di adozione per pianificare il buon esito del processo. In questo modo, l'utente viene a conoscenza delle capacità dei servizi idonei acquistati, degli elementi essenziali necessari, della metodologia per l'uso del servizio e degli scenari utili per sfruttare il servizio. Microsoft supporta l'utente nella pianificazione per il buon esito del processo e fornisce commenti e suggerimenti sulle aree principali (in base alle necessità).
   
-Gli esperti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Vengono utilizzati strumenti per raccogliere dati e guidare l'utente nella stima dei requisiti della larghezza di banda e nella valutazione di browser, sistemi operativi di client, DNS (Domain Name System), rete, infrastruttura e sistema di identità, in caso fossero necessarie modifiche per l'onboarding. 
+Gli esperti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Vengono forniti strumenti per consentire all’utente di raccogliere dati sul proprio ambiente e per guidare l'utente nella stima dei requisiti della larghezza di banda e nella valutazione di browser, sistemi operativi di client, DNS (Domain Name System), rete, infrastruttura e sistema di identità, in caso fossero necessarie modifiche per l'onboarding.  
   
 In base all'impostazione corrente, viene suggerito un piano di correzione che fornisce all'ambiente di origine i requisiti minimi per l'onboarding a Office 365 e, se necessario, per la migrazione dei dati e/o delle cassette postali. Viene offerta una serie di attività consigliate per aumentare l'adozione e il valore dell'utente finale. Vengono inoltre stabilite delle chiamate di controllo appropriate per la fase di correzione.
   

@@ -3,7 +3,7 @@ title: Responsabilità dell'utente
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: Ecco le responsabilità dell'utente durante il processo di onboarding.
-ms.openlocfilehash: 9d51fdf901d70c780dc3aa2a997e51cb1a0ad232
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6b572bb44edc1b4ae8312cfe1a59cbd005899a8f
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499103"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449099"
 ---
 # <a name="your-responsibilities"></a>Responsabilità dell'utente
 
-Ecco le responsabilità dell'utente durante il processo di onboarding.
+Ecco le responsabilità dell'utente durante il processo di onboarding.\*
   
 ## <a name="general"></a>Generale
 
@@ -91,7 +91,7 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
     
 - Participare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.
     
-- Fornire gli obiettivi per i servizi Office 365 (ad esempio, SharePoint Online, Exchange Online, Yammer Enterprise) e gli obiettivi aziendali.
+- Fornire gli obiettivi per i servizi Office 365 (ad esempio, SharePoint Online, Exchange Online, Microsoft Teams e Office 365 ProPlus) e gli obiettivi aziendali.
     
 ## <a name="assess-phase"></a>Fase di valutazione
 
@@ -163,6 +163,6 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
     
 - Aggiornare il certificato del servizio APN (Apple Push Notification).
     
-
+\*Per informazioni sulle responsabilità dell’utente per Office 365 US Government, vedere [Responsabilità dell’utente per Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
 

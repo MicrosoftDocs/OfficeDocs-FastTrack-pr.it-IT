@@ -3,7 +3,7 @@ title: Responsabilità di FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: 1d1b08663220411b681d79833306a8260dd84c15
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6a332cab1b2ea5bbbd55afa6f2dfa22792578a50
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498943"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449105"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
-Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
+Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.\*
   
 ## <a name="general"></a>Generale
 
@@ -176,7 +176,7 @@ Fornire indicazioni su:
     
 - Configurazione delle caratteristiche di SharePoint Online. 
     
-- Fornire indicazioni sulla migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
+- Fornitura di indicazioni sulla migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
     
 - Valutazione della configurazione relativa all'infrastruttura della farm locale di SharePoint, necessaria per Ambiente ibrido di SharePoint Online. 
     
@@ -348,5 +348,5 @@ Fornire indicazioni su:
     
 - Scaricare i percorsi per Microsoft StaffHub.
     
-
+\*Per informazioni sulle responsabilità di FastTrack per Office 365 US Government, vedere [Responsabilità di FastTrack per Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
 
