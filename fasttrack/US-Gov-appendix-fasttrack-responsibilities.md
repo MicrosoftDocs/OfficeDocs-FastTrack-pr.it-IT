@@ -3,7 +3,7 @@ title: Responsabilità FastTrack per Office 365 governo degli Stati Uniti
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: 753e8724c379fef5d19b0ffded3713699fd11136
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: c49dda8dafeca909cc183e0539335c0243712bff
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329965"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827994"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità FastTrack per Office 365 governo degli Stati Uniti
 
@@ -178,7 +178,7 @@ Fornire indicazioni su:
     
 - Configurazione delle caratteristiche di SharePoint Online. 
     
-- Se viene utilizzato il servizio di migrazione dei dati di centro FastTrack e se siano soddisfatti idoneità, che fornisce la migrazione dei dati.
+- Fornitura di indicazioni sulla migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
     
 - Valutazione della configurazione relativa all'infrastruttura della farm locale di SharePoint, necessaria per Ambiente ibrido di SharePoint Online. 
     
