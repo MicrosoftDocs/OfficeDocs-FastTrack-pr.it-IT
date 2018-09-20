@@ -10,199 +10,146 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: I clienti che acquistano almeno 20.000 licenze per un tenant di Exchange Online possono ottenere i servizi aggiuntivi di FastTrack Center. Per ulteriori dettagli, vedere Piani e servizi idonei.
-ms.openlocfilehash: 038396af2b2eecc85bb48c61bb4ab8320324268a
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 98449dcc6576576996424d8a6160d6891a87d83c
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828074"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021688"
 ---
-# <a name="appendix-b---fasttrack-center-additional-benefit"></a><span data-ttu-id="26453-104">Appendice B: Ulteriore vantaggio di FastTrack Center</span><span class="sxs-lookup"><span data-stu-id="26453-104">Appendix B - FastTrack Center Additional Benefit</span></span>
+# <a name="appendix-b---fasttrack-center-additional-benefit"></a><span data-ttu-id="d47ce-104">Appendice B: Ulteriore vantaggio di FastTrack Center</span><span class="sxs-lookup"><span data-stu-id="d47ce-104">Appendix B - FastTrack Center Additional Benefit</span></span>
 
-<span data-ttu-id="26453-p102">I clienti che acquistano almeno 20.000 licenze per un tenant di Exchange Online possono ottenere i servizi aggiuntivi di FastTrack Center. Per ulteriori dettagli, vedere [Piani e servizi idonei](eligible-services-and-plans.md).</span><span class="sxs-lookup"><span data-stu-id="26453-p102">Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](eligible-services-and-plans.md) for more details.</span></span> 
+<span data-ttu-id="d47ce-p102">I clienti che acquistano almeno 20.000 licenze per un tenant di Exchange Online possono ottenere i servizi aggiuntivi di FastTrack Center. Per ulteriori dettagli, vedere [Piani e servizi idonei](eligible-services-and-plans.md).</span><span class="sxs-lookup"><span data-stu-id="d47ce-p102">Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](eligible-services-and-plans.md) for more details.</span></span> 
   
-## <a name="onboarding-and-migration-phases"></a><span data-ttu-id="26453-107">Fasi del processo di onboarding e migrazione</span><span class="sxs-lookup"><span data-stu-id="26453-107">Onboarding and migration phases</span></span>
+## <a name="onboarding-and-migration-phases"></a><span data-ttu-id="d47ce-107">Fasi del processo di onboarding e migrazione</span><span class="sxs-lookup"><span data-stu-id="d47ce-107">Onboarding and migration phases</span></span>
 
-## <a name="core"></a><span data-ttu-id="26453-108">Componenti di base</span><span class="sxs-lookup"><span data-stu-id="26453-108">Core</span></span>
+## <a name="core"></a><span data-ttu-id="d47ce-108">Componenti di base</span><span class="sxs-lookup"><span data-stu-id="d47ce-108">Core</span></span>
 
-<span data-ttu-id="26453-109">I servizi aggiuntivi relativi all'onboarding di base includono una guida di configurazione per AD FS (Active Directory Federation Services) e per i criteri di accesso client AD FS con ridondanza geografica per quel servizio.</span><span class="sxs-lookup"><span data-stu-id="26453-109">Core onboarding services additions include configuration guidance for geo-redundant Active Directory Federation Services (AD FS) and AD FS client access policies for the service.</span></span> 
+<span data-ttu-id="d47ce-109">I servizi aggiuntivi relativi all'onboarding di base includono una guida di configurazione per AD FS (Active Directory Federation Services) e per i criteri di accesso client AD FS con ridondanza geografica per quel servizio.</span><span class="sxs-lookup"><span data-stu-id="d47ce-109">Core onboarding services additions include configuration guidance for geo-redundant Active Directory Federation Services (AD FS) and AD FS client access policies for the service.</span></span> 
   
-## <a name="exchange-online"></a><span data-ttu-id="26453-110">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="26453-110">Exchange Online</span></span>
+## <a name="exchange-online"></a><span data-ttu-id="d47ce-110">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="d47ce-110">Exchange Online</span></span>
 
-<span data-ttu-id="26453-111">Nel caso di Exchange Online, viene fornita una guida di configurazione per gli aspetti seguenti:</span><span class="sxs-lookup"><span data-stu-id="26453-111">For Exchange Online, we provide configuration guidance for the following:</span></span>
+<span data-ttu-id="d47ce-111">Nel caso di Exchange Online, viene fornita una guida di configurazione per gli aspetti seguenti:</span><span class="sxs-lookup"><span data-stu-id="d47ce-111">For Exchange Online, we provide configuration guidance for the following:</span></span>
+- <span data-ttu-id="d47ce-112">Impostazione della messaggistica unificata con Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="d47ce-112">Setting up Unified Messaging (UM) with Exchange Online.</span></span>
+- <span data-ttu-id="d47ce-113">Configurazione della coesistenza tra Exchange Online e cartelle pubbliche locali legacy.</span><span class="sxs-lookup"><span data-stu-id="d47ce-113">Configuring coexistence between Exchange Online and legacy on-premises public folders.</span></span>
+- <span data-ttu-id="d47ce-114">Integrazione di applicazioni abilitate alla posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="d47ce-114">Mail-enabled application integration.</span></span> 
+- <span data-ttu-id="d47ce-115">Pianificazione della migrazione e raggruppamento della cassetta postale.</span><span class="sxs-lookup"><span data-stu-id="d47ce-115">Mailbox migration planning and grouping.</span></span>
+    
+## <a name="skype-for-business-online"></a><span data-ttu-id="d47ce-116">Skype for Business online</span><span class="sxs-lookup"><span data-stu-id="d47ce-116">Skype for Business Online</span></span>
+
+<span data-ttu-id="d47ce-117">Per Skype for Business online, viene fornita una guida per la migrazione degli utenti di Lync locale e Skype for Business a Skype for Business online.</span><span class="sxs-lookup"><span data-stu-id="d47ce-117">For Skype for Business Online, we provide guidance for on-premises Lync and Skype for Business user migration to Skype for Business Online.</span></span>
   
-- <span data-ttu-id="26453-112">Impostazione della messaggistica unificata con Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="26453-112">Setting up Unified Messaging (UM) with Exchange Online.</span></span>
-    
-- <span data-ttu-id="26453-113">Configurazione della coesistenza tra Exchange Online e cartelle pubbliche locali legacy.</span><span class="sxs-lookup"><span data-stu-id="26453-113">Configuring coexistence between Exchange Online and legacy on-premises public folders.</span></span>
-    
-- <span data-ttu-id="26453-114">Integrazione di applicazioni abilitate alla posta elettronica.</span><span class="sxs-lookup"><span data-stu-id="26453-114">Mail-enabled application integration.</span></span> 
-    
-- <span data-ttu-id="26453-115">Pianificazione della migrazione e raggruppamento della cassetta postale.</span><span class="sxs-lookup"><span data-stu-id="26453-115">Mailbox migration planning and grouping.</span></span>
-    
-## <a name="skype-for-business-online"></a><span data-ttu-id="26453-116">Skype for Business online</span><span class="sxs-lookup"><span data-stu-id="26453-116">Skype for Business Online</span></span>
+## <a name="office-365-proplus"></a><span data-ttu-id="d47ce-118">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="d47ce-118">Office 365 ProPlus</span></span>
 
-<span data-ttu-id="26453-117">Per Skype for Business online, viene fornita una guida per la migrazione degli utenti di Lync locale e Skype for Business a Skype for Business online.</span><span class="sxs-lookup"><span data-stu-id="26453-117">For Skype for Business Online, we provide guidance for on-premises Lync and Skype for Business user migration to Skype for Business Online.</span></span>
+<span data-ttu-id="d47ce-119">Nel caso di Office 365 ProPlus, viene fornita una guida per gli aspetti seguenti:</span><span class="sxs-lookup"><span data-stu-id="d47ce-119">For Office 365 ProPlus, we provide guidance for the following:</span></span> 
+- <span data-ttu-id="d47ce-120">Valutazione e pianificazione concentrate sulla preparazione dell'ambiente per la distribuzione iniziale e la gestione degli aggiornamenti in linea con le procedure consigliate di Microsoft.</span><span class="sxs-lookup"><span data-stu-id="d47ce-120">Assessment and planning focused on preparing your environment for initial deployment and management of updates aligned with Microsoft's best practices.</span></span> 
+- <span data-ttu-id="d47ce-121">Sviluppo delle configurazioni di distribuzione e delle impostazioni degli aggiornamenti con lo Strumento di distribuzione di Office.</span><span class="sxs-lookup"><span data-stu-id="d47ce-121">Developing deployment configurations and update settings using the Office Deployment Tool.</span></span> 
+- <span data-ttu-id="d47ce-122">Creazione di pacchetti per la distribuzione mediante System Center Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="d47ce-122">Deployment packaging using the System Center Configuration Manager.</span></span>  
+- <span data-ttu-id="d47ce-123">La distribuzione e la configurazione della telemetria di Office offrono assistenza per valutare l'utilizzo di documenti e soluzioni di Office cruciali per l'organizzazione per garantire la compatibilità delle applicazioni.</span><span class="sxs-lookup"><span data-stu-id="d47ce-123">Deploying and configuring Office Telemetry to provide guidance for you to assess the use of business-critical Office documents and solutions for application compatibility.</span></span>
+    
+## <a name="fasttrack-responsibilities"></a><span data-ttu-id="d47ce-124">Responsabilità di FastTrack</span><span class="sxs-lookup"><span data-stu-id="d47ce-124">FastTrack responsibilities</span></span>
+
+<span data-ttu-id="d47ce-p103">Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding. Tali responsabilità possono aggiungersi o sostituire le attività definite nell'argomento [Responsabilità di FastTrack](fasttrack-responsibilities.md).</span><span class="sxs-lookup"><span data-stu-id="d47ce-p103">FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](fasttrack-responsibilities.md).</span></span>
   
-## <a name="office-365-proplus"></a><span data-ttu-id="26453-118">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="26453-118">Office 365 ProPlus</span></span>
+## <a name="general"></a><span data-ttu-id="d47ce-127">Generale</span><span class="sxs-lookup"><span data-stu-id="d47ce-127">General</span></span>
 
-<span data-ttu-id="26453-119">Nel caso di Office 365 ProPlus, viene fornita una guida per gli aspetti seguenti:</span><span class="sxs-lookup"><span data-stu-id="26453-119">For Office 365 ProPlus, we provide guidance for the following:</span></span> 
-  
-- <span data-ttu-id="26453-120">Valutazione e pianificazione concentrate sulla preparazione dell'ambiente per la distribuzione iniziale e la gestione degli aggiornamenti in linea con le procedure consigliate di Microsoft.</span><span class="sxs-lookup"><span data-stu-id="26453-120">Assessment and planning focused on preparing your environment for initial deployment and management of updates aligned with Microsoft's best practices.</span></span>
+- <span data-ttu-id="d47ce-128">Fornire assistenza al supporto remoto per un corretto sviluppo della pianificazione, implementazione e per le necessarie attività di configurazione, come descritto in [Fasi del processo di onboarding e migrazione](#onboarding-and-migration-phases).</span><span class="sxs-lookup"><span data-stu-id="d47ce-128">Provide remote support assistance to you in success planning development, implementation, and required configuration activities as detailed in [Onboarding and migration phases](#onboarding-and-migration-phases).</span></span>
     
-- <span data-ttu-id="26453-121">Sviluppo delle configurazioni di distribuzione e delle impostazioni degli aggiornamenti con lo Strumento di distribuzione di Office.</span><span class="sxs-lookup"><span data-stu-id="26453-121">Developing deployment configurations and update settings using the Office Deployment Tool.</span></span>
-    
-- <span data-ttu-id="26453-122">Creazione di pacchetti per la distribuzione mediante System Center Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="26453-122">Deployment packaging using the System Center Configuration Manager.</span></span>
-    
-- <span data-ttu-id="26453-123">La distribuzione e la configurazione della telemetria di Office offrono assistenza per valutare l'utilizzo di documenti e soluzioni di Office cruciali per l'organizzazione per garantire la compatibilità delle applicazioni.</span><span class="sxs-lookup"><span data-stu-id="26453-123">Deploying and configuring Office Telemetry to provide guidance for you to assess the use of business-critical Office documents and solutions for application compatibility.</span></span>
-    
-## <a name="fasttrack-responsibilities"></a><span data-ttu-id="26453-124">Responsabilità di FastTrack</span><span class="sxs-lookup"><span data-stu-id="26453-124">FastTrack responsibilities</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="d47ce-129">Fase di valutazione</span><span class="sxs-lookup"><span data-stu-id="d47ce-129">Assess phase</span></span>
 
-<span data-ttu-id="26453-p103">Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding. Tali responsabilità possono aggiungersi o sostituire le attività definite nell'argomento [Responsabilità di FastTrack](fasttrack-responsibilities.md).</span><span class="sxs-lookup"><span data-stu-id="26453-p103">FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](fasttrack-responsibilities.md).</span></span>
-  
-## <a name="general"></a><span data-ttu-id="26453-127">Generale</span><span class="sxs-lookup"><span data-stu-id="26453-127">General</span></span>
+- <span data-ttu-id="d47ce-130">Effettuare una chiamata per fornire assistenza in merito a una corretta adozione da parte dell'utente.</span><span class="sxs-lookup"><span data-stu-id="d47ce-130">Hold a success planning call to provide guidance for successful user adoption.</span></span> 
+- <span data-ttu-id="d47ce-131">Valutare il proprio ambiente per offrire supporto alla configurazione di AD FS con ridondanza geografica.</span><span class="sxs-lookup"><span data-stu-id="d47ce-131">Assess your environment to support the configuration of geo-redundant AD FS.</span></span>  
+- <span data-ttu-id="d47ce-132">Eseguire una valutazione per identificare i requisiti per l'accesso client AD FS.</span><span class="sxs-lookup"><span data-stu-id="d47ce-132">Run an assessment to identify your requirements for AD FS client access.</span></span>
+    
+## <a name="enable-phase"></a><span data-ttu-id="d47ce-133">Fase di attivazione:</span><span class="sxs-lookup"><span data-stu-id="d47ce-133">Enable phase</span></span>
 
-- <span data-ttu-id="26453-128">Fornire assistenza al supporto remoto per un corretto sviluppo della pianificazione, implementazione e per le necessarie attività di configurazione, come descritto in [Fasi del processo di onboarding e migrazione](#onboarding-and-migration-phases).</span><span class="sxs-lookup"><span data-stu-id="26453-128">Provide remote support assistance to you in success planning development, implementation, and required configuration activities as detailed in [Onboarding and migration phases](#onboarding-and-migration-phases).</span></span>
-    
-## <a name="assess-phase"></a><span data-ttu-id="26453-129">Fase di valutazione</span><span class="sxs-lookup"><span data-stu-id="26453-129">Assess phase</span></span>
+### <a name="geo-redundant-ad-fs-guidance"></a><span data-ttu-id="d47ce-134">Indicazioni su AD FS con ridondanza geografica</span><span class="sxs-lookup"><span data-stu-id="d47ce-134">Geo-redundant AD FS guidance</span></span>
 
-- <span data-ttu-id="26453-130">Effettuare una chiamata per fornire assistenza in merito a una corretta adozione da parte dell'utente.</span><span class="sxs-lookup"><span data-stu-id="26453-130">Hold a success planning call to provide guidance for successful user adoption.</span></span>
-    
-- <span data-ttu-id="26453-131">Valutare il proprio ambiente per offrire supporto alla configurazione di AD FS con ridondanza geografica.</span><span class="sxs-lookup"><span data-stu-id="26453-131">Assess your environment to support the configuration of geo-redundant AD FS.</span></span>
-    
-- <span data-ttu-id="26453-132">Eseguire una valutazione per identificare i requisiti per l'accesso client AD FS.</span><span class="sxs-lookup"><span data-stu-id="26453-132">Run an assessment to identify your requirements for AD FS client access.</span></span>
-    
-## <a name="enable-phase"></a><span data-ttu-id="26453-133">Fase di attivazione:</span><span class="sxs-lookup"><span data-stu-id="26453-133">Enable phase</span></span>
-
-### <a name="geo-redundant-ad-fs-guidance"></a><span data-ttu-id="26453-134">Indicazioni su AD FS con ridondanza geografica</span><span class="sxs-lookup"><span data-stu-id="26453-134">Geo-redundant AD FS guidance</span></span>
-
-- <span data-ttu-id="26453-p104">Fornire la progettazione dell'architettura di riferimento standard per una topologia AD FS con ridondanza geografica che si estende su due (2) data center. L'architettura standard fornisce:</span><span class="sxs-lookup"><span data-stu-id="26453-p104">Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:</span></span>
-    
-  - <span data-ttu-id="26453-137">Autenticazione federata per i servizi relativi al FastTrack Center Benefit.</span><span class="sxs-lookup"><span data-stu-id="26453-137">Federated authentication for services in scope for the FastTrack Center Benefit.</span></span>
-    
-  - <span data-ttu-id="26453-138">Resilienza del sito singolo.</span><span class="sxs-lookup"><span data-stu-id="26453-138">Single site resiliency.</span></span>
-    
-  - <span data-ttu-id="26453-139">Disponibilità elevata e failover.</span><span class="sxs-lookup"><span data-stu-id="26453-139">High availability and failover.</span></span>
-    
-  - <span data-ttu-id="26453-140">Indicazioni di ridimensionamento.</span><span class="sxs-lookup"><span data-stu-id="26453-140">Sizing guidance.</span></span>
-    
-- <span data-ttu-id="26453-141">Fornire istruzioni su come usare Windows Internal Database e SQL Server come istanza del database per la farm AD FS.</span><span class="sxs-lookup"><span data-stu-id="26453-141">Provide guidance on using Windows Internal Database and SQL Server as the database instance for the AD FS farm.</span></span>
-    
-- <span data-ttu-id="26453-142">Convalidare la determinazione relativa all'autenticazione federata per ogni foresta dell'ambito.</span><span class="sxs-lookup"><span data-stu-id="26453-142">Validate the establishment of federated authentication for each forest in scope.</span></span>
-    
-- <span data-ttu-id="26453-143">Confermare il funzionamento dell'autenticazione federata per un massimo di 10 utenti.</span><span class="sxs-lookup"><span data-stu-id="26453-143">Confirm federated authentication functionality for up to 10 users.</span></span>
+- <span data-ttu-id="d47ce-p104">Fornire la progettazione dell'architettura di riferimento standard per una topologia AD FS con ridondanza geografica che si estende su due (2) data center. L'architettura standard fornisce:</span><span class="sxs-lookup"><span data-stu-id="d47ce-p104">Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:</span></span>
+  - <span data-ttu-id="d47ce-137">Autenticazione federata per i servizi relativi al FastTrack Center Benefit.</span><span class="sxs-lookup"><span data-stu-id="d47ce-137">Federated authentication for services in scope for the FastTrack Center Benefit.</span></span> 
+  - <span data-ttu-id="d47ce-138">Resilienza del sito singolo.</span><span class="sxs-lookup"><span data-stu-id="d47ce-138">Single site resiliency.</span></span>  
+  - <span data-ttu-id="d47ce-139">Disponibilità elevata e failover.</span><span class="sxs-lookup"><span data-stu-id="d47ce-139">High availability and failover.</span></span>  
+  - <span data-ttu-id="d47ce-140">Indicazioni di ridimensionamento.</span><span class="sxs-lookup"><span data-stu-id="d47ce-140">Sizing guidance.</span></span> 
+- <span data-ttu-id="d47ce-141">Fornire istruzioni su come usare Windows Internal Database e SQL Server come istanza del database per la farm AD FS.</span><span class="sxs-lookup"><span data-stu-id="d47ce-141">Provide guidance on using Windows Internal Database and SQL Server as the database instance for the AD FS farm.</span></span>   
+- <span data-ttu-id="d47ce-142">Convalidare la determinazione relativa all'autenticazione federata per ogni foresta dell'ambito.</span><span class="sxs-lookup"><span data-stu-id="d47ce-142">Validate the establishment of federated authentication for each forest in scope.</span></span>  
+- <span data-ttu-id="d47ce-143">Confermare il funzionamento dell'autenticazione federata per un massimo di 10 utenti.</span><span class="sxs-lookup"><span data-stu-id="d47ce-143">Confirm federated authentication functionality for up to 10 users.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="26453-144">Le distribuzioni AD FS sono comprese per i clienti che hanno diritto a benefit aggiuntivi, i quali dispongono di più configurazioni di foresta Active Directory.</span><span class="sxs-lookup"><span data-stu-id="26453-144">AD FS deployments are in scope for additional benefit eligible customers with multiple Active Directory forest configurations.</span></span> 
+> <span data-ttu-id="d47ce-144">Le distribuzioni AD FS sono comprese per i clienti che hanno diritto a benefit aggiuntivi, i quali dispongono di più configurazioni di foresta Active Directory.</span><span class="sxs-lookup"><span data-stu-id="d47ce-144">AD FS deployments are in scope for additional benefit eligible customers with multiple Active Directory forest configurations.</span></span> 
   
-### <a name="ad-fs-client-access-policy-guidance"></a><span data-ttu-id="26453-145">Indicazioni sui criteri di accesso client AD FS</span><span class="sxs-lookup"><span data-stu-id="26453-145">AD FS client access policy guidance</span></span>
+### <a name="ad-fs-client-access-policy-guidance"></a><span data-ttu-id="d47ce-145">Indicazioni sui criteri di accesso client AD FS</span><span class="sxs-lookup"><span data-stu-id="d47ce-145">AD FS client access policy guidance</span></span>
 
-- <span data-ttu-id="26453-146">Rivedere i criteri e la configurazione necessari per proteggere le risorse di Office 365.</span><span class="sxs-lookup"><span data-stu-id="26453-146">Review the policies and configuration required to secure Office 365 resources.</span></span>
+- <span data-ttu-id="d47ce-146">Rivedere i criteri e la configurazione necessari per proteggere le risorse di Office 365.</span><span class="sxs-lookup"><span data-stu-id="d47ce-146">Review the policies and configuration required to secure Office 365 resources.</span></span>  
+- <span data-ttu-id="d47ce-p105">Fornire istruzioni e assistenza per configurare i criteri di accesso client AD FS per le situazioni di accesso client identificate all'interno degli scenari supportati. Per ulteriori informazioni, vedere [Limitazione dell'accesso ai servizi di Office 365 in base al percorso del client](https://go.microsoft.com/fwlink/?LinkID=525689).</span><span class="sxs-lookup"><span data-stu-id="d47ce-p105">Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689).</span></span> 
+- <span data-ttu-id="d47ce-149">Convalidare il funzionamento dell'autenticazione federata con i criteri di accesso client modificati per scenari di accesso identificati, con un massimo di 10 utenti configurati.</span><span class="sxs-lookup"><span data-stu-id="d47ce-149">Validate federated authentication functionality with modified client access policies for identified access scenarios with configuration up to 10 users.</span></span>
     
-- <span data-ttu-id="26453-p105">Fornire istruzioni e assistenza per configurare i criteri di accesso client AD FS per le situazioni di accesso client identificate all'interno degli scenari supportati. Per ulteriori informazioni, vedere [Limitazione dell'accesso ai servizi di Office 365 in base al percorso del client](https://go.microsoft.com/fwlink/?LinkID=525689).</span><span class="sxs-lookup"><span data-stu-id="26453-p105">Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689).</span></span>
-    
-- <span data-ttu-id="26453-149">Convalidare il funzionamento dell'autenticazione federata con i criteri di accesso client modificati per scenari di accesso identificati, con un massimo di 10 utenti configurati.</span><span class="sxs-lookup"><span data-stu-id="26453-149">Validate federated authentication functionality with modified client access policies for identified access scenarios with configuration up to 10 users.</span></span>
-    
-## <a name="exchange-online"></a><span data-ttu-id="26453-150">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="26453-150">Exchange Online</span></span>
+## <a name="exchange-online"></a><span data-ttu-id="d47ce-150">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="d47ce-150">Exchange Online</span></span>
 
-### <a name="exchange-unified-messaging-guidance"></a><span data-ttu-id="26453-151">Indicazioni su Messaggistica unificata di Exchange</span><span class="sxs-lookup"><span data-stu-id="26453-151">Exchange Unified Messaging guidance</span></span>
+### <a name="exchange-unified-messaging-guidance"></a><span data-ttu-id="d47ce-151">Indicazioni su Messaggistica unificata di Exchange</span><span class="sxs-lookup"><span data-stu-id="d47ce-151">Exchange Unified Messaging guidance</span></span>
 
-- <span data-ttu-id="26453-152">Fornire assistenza in merito alla configurazione richiesta su Exchange Online per abilitare fino a 10:</span><span class="sxs-lookup"><span data-stu-id="26453-152">Provide guidance on required configuration on Exchange Online to enable up to 10:</span></span>
-    
-  - <span data-ttu-id="26453-153">Dial plan di messaggistica unificata.</span><span class="sxs-lookup"><span data-stu-id="26453-153">UM dial plans.</span></span>
-    
-  - <span data-ttu-id="26453-154">Criteri cassetta postale di messaggistica unificata.</span><span class="sxs-lookup"><span data-stu-id="26453-154">UM mailbox policies.</span></span>
-    
-  - <span data-ttu-id="26453-155">Operatori automatici.</span><span class="sxs-lookup"><span data-stu-id="26453-155">Auto attendants.</span></span>
-    
-- <span data-ttu-id="26453-156">Fornire assistenza per la configurazione di Lync locale o per l'ambiente di Skype for Business al fine di abilitare la messaggistica unificata e avere come target:</span><span class="sxs-lookup"><span data-stu-id="26453-156">Provide guidance for the on-premises Lync or Skype for Business environment configuration in order to enable UM and specifically target:</span></span>
-    
-  - <span data-ttu-id="26453-157">Criteri ospitati su Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="26453-157">Exchange Online-hosted policies.</span></span>
-    
-  - <span data-ttu-id="26453-158">Criteri di segreteria telefonica ospitati su Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="26453-158">Exchange Online-hosted voice mail policies.</span></span>
-    
-  - <span data-ttu-id="26453-159">I contatti relativi all'operatore automatico di messaggistica unificata e la segreteria telefonica di Outlook per reindirizzare gli utenti a Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="26453-159">UM auto attendant contacts and Outlook voice mail to redirect users to Exchange Online.</span></span>
-    
-  - <span data-ttu-id="26453-160">Assistenza per la creazione dei record SRV, così come richiesto dalla federazione.</span><span class="sxs-lookup"><span data-stu-id="26453-160">Assist with the creation of the Service Location (SRV) records as required for federation.</span></span>
-    
+- <span data-ttu-id="d47ce-152">Fornire assistenza in merito alla configurazione richiesta su Exchange Online per abilitare fino a 10:</span><span class="sxs-lookup"><span data-stu-id="d47ce-152">Provide guidance on required configuration on Exchange Online to enable up to 10:</span></span> 
+  - <span data-ttu-id="d47ce-153">Dial plan di messaggistica unificata.</span><span class="sxs-lookup"><span data-stu-id="d47ce-153">UM dial plans.</span></span>   
+  - <span data-ttu-id="d47ce-154">Criteri cassetta postale di messaggistica unificata.</span><span class="sxs-lookup"><span data-stu-id="d47ce-154">UM mailbox policies.</span></span> 
+  - <span data-ttu-id="d47ce-155">Operatori automatici.</span><span class="sxs-lookup"><span data-stu-id="d47ce-155">Auto attendants.</span></span>  
+- <span data-ttu-id="d47ce-156">Fornire assistenza per la configurazione di Lync locale o per l'ambiente di Skype for Business al fine di abilitare la messaggistica unificata e avere come target:</span><span class="sxs-lookup"><span data-stu-id="d47ce-156">Provide guidance for the on-premises Lync or Skype for Business environment configuration in order to enable UM and specifically target:</span></span>  
+  - <span data-ttu-id="d47ce-157">Criteri ospitati su Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="d47ce-157">Exchange Online-hosted policies.</span></span>  
+  - <span data-ttu-id="d47ce-158">Criteri di segreteria telefonica ospitati su Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="d47ce-158">Exchange Online-hosted voice mail policies.</span></span> 
+  - <span data-ttu-id="d47ce-159">I contatti relativi all'operatore automatico di messaggistica unificata e la segreteria telefonica di Outlook per reindirizzare gli utenti a Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="d47ce-159">UM auto attendant contacts and Outlook voice mail to redirect users to Exchange Online.</span></span> 
+  - <span data-ttu-id="d47ce-160">Assistenza per la creazione dei record SRV, così come richiesto dalla federazione.</span><span class="sxs-lookup"><span data-stu-id="d47ce-160">Assist with the creation of the Service Location (SRV) records as required for federation.</span></span>
 > [!NOTE]
-> <span data-ttu-id="26453-p106">La messaggistica unificata può essere configurata con gateway IP di messaggistica unificata supportati e session border controller (SBC). Per ulteriori informazioni, vedere [Integrazione del sistema di telefonia con la messaggistica unificata](https://go.microsoft.com/fwlink/?LinkID=809293).</span><span class="sxs-lookup"><span data-stu-id="26453-p106">UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293).</span></span> 
+> <span data-ttu-id="d47ce-p106">La messaggistica unificata può essere configurata con gateway IP di messaggistica unificata supportati e session border controller (SBC). Per ulteriori informazioni, vedere [Integrazione del sistema di telefonia con la messaggistica unificata](https://go.microsoft.com/fwlink/?LinkID=809293).</span><span class="sxs-lookup"><span data-stu-id="d47ce-p106">UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293).</span></span> 
   
-### <a name="public-folder-coexistence-guidance"></a><span data-ttu-id="26453-163">Indicazioni sulla coesistenza delle cartelle pubbliche</span><span class="sxs-lookup"><span data-stu-id="26453-163">Public folder coexistence guidance</span></span>
+### <a name="public-folder-coexistence-guidance"></a><span data-ttu-id="d47ce-163">Indicazioni sulla coesistenza delle cartelle pubbliche</span><span class="sxs-lookup"><span data-stu-id="d47ce-163">Public folder coexistence guidance</span></span>
 
-- <span data-ttu-id="26453-164">Fornire indicazioni sulla coesistenza di un singolo albero di cartelle pubbliche, comprese informazioni su:</span><span class="sxs-lookup"><span data-stu-id="26453-164">Provide guidance on single public folder tree coexistence, including:</span></span>
+- <span data-ttu-id="d47ce-164">Fornire indicazioni sulla coesistenza di un singolo albero di cartelle pubbliche, comprese informazioni su:</span><span class="sxs-lookup"><span data-stu-id="d47ce-164">Provide guidance on single public folder tree coexistence, including:</span></span>  
+  - <span data-ttu-id="d47ce-165">Preparazione di cartelle pubbliche in Exchange 2007, Exchange 2010 e Exchange 2013.</span><span class="sxs-lookup"><span data-stu-id="d47ce-165">Public folder preparation in Exchange 2007, Exchange 2010, and Exchange 2013.</span></span> 
+  - <span data-ttu-id="d47ce-166">Cmdlet Windows PowerShell necessari per sincronizzare la gerarchia di cartelle pubbliche di Exchange 2007, Exchange 2010 e Exchange 2013 con Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="d47ce-166">Windows PowerShell cmdlets needed to synchronize the Exchange 2007, Exchange 2010, and Exchange 2013 public folder hierarchy with Exchange Online.</span></span>  
+  - <span data-ttu-id="d47ce-167">Configurazione di Exchange Online per reindirizzare l'accesso della cartella pubblica alle cartelle pubbliche locali.</span><span class="sxs-lookup"><span data-stu-id="d47ce-167">Exchange Online configuration to redirect public folder access to on-premises public folders.</span></span>  
+  - <span data-ttu-id="d47ce-168">Configurazione dell'accesso alle cartelle pubbliche da Exchange Online all'ambiente locale singolo di Exchange 2007, Exchange 2010 o Exchange 2013.</span><span class="sxs-lookup"><span data-stu-id="d47ce-168">Configuration of access to public folders from Exchange Online to a single Exchange 2007, Exchange 2010, or Exchange 2013 on-premises environment.</span></span>  
+  - <span data-ttu-id="d47ce-169">Guida alla convalida dell'accesso alla cartella pubblica per un massimo di 10 utenti in Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="d47ce-169">Assisting access validation to the public folder environment for up to 10 users in Exchange Online.</span></span>
     
-  - <span data-ttu-id="26453-165">Preparazione di cartelle pubbliche in Exchange 2007, Exchange 2010 e Exchange 2013.</span><span class="sxs-lookup"><span data-stu-id="26453-165">Public folder preparation in Exchange 2007, Exchange 2010, and Exchange 2013.</span></span>
-    
-  - <span data-ttu-id="26453-166">Cmdlet Windows PowerShell necessari per sincronizzare la gerarchia di cartelle pubbliche di Exchange 2007, Exchange 2010 e Exchange 2013 con Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="26453-166">Windows PowerShell cmdlets needed to synchronize the Exchange 2007, Exchange 2010, and Exchange 2013 public folder hierarchy with Exchange Online.</span></span>
-    
-  - <span data-ttu-id="26453-167">Configurazione di Exchange Online per reindirizzare l'accesso della cartella pubblica alle cartelle pubbliche locali.</span><span class="sxs-lookup"><span data-stu-id="26453-167">Exchange Online configuration to redirect public folder access to on-premises public folders.</span></span>
-    
-  - <span data-ttu-id="26453-168">Configurazione dell'accesso alle cartelle pubbliche da Exchange Online all'ambiente locale singolo di Exchange 2007, Exchange 2010 o Exchange 2013.</span><span class="sxs-lookup"><span data-stu-id="26453-168">Configuration of access to public folders from Exchange Online to a single Exchange 2007, Exchange 2010, or Exchange 2013 on-premises environment.</span></span>
-    
-  - <span data-ttu-id="26453-169">Guida alla convalida dell'accesso alla cartella pubblica per un massimo di 10 utenti in Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="26453-169">Assisting access validation to the public folder environment for up to 10 users in Exchange Online.</span></span>
-    
-### <a name="mail-enabled-application-integration-guidance"></a><span data-ttu-id="26453-170">Guida all'integrazione di applicazioni abilitate alla posta elettronica</span><span class="sxs-lookup"><span data-stu-id="26453-170">Mail-enabled application integration guidance</span></span>
+### <a name="mail-enabled-application-integration-guidance"></a><span data-ttu-id="d47ce-170">Guida all'integrazione di applicazioni abilitate alla posta elettronica</span><span class="sxs-lookup"><span data-stu-id="d47ce-170">Mail-enabled application integration guidance</span></span>
 
-- <span data-ttu-id="26453-171">Fornire modelli di assistenza per:</span><span class="sxs-lookup"><span data-stu-id="26453-171">Provide guidance templates for:</span></span> 
+- <span data-ttu-id="d47ce-171">Fornire modelli di assistenza per:</span><span class="sxs-lookup"><span data-stu-id="d47ce-171">Provide guidance templates for:</span></span>  
+  - <span data-ttu-id="d47ce-172">Applicazioni posta di massa.</span><span class="sxs-lookup"><span data-stu-id="d47ce-172">Mass mailing applications.</span></span>  
+  - <span data-ttu-id="d47ce-173">Applicazioni che instradano i messaggi di posta elettronica tramite Exchange.</span><span class="sxs-lookup"><span data-stu-id="d47ce-173">Applications that route emails through Exchange.</span></span>  
+  - <span data-ttu-id="d47ce-174">Applicazioni che utilizzano le cassette postali di Exchange.</span><span class="sxs-lookup"><span data-stu-id="d47ce-174">Applications that use Exchange mailboxes.</span></span>  
+  - <span data-ttu-id="d47ce-175">Applicazioni che necessitano di componenti personalizzati o di terze parte da installare nei server di Exchange.</span><span class="sxs-lookup"><span data-stu-id="d47ce-175">Applications that require third-party or custom components to be installed on Exchange servers.</span></span>
     
-  - <span data-ttu-id="26453-172">Applicazioni posta di massa.</span><span class="sxs-lookup"><span data-stu-id="26453-172">Mass mailing applications.</span></span>
-    
-  - <span data-ttu-id="26453-173">Applicazioni che instradano i messaggi di posta elettronica tramite Exchange.</span><span class="sxs-lookup"><span data-stu-id="26453-173">Applications that route emails through Exchange.</span></span> 
-    
-  - <span data-ttu-id="26453-174">Applicazioni che utilizzano le cassette postali di Exchange.</span><span class="sxs-lookup"><span data-stu-id="26453-174">Applications that use Exchange mailboxes.</span></span> 
-    
-  - <span data-ttu-id="26453-175">Applicazioni che necessitano di componenti personalizzati o di terze parte da installare nei server di Exchange.</span><span class="sxs-lookup"><span data-stu-id="26453-175">Applications that require third-party or custom components to be installed on Exchange servers.</span></span>
-    
-### <a name="mailbox-migration-planning-and-grouping"></a><span data-ttu-id="26453-176">Pianificazione della migrazione e raggruppamento della cassetta postale</span><span class="sxs-lookup"><span data-stu-id="26453-176">Mailbox migration planning and grouping</span></span>
+### <a name="mailbox-migration-planning-and-grouping"></a><span data-ttu-id="d47ce-176">Pianificazione della migrazione e raggruppamento della cassetta postale</span><span class="sxs-lookup"><span data-stu-id="d47ce-176">Mailbox migration planning and grouping</span></span>
 
-- <span data-ttu-id="26453-177">Fornire assistenza in merito alla creazione di un piano di migrazione:</span><span class="sxs-lookup"><span data-stu-id="26453-177">Provide guidance in creating a migration plan, including:</span></span>
+- <span data-ttu-id="d47ce-177">Fornire assistenza in merito alla creazione di un piano di migrazione:</span><span class="sxs-lookup"><span data-stu-id="d47ce-177">Provide guidance in creating a migration plan, including:</span></span>  
+  - <span data-ttu-id="d47ce-178">Raggruppamento di utenti e risorse.</span><span class="sxs-lookup"><span data-stu-id="d47ce-178">Grouping users and resources in batches.</span></span>
+  - <span data-ttu-id="d47ce-179">Coordinamento della distribuzione relativa ai pacchetti software necessari per i batch di migrazione.</span><span class="sxs-lookup"><span data-stu-id="d47ce-179">Coordinating the deployment of required software packages with migration batches.</span></span>   
+  - <span data-ttu-id="d47ce-180">Istruzioni su come creare un piano di comunicazione per gli utenti finali.</span><span class="sxs-lookup"><span data-stu-id="d47ce-180">Guidance to create a communication plan to end users.</span></span> 
+  - <span data-ttu-id="d47ce-181">Coordinamento relativo alla dimensione dei batch di migrazione, alle percentuali di errore e all'assistenza del supporto tecnico prevista.</span><span class="sxs-lookup"><span data-stu-id="d47ce-181">Coordination of size of migration batches, error rates, and expected helpdesk assistance.</span></span> 
+- <span data-ttu-id="d47ce-182">Fornire assistenza in merito al raggruppamento delle cassette postali degli utenti e delle risorse in base alla tipologia, alla funzione aziendale e all'accesso delegato, attenendosi alle informazioni fornite dal cliente.</span><span class="sxs-lookup"><span data-stu-id="d47ce-182">Provide guidance in grouping user and resource mailboxes in batches by type, business function, and delegate access based on relevant information given by the customer.</span></span>
     
-  - <span data-ttu-id="26453-178">Raggruppamento di utenti e risorse.</span><span class="sxs-lookup"><span data-stu-id="26453-178">Grouping users and resources in batches.</span></span>
-    
-  - <span data-ttu-id="26453-179">Coordinamento della distribuzione relativa ai pacchetti software necessari per i batch di migrazione.</span><span class="sxs-lookup"><span data-stu-id="26453-179">Coordinating the deployment of required software packages with migration batches.</span></span> 
-    
-  - <span data-ttu-id="26453-180">Istruzioni su come creare un piano di comunicazione per gli utenti finali.</span><span class="sxs-lookup"><span data-stu-id="26453-180">Guidance to create a communication plan to end users.</span></span>
-    
-  - <span data-ttu-id="26453-181">Coordinamento relativo alla dimensione dei batch di migrazione, alle percentuali di errore e all'assistenza del supporto tecnico prevista.</span><span class="sxs-lookup"><span data-stu-id="26453-181">Coordination of size of migration batches, error rates, and expected helpdesk assistance.</span></span> 
-    
-- <span data-ttu-id="26453-182">Fornire assistenza in merito al raggruppamento delle cassette postali degli utenti e delle risorse in base alla tipologia, alla funzione aziendale e all'accesso delegato, attenendosi alle informazioni fornite dal cliente.</span><span class="sxs-lookup"><span data-stu-id="26453-182">Provide guidance in grouping user and resource mailboxes in batches by type, business function, and delegate access based on relevant information given by the customer.</span></span>
-    
-## <a name="skype-for-business-online"></a><span data-ttu-id="26453-183">Skype for Business online</span><span class="sxs-lookup"><span data-stu-id="26453-183">Skype for Business Online</span></span>
+## <a name="skype-for-business-online"></a><span data-ttu-id="d47ce-183">Skype for Business online</span><span class="sxs-lookup"><span data-stu-id="d47ce-183">Skype for Business Online</span></span>
 
-- <span data-ttu-id="26453-184">Fornire indicazioni sulla migrazione degli utenti raggruppati in una distribuzione ibrida di Skype for Business (mantenendo gli elenchi dei contatti degli utenti).</span><span class="sxs-lookup"><span data-stu-id="26453-184">Provide guidance on migrating users in batches in a Skype for Business hybrid deployment (retaining users' contact lists).</span></span>
+- <span data-ttu-id="d47ce-184">Fornire indicazioni sulla migrazione degli utenti raggruppati in una distribuzione ibrida di Skype for Business (mantenendo gli elenchi dei contatti degli utenti).</span><span class="sxs-lookup"><span data-stu-id="d47ce-184">Provide guidance on migrating users in batches in a Skype for Business hybrid deployment (retaining users' contact lists).</span></span>
     
-## <a name="office-365-proplus"></a><span data-ttu-id="26453-185">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="26453-185">Office 365 ProPlus</span></span>
+## <a name="office-365-proplus"></a><span data-ttu-id="d47ce-185">Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="d47ce-185">Office 365 ProPlus</span></span>
 
-- <span data-ttu-id="26453-186">Fornire indicazioni e assistenza per:</span><span class="sxs-lookup"><span data-stu-id="26453-186">Provide guidance and assistance for:</span></span>
-    
-  - <span data-ttu-id="26453-187">Valutazione e pianificazione in linea con le procedure consigliate di Microsoft per la distribuzione iniziale e per la gestione degli aggiornamenti.</span><span class="sxs-lookup"><span data-stu-id="26453-187">Assessment and planning aligned with Microsoft's best practices for initial deployment and management of updates.</span></span>
-    
-  -  <span data-ttu-id="26453-188">Implementare e configurare la telemetria di Office.</span><span class="sxs-lookup"><span data-stu-id="26453-188">Deploying and configuring Office Telemetry.</span></span> 
-    
-  - <span data-ttu-id="26453-189">Attivare la registrazione della telemetria per i client di Office 2013 e versioni successive usando i Criteri di gruppo.</span><span class="sxs-lookup"><span data-stu-id="26453-189">Enabling telemetry logging for Office 2013 onward clients using Group Policy.</span></span>
-    
-  - <span data-ttu-id="26453-190">Distribuire agenti di telemetria di Office per i client di Office (Office 2003 Office 2007 e Office 2010).</span><span class="sxs-lookup"><span data-stu-id="26453-190">Deploying Office Telemetry agents for previous Office clients (Office 2003, Office 2007, and Office 2010).</span></span>
-    
-  - <span data-ttu-id="26453-191">Implementare il processore di telemetria.</span><span class="sxs-lookup"><span data-stu-id="26453-191">Deploying the telemetry processor.</span></span> 
-    
+- <span data-ttu-id="d47ce-186">Fornire indicazioni e assistenza per:</span><span class="sxs-lookup"><span data-stu-id="d47ce-186">Provide guidance and assistance for:</span></span>  
+  - <span data-ttu-id="d47ce-187">Valutazione e pianificazione in linea con le procedure consigliate di Microsoft per la distribuzione iniziale e per la gestione degli aggiornamenti.</span><span class="sxs-lookup"><span data-stu-id="d47ce-187">Assessment and planning aligned with Microsoft's best practices for initial deployment and management of updates.</span></span>
+  - <span data-ttu-id="d47ce-188">Implementare e configurare la telemetria di Office.</span><span class="sxs-lookup"><span data-stu-id="d47ce-188">Deploying and configuring Office Telemetry.</span></span> 
+  - <span data-ttu-id="d47ce-189">Attivare la registrazione della telemetria per i client di Office 2013 e versioni successive usando i Criteri di gruppo.</span><span class="sxs-lookup"><span data-stu-id="d47ce-189">Enabling telemetry logging for Office 2013 onward clients using Group Policy.</span></span> 
+  - <span data-ttu-id="d47ce-190">Distribuire agenti di telemetria di Office per i client di Office (Office 2003 Office 2007 e Office 2010).</span><span class="sxs-lookup"><span data-stu-id="d47ce-190">Deploying Office Telemetry agents for previous Office clients (Office 2003, Office 2007, and Office 2010).</span></span> 
+  - <span data-ttu-id="d47ce-191">Implementare il processore di telemetria.</span><span class="sxs-lookup"><span data-stu-id="d47ce-191">Deploying the telemetry processor.</span></span> 
     > [!NOTE]
-    > <span data-ttu-id="26453-192">Questa operazione necessita di un percorso di condivisione nel quale memorizzare i dati della telemetria, nonché di un server con SQL Server 2005 e versioni successive al quale inviare i dati elaborati.</span><span class="sxs-lookup"><span data-stu-id="26453-192">This requires a file share location to store telemetry data and a server running SQL Server 2005 onward to submit processed data to.</span></span> 
+    > <span data-ttu-id="d47ce-192">Questa operazione necessita di un percorso di condivisione nel quale memorizzare i dati della telemetria, nonché di un server con SQL Server 2005 e versioni successive al quale inviare i dati elaborati.</span><span class="sxs-lookup"><span data-stu-id="d47ce-192">This requires a file share location to store telemetry data and a server running SQL Server 2005 onward to submit processed data to.</span></span> 
   
-## <a name="your-responsibilities"></a><span data-ttu-id="26453-193">Responsabilità dell'utente</span><span class="sxs-lookup"><span data-stu-id="26453-193">Your responsibilities</span></span>
+## <a name="your-responsibilities"></a><span data-ttu-id="d47ce-193">Responsabilità dell'utente</span><span class="sxs-lookup"><span data-stu-id="d47ce-193">Your responsibilities</span></span>
 
-<span data-ttu-id="26453-p107">L'utente ha le seguenti responsabilità durante la procedura di onboarding. Si tratta di responsabilità che vanno ad aggiungersi a quelle definite nella sezione [Responsabilità dell'utente](your-responsibilities.md).</span><span class="sxs-lookup"><span data-stu-id="26453-p107">You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](your-responsibilities.md) section.</span></span> 
+<span data-ttu-id="d47ce-p107">L'utente ha le seguenti responsabilità durante la procedura di onboarding. Si tratta di responsabilità che vanno ad aggiungersi a quelle definite nella sezione [Responsabilità dell'utente](your-responsibilities.md).</span><span class="sxs-lookup"><span data-stu-id="d47ce-p107">You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](your-responsibilities.md) section.</span></span> 
   
-- <span data-ttu-id="26453-196">Assegnare e gestire le risorse in base alla pianificazione del progetto.</span><span class="sxs-lookup"><span data-stu-id="26453-196">Assign and manage resources according to the project plan.</span></span>
-    
-- <span data-ttu-id="26453-197">Intervenire tempestivamente per mitigare i rischi e risolvere i problemi sollevati dai clienti, dai project manager del partner e dal responsabile FastTrack.</span><span class="sxs-lookup"><span data-stu-id="26453-197">Take timely action to mitigate risks and resolve issues raised by the customer, partner project managers, and the FastTrack Manager.</span></span>
-    
-- <span data-ttu-id="26453-198">Esaminare i report di stato ed agire in base a quanto riportato.</span><span class="sxs-lookup"><span data-stu-id="26453-198">Review status reports and act accordingly.</span></span>
-    
-- <span data-ttu-id="26453-199">Indicare uno sponsor operativo o un lead con l'autorità decisionale necessaria per presiedere le riunioni sull'andamento dei progetti.</span><span class="sxs-lookup"><span data-stu-id="26453-199">Assign an operational sponsor or lead with a decision-making authority to run the steering committee.</span></span>
-    
-- <span data-ttu-id="26453-200">Indicare uno sponsor esecutivo che possa collaborare con lo sponsor esecutivo Microsoft.</span><span class="sxs-lookup"><span data-stu-id="26453-200">Assign an executive sponsor to work with the Microsoft executive sponsor.</span></span>
-    
-- <span data-ttu-id="26453-201">Pianificare una riunione mensile sull'andamento del progetto.</span><span class="sxs-lookup"><span data-stu-id="26453-201">Establish a monthly steering committee meeting.</span></span>
+- <span data-ttu-id="d47ce-196">Assegnare e gestire le risorse in base alla pianificazione del progetto.</span><span class="sxs-lookup"><span data-stu-id="d47ce-196">Assign and manage resources according to the project plan.</span></span>  
+- <span data-ttu-id="d47ce-197">Intervenire tempestivamente per mitigare i rischi e risolvere i problemi sollevati dai clienti, dai project manager del partner e dal responsabile FastTrack.</span><span class="sxs-lookup"><span data-stu-id="d47ce-197">Take timely action to mitigate risks and resolve issues raised by the customer, partner project managers, and the FastTrack Manager.</span></span>   
+- <span data-ttu-id="d47ce-198">Esaminare i report di stato ed agire in base a quanto riportato.</span><span class="sxs-lookup"><span data-stu-id="d47ce-198">Review status reports and act accordingly.</span></span>   
+- <span data-ttu-id="d47ce-199">Indicare uno sponsor operativo o un lead con l'autorità decisionale necessaria per presiedere le riunioni sull'andamento dei progetti.</span><span class="sxs-lookup"><span data-stu-id="d47ce-199">Assign an operational sponsor or lead with a decision-making authority to run the steering committee.</span></span>  
+- <span data-ttu-id="d47ce-200">Indicare uno sponsor esecutivo che possa collaborare con lo sponsor esecutivo Microsoft.</span><span class="sxs-lookup"><span data-stu-id="d47ce-200">Assign an executive sponsor to work with the Microsoft executive sponsor.</span></span>  
+- <span data-ttu-id="d47ce-201">Pianificare una riunione mensile sull'andamento del progetto.</span><span class="sxs-lookup"><span data-stu-id="d47ce-201">Establish a monthly steering committee meeting.</span></span>
     
 
   
