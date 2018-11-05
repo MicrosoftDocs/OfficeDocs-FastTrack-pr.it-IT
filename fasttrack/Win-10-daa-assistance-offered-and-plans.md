@@ -3,7 +3,7 @@ title: Informazioni generali su FastTrack Center Benefit
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Al momento dell'acquisto di uno dei servizi di Windows 10 o Microsoft 365, gli esperti FastTrack forniscono indicazioni e correzioni per la distribuzione di Windows 10 e Office 365 ProPlus e consentono di mantenersi aggiornati senza costi aggiuntivi (con un abbonamento idoneo).
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353673"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895619"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>Assistenza offerta e piani idonei   
 
-Al momento dell'acquisto di uno dei servizi di Windows 10 o Microsoft 365 (come descritto di seguito nella sezione **Piani idonei**), gli esperti FastTrack forniscono indicazioni e correzioni per la distribuzione di Windows 10 e Office 365 ProPlus e consentono di mantenersi aggiornati senza costi aggiuntivi (con un abbonamento idoneo).
+Al momento dell'acquisto di uno dei servizi di Windows 10 o Microsoft 365 (come descritto nella sezione **Piani idonei** di seguito), gli esperti FastTrack forniscono indicazioni e correzioni in caso di problemi relativi alla compatibilità dell'app durante la distribuzione di Windows 10 e Office 365 ProPlus e consentono di mantenersi aggiornati senza costi aggiuntivi (con un abbonamento idoneo).
 
 Per assistenza, completare la [richiesta di servizio Desktop App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 

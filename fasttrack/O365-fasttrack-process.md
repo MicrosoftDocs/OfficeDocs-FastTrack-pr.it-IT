@@ -3,7 +3,7 @@ title: Il processo FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: 'Il processo FastTrack fornisce assistenza onboarding e servizi di adozione da parte dell’utente. '
-ms.openlocfilehash: 3a41e1a41bae421472af6c5d8645808410a0664f
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: d5f2ec3442dabda1cff09577a65992942e09611e
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353593"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895667"
 ---
 # <a name="the-fasttrack-process"></a>Il processo FastTrack
 
@@ -38,16 +38,29 @@ Nel diagramma seguente viene illustrata la procedura relativa all'onboarding.
   
 ![Sequenza temporale per l'uso del vantaggio dell'onboarding](media/O365-Onboarding-Timeline.png)
   
-È possibile ottenere assistenza tramite l'interfaccia di amministrazione di Office 365 oppure il [sito FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698). Per ottenere assistenza tramite interfaccia di amministrazione di Office 365, è necessario chiudere l'interfaccia di amministrazione e fare clic sul widget **Ti serve assistenza?**. Per ottenere assistenza tramite il [sito FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698), accedere, fare clic su **Servizi**, quindi completare il modulo **Richiesta di assistenza per Office 365**. 
-    
+È possibile ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) o il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+
+Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), l'amministratore accede all'interfaccia di amministrazione e quindi fa clic sul widget **Serve aiuto?**. 
+
+Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selezionare **FastTrack**.
+3.  Selezionare **Servizi**.
+4.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
 > [!NOTE]
 >  Se si dispone di un partner elencato nel tenant di Office 365, questa opzione non è visualizzata. Per assistenza, consultare il partner. 
   
  È inoltre possibile richiedere assistenza per FastTrack Center dal [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
     
- Una volta contattata l’assistenza per l'onboarding, verrà impostata la pianificazione delle riunioni in linea.
+ Una volta contattata l'assistenza per l'onboarding, verrà impostata la pianificazione delle riunioni in linea.
     
-I partner possono anche ricevere assistenza tramite il [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. Per farlo, il partner accede al sito, seleziona il record del cliente, fa clic su **Servizi** e completa il modulo **Richiesta di assistenza per Office 365**. 
+I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
+1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selezionare **FastTrack**.
+3.  Selezionare **Clienti personali**.
+4.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+5.  Selezionare **Servizi**.
+6.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
 
 Nella tabella seguente sono elencati i ruoli e le responsabilità per il processo.
     

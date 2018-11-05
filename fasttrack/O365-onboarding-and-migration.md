@@ -3,20 +3,20 @@ title: Fasi del processo di onboarding e migrazione
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
-description: Il processo di onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che, come si può vedere nella figura seguente, possono essere seguite da una fase facoltativa di migrazione dei dati.
-ms.openlocfilehash: 082e8c7f6e1be83cfb4a980b1b1632d0c3f12724
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+description: L'onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che possono essere seguite da una fase di migrazione dei dati facoltativa.
+ms.openlocfilehash: b98b8fe8e2f6542edc04923d72ff7b0dc38ef3fb
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353783"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895751"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fasi del processo di onboarding e migrazione
 
@@ -33,14 +33,27 @@ Per le attività dettagliate di ogni fase, vedere [Responsabilità di FastTrack]
 
 Dopo aver acquistato i tipi e il numero appropriato di licenze, attenersi alle istruzioni nell'e-mail di conferma dell'acquisto per associare le licenze al tenant esistente o nuovo. 
   
-È possibile ottenere assistenza tramite l'interfaccia di amministrazione di Office 365 oppure il [sito FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698). Per ottenere assistenza tramite interfaccia di amministrazione di Office 365, è necessario chiudere l'interfaccia di amministrazione e fare clic sul widget **Ti serve assistenza?**. Per ottenere assistenza tramite il [sito FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698), accedere, fare clic su **Servizi**, quindi completare il modulo **Richiesta di assistenza per Office 365**. 
-    
+È possibile ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) o il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+
+Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), l'amministratore accede all'interfaccia di amministrazione e quindi fa clic sul widget **Serve aiuto?**. 
+
+Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selezionare **FastTrack**.
+3.  Selezionare **Servizi**.
+4.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
 > [!NOTE]
 >  Se si dispone di un partner elencato nel tenant di Office 365, questa opzione non è visualizzata. Per assistenza, consultare il partner. 
   
-I partner possono anche ricevere assistenza tramite il [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. Per farlo, il partner accede al sito, seleziona il record del cliente, fa clic su **Servizi** e completa il modulo **Richiesta di assistenza per Office 365**. 
+I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
+1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selezionare **FastTrack**.
+3.  Selezionare **Clienti personali**.
+4.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+5.  Selezionare **Servizi**.
+6.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
 
-È inoltre possibile richiedere assistenza per FastTrack Center dal [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
+È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
     
 Durante questa fase, viene discusso il processo di onboarding, vengono verificati i dati e viene organizzata una riunione di avvio progetto. Ciò include una collaborazione con l'utente per comprendere in che modo intende utilizzare il servizio e per conoscere i piani e gli obiettivi dell'organizzazione relativi alla gestione del servizio.
   
@@ -94,6 +107,7 @@ Per Exchange Online, l'utente viene guidato nell'utilizzo della posta elettronic
 - Impostare DNS, incluso il servizio obbligatorio di Autodiscover, SPF (Sender Policy Framework) e i record MX, se necessario. 
 - L'impostazione del flusso di posta elettronica tra l'ambiente di messaggistica di origine e Exchange Online (in base alle esigenze).
 - Eseguire la migrazione della posta dall'ambiente di messaggistica di origine a Office 365.
+- Configurazione di client delle cassette postali (Outlook per Windows, Outlook sul web e Outlook per iOS e Android).
     > [!NOTE]
     > Per ulteriori informazioni sulla migrazione della posta e dei dati, vedere [Migrazione dei dati](O365-data-migration.md). 
   
@@ -162,8 +176,8 @@ Per Project Online, viene fornito materiale sussidiario per:
 
 Per Project Online Professional e Project Online Premium, viene fornito materiale sussidiario per:
 - Risolvere i problemi di implementazione.
-- Assegnazione dei contratti di licenza con l'utente finale utilizzando interfaccia di amministrazione di Office 365 e Windows PowerShell.  
-- Installare Client desktop di Project Online dal portale Office 365 tramite la tecnologia A portata di clic.
+- Assegnare i contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.  
+- Installare Client desktop di Project Online dal portale di Office 365 tramite la tecnologia A portata di clic.
 - Configurare le impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office.  
 - Configurazione di un solo server di distribuzione nel sito per Client desktop di Project Online, includendo una guida per la creazione del file configuration.xml da utilizzare con lo strumento di distribuzione di Office.  
 - Connettere Client desktop di Project Online a Project Online Professional o Project Online Premium.
@@ -178,8 +192,8 @@ Per Yammer, viene fornito materiale sussidiario per l'attivazione del servizio Y
 
 Per Office 365 ProPlus, viene fornito materiale sussidiario per:
 - Risolvere i problemi di implementazione.   
-- Assegnazione dei contratti di licenza con l'utente finale utilizzando interfaccia di amministrazione di Office 365 e Windows PowerShell. 
-- Installazione di Office 365 ProPlus dal portale Office 365 tramite la tecnologia A portata di clic.   
+- Assegnare i contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell. 
+- Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.   
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
 - Configurare le impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office.   
 - Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da utilizzare con lo strumento di distribuzione di Office.  
@@ -197,6 +211,9 @@ Per Microsoft StaffHub, viene fornito materiale sussidiario per:
     
 ![Procedura di onboarding di Microsoft StaffHub](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
+## <a name="outlook-for-ios-and-android"></a>Outlook per iOS e Android
 
-  
+Per Outlook per iOS e Android, sono disponibili indicazioni su:
+- Download di Outlook per iOS e Android tramite l'Apple App Store e Google Play.
+- Configurazione degli account e accesso alla cassetta postale di Exchange Online.
 

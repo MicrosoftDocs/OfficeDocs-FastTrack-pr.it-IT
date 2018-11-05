@@ -3,30 +3,46 @@ title: Piani e servizi idonei
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
-description: Quando si acquista uno dei servizi di Office 365 (come descritto nella sezione Servizi idonei seguente), gli esperti di FastTrack offrono supporto durante la procedura di onboarding su Office 365 e iniziano a usarli.
-ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+description: Quando si acquista uno dei servizi di Office 365, gli esperti di FastTrack offrono assistenza durante la procedura di onboarding su Office 365 e iniziano a usarlo.
+ms.openlocfilehash: b363cd679a86896f24597ad713749bf762877691
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565560"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895583"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
 Quando si acquista uno dei servizi di Office 365 (come descritto nella sezione **Servizi idonei** seguente), gli esperti di FastTrack offrono supporto durante la procedura di onboarding su Office 365 e iniziano a usarli. 
   
-- È possibile ottenere assistenza tramite l'interfaccia di amministrazione di Office 365 oppure il [sito FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698). Per ottenere assistenza tramite interfaccia di amministrazione di Office 365, è necessario chiudere l'interfaccia di amministrazione e fare clic sul widget **Ti serve assistenza?**. Per ottenere assistenza tramite il [sito FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698), accedere, fare clic su **Servizi**, quindi completare il modulo **Richiesta di assistenza per Office 365**.   
+È possibile ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) o il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+
+Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), l'amministratore accede all'interfaccia di amministrazione e quindi fa clic sul widget **Serve aiuto?**. 
+
+Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selezionare **FastTrack**.
+3.  Selezionare **Servizi**.
+4.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
     > [!NOTE]
     >  Se si dispone di un partner elencato nel tenant di Office 365, questa opzione non è visualizzata. Per assistenza, consultare il partner. 
-- I partner possono anche ricevere assistenza tramite il [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. Per farlo, il partner accede al sito, seleziona il record del cliente, fa clic su **Servizi** e completa il modulo **Richiesta di assistenza per Office 365**. 
-- È anche possibile richiedere assistenza FastTrack Center dal [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
+
+I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
+1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selezionare **FastTrack**.
+3.  Selezionare **Clienti personali**.
+4.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+5.  Selezionare **Servizi**.
+6.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
+
+È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
 > [!NOTE]
 > L'ambiente locale deve superare i controlli FastTrack Center prima che gli esperti di FastTrack possano offrire assistenza. 
   
@@ -47,7 +63,7 @@ FastTrack Center fornisce assistenza per i seguenti [servizi di Office 365](http
     
 ## <a name="eligible-plans"></a>Piani idonei
 
-È necessario acquistare almeno 150 licenze riportate nell'elenco di piani idonei seguente per ricevere i servizi di FastTrack:
+È necessario acquistare *almeno* 150 licenze riportate nell'elenco di piani idonei seguente per ricevere i servizi di FastTrack:
   
  **Office 365**
   
