@@ -11,14 +11,22 @@
 ### [Appendice B - Ulteriore vantaggio di FastTrack Center](O365-fasttrack-additional-benefits.md)
 ### [Appendice C - Contratto di società in affari HIPAA di FastTrack Center](O365-hipaa-business-associate-agreement.md)
 ### [Appendice D - Informazioni generali su FastTrack Center Benefit per Office 365 US Government](US-Gov-appendix-overview.md)
-# [FastTrack Center Benefit per Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
-## [Piani e servizi idonei di FastTrack Center Benefit](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-## [Processo FastTrack Center Benefit per Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-### [Informazioni generali su FastTrack Center Benefit](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
-### [Aspettative sull'ambiente di origine](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
-### [Fasi di onboarding](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
-### [Responsabilità di FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
-### [Responsabilità dell'utente](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+# 
+  [FastTrack Center Benefit per Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
+## 
+  [Piani e servizi idonei di FastTrack Center Benefit](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
+## 
+  [Processo FastTrack Center Benefit per Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
+### 
+  [Informazioni generali su FastTrack Center Benefit](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
+### 
+  [Aspettative sull'ambiente di origine](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
+### 
+  [Fasi di onboarding](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
+### 
+  [Responsabilità di FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+### 
+  [Responsabilità dell'utente](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
 # [FastTrack Center Benefit per Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
 ## [Desktop App Assure](Win-10-desktop-app-assure.md)
 ### [Assistenza offerta e piani idonei](Win-10-daa-assistance-offered-and-plans.md)
