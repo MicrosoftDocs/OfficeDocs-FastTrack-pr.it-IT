@@ -3,7 +3,7 @@ title: Onboarding e la migrazione fasi per Office 365 governo degli Stati Uniti
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: 'Onboarding di Office 365 per Office 365 US enti pubblici con quattro fasi principali: avvio, valutazione, Remediate e abilitare. È possibile seguire queste fasi con una fase di migrazione dati facoltativi, come illustrato nella figura riportata di seguito.'
-ms.openlocfilehash: e3e71d0b6fbb3b9db20f2d43aaf1f88d327dfe14
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: cd98e88d8b602c67eb3a449145a3e29399595801
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021718"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895607"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding e la migrazione fasi per Office 365 governo degli Stati Uniti
 
@@ -30,11 +30,27 @@ Per informazioni dettagliate sulla attività per ogni fase, vedere [Responsabili
 
 Dopo aver acquistato i tipi e il numero appropriato di licenze, attenersi alle istruzioni nell'e-mail di conferma dell'acquisto per associare le licenze al tenant esistente o nuovo. 
   
-- È possibile ottenere assistenza tramite l'interfaccia di amministrazione di Office 365 oppure il [sito FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698). Per ottenere assistenza tramite interfaccia di amministrazione di Office 365, è necessario chiudere l'interfaccia di amministrazione e fare clic sul widget **Ti serve assistenza?**. Per ottenere assistenza tramite il [sito FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698), accedere, fare clic su **Servizi**, quindi completare il modulo **Richiesta di assistenza per Office 365**. 
+È possibile ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) o il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+ 
+Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), l'amministratore accede all'interfaccia di amministrazione e quindi fa clic sul widget **Serve aiuto?**. 
+
+Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selezionare **FastTrack**.
+3.  Selezionare **Servizi**.
+4.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
     > [!NOTE]
     >  Se si dispone di un partner elencato nel tenant di Office 365, questa opzione non è visualizzata. Per assistenza, consultare il partner. 
-- I partner possono anche ricevere assistenza tramite il [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. Per farlo, il partner accede al sito, seleziona il record del cliente, fa clic su **Servizi** e completa il modulo **Richiesta di assistenza per Office 365**.    
-- È inoltre possibile richiedere assistenza per FastTrack Center dal [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
+
+I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
+1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selezionare **FastTrack**.
+3.  Selezionare **Clienti personali**.
+4.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+5.  Selezionare **Servizi**.
+6.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.   
+
+È inoltre possibile richiedere assistenza per FastTrack Center dal [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
     
 Durante questa fase, verrà discusso il processo di onboarding, saranno verificati i dati e verrà impostata la riunione iniziale.
   
@@ -92,7 +108,7 @@ Per Exchange Online, l'utente viene guidato nell'utilizzo della posta elettronic
 - L'impostazione del flusso di posta elettronica tra l'ambiente di messaggistica di origine e Exchange Online (in base alle esigenze).   
 - Eseguire la migrazione della posta dall'ambiente di messaggistica di origine a Office 365.   
     > [!NOTE]
-    > Per ulteriori informazioni sulla migrazione della posta e dei dati, vedere [Migrazione dei dati](data-migration.md). 
+    > Per ulteriori informazioni sulla migrazione della posta e dei dati, vedere [Migrazione dei dati](O365-data-migration.md). 
   
 ![Passaggi onboarding di Exchange durante la fase di abilitazione](media/O365-Onboarding-Enable-Exchange.png)
   
@@ -168,8 +184,8 @@ Per Yammer, viene fornito materiale sussidiario per l'attivazione del servizio Y
 
 Per Office 365 ProPlus, viene fornito materiale sussidiario per: 
 - Risolvere i problemi di implementazione.    
-- Assegnazione dei contratti di licenza con l'utente finale utilizzando interfaccia di amministrazione di Office 365 e Windows PowerShell.    
-- Installazione di Office 365 ProPlus dal portale Office 365 tramite la tecnologia A portata di clic.    
+- Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.    
+- Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.    
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
 - Configurare le impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office.    
 - Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da utilizzare con lo strumento di distribuzione di Office.    
