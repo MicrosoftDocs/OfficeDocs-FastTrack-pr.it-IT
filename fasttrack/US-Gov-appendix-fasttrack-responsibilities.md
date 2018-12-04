@@ -3,7 +3,7 @@ title: Responsabilità FastTrack per Office 365 governo degli Stati Uniti
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895547"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133122"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità FastTrack per Office 365 governo degli Stati Uniti
 
@@ -199,9 +199,9 @@ Fornire una guida sulla conversione della rete Yammer Basic singola in una sola 
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
 Fornire indicazioni su:
-- Risolvere i problemi di implementazione.   
-- Assegnazione di licenze dell'utente finale utilizzando [l'interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.  
-- Installazione di Office 365 ProPlus dal portale Office 365 tramite la tecnologia A portata di clic.   
+- Risoluzione dei problemi di implementazione.   
+- Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.  
+- Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.   
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
 - Configurazione delle impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office 2016 oppure i modelli dei criteri di gruppo.   
 - Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da utilizzare con lo strumento di distribuzione di Office.   

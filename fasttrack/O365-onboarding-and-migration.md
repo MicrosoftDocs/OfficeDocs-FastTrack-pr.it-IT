@@ -3,7 +3,7 @@ title: Fasi del processo di onboarding e migrazione
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: L'onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che possono essere seguite da una fase di migrazione dei dati facoltativa.
-ms.openlocfilehash: b98b8fe8e2f6542edc04923d72ff7b0dc38ef3fb
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 4f5f089a05def67e3b7bee9d4ace5cbce636c4c3
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895751"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133182"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fasi del processo di onboarding e migrazione
 
@@ -192,7 +192,7 @@ Per Yammer, viene fornito materiale sussidiario per l'attivazione del servizio Y
 
 Per Office 365 ProPlus, viene fornito materiale sussidiario per:
 - Risolvere i problemi di implementazione.   
-- Assegnare i contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell. 
+- Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell. 
 - Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.   
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
 - Configurare le impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office.   
