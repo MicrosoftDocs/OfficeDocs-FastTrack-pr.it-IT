@@ -3,7 +3,7 @@ title: Migrazione dei dati
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: Gli esperti di FastTrack forniscono linee guida sulla procedura di migrazione di dati a Office 365. Si tratta di un'opportunità offerta a tutti i clienti idonei con servizi Office 365 per Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: cf4093bbaa775c0d4be1bac2fa895aa6b48f83fc
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895775"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133158"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 
@@ -218,7 +218,10 @@ Eseguire le seguenti operazioni durante le migrazioni:
 - Conduce una verifica di controllo qualità della migrazione e il test di accettazione per gli utenti.   
 - Conduce la correzione della migrazione post-migrazione (se applicabile).
 - Pianifica e implementa la gestione delle modifiche e le comunicazioni con gli utenti finali (se applicabile).   
-- Amministra e configura le eventuali modifiche apportate al sistema di origine e ai dispositivi necessari per il completamento delle attività di migrazione e valutazione.
+- Amministrare e configurare le eventuali modifiche apportate al sistema di origine e ai dispositivi necessari per il completamento delle attività di migrazione e valutazione.
+
+> [!NOTE]
+> Microsoft non garantisce la velocità di migrazione dei file.
     
 ## <a name="migration-to-onedrive-for-business"></a>Migrazione a OneDrive for Business
 
@@ -294,5 +297,6 @@ Eseguire le seguenti operazioni durante le migrazioni:
 - Pianifica e implementa la gestione delle modifiche e le comunicazioni con gli utenti finali (se applicabile).  
 - Amministrare e configurare le eventuali modifiche apportate al sistema di origine e ai dispositivi necessari per il completamento delle attività di migrazione e valutazione.
     
-  
+> [!NOTE]
+> Microsoft non garantisce la velocità di migrazione dei file.  
 
