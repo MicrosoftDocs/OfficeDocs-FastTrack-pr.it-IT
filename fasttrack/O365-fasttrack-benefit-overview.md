@@ -3,7 +3,7 @@ title: Informazioni generali su FastTrack Center Benefit
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,14 +11,13 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Con FastTrack Center Benefit per Office 365, è possibile lavorare in remoto con gli esperti di FastTrack per avere il proprio ambiente Office 365 pronto per l'uso e la pianificazione dell'implementazione e dell'utilizzo all'interno dell'organizzazione. Per ulteriori informazioni sull'idoneità, vedere FastTrack Center Benefit per Office 365.
-ms.openlocfilehash: bd793ea54d8ac36522e574a139e3841b1df760b6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e97523c9205344b8f5e6ee77be9db0bc2c950e0a
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133026"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696711"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Informazioni generali su FastTrack Center Benefit
 
@@ -51,7 +50,7 @@ Una volta completato l'onboarding, viene creato il tenant di Office 365. Gli ute
     > [!NOTE]
     > La distribuzione e la configurazione di AD FS e WAP vengono eseguite utilizzando l'[Installazione personalizzata di Azure AD Connect](https://go.microsoft.com/fwlink/?linkid=844794) dall'ambiente locale. 
   
-- Gli utenti con licenza ora possono accedere a [Piani e servizi idonei](O365-eligible-services-and-plans.md).
+- Gli utenti con licenza ora possono accedere a [Piani e servizi idonei](M365-eligible-services-and-plans.md).
     
 
  

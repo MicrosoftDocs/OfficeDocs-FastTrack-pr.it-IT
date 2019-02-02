@@ -3,20 +3,19 @@ title: Onboarding e la migrazione fasi per Office 365 governo degli Stati Uniti
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: 'Onboarding di Office 365 per Office 365 US enti pubblici con quattro fasi principali: avvio, valutazione, Remediate e abilitare. È possibile seguire queste fasi con una fase di migrazione dati facoltativi, come illustrato nella figura riportata di seguito.'
-ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133074"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696771"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding e la migrazione fasi per Office 365 governo degli Stati Uniti
 
@@ -50,7 +49,7 @@ I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https
 5.  Selezionare **Servizi**.
 6.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.   
 
-È inoltre possibile richiedere assistenza per FastTrack Center dal [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
+È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
     
 Durante questa fase, verrà discusso il processo di onboarding, saranno verificati i dati e verrà impostata la riunione iniziale.
   
@@ -118,7 +117,7 @@ Per SharePoint Online e OneDrive for Business, viene fornito materiale sussidiar
 - Configurazione DNS.   
 - Configurazione delle porte del firewall.   
 - Effettuare il provisioning di utenti e licenze.   
-- Configurare le funzionalità di Ambiente ibrido di SharePoint, come la ricerca ibrida, i siti ibridi, la tassonomia ibrida, i tipi di contenuto, la creazione siti in modalità self-service ibrida (solo SharePoint Server 2013), l'icona di avvio delle app estesa, OneDrive for Business ibrido e i siti extranet.
+- Configurazione delle funzionalità ibrida di SharePoint, come ricerca ibrida, i siti ibrida, tassonomia ibrida, tipi di contenuto, ibrida self-service (SharePoint Server 2013 solo), versione estesa di avvio app, ibrida OneDrive for Business e i siti extranet.
     
 Gli esperti di FastTrack forniscono una guida sulla procedura di migrazione di dati a Office 365 mediante una combinazione di strumenti e documentazione nonché eseguendo le attività di configurazione se applicabili e possibili.
   
@@ -187,8 +186,8 @@ Per Office 365 ProPlus, viene fornito materiale sussidiario per:
 - Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.    
 - Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.    
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
-- Configurare le impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office.    
-- Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da utilizzare con lo strumento di distribuzione di Office.    
+- Configurazione delle impostazioni di aggiornamento mediante lo strumento di distribuzione di Office 365.    
+- Impostazione di un server singolo in sede distribuzione per Office 365 ProPlus, compresa l'assistenza con la creazione di un file Configuration. XML da utilizzare con lo strumento di distribuzione di Office 365.    
 - Implementazione utilizzando Microsoft System Center Configuration Manager, che include una guida per la creazione del pacchetto di System Center Configuration Manager.
     
 ![Passaggi onboarding di Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
