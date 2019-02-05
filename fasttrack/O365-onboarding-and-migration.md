@@ -3,20 +3,19 @@ title: Fasi del processo di onboarding e migrazione
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: L'onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che possono essere seguite da una fase di migrazione dei dati facoltativa.
-ms.openlocfilehash: 4f5f089a05def67e3b7bee9d4ace5cbce636c4c3
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: b77b4f02256c4b443c41f4740036e4a88519202d
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133182"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696843"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fasi del processo di onboarding e migrazione
 
@@ -39,19 +38,17 @@ Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 3
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **FastTrack**.
-3.  Selezionare **Servizi**.
-4.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
+2.  Selezionare **Servizi**.
+3.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
 > [!NOTE]
 >  Se si dispone di un partner elencato nel tenant di Office 365, questa opzione non è visualizzata. Per assistenza, consultare il partner. 
   
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **FastTrack**.
-3.  Selezionare **Clienti personali**.
-4.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
-5.  Selezionare **Servizi**.
-6.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
+2.  Selezionare **Clienti personali**.
+3.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+4.  Selezionare **Servizi**.
+5.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
 
 È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
     
@@ -102,10 +99,12 @@ Per Exchange Online, l'utente viene guidato nell'utilizzo della posta elettronic
 - Configurare le funzionalità di Exchange Online Protection (EOP) per tutti i domini abilitati alla posta elettronica convalidati in Office 365.
     > [!NOTE]
     > I record MX (Mail Exchange) devono puntare a Office 365. 
-- Configurare la funzionalità Protezione avanzata dalle minacce per Exchange Online (ATP) se rientra nel servizio di sottoscrizione una volta che i record MX puntano a Office 365. Questa funzionalità è configurata come parte delle impostazioni antimalware di Exchange Online Protection.
-- Configurazione delle porte del firewall.
+- Configurare la funzionalità Exchange Online Advanced Threat Protection (ATP) se rientra nel servizio di sottoscrizione dopo aver impostato i record MX in modo che puntino a Office 365. Questa funzionalità viene configurata nelle impostazioni antimalware di Exchange Online Protection.
+- Configurare la funzionalità di prevenzione della perdita dei dati (DLP) per tutti i domini abilitati per la posta elettronica convalidati in Office 365 se rientra nel servizio in abbonamento. Questa operazione viene eseguita dopo aver impostato i record MX in modo che puntino a Office 365.
+- Configurare Office 365 Message Encryption (OME) per tutti i domini abilitati per la posta elettronica convalidati in Office 365 se rientra nel servizio in abbonamento. Questa operazione viene eseguita dopo aver impostato i record MX in modo che puntino a Office 365.
+- Configurare le porte del firewall.
 - Impostare DNS, incluso il servizio obbligatorio di Autodiscover, SPF (Sender Policy Framework) e i record MX, se necessario. 
-- L'impostazione del flusso di posta elettronica tra l'ambiente di messaggistica di origine e Exchange Online (in base alle esigenze).
+- Configurare il flusso di posta elettronica tra l'ambiente di messaggistica di origine e Exchange Online (in base alle esigenze).
 - Eseguire la migrazione della posta dall'ambiente di messaggistica di origine a Office 365.
 - Configurazione di client delle cassette postali (Outlook per Windows, Outlook sul web e Outlook per iOS e Android).
     > [!NOTE]
@@ -118,8 +117,8 @@ Per Exchange Online, l'utente viene guidato nell'utilizzo della posta elettronic
 Per SharePoint Online e OneDrive for Business, viene fornito materiale sussidiario per:
 - Configurazione DNS.
 - Configurazione delle porte del firewall.
-- Effettuare il provisioning di utenti e licenze.   
-- Configurare le funzionalità di Ambiente ibrido di SharePoint, come la ricerca ibrida, i siti ibridi, la tassonomia ibrida, i tipi di contenuto, la creazione siti in modalità self-service ibrida (solo SharePoint Server 2013), l'icona di avvio delle app estesa, OneDrive for Business ibrido e i siti extranet.
+- Provisioning di utenti e licenze.   
+- Configurazione delle funzionalità dell'ambiente ibrido di SharePoint, come la ricerca ibrida, i siti ibridi, la tassonomia ibrida, i tipi di contenuto, la creazione siti in modalità self-service ibrida (solo SharePoint Server 2013), l'icona di avvio delle app estesa, OneDrive for Business ibrido e i siti extranet.
     
 Gli esperti di FastTrack forniscono una guida sulla procedura di migrazione di dati a Office 365 mediante una combinazione di strumenti e documentazione nonché eseguendo le attività di configurazione se applicabili e possibili.
   
@@ -129,9 +128,22 @@ Gli esperti di FastTrack forniscono una guida sulla procedura di migrazione di d
 
 Per OneDrive for Business, la procedura dipende dal corrente utilizzo o meno di SharePoint e, in caso affermativo, dalla versione utilizzata.  
   
-![Passaggi onboarding di OneDrive durante la fase di abilitazione](media/O365-Onboarding-Enable-ODB.png)
+![Passaggi onboarding di OneDrive durante la fase di attivazione](media/O365-Onboarding-Enable-ODB.png)
   
-## <a name="skype-for-business-online"></a>Skype for Business Online
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+Per Microsoft StaffHub viene fornito materiale sussidiario per:
+- Conferma dei requisiti minimi.  
+- Configurazione delle porte del firewall.   
+- Configurazione DNS. 
+- Conferma dell'abilitazione di Microsoft Teams sul tenant Office 365.  
+- Abilitazione o disabilitazione delle licenze utente.
+    
+![Diagramma di Microsoft Teams in FastTrack (fase di attivazione)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+
+![Funzionalità di Skype condivise con Microsoft Teams](media/Teams-Skype-features.png)
+
+## <a name="skype-for-business-online"></a>Skype for Business online
 
 Per Skype for Business Online, viene fornito materiale sussidiario per:
 - Configurazione delle porte del firewall.
@@ -143,17 +155,6 @@ Per Skype for Business Online, viene fornito materiale sussidiario per:
 ![Passaggi onboarding di Lync durante la fase_1 di abilitazione](media/O365-Onboarding-Enable-Lync.png)
   
 ![Passaggi onboarding di Skype for Business durante la fase_2 di abilitazione](media/SfBOifappborderupdate.png)
-  
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-Per Microsoft StaffHub viene fornito materiale sussidiario per:
-- Conferma dei requisiti minimi.  
-- Configurazione delle porte del firewall.   
-- Configurazione DNS. 
-- Conferma dell'abilitazione di Microsoft Teams sul tenant Office 365.  
-- Abilitazione o disabilitazione delle licenze utente.
-    
-![Diagramma dei team FastTrack Microsoft (fase di attivazione)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -178,8 +179,8 @@ Per Project Online Professional e Project Online Premium, viene fornito material
 - Risolvere i problemi di implementazione.
 - Assegnare i contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.  
 - Installare Client desktop di Project Online dal portale di Office 365 tramite la tecnologia A portata di clic.
-- Configurare le impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office.  
-- Configurazione di un solo server di distribuzione nel sito per Client desktop di Project Online, includendo una guida per la creazione del file configuration.xml da utilizzare con lo strumento di distribuzione di Office.  
+- Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.  
+- Configurare un unico server di distribuzione nel sito per Client desktop di Project Online, includendo una guida per la creazione del file configuration.xml da usare con lo strumento di distribuzione di Office 365.  
 - Connettere Client desktop di Project Online a Project Online Professional o Project Online Premium.
     
 ![Passaggi che si verificano durante la fase di attivazione di Project per Office 365.](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)
@@ -195,9 +196,9 @@ Per Office 365 ProPlus, viene fornito materiale sussidiario per:
 - Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell. 
 - Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.   
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
-- Configurare le impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office.   
-- Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da utilizzare con lo strumento di distribuzione di Office.  
-- Implementazione utilizzando Microsoft System Center Configuration Manager, che include una guida per la creazione del pacchetto di System Center Configuration Manager.
+- Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.   
+- Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da usare con lo strumento di distribuzione di Office 365.  
+- Implementazione con Microsoft System Center Configuration Manager, che include una guida per la creazione del pacchetto di System Center Configuration Manager.
     
 ![Passaggi onboarding di Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
   

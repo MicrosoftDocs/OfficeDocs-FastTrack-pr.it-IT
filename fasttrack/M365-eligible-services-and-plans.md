@@ -3,19 +3,19 @@ title: Piani e servizi idonei
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
-ms.openlocfilehash: 167568338d4d4a9e1132761c821fcaa63868bc0a
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472804"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696807"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
@@ -30,19 +30,17 @@ Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 3
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **FastTrack**.
-3.  Selezionare **Servizi**.
-4.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
+2.  Selezionare **Servizi**.
+3.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
     > [!NOTE]
     >  Se si dispone di un partner elencato nel tenant di Office 365, questa opzione non è visualizzata. Per assistenza, consultare il partner. 
 
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **FastTrack**.
-3.  Selezionare **Clienti personali**.
-4.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
-5.  Selezionare **Servizi**.
-6.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
+2.  Selezionare **Clienti personali**.
+3.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+4.  Selezionare **Servizi**.
+5.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
 
 È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
 
@@ -56,8 +54,8 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
 - Exchange Online
 - SharePoint Online
 - OneDrive for Business
-- Skype for Business online
 - Microsoft Teams
+- Skype for Business online
 - Power BI
 - Project Online
 - Yammer Enterprise 
@@ -71,9 +69,9 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
   
  **Microsoft 365 Enterprise**
 
-- Microsoft 365 E3
-- Microsoft 365 E5
-- Microsoft 365 Business
+- Microsoft 365 E3\*
+- Microsoft 365 E5\*
+- Microsoft 365 Business\*
     
  **Microsoft 365 Education**
 
@@ -134,10 +132,10 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
     
  **Skype for Business online**
   
--  Sistema telefonico 
--  Piano di chiamata 
--  Audioconferenza 
--  Skype for Business online (piano 1)  
+-  Sistema telefonico\*\*\* 
+-  Piano di chiamata\*\*\* 
+-  Audioconferenza\*\*\*
+-  Skype for Business online Piano 1  
 -  Skype for Business online Piano 2
     
  **Yammer**
@@ -146,7 +144,9 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
 
 \*Disponibile soltanto per i servizi cloud idonei con FastTrack e per le funzionalità riportate in questa descrizione dei vantaggi.
 
-\*\*Per ulteriori informazioni sul vantaggio FastTrack per il governo degli Stati Uniti, vedere [Office 365 US Government](https://aka.ms/aboutgovcloud).
+\*\*Per altre informazioni sul vantaggio FastTrack per il governo degli Stati Uniti, vedere [Office 365 US Government](https://aka.ms/aboutgovcloud).
+
+\*\*\*Utilizzabile per utenti con licenza di Skype for Business online e Microsoft Teams.
 
 > [!NOTE]
 > L'idoneità per FastTrack Center Benefit si basa sull'acquisto di licenze a pagamento per i piani idonei indicati in precedenza. 

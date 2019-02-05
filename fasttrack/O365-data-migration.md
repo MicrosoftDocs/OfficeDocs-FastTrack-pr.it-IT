@@ -3,20 +3,19 @@ title: Migrazione dei dati
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: Gli esperti di FastTrack forniscono linee guida sulla procedura di migrazione di dati a Office 365. Si tratta di un'opportunità offerta a tutti i clienti idonei con servizi Office 365 per Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 6c14e9177d4630a0a7ba5c33c9405b660d08cd26
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133158"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696879"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 
@@ -49,20 +48,30 @@ Nella seguente tabella viene descritto quanto previsto per la migrazione nell'am
    
 ## <a name="migration-to-exchange-online"></a>Migrazione a Exchange Online
 
- **Abilitare alla migrazione**
+### <a name="enable-to-migrate"></a>Abilitare alla migrazione
   
 Se si utilizza Microsoft per eseguire la migrazione della posta elettronica, sono disponibili istruzioni per abilitare Exchange Online e l'ambiente di origine per la migrazione. A seconda dell'ambiente di origine, è possibile che vengano eseguiti diversi passaggi di abilitazione. Viene fornita assistenza all'utente mediante una combinazione di strumenti e documentazione, nonché eseguendo le attività di configurazione se applicabili e possibili. In base ai parametri applicabili, è quindi possibile migrare le cassette postali, monitorare i processi e fornire report di stato.
   
 Potrebbe essere necessario fornire a Microsoft autorizzazione e accesso al proprio sistema di posta per eseguire le attività di migrazione.
   
- **Procedura e criteri di migrazione**
+### <a name="migration-policy-and-steps"></a>Procedura e criteri di migrazione
   
-- Le migrazioni vengono pianificate anticipatamente e vengono eseguite in modo standard 24 ore al giorno, 5 giorni a settimana (24 x 5) all'interno della fascia oraria di migrazione predefinita. Una "fascia oraria di migrazione" viene anche denominata "batch di migrazione".    
-- Sono disponibili tre fasce orarie di migrazione per ogni giorno. Durante la settimana, sono disponibili 5 giorni per la migrazione: da lunedì alle 2:00 UTC (Coordinated Universal Time) al venerdì a mezzanotte UTC. Ciò significa che l'ultima migrazione pianificata viene eseguita il venerdì alle 20:00 UTC.
-- Tutte le migrazioni utilizzano strumenti di migrazione basati su cloud.
-- Potrebbe essere necessario fornire a Microsoft autorizzazione e accesso al proprio sistema di posta per eseguire le attività di migrazione.
+> [!NOTE]
+> Il termine batch di migrazione viene usato in riferimento a una fascia oraria di migrazione.
+
+#### <a name="commercial-and-uk-government"></a>Uso commerciale e governo del Regno Unito
+
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, sette (7) giorni a settimana (24x7) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione.
+
+#### <a name="us-governmentdod"></a>Governo degli Stati Uniti/DoD
+
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, cinque (5) giorni a settimana (24x5) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì alle 24 ora UTC al venerdì a mezzanotte ora UTC. Ciò significa che l'ultima migrazione pianificata viene eseguita il venerdì alle 20:00 ora UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland (MCD) Germania
+
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 9 ore al giorno, cinque (5) giorni a settimana (9x5) nelle fasce orarie di migrazione predefinite. È previsto un solo batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì a mezzanotte ora UTC al venerdì alle 21:00 ora UTC.
     
- **Stato finale**
+ ### <a name="end-state"></a>Stato finale
   
 Lo stato finale previsto in seguito a un batch di migrazione include quanto segue:
 - I dati delle cassette postali pianificate e idonee presenti nell'ambiente di origine vengono migrati in Office 365. 
@@ -108,8 +117,7 @@ Eseguire le seguenti operazioni durante le migrazioni:
 - Gestire tutte le comunicazioni con gli utenti finali.  
 - Installare il livello del software client più appropriato come indicato nelle linee guida di Office 365. Per ulteriori informazioni, vedere [Office 365 per le aziende](https://go.microsoft.com/fwlink/?linkid=2005429). 
 - Convalidare la coesistenza del routing di posta SMTP tra l'ambiente di messaggistica di origine e Office 365 Exchange Online, se applicabile.
-- Fornire una pianificazione in un metodo definito e un elenco delle cassette postali specifiche da migrare in ogni fase, con almeno 14 giorni di anticipo. Nel caso delle migrazioni di note, accertarsi di fornire la pianificazione con 21 giorni di anticipo.
-- Aggiungere alla pianificazione le cassette postali nuove o ripianificate, fino al 10% del totale delle cassette postali già pianificate. Tale operazione deve essere eseguita con 3 giorni di anticipo rispetto al batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.  
+- Fornire una pianificazione in un metodo definito e un elenco delle cassette postali specifiche da migrare in ogni fase, con almeno 3 (tre) giorni di anticipo. Nel caso delle migrazioni di note, accertarsi di fornire la pianificazione con 21 giorni di anticipo.
 - Eliminare le cassette postali dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
 - Pianificare un numero medio di cassette postali di destinazione all'interno di un periodo di 24 ore, come descritto nella tabella seguente.
     
@@ -145,30 +153,33 @@ Eseguire le seguenti operazioni durante le migrazioni:
   
 ## <a name="migration-to-sharepoint-online"></a>Migrazione a SharePoint Online
 
- **Abilitare alla migrazione**
+### <a name="enable-to-migrate"></a>Abilitare alla migrazione
   
 Se si utilizza Microsoft per eseguire la migrazione dei dati, sono disponibili istruzioni per abilitare SharePoint Online e l'ambiente di origine per la migrazione. A seconda dell'origine, è possibile che vengano eseguiti diversi passaggi di abilitazione. Viene fornita assistenza all'utente mediante una combinazione di strumenti e documentazione, nonché eseguendo le attività di configurazione se applicabili e possibili.
   
 È necessario fornire a Microsoft l'accesso e le autorizzazioni per eseguire alcune attività.
   
- **Procedura e criteri di migrazione**
+### <a name="migration-policy-and-steps"></a>Procedura e criteri di migrazione
   
-- Le migrazioni vengono assegnate\* per essere completate in base a pianificazioni standard, che a loro volta si basano sull'origine di migrazione riportata nella tabella seguente: 
-    
-|||
-|:-----|:-----|
-|**Origine** <br/> |**Criterio di programmazione** <br/> |
-|**Condivisione file, Box**  <br/> | 24x5 in base a batch di migrazione predefiniti.  <br/>  Tre batch di migrazione per ogni giorni giorno.  <br/>  Durante la settimana, sono disponibili 5 giorni per la migrazione: da lunedì alle 2:00 UTC al venerdì a mezzanotte UTC.  <br/>  L'ultima finestra di migrazione pianificata viene eseguita il venerdì alle 20:00 UTC.  <br/> |
-   
-*La pianificazione si basa sulla dimensione del set di dati presunta e su fattori ambientali. È possibile che alcuni contenuti pianificati non siano in grado di migrare all'interno di una singola finestra di migrazione.
-    
-- Le migrazioni vengono pianificate anticipatamente e vengono eseguite in modo standard su una base 24x5 all'interno di batch di migrazione predefiniti. 
-- Sono disponibili tre fasce orarie di migrazione per ogni giorno. Durante la settimana, sono disponibili 5 giorni per la migrazione: da lunedì alle 2:00 UTC al venerdì a mezzanotte UTC. Ciò significa che l'ultima migrazione pianificata viene eseguita il venerdì alle 20:00 UTC.  
-- Tutte le migrazioni richiedono accesso e autorizzazioni appropriate per l'ambiente di origine.  
+> [!NOTE]
+> Il termine batch di migrazione viene usato in riferimento a una fascia oraria di migrazione.
+
+#### <a name="commercial-and-uk-government"></a>Uso commerciale e governo del Regno Unito
+
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, sette (7) giorni a settimana (24x7) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione.
+
+#### <a name="us-governmentdod"></a>Governo degli Stati Uniti/DoD
+
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, cinque (5) giorni a settimana (24x5) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì alle 24 ora UTC al venerdì a mezzanotte ora UTC. Ciò significa che l'ultima migrazione pianificata viene eseguita il venerdì alle 20:00 ora UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland (MCD) Germania
+
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 9 ore al giorno, cinque (5) giorni a settimana (9x5) nelle fasce orarie di migrazione predefinite. È previsto un solo batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì a mezzanotte ora UTC al venerdì alle 21:00 ora UTC.
+
 - Tutte le migrazioni sono soggette alle quote di SharePoint Online descritte in [SharePoint Online e OneDrive for Business: limiti del software](https://go.microsoft.com/fwlink/?LinkID=616612).   
 - La quantità complessiva dei dati migrati sarà legata al 75% della quota di archiviazione di SharePoint Online complessiva per la quale è abilitato l'utente (compresa l'archiviazione aggiuntiva che potrebbe essere stata acquistata separatamente).
     
- **Stato finale**
+ ### <a name="end-state"></a>Stato finale
   
 Lo stato finale previsto in seguito a un batch di migrazione include quanto segue: 
 - I dati delle origini pianificate e idonee presenti nell'ambiente di origine vengono migrati in SharePoint Online.   
@@ -181,20 +192,22 @@ Lo stato finale atteso al termine di tutte le migrazioni include quanto segue:
 |||||
 |:-----|:-----|:-----|:-----|
 |**Ambiente di origine** <br/> |**Tipo di migrazione** <br/> |**Elementi sottoposti alla migrazione** <br/> |**Elementi esclusi dalla migrazione** <br/> |
-|**Qualsiasi dispositivo di condivisione file che supporta SMB 2.0 e versioni successive**  <br/> |Passaggio singolo  <br/> | Documenti  <br/>   Struttura di file e cartelle  <br/>  Autorizzazioni per file e cartelle a livello di utente\*  <br/>  Autorizzazioni per file e cartelle a livello di gruppo\*  <br/>  File inferiori a 15 GB  <br/>  Metadati cartella e documenti di base:  <br/>  Data creazione  <br/>  Data modifica  <br/>  Creato da  <br/>  Autore ultima modifica  <br/><br/> \**Configurazione della sincronizzazione della directory necessaria. Vengono migrate solo le autorizzazioni NTFS esposte a Esplora file di Windows. Le autorizzazioni gestite direttamente nei dispositivi di condivisione dei file non vengono migrate. Se i dati sono archiviati su un dispositivo SMB 2.0, vengono migrate le autorizzazioni equivalenti a NTFS esposte dal protocollo SMB.* <br/> | Cronologia di proprietà e versioni precedenti  <br/>  Conversione degli URL incorporati nel contenuto  <br/>  Versioni precedenti  <br/>  File di Windows e attributi di cartella (come Di sola lettura e Nascosto)  <br/>  Impostazioni avanzate e autorizzazioni speciali non Windows New Technology File System (NTFS):  <br/>  Autorizzazioni di negazione esplicita (contenuto rimosso dopo la migrazione, contenuto soggetto ad autorizzazioni parallele o autorizzazioni sulla cartella padre)  <br/>  Configurazione di controllo NTFS  <br/>  Metadati di file aggiuntivi forniti dall'Infrastruttura di classificazione file (FCI)  <br/>  Documenti inaccessibili o corrotti  <br/>  Condivisioni nascoste  <br/>  Condivisione (come autorizzazioni concesse a livello di condivisione)  <br/>  File o cartelle che superano [i limiti e le restrizioni di SharePoint Online](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
+|**Qualsiasi dispositivo di condivisione file che supporta SMB 2.0 e versioni successive**  <br/> |Passaggio singolo  <br/> | Documenti  <br/>  Struttura di file e cartelle  <br/>  Autorizzazioni per file e cartelle a livello di utente\*  <br/>  Autorizzazioni per file e cartelle a livello di gruppo\*  <br/>  File inferiori a 15 GB  <br/>  Metadati cartella e documenti di base:  <br/>  Data creazione  <br/>  Data modifica  <br/>  Creato da  <br/>  Autore ultima modifica  <br/><br/> \**Configurazione della sincronizzazione della directory necessaria. Vengono migrate solo le autorizzazioni NTFS esposte a Esplora file di Windows. Le autorizzazioni gestite direttamente nei dispositivi di condivisione dei file non vengono migrate. Se i dati sono archiviati su un dispositivo SMB 2.0, vengono migrate le autorizzazioni equivalenti a NTFS esposte dal protocollo SMB.* <br/> | Cronologia di proprietà e versioni precedenti  <br/>  Conversione degli URL incorporati nel contenuto  <br/>  Versioni precedenti  <br/>  File di Windows e attributi di cartella (come Di sola lettura e Nascosto)  <br/>  Impostazioni avanzate e autorizzazioni speciali non Windows New Technology File System (NTFS):  <br/>  Autorizzazioni di negazione esplicita (contenuto rimosso dopo la migrazione, contenuto soggetto ad autorizzazioni parallele o autorizzazioni sulla cartella padre)  <br/>  Configurazione di controllo NTFS  <br/>  Metadati di file aggiuntivi forniti dall'Infrastruttura di classificazione file (FCI)  <br/>  Documenti inaccessibili o corrotti  <br/>  Condivisioni nascoste  <br/>  Condivisione (come autorizzazioni concesse a livello di condivisione)  <br/>  File o cartelle che superano [i limiti e le restrizioni di SharePoint Online](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
 |**Box (Starter, Business, Enterprise)**  <br/> |Passaggio singolo o multiplo  <br/> | Documenti  <br/>  Struttura di file e cartelle  <br/>  Autorizzazioni per cartelle a livello di utente  <br/>  Autorizzazioni per cartelle a livello di gruppo  <br/>  File inferiori a 15 GB  <br/>  Metadati cartella e documenti di base:  <br/>  Data creazione  <br/>  Data modifica  <br/>  Creato da  <br/>  Autore ultima modifica  <br/>  Contenuto condiviso di proprietà dell'account Box migrato (se condiviso esplicitamente con utenti o gruppi)\*  <br/><br/> \**Utilizzare i report Box per identificare gli account esterni. Indicare agli utenti finali di ricondividere i propri contenuti dopo la migrazione.* <br/> | Cronologia di proprietà, versioni precedenti e commenti <br/>  Autorizzazioni per file a livello di utente  <br/>  Autorizzazioni per file a livello di gruppo  <br/>  Descrizioni di file e cartelle  <br/>  Tag Box e metadati avanzati  <br/>  Attributi di blocco di file  <br/>  Conversione degli URL incorporati nel contenuto  <br/>  Elementi eliminati  <br/>  Documenti inaccessibili o corrotti  <br/>  Utenti bloccati o inattivi  <br/>  Note Box (non funzionali perché migrate senza conversione)  <br/>  App Box, Segnalibri, Preferiti e Flussi di lavoro  <br/>  Contenuto non di proprietà dell'account Box migrato (cartelle condivise)  <br/>  Autorizzazioni e metadati di base di utenti esterni\*  <br/>  File o cartelle che superano [i limiti e le restrizioni di SharePoint Online](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
    
 Gli esperti di FastTrack eseguono le seguenti operazioni durante le migrazioni: 
-- Conduce un workshop dettagliato sulla migrazione illustrando la procedura e il metodo per lo scenario di migrazione selezionato.
-- Fornisce i prerequisiti per gli strumenti di valutazione e migrazione applicabili per lo scenario.   
-- Fornisce i prerequisiti per l'accesso del team di migrazione all'ambiente di origine e di destinazione ai fini della valutazione e della migrazione.   
-- Fornisce appositi strumenti per effettuare valutazioni dell'ambiente di origine/destinazione o istruzioni su come utilizzare le funzioni delle piattaforme di origine native per creare report di valutazione.   
-- Assiste alla distribuzione e all'esecuzione di strumenti di valutazione e migrazione (se applicabile).   
+- Conducono un workshop dettagliato sulla migrazione illustrando la procedura e il metodo per lo scenario di migrazione selezionato.
+- Forniscono i prerequisiti per gli strumenti di valutazione e migrazione applicabili per lo scenario.   
+- Forniscono i prerequisiti per l'accesso del team di migrazione all'ambiente di origine e di destinazione ai fini della valutazione e della migrazione.   
+- Forniscono appositi strumenti per effettuare valutazioni dell'ambiente di origine/destinazione o istruzioni su come utilizzare le funzioni delle piattaforme di origine native per creare report di valutazione.   
+- Forniscono una pianificazione in un metodo definito e un elenco dei dati utente specifici di cui eseguire la migrazione in ogni fase, con almeno sette (7) giorni di anticipo.
+- Eliminano i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
+- Forniscono assistenza durante la distribuzione e l'esecuzione di strumenti di valutazione e migrazione (se applicabile).   
 - Configura l'infrastruttura di migrazione nella preparazione della migrazione dei contenuti (laddove applicabile).    
 - Conduce una migrazione di prova limitata per convalidare l'infrastruttura di migrazione e i prerequisiti necessari.   
 - Effettua il provisioning dei siti di SharePoint Online di destinazione predefiniti come parte della migrazione.    
 - Conduce una migrazione pilota prima della migrazione su vasta scala.   
-- Fornisce indicazioni sulla pianificazione della migrazione per lo scenario selezionato.   
+- Fornisce indicazioni sulla pianificazione della migrazione per lo scenario selezionato. 
 - Conduce migrazioni su vasta scala di contenuti in base alla pianificazione della migrazione fornita dal cliente e convalidata dalle risorse FastTrack.   
 - Fornisce i risultati della migrazione dopo ogni finestra di migrazione.   
 - Partecipa alla valutazione dei problemi relativi alla migrazione su vasta scala e fornisce indicazioni sulle potenziali opzioni di risoluzione.   
@@ -213,7 +226,7 @@ Eseguire le seguenti operazioni durante le migrazioni:
 - Fornire i prerequisiti ed eseguire attività necessarie per supportare valutazione e migrazione.   
 - Installa gli strumenti di valutazione forniti da FastTrack e completa le attività di raccolta dei dati di valutazione (se applicabile).   
 - Installa il software di migrazione fornito da FastTrack in locale (se applicabile).   
-- Completa le attività di correzione descritte nell'apposito report fornito da FastTrack (se applicabile).    
+- Completa le attività di correzione descritte nell'apposito report fornito da FastTrack (se applicabile).  
 - Fornisce una pianificazione di migrazione mediante le linee guida e i modelli di FastTrack.   
 - Conduce una verifica di controllo qualità della migrazione e il test di accettazione per gli utenti.   
 - Conduce la correzione della migrazione post-migrazione (se applicabile).
@@ -225,27 +238,33 @@ Eseguire le seguenti operazioni durante le migrazioni:
     
 ## <a name="migration-to-onedrive-for-business"></a>Migrazione a OneDrive for Business
 
- **Abilitare alla migrazione**
+ ### <a name="enable-to-migrate"></a>Abilitare alla migrazione
   
 Se si utilizza Microsoft per eseguire la migrazione dei dati, sono disponibili istruzioni per abilitare OneDrive for Business e l'ambiente di origine per la migrazione. A seconda dell'origine, è possibile che vengano eseguiti diversi passaggi di abilitazione. Viene fornita assistenza all'utente per alcune attività mediante una combinazione di strumenti, documentazione e linee guida, nonché eseguendo le attività di configurazione se applicabili e possibili.
   
 Potrebbe essere necessario fornire a Microsoft autorizzazione e accesso per eseguire alcune attività. In caso contrario, l'utente deve eseguire alcune attività autonomamente, con la guida di Microsoft. 
   
- **Procedura e criteri di migrazione**
+### <a name="migration-policy-and-steps"></a>Procedura e criteri di migrazione
   
-- Le migrazioni vengono assegnate\* per essere completate in base a pianificazioni standard, che a loro volta si basano sull'origine di migrazione riportata nella tabella seguente: 
-    
-|||
-|:-----|:-----|
-|**Origine** <br/> |**Criterio di programmazione** <br/> |
-|**Condivisione file, Box, Google Drive**  <br/> | 24x5 in base a batch di migrazione predefiniti.  <br/>  Tre batch di migrazione per ogni giorni giorno.  <br/>  Durante la settimana, sono disponibili 5 giorni per la migrazione: da lunedì alle 2:00 UTC al venerdì a mezzanotte UTC.  <br/>  L'ultima finestra di migrazione pianificata viene eseguita il venerdì alle 20:00 UTC.  <br/> |
-   
-*La pianificazione si basa sulla dimensione del set di dati presunta e su fattori ambientali. È possibile che alcuni contenuti pianificati non siano in grado di migrare all'interno di una singola finestra di migrazione.
+> [!NOTE]
+> Il termine batch di migrazione viene usato in riferimento a una fascia oraria di migrazione.
+
+#### <a name="commercial-and-uk-government"></a>Uso commerciale e governo del Regno Unito
+
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, sette (7) giorni a settimana (24x7) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione.
+
+#### <a name="us-governmentdod"></a>Governo degli Stati Uniti/DoD
+
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, cinque (5) giorni a settimana (24x5) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì alle 24 ora UTC al venerdì a mezzanotte ora UTC. Ciò significa che l'ultima migrazione pianificata viene eseguita il venerdì alle 20:00 ora UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland (MCD) Germania
+
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 9 ore al giorno, cinque (5) giorni a settimana (9x5) nelle fasce orarie di migrazione predefinite. È previsto un solo batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì a mezzanotte ora UTC al venerdì alle 21:00 ora UTC.
     
 - Tutte le migrazioni richiedono accesso e autorizzazioni appropriate per l'ambiente di origine.   
 - Tutte le migrazioni sono soggette alle quote di OneDrive for Business descritte in [SharePoint Online e OneDrive for Business: limiti del software](https://go.microsoft.com/fwlink/?LinkId=698855).
     
- **Stato finale**
+ ### <a name="end-state"></a>Stato finale
   
 Lo stato finale previsto in seguito a un batch di migrazione include quanto segue:  
 - I dati delle origini pianificate e idonee presenti nell'ambiente di origine vengono migrati in OneDrive for Business.  
@@ -267,7 +286,9 @@ Gli esperti di FastTrack eseguono le seguenti operazioni durante le migrazioni:
 - Fornisce i prerequisiti per gli strumenti di valutazione e migrazione applicabili per lo scenario.  
 - Fornisce i prerequisiti per l'accesso del team di migrazione all'ambiente di origine e di destinazione ai fini della valutazione e della migrazione.   
 - Fornisce appositi strumenti per effettuare valutazioni dell'ambiente di origine/destinazione o istruzioni su come utilizzare le funzioni delle piattaforme di origine native per creare report di valutazione.    
-- Assiste alla distribuzione e all'esecuzione di strumenti di valutazione e migrazione (se applicabile).   
+- Forniscono una pianificazione in un metodo definito e un elenco dei dati utente specifici di cui eseguire la migrazione in ogni fase, con almeno sette (7) giorni di anticipo.
+- Eliminano i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
+- Forniscono assistenza durante la distribuzione e l'esecuzione di strumenti di valutazione e migrazione (se applicabile).   
 - Configura l'infrastruttura di migrazione nella preparazione della migrazione dei contenuti (laddove applicabile).    
 - Conduce una migrazione di prova limitata per convalidare l'infrastruttura di migrazione e i prerequisiti necessari.    
 - Effettua il provisioning dei siti di OneDrive for Business di destinazione predefiniti come parte della migrazione.    

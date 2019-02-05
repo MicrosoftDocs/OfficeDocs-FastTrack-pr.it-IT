@@ -3,23 +3,22 @@ title: Appendice B Ulteriore vantaggio di FastTrack Center
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: I clienti che acquistano almeno 20.000 licenze per un tenant di Exchange Online possono ottenere i servizi aggiuntivi di FastTrack Center. Per ulteriori dettagli, vedere Piani e servizi idonei.
-ms.openlocfilehash: 73307846da4c45bcee64c5e9a9c21d1a3e806fe6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: abdb722bdb69945a1a90d8cae3fe71a5259e9dc9
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133086"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696723"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Appendice B: Ulteriore vantaggio di FastTrack Center
 
-I clienti che acquistano almeno 20.000 licenze per un tenant di Exchange Online possono ottenere i servizi aggiuntivi di FastTrack Center. Per ulteriori dettagli, vedere [Piani e servizi idonei](O365-eligible-services-and-plans.md). 
+I clienti che acquistano almeno 20.000 licenze per un tenant di Exchange Online possono ottenere i servizi aggiuntivi di FastTrack Center. Per ulteriori dettagli, vedere [Piani e servizi idonei](M365-eligible-services-and-plans.md). 
   
 ## <a name="onboarding-and-migration-phases"></a>Fasi del processo di onboarding e migrazione
 
@@ -43,7 +42,7 @@ Per Skype for Business online, viene fornita una guida per la migrazione degli u
 
 Nel caso di Office 365 ProPlus, viene fornita una guida per gli aspetti seguenti: 
 - Valutazione e pianificazione concentrate sulla preparazione dell'ambiente per la distribuzione iniziale e la gestione degli aggiornamenti in linea con le procedure consigliate di Microsoft. 
-- Sviluppo delle configurazioni di distribuzione e delle impostazioni degli aggiornamenti con lo Strumento di distribuzione di Office. 
+- Sviluppo delle configurazioni di distribuzione e delle impostazioni di aggiornamento con lo Strumento di distribuzione di Office 365. 
 - Creazione di pacchetti per la distribuzione mediante System Center Configuration Manager.  
 - La distribuzione e la configurazione della telemetria di Office offrono assistenza per valutare l'utilizzo di documenti e soluzioni di Office cruciali per l'organizzazione per garantire la compatibilità delle applicazioni.
     

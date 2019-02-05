@@ -3,20 +3,19 @@ title: Responsabilità di FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: 27961b81a4add1342ba194c2e3d04c93aca32ca5
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e90c9e54b62f57c27ba1424f5d2fb84d7b56626e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133098"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696831"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -46,17 +45,17 @@ Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura 
 - Stabilire la sequenza temporale per le attività di correzione.
 - Fornire un elenco di controllo della correzione. 
 - Valutare l'infrastruttura SharePoint Server 2013 o SharePoint Server 2016, ad esempio:
-  - Prerequisiti per Ambiente ibrido di SharePoint Online. 
-  - Preparare l'infrastruttura locale per le funzionalità di Ambiente ibrido di SharePoint Online.
-  - Accedere agli endpoint SharePoint Online necessari.
-  - Gruppi di destinatari per Ambiente ibrido di OneDrive for Business. 
-- Valutare l'infrastruttura Lync o Skype for Business online, ad esempio:
-  - Strategia di distribuzione del client di Skype for Business supportato.
+  - Prerequisiti per l'ambiente ibrido di SharePoint Online. 
+  - Idoneità dell'infrastruttura locale per le funzionalità dell'ambiente ibrido di SharePoint Online.
+  - Accesso agli endpoint SharePoint Online necessari.
+  - Gruppi di destinatari per l'ambiente ibrido di OneDrive for Business. 
+- Valutare l'infrastruttura Lync, Skype for Business online or Microsoft Teams esistente, ad esempio:
+  - Strategia di distribuzione supportata per il client di Skype for Business o di Teams.
   - Accesso agli endpoint.
   - Qualità della connessione.
   - Stime sulla larghezza di banda.
   - Prerequisiti per supportare la configurazione server del dominio condiviso.
-  - Conformità di determinati utenti a spostarsi verso Skype for Business online.
+  - Idoneità di utenti identificati a passare a Skype for Business online o Teams.
 - Valutare l'infrastruttura di messaggistica, tra cui: 
   - Principi generali su flusso di posta e routing.
   - Accesso client (compresi gli endpoint di accesso client pubblicati).
@@ -101,7 +100,7 @@ Fornire indicazioni su:
 Fornire indicazioni su:
 - Creazione o aggiornamento di record DNS. 
 - Abilitazione del routing di posta elettronica tra sistema di messaggistica di origine e ambienti Office 365. 
-- Configurazione delle funzionalità di Exchange Online Protection (comprese quelle di Protezione avanzata dalle minacce per Exchange Online se disponibili nella propria sottoscrizione) e verifica che i record MX puntino a Office 365 per tutti i domini abilitati alla posta elettronica convalidati.
+- Configurazione delle funzionalità Exchange Online Protection, prevenzione della perdita dei dati (DLP) e Office 365 Message Encryption (OME) (comprese quelle di Exchange Online Advanced Threat Protection se disponibili nel proprio abbonamento) e verifica che i record MX puntino a Office 365 per tutti i domini abilitati alla posta elettronica convalidati.
 - Configurazione ibrida tra l'organizzazione di Exchange singola in locale e Office 365 *o* tra più organizzazioni di Exchange locale e Office 365. 
 - Configurazione di client delle cassette postali (Outlook per Windows, Outlook sul web e Outlook per iOS e Android).
     
@@ -117,11 +116,11 @@ Fornire indicazioni su:
 - Attivazione di siti personali e caratteristiche di social networking.
 - Configurazione delle caratteristiche di SharePoint Online. 
 - Fornitura di indicazioni sulla migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
-- Valutazione della configurazione relativa all'infrastruttura della farm locale di SharePoint, necessaria per Ambiente ibrido di SharePoint Online. 
+- Valutazione della configurazione relativa all'infrastruttura della farm locale di SharePoint, necessaria per l'ambiente ibrido di SharePoint Online. 
 - Utilizzo di strumenti e automazione per:
   - Configurare le applicazioni del servizio di ricerca cloud in locale. 
   - Configurare l'attendibilità tra gli ambienti SharePoint locali e cloud.
-- Configurare i siti locali di SharePoint affinché utilizzino le funzionalità di Ambiente ibrido di SharePoint Online.
+- Configurare i siti locali di SharePoint affinché usino le funzionalità dell'ambiente ibrido di SharePoint Online.
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -137,9 +136,35 @@ Fornire indicazioni su:
 - Assegnazione di licenze per l'utente finale. 
 - Impostazione di gruppi di destinatari di SharePoint Online per controllare e regolare chi scarica OneDrive for Business. 
 - Distribuzione del client di sincronizzazione OneDrive for Business su desktop.   
-- Come configurare il reindirizzamento a Ambiente ibrido di SharePoint Online e OneDrive for Business (SharePoint 2013 e SharePoint 2016 soltanto).
+- Come configurare il reindirizzamento all'ambiente ibrido di SharePoint Online e OneDrive for Business (solo SharePoint 2013 e SharePoint 2016).
 - Migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
     
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+Fornire indicazioni su:
+- Conferma dei requisiti minimi.
+- Configurazione delle porte del firewall.
+- Configurazione di DNS.  
+- Conferma dell'abilitazione di Teams nel tenant Office 365.
+- Abilitazione o disabilitazione delle licenze utente.
+- Distribuzione del client di Teams.
+- Funzionalità per amministratori e professionisti IT.
+- Componenti di base del prodotto.
+- Modelli di customer success.
+- Creazione di account da associare ai dispositivi del sistema chat room supportati (fino a 10 account). 
+- Abilitazione dell'instradamento diretto.
+- Abilitazione dell'audioconferenza.
+- Configurazione aziendale delle impostazioni predefinite del bridge per conferenze.
+- Assegnazione di bridge per conferenze agli utenti con licenza.
+- Abilitazione del sistema telefonico.
+- Abilitazione dell'onboarding di Sistema telefonico e Piani di chiamata (mercati idonei).
+- Assegnazione di numeri agli utenti con licenza.
+- Guida alla portabilità del numero locale tramite UI fino a 999.
+- Supporto RS per la portabilità del numero locale superiore a 999. 
+- Abilitazione degli eventi live in Teams. 
+- Configurazione dell'organizzazione e integrazione in Microsoft Stream.
+
+
 ## <a name="skype-for-business-online"></a>Skype for Business online
 
 Fornire indicazioni su:
@@ -158,19 +183,6 @@ Fornire indicazioni su:
 - Abilitazione di Skype for Business Meeting Broadcast
   - Onboarding guidato per l'abilitazione di Skype for Business Meeting Broadcast.
   - Configurazione aziendale per la federazione con il servizio Meeting Broadcast.
-    
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-Fornire indicazioni su:
-- Conferma dei requisiti minimi.
-- Configurazione delle porte del firewall.
-- Configurazione DNS.  
-- Conferma dell'abilitazione di Microsoft Teams sul tenant Office 365.
-- Abilitazione o disabilitazione delle licenze utente.
-- Distribuzione client di Microsoft Teams.
-- Funzionalità per amministratori e professionisti IT.
-- Componenti di base del prodotto.
-- Modelli di customer success.
     
 ## <a name="power-bi"></a>Power BI
 
@@ -194,7 +206,7 @@ Fornire indicazioni su:
 - Risoluzione dei problemi di implementazione.
 - Assegnare i contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.
 - Download e installazione di Client desktop di Project Online dal portale.   
-- Configurazione delle impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office oppure i modelli dei criteri di gruppo.
+- Configurazione delle impostazioni di aggiornamento usando lo strumento di distribuzione di Office 365 oppure i modelli dei criteri di gruppo.
 - Impostazione di un solo server di distribuzione nel sito per Client desktop di Project Online, incluse le istruzioni per creare un file configuration.xml per lo strumento di distribuzione di Office 2016. 
 - Connessione di Client desktop di Project Online a Project Online.
     
@@ -209,9 +221,9 @@ Fornire indicazioni su:
 - Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.
 - Installazione di Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.
 - Installazione delle app di Office Mobile (ad esempio Outlook per iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile. 
-- Configurazione delle impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office 2016 oppure i modelli dei criteri di gruppo.
-- Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da utilizzare con lo strumento di distribuzione di Office.
-- Implementazione utilizzando System Center Configuration Manager, che include una guida per la creazione del pacchetto di System Center Configuration Manager.
+- Configurazione delle impostazioni di aggiornamento usando lo strumento di distribuzione di Office 2016 oppure i modelli dei criteri di gruppo.
+- Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da usare con lo strumento di distribuzione di Office 365.
+- Implementazione con System Center Configuration Manager, che include una guida per la creazione del pacchetto di System Center Configuration Manager.
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 

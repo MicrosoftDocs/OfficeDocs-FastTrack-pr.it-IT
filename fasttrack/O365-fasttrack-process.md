@@ -3,20 +3,19 @@ title: Il processo FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: 'Il processo FastTrack fornisce assistenza onboarding e servizi di adozione da parte dell’utente. '
-ms.openlocfilehash: d4e090f6a9e692ae3de2238b9626a78bc806ccfe
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 401faec69b6d33cd4f07814c6e598cc5e5ccf359
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133014"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696735"
 ---
 # <a name="the-fasttrack-process"></a>Il processo FastTrack
 
@@ -44,9 +43,8 @@ Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 3
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **FastTrack**.
-3.  Selezionare **Servizi**.
-4.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
+2.  Selezionare **Servizi**.
+3.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
 > [!NOTE]
 >  Se si dispone di un partner elencato nel tenant di Office 365, questa opzione non è visualizzata. Per assistenza, consultare il partner. 
   
@@ -56,11 +54,10 @@ Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/
     
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **FastTrack**.
-3.  Selezionare **Clienti personali**.
-4.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
-5.  Selezionare **Servizi**.
-6.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
+2.  Selezionare **Clienti personali**.
+3.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+4.  Selezionare **Servizi**.
+5.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
 
 Nella tabella seguente sono elencati i ruoli e le responsabilità per il processo.
     

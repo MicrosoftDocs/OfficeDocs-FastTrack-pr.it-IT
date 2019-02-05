@@ -3,7 +3,7 @@ title: Assistenza offerta
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al momento dell'acquisto di uno dei servizi di Windows 10 o Microsoft 365, gli esperti FastTrack forniscono indicazioni e correzioni per la distribuzione di Windows 10 e Office 365 ProPlus e consentono di mantenersi aggiornati senza costi aggiuntivi (con un abbonamento idoneo).
-ms.openlocfilehash: 895807ab93688552e200eb6aba6d1c77b982db87
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: d7d79c78102d229d15e0b55dfc18d1063371ef17
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472792"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696627"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta  
 
@@ -39,6 +39,12 @@ FastTrack Center assistenza per:
     - Applicazioni Web e desktop di Windows 10.
 > [!NOTE]
 > FastTrack si impegna al massimo per risolvere i problemi di compatibilità. 
+
+> [!NOTE]
+> FastTrack non può risolvere i problemi di compatibilità di versioni precedenti di un'app ISV se è presente una versione più recente non supportata in Windows 10.
+
+> [!NOTE]
+> FastTrack non può risolvere i problemi di compatibilità di software di componenti aggiuntivi di terze parti se il fornitore del software dispone di una versione più recente non supportata in Office 365 ProPlus.
 
 ## <a name="out-of-scope"></a>Esclusioni
 
