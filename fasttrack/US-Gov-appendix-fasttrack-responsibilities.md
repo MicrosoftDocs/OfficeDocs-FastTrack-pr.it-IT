@@ -1,23 +1,23 @@
 ---
-title: Responsabilità FastTrack per Office 365 governo degli Stati Uniti
+title: Responsabilità di FastTrack per il governo degli Stati Uniti di Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2989b841d247ec1e05f8e033a7000e2b2a756e24
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696783"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355284"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità FastTrack per Office 365 governo degli Stati Uniti
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità di FastTrack per il governo degli Stati Uniti di Office 365
 
 Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
   
@@ -41,14 +41,14 @@ Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura 
   - Esigenze del client (esigenze di browser, sistema operativo client, dispositivo mobile e servizi).
   - Identità dell'utente e provisioning. 
   - Abilitare i servizi che sono acquistati e definiti come parte dell'onboarding.
-  - Favorire l'adozione corretta del servizio e aumentarne il valore.   
+  - Favorire l'adozione corretta e il valore del servizio.   
 - Stabilire la sequenza temporale per le attività di correzione.
 - Fornire un elenco di controllo della correzione.   
 - Valutare l'infrastruttura SharePoint Server 2013 o SharePoint Server 2016, ad esempio:  
   - Prerequisiti per l'ambiente ibrido di SharePoint Online.  
-  - Preparazione dell'infrastruttura locale per la funzionalità ibrida di SharePoint Online.  
-  - Accedere agli endpoint SharePoint Online necessari. 
-  - Gruppi di destinatari per OneDrive per la distribuzione ibrida di Business.    
+  - Idoneità dell'infrastruttura locale per le funzionalità dell'ambiente ibrido di SharePoint Online.  
+  - Accesso agli endpoint SharePoint Online necessari. 
+  - Gruppi di destinatari per l'ambiente ibrido di OneDrive for Business.    
 - Valutare l'infrastruttura Lync o Skype for Business online, ad esempio:  
   - Strategia di distribuzione del client di Skype for Business supportato.  
   - Accesso agli endpoint.  
@@ -79,8 +79,8 @@ Fornire indicazioni su:
   - Installazione di un server di sincronizzazione delle directory tra Active Directory Domain Services (AD DS) e Office 365, se necessario.   
   - Configurazione della sincronizzazione della password (hash password) su Office 365 (Azure Active Directory) con lo strumento Azure Active Directory Connect, se necessario.  
   - Per gli ambienti con una o più foreste:
-      - Configurazione dell'autenticazione pass-through di Azure Active Directory, se necessario (non disponibile nei piani le alta o DoD).
-      - Configurazione di Azure Active Directory senza problemi Single Sign-On (SSO), se necessario (non disponibile nei piani le alta o DoD).
+      - Configurazione dell'autenticazione pass-through di Azure Active Directory, se necessario (non disponibile nei piani GCC High o DoD).
+      - Configurazione di Azure Active Directory Single Sign-on seamless (SSO), se necessario (non disponibile nei piani GCC High o DoD).
     > [!NOTE]
     > L'Autenticazione pass-through di Azure Active Directory per ambienti con più foreste è supportata se sono presenti trust tra le foreste di Active Directory e se il routing dei suffissi nome è configurato correttamente. È possibile installare ulteriori agenti su più server locali per fornire disponibilità elevata per le richieste di accesso. Per ulteriori informazioni, vedere [Autenticazione pass-through di Azure Active Directory: avvio rapido](https://go.microsoft.com/fwlink/?linkid=860094) e [Accesso Single Sign-On facile di Azure Active Directory: guida introduttiva](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
     > Per ulteriori informazioni sui limiti dell'autenticazione pass-through, vedere [Autenticazione pass-through di Azure Active Directory: limitazioni correnti](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
@@ -91,7 +91,7 @@ Fornire indicazioni su:
     > [!NOTE]
     > Per tutte le configurazioni di più foreste, le distribuzioni di AD FS non rientrano nell'ambito. 
 - Test sulla funzionalità SSO (Single Sign-On) se distribuita.   
-- Favorire l'adozione corretta e il valore del servizio.
+- Favorire l'adozione corretta del servizio e aumentarne il valore.
     
 ## <a name="exchange-online"></a>Exchange Online
 
@@ -100,7 +100,7 @@ Fornire indicazioni su:
 - Abilitazione del routing di posta elettronica tra sistema di messaggistica di origine e ambienti Office 365.    
 - Configurazione delle funzionalità di Exchange Online Protection (comprese quelle di Protezione avanzata dalle minacce per Exchange Online se disponibili nella propria sottoscrizione) e verifica che i record MX puntino a Office 365 per tutti i domini abilitati alla posta elettronica convalidati.   
 - Configurazione ibrida tra l'organizzazione di Exchange singola in locale e Office 365 *o* tra più organizzazioni di Exchange locale e Office 365. 
-- L'impostazione di messaggistica unificata con Exchange Online (messaggistica unificata non è disponibile nei piani le DoD). 
+- Configurazione della messaggistica unificata con Exchange Online (la messaggistica UNIFICAta non è disponibile nei piani di GCC DoD). 
     
 Per ulteriori informazioni sulle responsabilità nella migrazione dei dati, vedere [Migrazione dei dati](O365-data-migration.md).
   
@@ -114,11 +114,11 @@ Fornire indicazioni su:
 - Attivazione di siti personali e caratteristiche di social networking.   
 - Configurazione delle caratteristiche di SharePoint Online.    
 - Fornitura di indicazioni sulla migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.  
-- Valutazione di configurazione dell'infrastruttura farm di SharePoint locale, necessaria per l'ambiente ibrido di SharePoint Online.    
+- Valutazione della configurazione relativa all'infrastruttura della farm locale di SharePoint, necessaria per l'ambiente ibrido di SharePoint Online.    
 - Utilizzo di strumenti e automazione per: 
   - Configurare le applicazioni del servizio di ricerca cloud in locale.    
   - Configurare l'attendibilità tra gli ambienti SharePoint locali e cloud.   
-- Configurazione dei siti di SharePoint locale utilizzare funzionalità ibrida di SharePoint Online.
+- Configurare i siti locali di SharePoint affinché usino le funzionalità dell'ambiente ibrido di SharePoint Online.
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -134,7 +134,7 @@ Fornire indicazioni su:
 - Assegnazione di licenze per l'utente finale.   
 - Impostazione di gruppi di destinatari di SharePoint Online per controllare e regolare chi scarica OneDrive for Business.    
 - Distribuzione del client di sincronizzazione OneDrive for Business su desktop.   
-- Come configurare l'ambiente ibrido di SharePoint Online OneDrive per il reindirizzamento aziendale (SharePoint 2013 e SharePoint 2016 solo).  
+- Come configurare il reindirizzamento all'ambiente ibrido di SharePoint Online e OneDrive for Business (solo SharePoint 2013 e SharePoint 2016).  
 - Migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
     
 ## <a name="skype-for-business-online"></a>Skype for Business online
@@ -147,19 +147,19 @@ Fornire indicazioni su:
 - Abilitazione dell'audioconferenza:   
   - Configurazione aziendale delle impostazioni predefinite del bridge per conferenze.   
   - Assegnazione di bridge per conferenze agli utenti con licenza 
-- Abilitazione di sistema telefonico (non disponibile nei piani le alta o DoD):  
+- Abilitazione del sistema telefonico (non disponibile nei piani GCC High o DoD):  
   - Abilitazione del sistema telefonico e dell'onboarding relativo ai piani di chiamata (mercati idonei). 
   - Assegnazione di numeri agli utenti con licenza.  
   - Guida alla portabilità del numero locale tramite UI fino a 999.  
   - Supporto RS per la portabilità del numero locale superiore a 999.  
-- Abilitazione di Skype per Business riunione trasmissione (non disponibile nei piani le alta o DoD):  
+- Abilitazione di Skype for business meeting broadcast (non disponibile nei piani GCC High o DoD):  
   - Onboarding guidato per l'abilitazione di Skype for Business Meeting Broadcast.  
   - Configurazione aziendale per la federazione con il servizio Meeting Broadcast.
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Le operazioni seguenti non è disponibili nei piani le alta o DoD.
+> Il seguente non è disponibile nei piani GCC High o DoD.
 
 Fornire indicazioni su:
 - Conferma dei requisiti minimi.   
@@ -193,18 +193,18 @@ Fornire indicazioni su:
 Fornire una guida sulla conversione della rete Yammer Basic singola in una sola rete Yammer Enterprise.
 
 > [!NOTE]
-> Yammer Enterprise non è un componente di Office 365 US Government ma come un'offerta autonoma per ogni utente dispone di una licenza per Office 365 in GCC, è possibile acquisire senza alcun costo. Questa proposta è attualmente limitata ai clienti che acquistare Office 365 le in Enterprise Agreement ed Enterprise Agreement sottoscrizione. Yammer non è disponibile nei piani le alta o DoD.
+> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquisito gratuitamente come offerta autonoma per ogni utente concesso in licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC in contratti Enterprise e contratti di sottoscrizione Enterprise. Yammer non è disponibile nei piani GCC High o DoD.
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
 Fornire indicazioni su:
-- Risoluzione dei problemi di implementazione.   
+- Risolvere i problemi di implementazione.   
 - Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.  
 - Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.   
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
-- Configurazione delle impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office 2016 oppure i modelli dei criteri di gruppo.   
-- Impostazione di un server singolo in sede distribuzione per Office 365 ProPlus, compresa l'assistenza con la creazione di un file Configuration. XML da utilizzare con lo strumento di distribuzione di Office 365.   
-- Implementazione utilizzando System Center Configuration Manager, che include una guida per la creazione del pacchetto di System Center Configuration Manager.
+- Configurazione delle impostazioni di aggiornamento usando lo strumento di distribuzione di Office 2016 oppure i modelli dei criteri di gruppo.   
+- Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da usare con lo strumento di distribuzione di Office 365.   
+- Implementazione con System Center Configuration Manager, che include una guida per la creazione del pacchetto di System Center Configuration Manager.
 
     
 
