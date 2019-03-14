@@ -3,19 +3,19 @@ title: Appendice A Migrazione da IBM Domino a Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'La migrazione da IBM Domino a Exchange Online include diversi aspetti importanti, tra cui le attività eseguite durante le fasi seguenti:'
-ms.openlocfilehash: e2a4a06dd37c9a8eb5c04330cbde7f9dfff830b2
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2b8bad92665f92abaa718b78151ad49b3920bac3
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696819"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355236"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Appendice A: Migrazione da IBM Domino a Exchange Online
 
@@ -28,7 +28,7 @@ La migrazione da IBM Domino a Exchange Online include diversi aspetti importanti
     
 ## <a name="identities"></a>Identità
 
-L'utente è responsabile della creazione e della gestione delle identità (solo cloud, sincronizzate o federate con Active Directory locale). È necessario completare il mapping delle identità (se non è già presente) tra Domino e Active Directory locale o Azure AD durante le fasi iniziali dell'onboarding.
+L'utente è responsabile della creazione e della gestione delle identità (solo cloud, sincronizzate o federate con Active Directory locale). È necessario completare il mapping delle identità (se non è già presente) tra Domino e Active Directory locale o Azure Active Directory durante le fasi iniziali dell'onboarding.
   
 ## <a name="coexistence"></a>Coesistenza
 
@@ -90,7 +90,7 @@ Il processo di FastTrack Center standard per la migrazione da Domino a Exchange 
     >  Anche se FastTrack effettua la migrazione di una quantità massima di contenuti pari all'85% delle dimensioni totali consentite del target, tentare di migrare cassette postali di dimensioni superiori ai 2 GB comporta rischi aggiuntivi come quelli indicati di seguito:    <br/> Durata prolungata delle migrazioni.    <br/> Utilizzo di risorse altrimenti usate per la migrazione di altre cassette postali.    <br/> Notevole aumento della percentuale di errori. 
 - Predisporre i database della posta in arrivo e i relativi ACL per la migrazione. È necessario eseguire alcune procedure di correzione per migrare in modo corretto i database della posta in arrivo e le relative autorizzazioni a una cassetta postale condivisa in Exchange Online. Alcune di queste procedure sono le seguenti: 
   - Rimuovere le voci dei database della posta in arrivo esistenti nella directory di Domino e creare nuovi record Persona.
-  - Creare gruppi di protezione universali abilitati alla posta elettronica in Active Directory locale che siano sincronizzati a Office 365 Azure AD e utilizzati per configurare le autorizzazioni sulla cassetta postale condivisa in Exchange Online. In questo modo le autorizzazioni impostate per il database della posta in arrivo vengono trasferite sulla cassetta postale condivisa in Exchange Online.
+  - Creare gruppi di sicurezza universali abilitati alla posta elettronica in Active Directory locale che siano sincronizzati a Office 365Azure Active Directory e usati per configurare le autorizzazioni per la cassetta postale condivisa in Exchange Online. In questo modo le autorizzazioni impostate per il database della posta in arrivo vengono trasferite sulla cassetta postale condivisa in Exchange Online.
     
 > [!NOTE]
 > A questo punto è possibile avviare la valutazione e la formazione degli utenti finali per il nuovo sistema di messaggistica e il client. 

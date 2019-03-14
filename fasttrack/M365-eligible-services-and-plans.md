@@ -3,19 +3,19 @@ title: Piani e servizi idonei
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
-ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696807"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355296"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
@@ -71,6 +71,7 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
 
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
+- Sicurezza Microsoft 365 E5\*
 - Microsoft 365 Business\*
     
  **Microsoft 365 Education**
@@ -167,7 +168,7 @@ Per altre informazioni, vedere [FastTrack Center Benefit per Office 365](https:/
 |**Microsoft Advanced Threat Analytics**   |        Con limitazioni. Idoneo solo se è stato acquistato come piano autonomo. A tale scopo, visitare il [Portale Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 |**Microsoft Cloud App Security**    |       Con limitazioni. Idoneo solo se è stato acquistato come piano autonomo. A tale scopo, visitare il [Portale Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
-Per ulteriori informazioni, vedere [FastTrack Center Benefit per Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312).
+Per ulteriori informazioni, vedere [FastTrack Center Benefit per Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
 
 ## <a name="eligible-windows-10-plans"></a>Piani di Windows 10 idonei
 
