@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 25602322bc92823cd50f4674a683762d9eeae10b
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359960"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016912"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -31,7 +31,7 @@ FastTrack ha le seguenti responsabilità durante la procedura di onboarding.
 
 ## <a name="initiate-phase"></a>Fase di avvio
 
--   Collaborare per avviare l'onboarding. 
+-   Collaborare con l'utente per iniziare l'onboarding.
 
 -   Definire i servizi da caricare.
 
@@ -41,13 +41,13 @@ FastTrack ha le seguenti responsabilità durante la procedura di onboarding.
 
 -   Fornire indicazioni su:
 
-    -   Esigenze di DNS, rete e infrastruttura.
+    -   Esigenze di DNS, di rete e di infrastruttura.
 
-    -   Esigenze del client (esigenze di browser, sistema operativo client e servizi)
+    -   Esigenze del client (Internet browser, sistema operativo client e esigenze dei servizi).
 
     -   Identità dell'utente e provisioning.
 
-    -   Abilitare i servizi che sono stati acquistati e definiti come parte dell'onboarding.
+    -   Abilitazione dei servizi idonei che sono stati acquistati e definiti come parte dell'onboarding.
 
 -   Stabilire la sequenza temporale per le attività di correzione.
 
@@ -109,7 +109,7 @@ Fornire indicazioni su:
   - Configurazione dell'Autenticazione pass-through di Azure Active Directory, se necessario.
   - Configurazione dell'Accesso Single Sign-On facile di Azure Active Directory, se necessario.
     > [!NOTE]
-    > L'autenticazione pass-through di Azure Active Directory per gli ambienti a più foreste è supportata se sono presenti trust tra le foreste di Active Directory e se il routing dei suffissi del nome è configurato correttamente. Gli agenti aggiuntivi possono essere installati su più server locali per garantire la disponibilità elevata per le richieste di accesso.
+    > L'Autenticazione pass-through di Azure Active Directory per ambienti con più foreste è supportata se sono presenti trust tra le foreste di Active Directory e se il routing dei suffissi nome è configurato correttamente. È possibile installare ulteriori agenti su più server locali per fornire disponibilità elevata per le richieste di accesso.
 
   - Per ulteriori informazioni, vedere [Autenticazione pass-through di Azure Active Directory: avvio rapido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) e [Accesso Single Sign-On facile di Azure Active Directory: guida introduttiva](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
   - Per ulteriori informazioni sui limiti dell'autenticazione pass-through, vedere [Autenticazione pass-through di Azure Active Directory: limitazioni correnti](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).

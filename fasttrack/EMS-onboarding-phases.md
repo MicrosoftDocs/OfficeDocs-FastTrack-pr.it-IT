@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 86d69ec9ff9ef26646496d1b9fb443befdd76327
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 9f41ee105af4ff7d0a250d69a56756577d47b0a7
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30360008"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017020"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
@@ -42,12 +42,12 @@ Dopo aver acquistato il numero appropriato di licenze, seguire le istruzioni rip
 3. Selezionare **Servizi**.
 4. Completare la **richiesta di assistenza con il modulo Microsoft 365**.
 
-Una volta contattato il supporto tecnico per l'onboarding, verrà impostata la pianificazione delle riunioni in linea.
+Dopo l'avvio del supporto per l'onboarding, verrà impostata una pianificazione delle riunioni online.
 
 > [!NOTE]
 > Se si dispone di un partner Microsoft elencato nel tenant di Office 365, questa opzione non viene visualizzata. Rivolgersi al proprio partner Microsoft per assistenza.
 
-I partner Microsoft possono inoltre ottenere assistenza tramite il [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. Per eseguire questa operazione:
+I partner Microsoft possono inoltre ottenere assistenza tramite il [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. To do so:
 
 1. Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Selezionare **FastTrack**.
@@ -82,7 +82,7 @@ Una volta completate tutte le attività di correzione, il progetto viene spostat
 
 **Abilitare le funzionalità di fase-Core**
 
-L'onboarding di base implica il provisioning del servizio e l'integrazione dell'identità e del tenant. Sono inoltre disponibili passaggi per fornire una base per i servizi di onboarding online, ad esempio Azure AD Premium e Intune.
+L'onboarding di base prevede il provisioning di servizi e l'integrazione di identità e tenant. Sono inoltre disponibili passaggi per fornire una base per i servizi di onboarding online, ad esempio Azure AD Premium e Intune.
 
 ![Onboarding abilitare le funzionalità Phase-Core](./media/ft-enable-phase-core-01.png)
 

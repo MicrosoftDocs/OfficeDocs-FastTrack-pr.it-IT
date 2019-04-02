@@ -3,18 +3,18 @@ title: Appendice D - Informazioni generali su FastTrack Center Benefit per Offic
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Con FastTrack Center benefit per Office 365, è possibile lavorare in remoto con gli specialisti di FastTrack per ottenere l'ambiente Office 365 pronto per l'utilizzo e la pianificazione dell'implementazione e dell'utilizzo all'interno dell'organizzazione.
-ms.openlocfilehash: 31782ca75f7ab5ce74415dcc7a9d754448740b6a
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: d56bbc0e78aa532cde6aaf80da6fa3c3f8625996
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355068"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016855"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Appendice D - Informazioni generali su FastTrack Center Benefit per Office 365 US Government
 

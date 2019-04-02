@@ -3,19 +3,19 @@ title: Fasi di onboarding e migrazione per Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avviare, valutare, correggere e abilitare. È possibile seguire queste fasi con una fase di migrazione dei dati facoltativa, come illustrato nella figura seguente."
-ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355260"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016984"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
 
@@ -127,13 +127,13 @@ Gli esperti di FastTrack forniscono una guida sulla procedura di migrazione di d
 
 Per OneDrive for Business, la procedura dipende dal corrente utilizzo o meno di SharePoint e, in caso affermativo, dalla versione utilizzata.  
   
-![Passaggi onboarding di OneDrive durante la fase di abilitazione](media/O365-Onboarding-Enable-ODB.png)
+![Passaggi onboarding di OneDrive durante la fase di attivazione](media/O365-Onboarding-Enable-ODB.png)
   
-## <a name="skype-for-business-online"></a>Skype for Business Online
+## <a name="skype-for-business-online"></a>Skype for Business online
 
 Per Skype for Business Online, viene fornito materiale sussidiario per: 
 - Configurazione delle porte del firewall.    
-- Configurazione di DNS.    
+- Configurazione DNS.    
 - Creare account per qualsiasi dispositivo del sistema chat room.    
 - Distribuire un client Skype for Business online supportato.   
 - Stabilire la configurazione del server di dominio diviso tra l'ambiente Lync 2010, Lync 2013 o Skype for Business Server locale e il tenant di Skype for business online (se applicabile).
@@ -155,7 +155,7 @@ Per Microsoft StaffHub viene fornito materiale sussidiario per:
 - Conferma dell'abilitazione di Microsoft Teams sul tenant Office 365.    
 - Abilitazione o disabilitazione delle licenze utente.
     
-![Diagramma dei team FastTrack Microsoft (fase di attivazione)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![Diagramma di Microsoft Teams in FastTrack (fase di attivazione)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 

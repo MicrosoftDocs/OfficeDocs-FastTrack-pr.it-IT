@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 614f8b31cfd4a49ce01520efb2315a5e7237dcda
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359804"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016932"
 ---
 # <a name="your-responsibilities"></a>Responsabilità dell'utente
 
@@ -49,7 +49,7 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 
 -   Gestire un processo di approvazione della gestione delle modifiche tecniche e la creazione della documentazione di supporto.
 
--   Modifica delle guide operative e dei modelli operativi.
+-   Modifica del modello operativo e delle guide operative.
 
 -   Configurare l'autenticazione a più fattori locale.
 
@@ -79,11 +79,11 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 
 -   Collaborare con il team di FastTrack per avviare l'onboarding dei servizi idonei.
 
--   Participare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.
+-   Partecipare alla riunione di Kick-off di engagement, gestire e guidare i partecipanti dell'organizzazione e confermare le sequenze temporali di correzione.
 
 ## <a name="assess-phase"></a>Fase di valutazione
 
--   Identificare le parti interessate, tra cui un project manager, per completare le attività di valutazione necessarie.
+-   Identificare le parti interessate, tra cui un Project Manager, per completare le attività di valutazione necessarie.
 
 -   Condivisione dello schermo con il team di FastTrack se è necessaria una guida per l'esecuzione di strumenti di valutazione per l'ambiente, lo SME o le sottoscrizioni del servizio cloud individuali (se si sceglie di).
 

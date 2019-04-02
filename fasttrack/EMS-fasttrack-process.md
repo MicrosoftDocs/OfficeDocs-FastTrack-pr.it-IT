@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0516035e55bc791645b32ad1819839b6c73f1772
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: a2d3f601c1395b908d2ad8fd7a6a0dde38502784
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359840"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016780"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Processo FastTrack Center Benefit per Enterprise Mobility + Security (EMS)
 Se l'organizzazione è idonea per il vantaggio FastTrack Center per EMS, è possibile lavorare in remoto con gli specialisti di FastTrack per ottenere Microsoft Azure Active Directory Premium e Microsoft Intune pronto per l'uso. È inoltre possibile richiedere assistenza tramite il [sito FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) per Azure Information Protection, Microsoft cloud app Security e Microsoft Advanced Threat Analytics. Per sapere se l'organizzazione è idonea, vedere [Servizi e piani idonei](M365-eligible-services-and-plans.md).
@@ -27,7 +27,7 @@ Di seguito viene illustrato il processo di onboarding:
 
 -   [Panoramica del processo di onboarding](EMS-fasttrack-benefit-overview.md)
 
--   [Previsioni per l'ambiente di origine](EMS-source-environment-expectations.md)
+-   [Aspettative per l'ambiente di origine](EMS-source-environment-expectations.md)
 
 -   [Fasi del processo di onboarding](EMS-onboarding-phases.md)
 
@@ -35,7 +35,7 @@ Di seguito viene illustrato il processo di onboarding:
 
 -   [Responsabilità del cliente](EMS-your-responsibilities.md) per ogni fase
 
-Ecco cosa aspettarsi una volta completato il processo di onboarding:
+Ecco cosa è possibile prevedere quando l'onboarding è completo:
 
 -   Vengono creati i tenant EMS per i servizi selezionati.
 
