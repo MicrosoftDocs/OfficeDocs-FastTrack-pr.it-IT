@@ -3,19 +3,19 @@ title: Piani e servizi idonei
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
-ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355296"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016996"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
@@ -112,7 +112,7 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
 - Exchange Online, piano 2 
 - Chiosco Exchange Online
 - Exchange Online Protection
-- Exchange Online Advanced Threat Protection
+- Office 365 Advanced Threat Protection
     
  **Project Online**
   

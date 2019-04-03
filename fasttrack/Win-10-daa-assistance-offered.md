@@ -3,7 +3,7 @@ title: Assistenza offerta
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al momento dell'acquisto di uno dei servizi di Windows 10 o Microsoft 365, gli esperti FastTrack forniscono indicazioni e correzioni per la distribuzione di Windows 10 e Office 365 ProPlus e consentono di mantenersi aggiornati senza costi aggiuntivi (con un abbonamento idoneo).
-ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ac175893fe4afb2aa553740d0e85dceeb6582d69
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355188"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016875"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta  
 
@@ -46,7 +46,7 @@ FastTrack Center assistenza per:
 ## <a name="out-of-scope"></a>Esclusioni
 
 FastTrack non fornisce assistenza per:
-- Inventario e test delle app per stabilire cosa funziona e cosa non funziona in Windows 10 e Office 365 ProPlus. Per altre indicazioni su questo processo, visitare il [Centro di distribuzione desktop moderno](https://go.microsoft.com/fwlink/?linkid=2080140). Per richiedere una valutazione approfondita dell'idoneità per l'aggiornamento, compilare l'apposito [modulo](https://go.microsoft.com/fwlink/?linkid=2053818).
+- Inventario e test delle app per stabilire cosa funziona e cosa non funziona in Windows 10 e Office 365 ProPlus. Per altre indicazioni su questo processo, visitare il [Centro di distribuzione desktop](https://go.microsoft.com/fwlink/?linkid=2080140). Per richiedere una valutazione approfondita dell'idoneità per l'aggiornamento, compilare l'apposito [modulo](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Ricerca di applicazioni ISV di terze parti per istruzioni su supporto e compatibilità con Windows 10. Per altre informazioni, vedere [Ready for Windows](https://go.microsoft.com/fwlink/?linkid=2054580).
 - Servizi di solo creazione di pacchetti di app. Tuttavia, il team di Desktop App Assure crea pacchetti di app che abbiamo corretto per Windows 10 per garantire che possano essere distribuiti nell'ambiente del cliente.
 
