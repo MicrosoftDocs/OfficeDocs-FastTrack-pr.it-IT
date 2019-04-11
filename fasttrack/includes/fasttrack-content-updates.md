@@ -3,64 +3,36 @@
 
 
 
-## <a name="week-of-january-28-2019"></a>Settimana del 28 gennaio 2019
+## <a name="week-of-april-01-2019"></a>Settimana del 1 aprile 2019
 
 
 | Data di pubblicazione |Titolo dell'argomento | Modifica |
 |------|------------|--------|
-| 2/1/2019 | [Piani e servizi idonei](/FastTrack/m365-eligible-services-and-plans) | modificato |
-| 2/1/2019 | [Vantaggio FastTrack Center per Microsoft 365](/FastTrack/m365-fasttrack-benefit-overview) | modificato |
-| 2/1/2019 | [Migrazione dei dati](/FastTrack/o365-data-migration) | modificato |
-| 2/1/2019 | [Appendice B - Ulteriore vantaggio di FastTrack Center](/FastTrack/o365-fasttrack-additional-benefits) | modificato |
-| 2/1/2019 | [FastTrack Center Benefit per Office 365](/FastTrack/o365-fasttrack-benefit-for-office-365) | modificato |
-| 2/1/2019 | [Informazioni generali su FastTrack Center Benefit](/FastTrack/o365-fasttrack-benefit-overview) | modificato |
-| 2/1/2019 | [Il processo FastTrack](/FastTrack/o365-fasttrack-process) | modificato |
-| 2/1/2019 | [Responsabilità di FastTrack](/FastTrack/o365-fasttrack-responsibilities) | modificato |
-| 2/1/2019 | [Appendice A: Migrazione da IBM Domino a Exchange Online](/FastTrack/o365-from-ibm-domino-to-exchange-online) | modificato |
-| 2/1/2019 | [Appendice C - Contratto di società in affari HIPAA di FastTrack Center](/FastTrack/o365-hipaa-business-associate-agreement) | modificato |
-| 2/1/2019 | [Fasi del processo di onboarding e migrazione](/FastTrack/o365-onboarding-and-migration) | modificato |
-| 2/1/2019 | [Aspettative sull'ambiente di origine](/FastTrack/o365-source-environment-expectations) | modificato |
-| 2/1/2019 | [Responsabilità dell'utente](/FastTrack/o365-your-responsibilities) | modificato |
-| 2/1/2019 | [Responsabilità di FastTrack per il governo degli Stati Uniti di Office 365](/FastTrack/us-gov-appendix-fasttrack-responsibilities) | modificato |
-| 2/1/2019 | [Fasi di onboarding e migrazione per Office 365 US Government](/FastTrack/us-gov-appendix-onboarding-and-migration) | modificato |
-| 2/1/2019 | [Appendice D - Informazioni generali su FastTrack Center Benefit per Office 365 US Government](/FastTrack/us-gov-appendix-overview) | modificato |
-| 2/1/2019 | [Aspettative dell'ambiente di origine per Office 365 US Government](/FastTrack/us-gov-appendix-source-environment-expectations) | modificato |
-| 2/1/2019 | [Responsabilità del governo degli Stati Uniti di Office 365](/FastTrack/us-gov-appendix-your-responsibilities) | modificato |
-| 2/1/2019 | [Assistenza offerta](/FastTrack/win-10-daa-assistance-offered) | modificato |
-| 2/1/2019 | [Desktop App Assure](/FastTrack/win-10-desktop-app-assure) | modificato |
-| 2/1/2019 | [FastTrack Center Benefit per Windows 10](/FastTrack/win-10-fasttrack-benefit-for-windows-10) | modificato |
-
-
-## <a name="week-of-february-25-2019"></a>Settimana del 25 febbraio 2019
-
-
-| Data di pubblicazione |Titolo dell'argomento | Modifica |
-|------|------------|--------|
-| 3/1/2019 | [FastTrack Center Benefit per Enterprise Mobility + Security (EMS)](/FastTrack/ems-fasttrack-benefit-for-ems) | aggiunto |
-| 3/1/2019 | [Panoramica](/FastTrack/ems-fasttrack-benefit-overview) | aggiunto |
-| 3/1/2019 | [Processo di FastTrack](/FastTrack/ems-fasttrack-process) | aggiunto |
-| 3/1/2019 | [Responsabilità di FastTrack](/FastTrack/ems-fasttrack-responsibilities) | aggiunto |
-| 3/1/2019 | [Fasi di onboarding e migrazione](/FastTrack/ems-onboarding-phases) | aggiunto |
-| 3/1/2019 | [Aspettative dell'ambiente di origine](/FastTrack/ems-source-environment-expectations) | aggiunto |
-| 3/1/2019 | [Responsabilità dell'utente](/FastTrack/ems-your-responsibilities) | aggiunto |
-| 3/1/2019 | [Piani e servizi idonei](/FastTrack/m365-eligible-services-and-plans) | modificato |
-| 3/1/2019 | [Vantaggio FastTrack Center per Microsoft 365](/FastTrack/m365-fasttrack-benefit-overview) | modificato |
-| 3/1/2019 | [Migrazione dei dati](/FastTrack/o365-data-migration) | modificato |
-| 3/1/2019 | [Appendice B - Ulteriore vantaggio di FastTrack Center](/FastTrack/o365-fasttrack-additional-benefits) | modificato |
-| 3/1/2019 | [FastTrack Center Benefit per Office 365](/FastTrack/o365-fasttrack-benefit-for-office-365) | modificato |
-| 3/1/2019 | [Informazioni generali su FastTrack Center Benefit](/FastTrack/o365-fasttrack-benefit-overview) | modificato |
-| 3/1/2019 | [Il processo FastTrack](/FastTrack/o365-fasttrack-process) | modificato |
-| 3/1/2019 | [Responsabilità di FastTrack](/FastTrack/o365-fasttrack-responsibilities) | modificato |
-| 3/1/2019 | [Appendice A: Migrazione da IBM Domino a Exchange Online](/FastTrack/o365-from-ibm-domino-to-exchange-online) | modificato |
-| 3/1/2019 | [Appendice C - Contratto di società in affari HIPAA di FastTrack Center](/FastTrack/o365-hipaa-business-associate-agreement) | modificato |
-| 3/1/2019 | [Fasi del processo di onboarding e migrazione](/FastTrack/o365-onboarding-and-migration) | modificato |
-| 3/1/2019 | [Aspettative sull'ambiente di origine](/FastTrack/o365-source-environment-expectations) | modificato |
-| 3/1/2019 | [Responsabilità dell'utente](/FastTrack/o365-your-responsibilities) | modificato |
-| 3/1/2019 | [Responsabilità di FastTrack per il governo degli Stati Uniti di Office 365](/FastTrack/us-gov-appendix-fasttrack-responsibilities) | modificato |
-| 3/1/2019 | [Fasi di onboarding e migrazione per Office 365 US Government](/FastTrack/us-gov-appendix-onboarding-and-migration) | modificato |
-| 3/1/2019 | [Appendice D - Informazioni generali su FastTrack Center Benefit per Office 365 US Government](/FastTrack/us-gov-appendix-overview) | modificato |
-| 3/1/2019 | [Aspettative dell'ambiente di origine per Office 365 US Government](/FastTrack/us-gov-appendix-source-environment-expectations) | modificato |
-| 3/1/2019 | [Responsabilità del governo degli Stati Uniti di Office 365](/FastTrack/us-gov-appendix-your-responsibilities) | modificato |
-| 3/1/2019 | [Assistenza offerta](/FastTrack/win-10-daa-assistance-offered) | modificato |
-| 3/1/2019 | [Desktop App Assure](/FastTrack/win-10-desktop-app-assure) | modificato |
-| 3/1/2019 | [FastTrack Center Benefit per Windows 10](/FastTrack/win-10-fasttrack-benefit-for-windows-10) | modificato |
+| 4/1/2019 | [FastTrack Center Benefit per Enterprise Mobility + Security (EMS)](/FastTrack/ems-fasttrack-benefit-for-ems) | modificato |
+| 4/1/2019 | [Panoramica](/FastTrack/ems-fasttrack-benefit-overview) | modificato |
+| 4/1/2019 | [Processo di FastTrack](/FastTrack/ems-fasttrack-process) | modificato |
+| 4/1/2019 | [Responsabilità di FastTrack](/FastTrack/ems-fasttrack-responsibilities) | modificato |
+| 4/1/2019 | [Fasi del processo di onboarding e migrazione](/FastTrack/ems-onboarding-phases) | modificato |
+| 4/1/2019 | [Aspettative dell'ambiente di origine](/FastTrack/ems-source-environment-expectations) | modificato |
+| 4/1/2019 | [Responsabilità dell'utente](/FastTrack/ems-your-responsibilities) | modificato |
+| 4/1/2019 | [Piani e servizi idonei](/FastTrack/m365-eligible-services-and-plans) | modificato |
+| 4/1/2019 | [FastTrack Center Benefit per Microsoft 365](/FastTrack/m365-fasttrack-benefit-overview) | modificato |
+| 4/1/2019 | [Migrazione dei dati](/FastTrack/o365-data-migration) | modificato |
+| 4/1/2019 | [Appendice B: Ulteriore vantaggio di FastTrack Center](/FastTrack/o365-fasttrack-additional-benefits) | modificato |
+| 4/1/2019 | [Vantaggio FastTrack Center per Office 365](/FastTrack/o365-fasttrack-benefit-for-office-365) | modificato |
+| 4/1/2019 | [Informazioni generali su FastTrack Center Benefit](/FastTrack/o365-fasttrack-benefit-overview) | modificato |
+| 4/1/2019 | [Il processo FastTrack](/FastTrack/o365-fasttrack-process) | modificato |
+| 4/1/2019 | [Responsabilità di FastTrack](/FastTrack/o365-fasttrack-responsibilities) | modificato |
+| 4/1/2019 | [Appendice A: Migrazione da IBM Domino a Exchange Online](/FastTrack/o365-from-ibm-domino-to-exchange-online) | modificato |
+| 4/1/2019 | [Appendice C - contratto di società in affari HIPAA per FastTrack Center](/FastTrack/o365-hipaa-business-associate-agreement) | modificato |
+| 4/1/2019 | [Fasi del processo di onboarding e migrazione](/FastTrack/o365-onboarding-and-migration) | modificato |
+| 4/1/2019 | [Previsioni dell'ambiente di origine](/FastTrack/o365-source-environment-expectations) | modificato |
+| 4/1/2019 | [Responsabilità dell'utente](/FastTrack/o365-your-responsibilities) | modificato |
+| 4/1/2019 | [Responsabilità di FastTrack per il governo degli Stati Uniti di Office 365](/FastTrack/us-gov-appendix-fasttrack-responsibilities) | modificato |
+| 4/1/2019 | [Fasi di onboarding e migrazione per Office 365 US Government](/FastTrack/us-gov-appendix-onboarding-and-migration) | modificato |
+| 4/1/2019 | [Appendice D - Informazioni generali su FastTrack Center Benefit per Office 365 US Government](/FastTrack/us-gov-appendix-overview) | modificato |
+| 4/1/2019 | [Aspettative dell'ambiente di origine per Office 365 US Government](/FastTrack/us-gov-appendix-source-environment-expectations) | modificato |
+| 4/1/2019 | [Responsabilità del governo degli Stati Uniti di Office 365](/FastTrack/us-gov-appendix-your-responsibilities) | modificato |
+| 4/1/2019 | [Assistenza offerta](/FastTrack/win-10-daa-assistance-offered) | modificato |
+| 4/1/2019 | [Desktop App Assure](/FastTrack/win-10-desktop-app-assure) | modificato |
+| 4/1/2019 | [Vantaggio FastTrack Center per Windows 10](/FastTrack/win-10-fasttrack-benefit-for-windows-10) | modificato |
