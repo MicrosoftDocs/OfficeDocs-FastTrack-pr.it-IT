@@ -3,19 +3,19 @@ title: Fasi di onboarding e migrazione per Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avviare, valutare, correggere e abilitare. È possibile seguire queste fasi con una fase di migrazione dei dati facoltativa, come illustrato nella figura seguente."
-ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 8be691ee3a83e7dacea2d287460642c37c461ab3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016984"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513649"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
 
@@ -136,7 +136,7 @@ Per Skype for Business Online, viene fornito materiale sussidiario per:
 - Configurazione DNS.    
 - Creare account per qualsiasi dispositivo del sistema chat room.    
 - Distribuire un client Skype for Business online supportato.   
-- Stabilire la configurazione del server di dominio diviso tra l'ambiente Lync 2010, Lync 2013 o Skype for Business Server locale e il tenant di Skype for business online (se applicabile).
+- Stabilire la configurazione del server di dominio diviso tra l'ambiente Lync 2010, Lync 2013 o Skype for 2015 Business Server locale e il tenant di Skype for business online (se applicabile).
 - Abilitazione dei piani di chiamata, Skype meeting broadcast e sistema telefonico e piani di chiamata (nei mercati disponibili – non disponibile nei piani GCC High o DoD). 
     
 ![Passaggi onboarding di Lync durante la fase_1 di abilitazione](media/O365-Onboarding-Enable-Lync.png)
@@ -151,7 +151,7 @@ Per Skype for Business Online, viene fornito materiale sussidiario per:
 Per Microsoft StaffHub viene fornito materiale sussidiario per: 
 - Conferma dei requisiti minimi.   
 - Configurazione delle porte del firewall.   
-- Configurazione DNS.  
+- Configurazione di DNS.  
 - Conferma dell'abilitazione di Microsoft Teams sul tenant Office 365.    
 - Abilitazione o disabilitazione delle licenze utente.
     

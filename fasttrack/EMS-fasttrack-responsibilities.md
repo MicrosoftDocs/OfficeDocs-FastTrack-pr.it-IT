@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016912"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513835"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -140,7 +140,7 @@ Fornire indicazioni sulla configurazione:
 
 - Sincronizzazione della directory di Azure AD Connect (con password writeback e sincronizzazione hash delle password).
 
-  - ReImpostazione della password di Azure Active Directory Self Service (SSPR).
+  - Reimpostazione della password di Azure Active Directory Self Service (SSPR).
 
   - Autenticazione a più fattori di Azure.
 
@@ -275,11 +275,27 @@ Fornire indicazioni su:
 
     -   Registrazione di dispositivi Windows 10 a Intune.
 
-- Abilitare la coGestione nella console di Configuration Manager.
+- Abilitare la cogestione nella console di Configuration Manager.
 
 - Passare i carichi di lavoro a Intune.
 
 - Monitorare l'attività di cogestione nell'ambiente.
+
+### <a name="enable-phase--azure-information-protection"></a>Fase di abilitazione – Azure Information Protection
+
+Fornire il supporto per: 
+
+- Clienti per classificare e etichettare automaticamente le informazioni nelle app di Office (come Word, PowerPoint, Excel e Outlook) in esecuzione su Windows e utilizzando il client Azure Information Protection. 
+- File a riposo tramite lo scanner di Azure Information Protection.
+- Messaggi di posta elettronica in transito tramite le regole del flusso di messaggi di Exchange Online. 
+
+Il supporto viene fornito anche ai clienti che desiderano applicare la protezione utilizzando Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME) e la prevenzione della perdita di dati (DLP). 
+
+Ai clienti vengono fornite indicazioni su come: 
+
+- Attivare e configurare il tenant.
+- Creare e configurare etichette e criteri.
+- Applicare la protezione delle informazioni ai documenti. 
 
 > [!NOTE]
 > **Vuoi saperne di più?** vedere [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).

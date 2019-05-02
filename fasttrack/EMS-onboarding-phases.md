@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/09/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e849f562316f3b8854dacf199889a2a8486b5bc
-ms.sourcegitcommit: 48d77313a4f035c81b9ad10bc2a415e1c7db23c5
+ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31767295"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513499"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
-Quando si utilizzano i [servizi idonei e si prevede](M365-eligible-services-and-plans.md) di ottenere Microsoft Azure Active Directory Premium e Microsoft Intune pronto per l'uso, sono presenti diverse fasi del processo. Nelle sezioni seguenti vengono descritte tutte le fasi del processo di onboarding.
+Quando si utilizzano i [servizi idonei e si prevede](M365-eligible-services-and-plans.md) di ottenere Microsoft Azure Active Directory Premium, Microsoft Intune e Azure Information Protection pronte per l'uso, sono presenti diverse fasi del processo. Nelle sezioni seguenti vengono descritte tutte le fasi del processo di onboarding.
 
 L'onboarding ha quattro fasi principali:
 
@@ -82,7 +82,7 @@ Una volta completate tutte le attività di correzione, il progetto viene spostat
 
 **Abilitare le funzionalità di fase-Core**
 
-L'onboarding di base prevede il provisioning di servizi e l'integrazione di identità e tenant. Sono inoltre disponibili passaggi per fornire una base per i servizi di onboarding online, ad esempio Azure AD Premium e Intune.
+L'onboarding di base prevede il provisioning di servizi e l'integrazione di identità e tenant. Sono inoltre disponibili passaggi per fornire una base per l'onboarding dei servizi online come Azure AD Premium, Intune e Azure Information Protection.
 
 ![Onboarding abilitare le funzionalità Phase-Core](./media/ft-enable-phase-core-01.png)
 
@@ -101,7 +101,7 @@ Per gli scenari di Azure AD Premium che includono la sincronizzazione delle iden
 
 La configurazione di Azure AD Premium include l'abilitazione delle caratteristiche seguenti:
 
--   ReImpostazione della password self-service di Azure Active Directory (SSPR).
+-   Reimpostazione della password self-service di Azure Active Directory (SSPR).
 
 -   Autenticazione a più fattori di Azure (Azure AMF).
 
@@ -199,7 +199,7 @@ FastTrack supporta i seguenti scenari di Autopilot:
 
 - **Self-service ibrido AAD:** I dispositivi si uniscono AD Active Directory locale e ad Azure AD e si iscrivono a Intune. Questo scenario è supportato quando si utilizzano Windows 10 1809 e le versioni più recenti.
 
-- **ProvisionIng automatico:** I dispositivi entrano automaticamente in Azure AD. Questo scenario è supportato quando si utilizzano Windows 1809 e le versioni più recenti.
+- **Provisioning automatico:** I dispositivi entrano automaticamente in Azure AD. Questo scenario è supportato quando si utilizzano Windows 1809 e le versioni più recenti.
 
     > [!IMPORTANT]
     > FastTrack non supporta gli scenari Autopilot iniziati da Configuration Manager.
@@ -269,6 +269,23 @@ FastTrack fornisce anche indicazioni su come guidare l'adozione corretta dei ser
 ![Attivazione della fase di onboarding-Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
 ![Abilitazione dell'onboarding fase-co-gestione](./media/ft-9-enable-phase-comanagement.png)
+
+#### <a name="enable-phase--azure-information-protection"></a>Fase di abilitazione – Azure Information Protection
+
+Azure Information Protection fornisce il supporto per: 
+
+- Clienti per classificare e etichettare automaticamente le informazioni nelle app di Office (come Word, PowerPoint, Excel e Outlook) in esecuzione su Windows e utilizzando il client Azure Information Protection. 
+- File a riposo tramite lo scanner di Azure Information Protection.
+- Messaggi di posta elettronica in transito tramite le regole del flusso di messaggi di Exchange Online. 
+
+Il supporto viene fornito anche ai clienti che desiderano applicare la protezione utilizzando Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME) e la prevenzione della perdita di dati (DLP). 
+
+Ai clienti vengono fornite indicazioni su come: 
+
+- Attivare e configurare il tenant.
+- Creare e configurare etichette e criteri.
+- Applicare la protezione delle informazioni ai documenti. 
+
 
 > [!NOTE]
 > **Vuoi saperne di più?** vedere [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).

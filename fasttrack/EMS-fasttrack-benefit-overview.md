@@ -5,29 +5,29 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 42d6c23dd4da1ed8071092ccf4cc045c5128d856
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016900"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513169"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Informazioni generali su FastTrack Center Benefit
 
-Con FastTrack Center benefit per Microsoft Azure Active Directory Premium e Microsoft Intune, è possibile lavorare in remoto con gli specialisti di FastTrack per preparare l'ambiente per l'utilizzo e per pianificare l'implementazione e l'utilizzo all'interno dell'organizzazione. Per ulteriori informazioni sull'idoneità, vedere [FastTrack Center benefit Process per Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
+Con FastTrack Center benefit per Microsoft Azure Active Directory Premium, Microsoft Intune e Azure Information Protection, è possibile lavorare in remoto con gli specialisti di FastTrack per preparare l'ambiente per l'utilizzo e per pianificare l'implementazione e l'utilizzo all'interno della propria organizzazione. Per ulteriori informazioni sull'idoneità, vedere [FastTrack Center benefit Process per Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 
 L'onboarding ha due componenti principali:
 
 -   Onboarding di **base** : attività necessarie per la configurazione tenant e l'integrazione con Azure Active Directory, se necessario. L'onboarding di base fornisce anche la linea di base per l'onboarding di altri servizi Microsoft Online idonei.
 
--   Onboarding dei **Servizi** -attività necessarie per configurare le varianti autonome del carico di lavoro EMS (Azure ad Premium e Intune).
+-   Onboarding dei **Servizi** -attività necessarie per configurare le varianti autonome del carico di lavoro EMS (Azure ad Premium, Intune e Azure Information Protection).
 
 Nel diagramma seguente vengono descritte le fasi di onboarding di alto livello per il vantaggio FastTrack Center.
 
