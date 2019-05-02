@@ -1,19 +1,19 @@
 ---
 layout: HubPage
 hide_bc: true
-title: Risorse e documentazione Microsoft FastTrack
-description: Informazioni su come Microsoft FastTrack consentono ai clienti di distribuzione di soluzioni basate su cloud Microsoft. I clienti con sottoscrizioni idonei per Microsoft 365, Azure o Dynamics 365 possono utilizzare FastTrack senza costi aggiuntivi per la durata del loro sottoscrizione.
+title: Documentazione e risorse di Microsoft FastTrack
+description: Informazioni su come Microsoft FastTrack può aiutare i clienti a distribuire soluzioni cloud Microsoft. I clienti che dispongono di abbonamenti idonei a Microsoft 365, Azure o Dynamics 365 possono utilizzare FastTrack senza costi aggiuntivi per la durata della sottoscrizione.
 ms.openlocfilehash: ae5a62824b074863bf2649fd8aa5e2c88d33c932
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "27406007"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513343"
 ---
 <div id="main" class="v2">
     <div class="container">
-        <h1>Risorse e documentazione Microsoft FastTrack</h1>
-        <p>Informazioni su come Microsoft FastTrack consentono ai clienti di distribuzione di soluzioni basate su cloud Microsoft. I clienti con sottoscrizioni idonei per Microsoft 365, Azure o Dynamics 365 possono utilizzare FastTrack senza costi aggiuntivi per la durata del loro sottoscrizione.</p>
+        <h1>Documentazione e risorse di Microsoft FastTrack</h1>
+        <p>Informazioni su come Microsoft FastTrack può aiutare i clienti a distribuire soluzioni cloud Microsoft. I clienti che dispongono di abbonamenti idonei a Microsoft 365, Azure o Dynamics 365 possono utilizzare FastTrack senza costi aggiuntivi per la durata della sottoscrizione.</p>
         <p></p>
         <ul class="pivots">
             <li>
@@ -57,8 +57,8 @@ ms.locfileid: "27406007"
                                         <div class="card">
                                             <div class="cardText">
                                                 <h3>FastTrack per Dynamics 365</h3>
-                                                <p><a href="https://docs.microsoft.com/dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365">Panoramica di engagement cliente</a></p>
-                                                <p><a href="https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview">Dynamics per le operazioni & Finance</a></p>
+                                                <p><a href="https://docs.microsoft.com/dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365">Panoramica sull'impegno dei clienti</a></p>
+                                                <p><a href="https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview">Dynamics per le operazioni di & Finance</a></p>
                                             </div>
                                         </div>
                                     </div>
