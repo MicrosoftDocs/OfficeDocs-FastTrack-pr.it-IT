@@ -3,19 +3,19 @@ title: Migrazione dei dati
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack forniscono linee guida sulla procedura di migrazione di dati a Office 365. Si tratta di un'opportunità offerta a tutti i clienti idonei con servizi Office 365 per Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: f000cd86aa49b335202dbd6d94a28c4888a6a8cf
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017080"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513751"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 
@@ -23,7 +23,7 @@ Gli esperti di FastTrack forniscono linee guida sulla procedura di migrazione di
   
 I servizi di migrazione dei dati descritti nella tabella seguente sono disponibili per i tenant di Office 365 con almeno 500 licenze.\*Ad esempio, si potrebbe disporre di dati nell'ambiente di origine da migrare a Office 365. Il vantaggio FastTrack Center include l'assistenza con l'integrazione dell'ambiente di origine per agevolare la migrazione dei contenuti.
   
-\*Se è stato acquistato o rinnovato un piano commerciale prima del 1/9/2017, 150 postazioni è il requisito minimo di postazioni durante il periodo di abbonamento corrente per ricevere il vantaggio della migrazione. Per i piani formativi, solo l'istituto di istruzione e il personale sono idonei per i servizi di migrazione. 
+\*Se è stato acquistato o rinnovato un piano commerciale prima del 1/9/2017, il requisito minimo di postazioni durante il periodo di abbonamento corrente per ricevere il vantaggio della migrazione è 150 postazioni. Per i piani formativi, solo le licenze a pagamento dell'istituto di istruzione e del personale sono idonee per i servizi di migrazione. 
   
 > [!NOTE]
 > I dati migrati tramite FastTrack possono essere trasferiti, archiviati ed elaborati in tutti i paesi in cui sono presenti sedi Microsoft (se non diversamente indicato nel proprio accordo FastTrack). I servizi FastTrack non sono progettati per i dati soggetti a particolari requisiti normativi o legali. 

@@ -3,19 +3,19 @@ title: Piani e servizi idonei
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
-ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016996"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513091"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
@@ -147,7 +147,7 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
 
 \*\*Per altre informazioni sul vantaggio FastTrack per il governo degli Stati Uniti, vedere [Office 365 US Government](https://aka.ms/aboutgovcloud).
 
-\*\*\*Utilizzabile per utenti con licenza di Skype for Business online e Microsoft Teams.
+\*\*\*Utilizzabile per utenti con licenza di Skype for Business online e Microsoft Teams. Richiede l'acquisto valido di Skype for Business Online o Microsoft Teams. 
 
 > [!NOTE]
 > L'idoneità per FastTrack Center Benefit si basa sull'acquisto di licenze a pagamento per i piani idonei indicati in precedenza. 
@@ -160,7 +160,7 @@ Per altre informazioni, vedere [FastTrack Center Benefit per Office 365](https:/
 |---------|---------|
 |**Enterprise Mobility + Security (EMS) in E3 o E5**       |   Disponibile per i servizi cloud idonei per i vantaggi FastTrack. In caso contrario, questo viene inoltrato a un esperto FastTrack o per una segnalazione partner.        |
 |**Microsoft Azure Active Directory Premium**     |  Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.       |
-|**Microsoft Azure Information Protection**    |  Disponibile per P2, come parte di E5 o come piano autonomo. In caso contrario, questo viene inoltrato a un esperto FastTrack o per una segnalazione partner.        |
+|**Microsoft Azure Information Protection**    |  Disponibile per P2, come parte di EMS E5 o come piano autonomo. In caso contrario, questo viene inoltrato a un esperto FastTrack o per una segnalazione partner.        |
 |**Microsoft Intune**    |   Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.      |
 |**Cloud Attach**     |    Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.     |
 |**Microsoft Intune per Education**     |  Idoneo se è stato acquistato come piano autonomo o come parte di A3 o A5.       |
