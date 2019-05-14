@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513499"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967985"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
@@ -77,7 +77,7 @@ In base alla configurazione corrente, viene fornito un piano di correzione che c
 
 Prima di iniziare la fase di attivazione, vengono verificati insieme i risultati delle attività di correzione per verificare che l'utente sia pronto a procedere.
 
-## <a name="enable-phase"></a>Fase di attivazione:
+## <a name="enable-phase"></a>Fase di attivazione
 Una volta completate tutte le attività di correzione, il progetto viene spostato sulla configurazione dell'infrastruttura di base per il consumo dei servizi e sul provisioning di ogni servizio cloud EMS idoneo.
 
 **Abilitare le funzionalità di fase-Core**
@@ -272,7 +272,7 @@ FastTrack fornisce anche indicazioni su come guidare l'adozione corretta dei ser
 
 #### <a name="enable-phase--azure-information-protection"></a>Fase di abilitazione – Azure Information Protection
 
-Azure Information Protection fornisce il supporto per: 
+Azure Information Protection fornisce indicazioni su: 
 
 - Clienti per classificare e etichettare automaticamente le informazioni nelle app di Office (come Word, PowerPoint, Excel e Outlook) in esecuzione su Windows e utilizzando il client Azure Information Protection. 
 - File a riposo tramite lo scanner di Azure Information Protection.

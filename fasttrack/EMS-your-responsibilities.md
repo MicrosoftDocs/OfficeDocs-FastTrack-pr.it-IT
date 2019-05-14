@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0fc6dc613c152f1050437535397f33cd1e8fa069
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ecd03448901c62acf4b131ce83748216fdf5f7
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513379"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967973"
 ---
 # <a name="your-responsibilities"></a>Responsabilità dell'utente
 
@@ -47,7 +47,7 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 
 -   Gestire la configurazione di rete, analisi, convalida della larghezza di banda, verifica e monitoraggio.
 
--   Gestire un processo di approvazione della gestione delle modifiche tecniche e la creazione della documentazione di supporto.
+-   Gestire un processo di approvazione della gestione delle modifiche tecniche e creare documentazione basata sulle indicazioni.
 
 -   Modifica del modello operativo e delle guide operative.
 
@@ -101,7 +101,7 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 
 -   Partecipare alle riunioni del checkpoint.
 
-## <a name="enable-phase"></a>Fase di attivazione:
+## <a name="enable-phase"></a>Fase di attivazione
 
 -   Condivisione dello schermo con il team di FastTrack se è necessaria una guida per l'esecuzione di strumenti di valutazione per l'ambiente, lo SME o le sottoscrizioni del servizio cloud individuali (se si sceglie di). Gestire le risorse in base alle esigenze.
 

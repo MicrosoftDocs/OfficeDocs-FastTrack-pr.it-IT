@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 42d6c23dd4da1ed8071092ccf4cc045c5128d856
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 46d9720545a2b92fbe4318f676308504c53ec315
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513169"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967937"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Informazioni generali su FastTrack Center Benefit
 
@@ -35,17 +35,17 @@ Nel diagramma seguente vengono descritte le fasi di onboarding di alto livello p
 
 Di seguito viene illustrato il funzionamento del processo:
 
-- Il centro FastTrack tenta di contattare l'utente per offrire assistenza onboarding dopo aver acquistato le licenze di un servizio idoneo. È inoltre possibile richiedere assistenza dal [centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) se si è pronti a distribuire questi servizi per la propria organizzazione. Per richiedere assistenza, accedere al [centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) con l'account aziendale o dell'Istituto di istruzione, accedere al dashboard, espandere il collegamento **serve assistenza?** nell'angolo in basso a destra della pagina e quindi seguire le istruzioni visualizzate per completare la richiesta. Dopo l'avvio del supporto per l'onboarding, verrà impostata una pianificazione delle riunioni online.
+- Il centro FastTrack tenta di contattare l'utente per offrire assistenza onboarding dopo aver acquistato le licenze di un servizio idoneo. È inoltre possibile richiedere assistenza dal [centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) se si è pronti a distribuire questi servizi per la propria organizzazione. Per richiedere assistenza, accedere al [centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) con l'account aziendale o dell'Istituto di istruzione, accedere al dashboard, espandere il collegamento **serve assistenza?** nell'angolo in basso a destra della pagina e quindi seguire le istruzioni visualizzate per completare la richiesta. Una volta avviato l'onboarding, verrà impostata una pianificazione delle riunioni online.
 
 -   Il team di FastTrack aiuta in primo luogo con le funzionalità di base (comuni per tutti i servizi online Microsoft) e quindi con l'onboarding di ogni servizio idoneo.
 
-Tutto il supporto per l'onboarding viene fornito in remoto dal personale FastTrack assegnato:
+Tutte le indicazioni sull'onboarding vengono fornite in remoto dal personale FastTrack assegnato:
 
 -   Il team di FastTrack assiste in remoto con varie attività di onboarding utilizzando una combinazione di strumenti, documentazione e linee guida.
 
--   Il supporto per l'onboarding viene fornito dal centro FastTrack ed è disponibile durante l'orario di ufficio normale per una determinata area geografica.
+-   Le linee guida per l'onboarding sono fornite dal centro FastTrack ed è disponibile durante l'orario di ufficio normale per una determinata area geografica.
 
--   Il supporto per l'onboarding è disponibile in cinese tradizionale, cinese semplificato (le risorse parlano solo mandarino), inglese, francese, tedesco, italiano, giapponese, coreano, portoghese (Brasile), spagnolo, tailandese e vietnamita.
+-   L'assistenza per l'onboarding è disponibile in cinese tradizionale, cinese semplificato (le risorse parlano solo mandarino), inglese, francese, tedesco, italiano, giapponese, coreano, portoghese (Brasile), spagnolo, tailandese e vietnamita.
 
 -   Il team di FastTrack può lavorare direttamente con l'utente o con il rappresentante.
 
