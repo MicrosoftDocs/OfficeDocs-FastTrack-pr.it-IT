@@ -3,19 +3,19 @@ title: Fasi di onboarding e migrazione per Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avviare, valutare, correggere e abilitare. È possibile seguire queste fasi con una fase di migrazione dei dati facoltativa, come illustrato nella figura seguente."
-ms.openlocfilehash: 8be691ee3a83e7dacea2d287460642c37c461ab3
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: df213cb579aeff338345b24530ab78a8a84a9d95
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513649"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673847"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
 
@@ -151,7 +151,7 @@ Per Skype for Business Online, viene fornito materiale sussidiario per:
 Per Microsoft StaffHub viene fornito materiale sussidiario per: 
 - Conferma dei requisiti minimi.   
 - Configurazione delle porte del firewall.   
-- Configurazione di DNS.  
+- Configurazione DNS.  
 - Conferma dell'abilitazione di Microsoft Teams sul tenant Office 365.    
 - Abilitazione o disabilitazione delle licenze utente.
     

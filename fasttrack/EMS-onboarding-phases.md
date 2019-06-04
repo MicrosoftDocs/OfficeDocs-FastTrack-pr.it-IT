@@ -5,19 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
+ms.openlocfilehash: 3725a730a5191bfbe38958403b88ace00ed5bd02
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967985"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673563"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
@@ -272,20 +274,16 @@ FastTrack fornisce anche indicazioni su come guidare l'adozione corretta dei ser
 
 #### <a name="enable-phase--azure-information-protection"></a>Fase di abilitazione – Azure Information Protection
 
-Azure Information Protection fornisce indicazioni su: 
-
-- Clienti per classificare e etichettare automaticamente le informazioni nelle app di Office (come Word, PowerPoint, Excel e Outlook) in esecuzione su Windows e utilizzando il client Azure Information Protection. 
-- File a riposo tramite lo scanner di Azure Information Protection.
-- Messaggi di posta elettronica in transito tramite le regole del flusso di messaggi di Exchange Online. 
-
-Il supporto viene fornito anche ai clienti che desiderano applicare la protezione utilizzando Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME) e la prevenzione della perdita di dati (DLP). 
-
 Ai clienti vengono fornite indicazioni su come: 
 
 - Attivare e configurare il tenant.
 - Creare e configurare etichette e criteri.
 - Applicare la protezione delle informazioni ai documenti. 
+- Classificare e contrassegnare automaticamente le informazioni nelle app di Office (come Word, PowerPoint, Excel e Outlook) in esecuzione su Windows e utilizzando il client Azure Information Protection.
+- Utilizzare i file a riposo utilizzando lo scanner di Azure Information Protection.
+- Monitorare i messaggi di posta elettronica in transito tramite regole del flusso di posta di Exchange Online.
 
+Le linee guida vengono fornite anche ai clienti che desiderano applicare la protezione utilizzando Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME) e la prevenzione della perdita di dati (DLP).
 
 > [!NOTE]
 > **Vuoi saperne di più?** vedere [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).
