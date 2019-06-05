@@ -3,19 +3,19 @@ title: Piani e servizi idonei
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
-ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513091"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673607"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
@@ -63,6 +63,7 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
 - Microsoft StaffHub
 - Windows 10
 - Azure Active Directory Premium
+- Azure Information Protection
 - Microsoft Intune
     
 ## <a name="eligible-microsoft-365-plans"></a>Piani di Microsoft 365 idonei
@@ -160,7 +161,7 @@ Per altre informazioni, vedere [FastTrack Center Benefit per Office 365](https:/
 |---------|---------|
 |**Enterprise Mobility + Security (EMS) in E3 o E5**       |   Disponibile per i servizi cloud idonei per i vantaggi FastTrack. In caso contrario, questo viene inoltrato a un esperto FastTrack o per una segnalazione partner.        |
 |**Microsoft Azure Active Directory Premium**     |  Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.       |
-|**Microsoft Azure Information Protection**    |  Disponibile per P2, come parte di EMS E5 o come piano autonomo. In caso contrario, questo viene inoltrato a un esperto FastTrack o per una segnalazione partner.        |
+|**Microsoft Azure Information Protection**    |  Disponibile per P2, come parte di E5 o come piano autonomo. Disponibile per i servizi cloud idonei ai vantaggi di FastTrack. Per i servizi cloud P1, FastTrack condivide la Guida di auto distribuzione.       |
 |**Microsoft Intune**    |   Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.      |
 |**Cloud Attach**     |    Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.     |
 |**Microsoft Intune per Education**     |  Idoneo se è stato acquistato come piano autonomo o come parte di A3 o A5.       |
