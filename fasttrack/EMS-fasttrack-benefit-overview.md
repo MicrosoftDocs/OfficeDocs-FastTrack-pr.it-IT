@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ba29357695855236dbe0583e7667998fdf940bd0
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: ffdbfaf06b6d96bc5276711385ab5b2a0427b6e6
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673320"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410803"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Informazioni generali su FastTrack Center Benefit
 
@@ -52,7 +52,7 @@ Tutte le indicazioni dell’onboarding vengono fornite in remoto dal personale d
 -   Il team di FastTrack può lavorare direttamente con l'utente o con il rappresentante.
 
 > [!NOTE]
-> Per saperne di più** consultare [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
+> **Per saperne di più** consultare [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Passaggi successivi
 

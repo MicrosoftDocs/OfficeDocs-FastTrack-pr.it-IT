@@ -3,7 +3,7 @@ title: Informazioni generali su FastTrack Center Benefit
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Con FastTrack Center Benefit per Office 365, è possibile lavorare in remoto con gli esperti di FastTrack per avere il proprio ambiente Office 365 pronto per l'uso e la pianificazione dell'implementazione e dell'utilizzo all'interno dell'organizzazione. Per ulteriori informazioni sull'idoneità, vedere FastTrack Center Benefit per Office 365.
-ms.openlocfilehash: 9c686d7d007fcc6d661ffe81050c96122989a899
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 6975bacbf9648ba0143870a2de4a14d6c64ba31f
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673456"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410839"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Informazioni generali su FastTrack Center Benefit
 
