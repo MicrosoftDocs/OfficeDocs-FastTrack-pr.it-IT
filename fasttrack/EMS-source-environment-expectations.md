@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,16 +14,16 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c3cbc52811bfdbb6780fefce58e8a58f7ad78c14
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 2b4a24dad8319abd723ce32d1cefa6eb3b440cfa
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673565"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410815"
 ---
 # <a name="source-environment-expectations"></a>Previsioni dell'ambiente di origine
 
-Se si usa il FastTrack Center Benefit per Enterprise Mobility + Security (EMS)](EMS-fasttrack-benefit-for-EMS.md) per avere Microsoft Azure Active Directory Premium, Microsoft Intune e Azure Information Protection pronti per l'uso, l'ambiente deve essere conforme alle previsioni descritte nelle sezioni seguenti.
+Se si usa il [FastTrack Center Benefit per Enterprise Mobility + Security (EMS)](EMS-fasttrack-benefit-for-EMS.md) per avere Microsoft Azure Active Directory Premium, Microsoft Intune e Azure Information Protection pronti per l'uso, l'ambiente deve essere conforme alle previsioni descritte nelle sezioni seguenti.
 
 È possibile che si abbia già Active Directory locale nell'organizzazione da integrare con Enterprise Mobility + Security (EMS) o uno dei suoi singoli servizi che usano gestione delle identità avanzate da una singola console. Il FastTrack Center Benefit per Enterprise Mobility + Security (EMS) offre assistenza per l'integrazione di Azure Active Directory con l'ambiente Active Directory locale.
 
@@ -38,7 +38,7 @@ Nella tabella seguente vengono mostrate le previsioni per l'ambiente di origine 
 |Intune integrato con Windows Defender Advanced Threat Protection (Windows Defender ATP)|L'abbonamento di Windows Defender ATP è stato attivato e configurato in base ai requisiti di sicurezza aziendali.<br /><br />**Nota**: l’offerta del servizio di FastTrack fornisce assistenza sull’integrazione di Intune con Windows Defender ATP e di creare criteri di conformità dei dispositivi in base alla valutazione del livello di rischio di Windows 10. L’offerta del servizio di FastTrack non fornisce assistenza per l'acquisto, la gestione delle licenze, l'attivazione o l'uso di Windows Defender ATP e della relativa console del Centro sicurezza. |
 |Windows Autopilot|Gli amministratori IT sono responsabili della registrazione dei propri dispositivi nell'organizzazione, in quanto il fornitore hardware carica gli ID hardware per conto degli amministratori o caricandoli loro stessi nel servizio Windows Autopilot. |
 |Distribuire Outlook per iOS e Android in modo sicuro con Intune|<br /><br />- Identità dell’utente abilitate in Azure AD per Office 365.<br />- Exchange Online o Exchange ibrido configurato con le licenze utente assegnate.<br />|
-|Azure Information Protection (P2 o EMS E5)|<br /><br />I clienti dovrebbero già sapere: <br /> - Utilizzare Azure AD.<br />- Utilizzare Windows o iOS (altri sistemi operativi non sono presenti nell'ambito).<br /> - Utilizzare i client di Office più recenti di Office 2010 SP2 che non si basano su Office Online come client principale. <br /> - Disporre dei principali percorsi di condivisione file.  <br /> - Aver aggiornato Active Directory Rights Management Services (AD RMS) <br /> - Avere tassonomia di classificazione approvata. <br /> - Comprendere qualsiasi restrizione normativa per la gestione delle chiavi protette. <br />|
+|Azure Information Protection (P2 o EMS E5)|<br /><br />I clienti dovrebbero già sapere: <br /> - Utilizzare Azure AD.<br />- Usare Windows o iOS (non sono previsti altri sistemi operativi).<br /> - Usare client di Office più recenti di Office 2010 SP2 che non si basano su Office come client principale. <br /> - Disporre dei principali percorsi di condivisione file.  <br /> - Aver aggiornato Active Directory Rights Management Services (AD RMS) <br /> - Avere tassonomia di classificazione approvata. <br /> - Comprendere qualsiasi restrizione normativa per la gestione delle chiavi protette. <br />|
 |Scanner di Azure Information Protection|<br /><br /> I clienti dovrebbero già sapere: <br /> - Utilizzare Windows Server 2012 R2 o Windows Server 2016.<br /> - Disporre di una connessione Internet. <br /> - Avere una versione successiva a Microsoft SQL Server 2012 in un'istanza locale o remota.  <br /> - Disporre di un account di servizio creato per Active Directory locale e sincronizzato con Azure AD.  <br /> - Aver scaricato AzInfoProtection.exe. <br /> - Avere etichette configurate per la classificazione/protezione automatica.<br />|
 
 > [!NOTE]
@@ -47,4 +47,4 @@ Nella tabella seguente vengono mostrate le previsioni per l'ambiente di origine 
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-FastTrack Center Benefit per le fasi di onboarding EMS](EMS-onboarding-phases.md)
+[FastTrack Center Benefit per le fasi di onboarding EMS](EMS-onboarding-phases.md)

@@ -3,19 +3,19 @@ title: Piani e servizi idonei
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
-ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 5ed941e536a548aadc20117e45f66c141e81e4c7
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673607"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410827"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
@@ -128,7 +128,7 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
     
  **OneDrive for Business**
   
-- OneDrive for Business con Office Online 
+- OneDrive for Business con Office
 - OneDrive for Business Piano 1
 - OneDrive for Business Piano 2
     
