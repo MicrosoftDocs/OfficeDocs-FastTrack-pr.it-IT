@@ -1,11 +1,11 @@
 ---
 title: Responsabilità dell'utente
-description: Responsabilità del cliente quando si utilizza il vantaggio FastTrack Center
+description: Responsabilità del cliente quando usa il FastTrack Center Benefit
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 67634a552ac731b2b2fa8b6d594bd870d79d68ef
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
-ms.translationtype: MT
+ms.openlocfilehash: e9dad847ebb41be6d00791bd1415622228811a6d
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673643"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410743"
 ---
 # <a name="your-responsibilities"></a>Responsabilità dell'utente
 
@@ -27,9 +27,9 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 
 ## <a name="general-responsibilities"></a>Responsabilità generali
 
--   Offrire miglioramenti e integrazioni al tenant Enterprise Mobility + Security (EMS) oltre le opzioni configurabili elencate qui.
+-   Offrire miglioramenti e integrazioni al tenant di Enterprise Mobility + Security (EMS) oltre le opzioni configurabili elencate qui. 
 
--   Fornire programma generale e gestione dei progetti delle risorse.
+-   Fornire un programma generale e la gestione dei progetti delle risorse.
 
 -   Fornire comunicazioni degli utenti finali, documentazione, formazione e gestione delle modifiche.
 
@@ -43,53 +43,53 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 
 -   Approvigionare, installare e configurare i software.
 
--   Gestione, configurazione e applicazione dei criteri di sicurezza oltre a quelli creati per la configurazione e la funzionalità di base dei servizi EMS.
+-   Gestire, configurare e applicare criteri di sicurezza oltre a quelli creati per la configurazione e le funzionalità di base dei servizi EMS.
 
--   Registrare gli account utente oltre quelli utilizzati per testare la configurazione e la funzionalità di base dei servizi di Microsoft Azure Active Directory EMS.
+-   Registrare gli account utente oltre quelli usati per testare la configurazione e le funzionalità di base dei servizi EMS di Microsoft Azure Active Directory.
 
--   Gestire la configurazione di rete, analisi, convalida della larghezza di banda, verifica e monitoraggio.
+-   Gestire la configurazione di rete, l’analisi, la convalida della larghezza di banda, la verifica e il monitoraggio. 
 
--   Gestire un processo di approvazione della gestione delle modifiche tecniche e creare documentazione basata sulle indicazioni.
+-   Gestire il processo di approvazione della gestione di una modifica tecnica e creare la documentazione in base alle linee guida.
 
--   Modifica del modello operativo e delle guide operative.
+-   Modifica delle guide operative e dei modelli operativi.
 
--   Configurare l'autenticazione a più fattori locale.
+-   Configurare l’autenticazione a più fattori locale.
 
--   Disattivare e rimuovere ambienti e servizi di origine usati in precedenza.
+-   Ritirare e rimuovere gli ambienti e i servizi di origine usati in precedenza.
 
 -   Creare e gestire l'ambiente di testing.
 
--   Installare Service Pack/aggiornamenti cumulativi e altri aggiornamenti necessari nei server dell'infrastruttura.
+-   Installare i Service Pack / gli aggiornamenti cumulativi e altri aggiornamenti necessari sui server dell'infrastruttura.
 
 -   Fornire e configurare tutti i certificati SSL (Secure Sockets Layer) pubblici.
 
--   Impostare o aggiornare Configuration Manager ai requisiti minimi per l'integrazione con Microsoft Intune con Configuration Manager.
+-   Configurare o aggiornare Configuration Manager ai requisiti minimi per l'integrazione di Microsoft Intune con Configuration Manager.
 
 -   Se necessario per la distribuzione dei profili Wi-Fi e VPN con Intune, fornire e configurare l'autorità di certificazione, le infrastrutture Wi-Fi e VPN in base alle esigenze.
 
--   Scrivere l'istruzione dei termini di utilizzo (TOU) dell'organizzazione da configurare e visualizzare nel portale aziendale di Microsoft Intune a cui gli utenti finali possono accedere.
+-   Scrivere le Condizioni d'uso dell’organizzazione da configurare e visualizzare nel portale aziendale di Microsoft Intune a cui gli utenti finali possono accedere.
 
--   Aggiornare il server del sito di Configuration Manager e i client di gestione della configurazione alle versioni di compilazione più recenti (se necessario).
+-   Aggiornare il server del sito di Configuration Manager e i client di Configuration Manager alle versioni più recenti (se necessario).
 
--   Iscriversi a abbonamenti di terze parti come la difesa dalle minacce per dispositivi mobili, le spese Telecom e così via quando è necessaria l'integrazione con Microsoft Intune.
+-   Quando è necessaria l'integrazione con Microsoft Intune, iscriversi ad abbonamenti di terze parti, ad esempio Mobile Threat Defense, spese per telecomunicazioni ecc.
 
--   Iscrizione a Team Viewer, Mobile Threat Defense e Telecom Expense Management Solution subscriptions.
+-   Iscriversi agli abbonamenti a Team Viewer, Threat Defense e soluzione di gestione delle spese per telecomunicazioni.
 
--   Iscriversi per le licenze di Windows Defender Advanced Threat Protection. (Licenze Windows E5 o Microsoft E5).
+-   Abbonarsi alle licenze di Windows Defender Advanced Threat Protection. (Licenze Windows E5 o Microsoft E5).
 
 ## <a name="initiate-phase"></a>Fase di avvio
 
 -   Collaborare con il team di FastTrack per avviare l'onboarding dei servizi idonei.
 
--   Partecipare alla riunione di Kick-off di engagement, gestire e guidare i partecipanti dell'organizzazione e confermare le sequenze temporali di correzione.
+-   Participare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.
 
 ## <a name="assess-phase"></a>Fase di valutazione
 
--   Identificare le parti interessate, tra cui un Project Manager, per completare le attività di valutazione necessarie.
+-   Identificare le parti interessate, tra cui un project manager, per completare le attività di valutazione necessarie.
 
--   Condivisione dello schermo con il team di FastTrack se è necessaria una guida per l'esecuzione di strumenti di valutazione per l'ambiente, lo SME o le sottoscrizioni del servizio cloud individuali (se si sceglie di).
+-   Condividere lo schermo con il team di FastTrack, se sono necessarie indicazioni nel caso si sia scelto di eseguire gli strumenti di valutazione dell’ambiente, di EMS o delle relative singole sottoscrizioni al servizio cloud.
 
--   Partecipare alle riunioni per creare l'elenco di controllo di correzione e contribuire al piano generale, tra cui l'infrastruttura, la rete, l'amministrazione, la preparazione della sincronizzazione della directory, la sicurezza della rete e gli argomenti relativi all'identità federata.
+-   Partecipare alle riunioni per creare l'elenco di controllo delle correzioni e per contribuire al piano generale, che include argomenti quali: infrastruttura, rete, amministrazione, preparazione alla sincronizzazione delle directory, protezione della rete e identità federata.
 
 -   Partecipare alle riunioni per delineare l'approccio di provisioning utente.
 
@@ -105,24 +105,24 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 
 ## <a name="enable-phase"></a>Fase di attivazione
 
--   Condivisione dello schermo con il team di FastTrack se è necessaria una guida per l'esecuzione di strumenti di valutazione per l'ambiente, lo SME o le sottoscrizioni del servizio cloud individuali (se si sceglie di). Gestire le risorse in base alle esigenze.
+-   Condividere lo schermo con il team di FastTrack, se sono necessarie indicazioni nel caso si sia scelto di eseguire gli strumenti di valutazione dell’ambiente, di EMS o delle relative singole sottoscrizioni al servizio cloud. Gestire le risorse in base alle esigenze.
 
--   Configurare gli elementi relativi alla rete per ogni guida del team di FastTrack.
+-   Configurare gli elementi relativi alla rete in base alle linee guida del team di FastTrack.
 
--   Eseguire la preparazione delle directory e configurare la sincronizzazione della directory per ogni guida del team di FastTrack.
+-   Eseguire la preparazione delle directory e configurarne la sincronizzazione in base alle linee guida del team di FastTrack.
 
 -   Configurare un metodo di autenticazione, ad esempio gestito o federato. 
 
--   Configurare l'infrastruttura correlata alla sicurezza (come le porte del firewall) per indicazioni del team di FastTrack.
+-   Configurare l'infrastruttura correlata alla protezione (come le porte del firewall) in base alle linee guida del team di FastTrack.
 
--   Implementare l'infrastruttura client appropriata.
+-   Implementare l'infrastruttura client in modo appropriato.
 
--   Implementare un approccio di provisioning degli utenti per ogni guida del team di FastTrack.
+-   Implementare l'approccio di provisioning utente in base alle linee guida del team di FastTrack.
 
--   Abilitare vari servizi per linee guida dal team di FastTrack.
+-   Attivare i vari servizi in base alle linee guida del team di FastTrack.
 
 > [!NOTE]
-> **Vuoi saperne di più?** Vedere [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
+> **Per saperne di più** Vedere [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
 ## <a name="see-also"></a>Vedere anche
 
