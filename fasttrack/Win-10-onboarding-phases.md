@@ -1,0 +1,68 @@
+---
+title: Fasi di onboarding
+ms.author: v-rberg
+author: v-rberg-msft
+manager: jimmuir
+ms.date: 07/02/2019
+ms.audience: ITPro
+ms.topic: overview
+f1_keywords:
+- windows-10-microsoft-365-onboarding-benefit-process-assistance
+ms.service: windows-10-administration
+localization_priority: Priority
+ms.collection: FastTrack
+description: Il processo di onboarding di Windows 10 prevede quattro fasi principali, ovvero avvio, valutazione, correzione e attivazione.
+ms.openlocfilehash: 1021c12f01fe27880ba2ea52ee02360a4642f50d
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.translationtype: HT
+ms.contentlocale: it-IT
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35415752"
+---
+# <a name="onboarding-phases"></a>Fasi di onboarding
+
+Il processo di onboarding di Windows 10 prevede quattro fasi principali, ovvero avvio, valutazione, correzione e attivazione.
+
+## <a name="initiate"></a>Avvio
+
+Durante questa fase, verrà discusso il processo di onboarding, saranno verificati i dati e verrà impostata la riunione iniziale. Ciò include collaborare con l’utente per comprendere le sue intenzioni riguardanti Windows 10.
+
+## <a name="assess"></a>Valutazione
+
+Gli specialisti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Assicurarsi che System Center Configuration Manager venga aggiornato al livello necessario per supportare la distribuzione di Windows 10. 
+
+Sono disponibili opzioni consigliate per valutare le app di Windows 10.
+
+FastTrack può anche guidare la valutazione della compatibilità di Office 365 ProPlus sfruttando il dashboard di conformità di Office 365 in Configuration Manager o con il Toolkit di conformità autonomo per Office. Per altre informazioni sui servizi disponibili, vedere [FastTrack Center Benefit per Office 365](O365-fasttrack-benefit-for-office-365.md). 
+
+## <a name="remediate"></a>Correzione
+
+L'utente esegue le attività di correzione basate sull'ambiente di origine, per soddisfare i requisiti per l'onboarding. Forniamo un elenco di controllo per la preparazione dell'ambiente e la conferma dell'avvenuta implementazione di questi elementi per garantire il rispetto dei requisiti minimi per una distribuzione corretta. 
+
+## <a name="enable"></a>Attivazione
+
+FastTrack fornisce indicazioni per l'aggiornamento dei dispositivi esistenti a Windows 10 Enterprise, purché soddisfino i requisiti hardware necessari per i dispositivi. Sono disponibili indicazioni per l'aggiornamento per supportare il movimento di distribuzione esistente. FastTrack consiglia e fornisce indicazioni per l'aggiornamento sul posto a Windows 10. Sono inoltre disponibili indicazioni per l'installazione di immagini pulite di Windows e per gli scenari di distribuzione di [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot). 
+
+Sono disponibili indicazioni per distribuire Office 365 ProPlus con Configuration Manager nell'ambito della distribuzione di Windows 10. Per altre informazioni sui servizi associati, vedere [Office 365 ProPlus](O365-onboarding-and-migration.md#office-365-proplus).
+
+Sono disponibili indicazioni per aiutare l'organizzazione a mantenersi aggiornata con Windows 10 Enterprise e Office 365 ProPlus con l'ambiente di Configuration Manager esistente o con Microsoft 365.
+
+> [!NOTE]
+> Se non si dispone di un piano o di un processo di distribuzione o manutenzione esistente, è possibile fornire indicazioni consigliate basate sullo scenario di aggiornamento sul posto (scelta consigliata)o [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot).
+
+## <a name="out-of-scope"></a>Esclusioni
+
+FastTrack non fornisce indicazioni per:
+
+- Aggiornamento di Configuration Manager al Current Branch.
+- Creazione di immagini personalizzate per la distribuzione di Windows 10.
+- Conversione di un sistema di Windows 10 dal BIOS a Unified Extensible Firmware Interface (UEFI).
+- Abilitare le funzionalità di sicurezza di Windows 10. 
+- Configurazione di Windows Deployment Services (WDS) per il boot di Preboot Execution Environment (PXE).
+- Uso di Microsoft Deployment Toolkit (MDT) per acquisire e distribuire immagini di Windows 10.
+- Uso dell’Utilità di migrazione dello stato utente (USMT).
+
+  > [!NOTE]
+  > Contattare un [partner Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) per fornire assistenza per i servizi identificati come esclusi dall'ambito.
+
+ 
