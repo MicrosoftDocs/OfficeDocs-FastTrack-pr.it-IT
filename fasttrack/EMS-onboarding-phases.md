@@ -23,7 +23,7 @@ ms.locfileid: "35410935"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
-Se si usano i [Servizi e piani idonei](M365-eligible-services-and-plans.md) per ottenere la Microsoft Azure Active Directory Premium, Microsoft Intune e Azure Information Protection pronti all’uso, nel processo sono coinvolte diverse fasi. Le sezioni seguenti descrivono ogni fase del processo di onboarding.
+Se si usano i [Servizi e piani idonei](M365-eligible-services-and-plans.md) per ottenere Microsoft Azure Active Directory Premium, Microsoft Intune e Azure Information Protection pronti all’uso, nel processo sono coinvolte diverse fasi. Le sezioni seguenti descrivono ogni fase del processo di onboarding.
 
 L'onboarding include quattro fasi principali:
 
@@ -32,7 +32,7 @@ L'onboarding include quattro fasi principali:
 
 ## <a name="initiate-phase"></a>Fase di avvio
 
-Dopo aver acquistato i tipi e il numero appropriato di licenze, attenersi alle istruzioni nell'e-mail di conferma dell'acquisto per associare le licenze al tenant esistente o nuovo. Microsoft verifica quindi l'idoneità per il FastTrack Center Benefit e tenta di contattare l'utente per offrire assistenza onboarding.
+Dopo aver acquistato i tipi e il numero appropriato di licenze, attenersi alle istruzioni nell'e-mail di conferma dell'acquisto per associare le licenze al tenant esistente o nuovo. Microsoft verifica quindi l'idoneità per il FastTrack Center Benefit e tenta di contattare l'utente per offrire assistenza nell’onboarding.
 
 > [!NOTE]
 > È anche possibile richiedere assistenza dal [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698), se si è pronti a distribuire questi servizi per l'organizzazione.
@@ -42,9 +42,9 @@ Dopo aver acquistato i tipi e il numero appropriato di licenze, attenersi alle i
 1. Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Selezionare **FastTrack**.
 3. Selezionare **Servizi**.
-4. Completare **modulo di richiesta di assistenza con Microsoft 365**.
+4. Completare il **modulo di richiesta di assistenza con Microsoft 365**.
 
-Una volta contattato il supporto tecnico per l'onboarding, verrà impostata la pianificazione delle riunioni in linea.
+Una volta contattato il supporto tecnico per l'onboarding, verrà impostata la pianificazione delle riunioni online.
 
 > [!NOTE]
 > Se si dispone di un partner Microsoft elencato nel tenant di Office 365, questa opzione non sarà visualizzata. Per assistenza, consultare il partner Microsoft.
@@ -56,9 +56,9 @@ I partner Microsoft possono anche ricevere assistenza tramite il [sito FastTrack
 3. Selezionare **Clienti personali**.
 4. Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
 5. Selezionare **Servizi**.
-6. Completare **modulo di richiesta di assistenza con Microsoft 365**.
+6. Completare il **modulo di richiesta di assistenza con Microsoft 365**.
 
-Dopo l'avvio del supporto onboarding, FastTrack configurerà una programmazione delle riunioni online con l'utente per discutere il processo di onboarding, verificare i dati e configurare una riunione di avvio.
+Dopo l'avvio del supporto per l’onboarding, FastTrack configurerà una programmazione delle riunioni online con l'utente per discutere il processo di onboarding, verificare i dati e configurare una riunione di avvio.
 
 ![Fase di avvio dell’onboarding](./media/ft-initiate-phase.png)
 
@@ -82,24 +82,24 @@ Prima di iniziare la fase di attivazione, vengono verificati i risultati delle a
 ## <a name="enable-phase"></a>Fase di attivazione
 Una volta completate tutte le attività di correzione, il progetto passa alla configurazione dell'infrastruttura di base per l'utilizzo dei servizi e per il provisioning di tutti i servizi cloud EMS idonei.
 
-**Abilitare la fase - Funzionalità di base**
+**Fase di attivazione - Funzionalità di base**
 
 L'onboarding di base prevede il provisioning di servizi e l'integrazione di identità e tenant. Include anche la procedura per fornire una base per l'onboarding di servizi online come Azure AD Premium, Intune e Azure Information Protection.
 
-![Abilitare la fase di onboarding - Funzionalità di base](./media/ft-enable-phase-core-01.png)
+![Fase di attivazione dell’onboarding - Funzionalità di base](./media/ft-enable-phase-core-01.png)
 
-![Abilitare la fase di onboarding - Funzionalità di base](./media/ft-enable-phase-core-02.png)
+![Fase di attivazione dell’onboarding - Funzionalità di base](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
 > WAP è l'acronimo di Web Application Proxy. SSL è l'acronimo di Secure Sockets Layer. SDS è l'acronimo di School Data Sync. Per ulteriori informazioni su SDS, vedere [Introduzione a Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
 
 > [!NOTE]
-> Un metodo di autenticazione gestita include, ma non è limitato alla sincronizzazione hash con password. L'integrazione delle identità è un'attività che non include la migrazione o la rimozione di metodi di autenticazione esistenti, come quelli gestiti o federati.
+> Un metodo di autenticazione gestita include, tra l’altro, la sincronizzazione hash con password. L'integrazione delle identità è un'attività che non include la migrazione o la rimozione di metodi di autenticazione esistenti, come quelli gestiti o federati.
 
-### <a name="enable-phase---azure-ad-premium"></a>Abilitare la fase -Azure AD Premium
+### <a name="enable-phase---azure-ad-premium"></a>Fase di attivazione - Azure AD Premium
 
 È possibile configurare l'ambiente di Azure Active Directory con la sincronizzazione della directory di Azure Active Directory Connect e Active Directory Federation Services (AD FS), in base alle esigenze.
 
-Per gli scenari di Azure AD Premium che includono la sincronizzazione delle identità locali nel cloud, è possibile aggiungere amministratori e utenti IT all'abbonamento, configurare prerequisiti di gestione, configurare Azure AD Premium, configurare una directory sincronizzazione con l'autenticazione gestita e ADFS tramite lo strumento Azure AD Connect, configurare gli utenti di test e convalidare i casi di utilizzo principali per il servizio.
+Per gli scenari di Azure AD Premium che includono la sincronizzazione delle identità locali nel cloud, è possibile aggiungere amministratori e utenti IT all'abbonamento, configurare prerequisiti di gestione, configurare Azure AD Premium, configurare la sincronizzazione delle directory con l'autenticazione gestita e ADFS tramite lo strumento Azure AD Connect, configurare gli utenti di test e convalidare i casi di utilizzo principali per il servizio.
 
 La configurazione di Azure AD Premium include l'abilitazione delle caratteristiche seguenti:
 
@@ -107,7 +107,7 @@ La configurazione di Azure AD Premium include l'abilitazione delle caratteristic
 
 -   Azure Multi-Factor Authentication (Azure MFA).
 
--   Fino a tre (3) o più software come integrazioni applicazioni di servizio (SaaS) con Single Sign-on (SSO) dall’[Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
+-   Fino a tre (3) o più integrazioni di applicazioni software come un servizio (SaaS) con Single Sign-on (SSO) da [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
 -   Il provisioning automatico degli utenti per le applicazioni SaaS preintegrate, come indicato [nell'elenco delle esercitazioni di integrazione di app](https://docs.microsoft.com/it-IT/azure/active-directory/saas-apps/tutorial-list), solo per il provisioning in uscita.
 
@@ -129,13 +129,13 @@ La configurazione di Azure AD Premium include l'abilitazione delle caratteristic
 
 -   Controllo accessi di Azure Active Directory.
 
-![Abilitare la fase onboarding -Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
+![Fase di attivazione dell’onboarding - Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
 ### <a name="enable-phase---intune"></a>Fase di attivazione - Intune
 
-Per Intune, una procedura guidata pemetterà all’utente di iniziare a usare Microsoft Intune per gestire i dispositivi. I passaggi esatti dipendono dall'ambiente di origine e sono basati sulle esigenze di gestione di dispositivi mobili e app per dispositivi mobili. I passaggi possono includere:
+Per Intune, una procedura guidata assiste l’utente le prime volte che usa Microsoft Intune per gestire i dispositivi. I passaggi esatti dipendono dall'ambiente di origine e sono basati sulle esigenze di gestione di dispositivi mobili e app per dispositivi mobili. I passaggi possono includere:
 
--   Licenze per gli utenti finali. Sono disponibili anche assistenza su come attivare le licenze multilicenza per il tenant del servizio cloud Microsoft (se necessario).
+-   Licenze per gli utenti finali. È anche disponibile assistenza per l’attivazione delle licenze multilicenza per il tenant del servizio cloud Microsoft (se necessario).
 
 -   Configurare le identità utilizzate da Intune, sfruttando Active Directory locale o le identità cloud.
 
@@ -151,13 +151,13 @@ Per Intune, una procedura guidata pemetterà all’utente di iniziare a usare Mi
 
     -   Configurare criteri e servizi di gestione MDM come:
 
-        -   Distribuire l'applicazione per ogni piattaforma supportata tramite collegamenti Web e/o collegamenti diretti.
+        -   Distribuzione dell'applicazione per ogni piattaforma supportata tramite collegamenti Web e/o collegamenti diretti.
 
         -   Criteri di accesso condizionale.
 
         -   Distribuzione di posta elettronica, reti wireless e profili di rete virtuale privata VPN se si ha un'autorità di certificazione esistente, un'infrastruttura Wi-Fi o VPN nell'organizzazione.
 
-        -   Configurare Microsoft Intune Exchange Connector (se applicabile).
+        -   Configurazione di Microsoft Intune Exchange Connector (se applicabile).
 
         -   Connettersi al data warehouse di Intune
 
@@ -195,18 +195,18 @@ Per Intune, una procedura guidata pemetterà all’utente di iniziare a usare Mi
 
 FastTrack può aiutare a semplificare il provisioning del dispositivo con Autopilot di Windows e Intune, fornendo nuovi dispositivi agli utenti finali senza la necessità di creare, gestire e applicare immagini personalizzate del sistema operativo ai dispositivi.
 
-FastTrack supporta gli scenari di autopilota seguenti:
+FastTrack supporta gli scenari di Autopilot seguenti:
 
-- **Azure AD self-service:** i dispositivi si uniscono a Azure AD e si iscrivono a Intune. Questo scenario è supportato con l’utilizzo di Windows 10 1703 e le versioni più recenti.
+- **Self-service Azure AD:** i dispositivi si connettono ad Azure AD ed eseguono l’iscrizione a Intune. Questo scenario è supportato con l’utilizzo di Windows 10 1703 e le versioni più recenti.
 
-- **Hybrid AAD self-service:** i dispositivi si uniscono a entrambi i locali AD e Azure AD e si iscrivono a Intune. Questo scenario è supportato con l’utilizzo di Windows 10 1809 e le versioni più recenti.
+- **Self-service AAD ibrido:** i dispositivi si connettono a versioni locali di AD e Azure AD ed eseguono l’iscrizione a Intune. Questo scenario è supportato con l’utilizzo di Windows 10 1809 e le versioni più recenti.
 
-- **Provisioning automatico:** i dispositivi entrano automaticamente in Azure AD. Questo scenario è supportato con l’utilizzo di Windows 1809 e le versioni più recenti.
+- **Provisioning automatico:** i dispositivi si connettono automaticamente ad Azure AD. Questo scenario è supportato con l’utilizzo di Windows 1809 e le versioni più recenti.
 
     > [!IMPORTANT]
-    > FastTrack non supporta scenari con pilota automatico avviati da Configuration Manager.
+    > FastTrack non supporta scenari con Autopilot avviati da Configuration Manager.
 
-La procedura per configurare il pilota automatico di Windows dipende dall'ambiente di origine e può includere:
+La procedura per configurare Autopilot di Windows dipende dall'ambiente di origine e può includere:
 
 - Configurare e impostare Microsoft Intune per Windows Autopilot.
 
@@ -222,25 +222,25 @@ La procedura per configurare il pilota automatico di Windows dipende dall'ambien
 
 #### <a name="deploy-outlook-for-ios-and-android-securely"></a>Distribuire Outlook per iOS e Android in modo sicuro
 
-FastTrack può essere di aiuto nella distribuzione sicura di Outlook per iOS e Android nell'organizzazione, in modo che gli utenti abbiano installato tutte le app necessarie.
+FastTrack può essere di aiuto nella distribuzione sicura di Outlook per iOS e Android nell'organizzazione, per garantire che gli utenti abbiano installato tutte le app necessarie.
 
 I passaggi per la distribuzione sicura di Outlook Mobile per iOS e Android con Intune variano in base all'ambiente di origine e possono includere:
 
-- Scaricare Outlook per iOS e Android, Microsoft Authenticator e l'app portale aziendale di Intune tramite Apple App Store o Google Play Store.
+- Scaricare Outlook per iOS e Android, Microsoft Authenticator e l'app Portale aziendale Intune tramite Apple App Store o Google Play Store.
 - Fornire inoltre indicazioni sulla configurazione di:
-    - Outlook per iOS e Android, Microsoft Authenticator e l'app del portale aziendale di Intune.
-    - App per le informazioni condivise
+    - Outlook per iOS e Android, Microsoft Authenticator e l'app Portale aziendale Intune.
+    - Criteri di protezione delle app
     - Criteri di accesso condizionale
     - Criteri di configurazione dell’app
 
     > [!IMPORTANT]
     > Il team di FastTrack non supporta la protezione di Outlook per iOS e Android con i criteri delle cassette postali dei dispositivi mobili di Exchange.
 
-#### <a name="co-management"></a>Gestione condivisa
+#### <a name="co-management"></a>Co-gestione
 
-Con FastTrack, è possibile usare le guide per gestire insieme i dispositivi Windows 10 sia con Configuration Manager che con Intune. I passaggi esatti dipendono dall'ambiente di origine e possono includere:
+Le guide di FastTrack forniscono assistenza nella gestione simultanea dei dispositivi Windows 10 sia con Configuration Manager che con Intune. I passaggi esatti dipendono dall'ambiente di origine e possono includere:
 
-- Illustrare i vantaggi della gestione condivisa.
+- Illustrare i vantaggi della co-gestione.
 
 - Assegnare una licenza agli utenti finali. FastTrack offre anche assistenza su come attivare le licenze multilicenza per il tenant del servizio cloud Microsoft (se necessario).
 
@@ -248,11 +248,11 @@ Con FastTrack, è possibile usare le guide per gestire insieme i dispositivi Win
 
 - Aggiungere utenti all'abbonamento a Intune, definire i ruoli di amministratore IT e creare gruppi di utenti e dispositivi.
 
-- Offrire indicazioni su come passare da Intune integrato con System Center Configuration Manager (ibrido) a Intune autonomi.
+- Offrire indicazioni su come passare da Intune integrato con System Center Configuration Manager (ibrido) a Intune autonomo.
 
 - Fornire indicazioni su come configurare Azure Active Directory per la registrazione automatica MDM.
 
-- Fornire indicazioni su come configurare l’aggiunta ad Azure Active Directory ibrido.
+- Fornire indicazioni su come configurare Aggiunta ad Azure Active Directory ibrido.
 
 - Offrire indicazioni su come configurare il gateway di gestione cloud
 
@@ -266,11 +266,11 @@ Con FastTrack, è possibile usare le guide per gestire insieme i dispositivi Win
 
 FastTrack fornisce all'utente, inoltre, delle linee guida per l'adozione corretta dei servizi idonei.
 
-![Fase di attivazione onboarding - Intune](./media/ft-enable-phase_intune_mam.png)
+![Fase di attivazione dell’onboarding - Intune](./media/ft-enable-phase_intune_mam.png)
 
-![Fase di attivazione onboarding - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
+![Fase di attivazione dell’onboarding - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![Fase di attivazione onboarding - Co-gestione](./media/ft-9-enable-phase-comanagement.png)
+![Fase di attivazione dell’onboarding - Co-gestione](./media/ft-9-enable-phase-comanagement.png)
 
 #### <a name="enable-phase--azure-information-protection"></a>Fase di attivazione - Azure Information Protection
 
@@ -290,4 +290,4 @@ Sono inoltre disponibili indicazioni per i clienti che vogliono applicare la pro
 
 ## <a name="next-steps"></a>Passaggi successivi
 
-[Offerta FastTrack per EMS - Proprie responsabilità](EMS-fasttrack-responsibilities.md)
+[Offerta FastTrack per EMS - Responsabilità Microsoft](EMS-fasttrack-responsibilities.md)
