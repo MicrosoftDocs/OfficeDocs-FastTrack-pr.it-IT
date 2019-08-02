@@ -3,21 +3,19 @@ title: Previsioni dell'ambiente di origine
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: overview
-f1_keywords:
-- windows-10-microsoft-365-onboarding-benefit-process-assistance
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Center Benefit fornisce indicazioni per configurare livelli di integrazione con l'ambiente di origine per la distribuzione di Windows 10.
-ms.openlocfilehash: 7daac9ff4637757188f980361aff5dc6050a5fac
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: 08a8a5dbc93edd1406b1a0e943a435eb451b07da
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35415751"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054087"
 ---
 # <a name="source-environment-expectations"></a>Previsioni dell'ambiente di origine
 
@@ -33,7 +31,7 @@ Per l'aggiornamento dell'infrastruttura, è necessario soddisfare il requisito s
 
 - System Center Configuration Manager (Current Branch) in una versione supportata per Windows 10 di destinazione
 
-Per altre informazioni, vedere la tabella di supporto di Configuration Manager in [Supporto per Windows 10 in Configuration Manager.
+Per altre informazioni, vedere la tabella di supporto di Configuration Manager in [Supporto per Windows 10 in Configuration Manager](https://docs.microsoft.com/it-IT/sccm/core/plan-design/configs/support-for-windows-10).
   
 
  
