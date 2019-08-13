@@ -3,19 +3,19 @@ title: Fasi di onboarding e migrazione per Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avviare, valutare, correggere e abilitare. È possibile seguire queste fasi con una fase di migrazione dei dati facoltativa, come illustrato nella figura seguente."
-ms.openlocfilehash: 5e44bb896183b75079f9cb5126626ae0b37fc4a2
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: dc7a100bf956e7f29d68b4392f13c488c0fbdf8e
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053715"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294350"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
 
@@ -38,8 +38,6 @@ Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/
 2.  Selezionare **FastTrack**.
 3.  Selezionare **Servizi**.
 4.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
-    > [!NOTE]
-    >  Se si dispone di un partner elencato nel tenant di Office 365, questa opzione non è visualizzata. Per assistenza, consultare il partner. 
 
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Il processo FastTrack fornisce assistenza onboarding e servizi di adozione da parte dell’utente. '
-ms.openlocfilehash: 7fdc5c01ee2da2c28409dd187f0f2fed8e6ea3b0
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 854f30a9af210da5f6fb4837e473fd29fea5d606
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053991"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294338"
 ---
 # <a name="the-fasttrack-process"></a>Il processo FastTrack
 
@@ -45,10 +45,8 @@ Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Selezionare **Servizi**.
 3.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
-> [!NOTE]
->  Se si dispone di un partner elencato nel tenant di Office 365, questa opzione non è visualizzata. Per assistenza, consultare il partner. 
   
- È inoltre possibile richiedere assistenza per FastTrack Center dal [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
+ È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
     
  Una volta contattata l'assistenza per l'onboarding, verrà impostata la pianificazione delle riunioni in linea.
     
