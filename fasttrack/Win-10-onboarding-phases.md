@@ -3,19 +3,19 @@ title: Fasi di onboarding
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Il processo di onboarding di Windows 10 prevede quattro fasi principali, ovvero avvio, valutazione, correzione e attivazione.
-ms.openlocfilehash: e0edad16976fadbe33cee95af5f90d5c02f6bf61
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0789cb80e25a085d2d631d6032b5c7663bd1b8c2
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054099"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294362"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
@@ -29,7 +29,7 @@ Durante questa fase, verrà discusso il processo di onboarding, saranno verifica
 
 Gli specialisti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Assicurarsi che System Center Configuration Manager venga aggiornato al livello necessario per supportare la distribuzione di Windows 10. 
 
-Sono disponibili opzioni consigliate per valutare le app di Windows 10.
+Sono disponibili opzioni consigliate per valutare le app di Windows 10. FastTrack fornisce indicazioni per abilitare l'uso di analisi desktop e consente di creare un piano di distribuzione di analisi desktop.
 
 FastTrack può anche guidare la valutazione della compatibilità di Office 365 ProPlus sfruttando il dashboard di conformità di Office 365 in Configuration Manager o con il Toolkit di conformità autonomo per Office. Per altre informazioni sui servizi disponibili, vedere [FastTrack Center Benefit per Office 365](O365-fasttrack-benefit-for-office-365.md). 
 

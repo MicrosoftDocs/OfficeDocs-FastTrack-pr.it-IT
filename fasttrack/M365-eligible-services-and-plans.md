@@ -3,19 +3,19 @@ title: Piani e servizi idonei
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
-ms.openlocfilehash: ee7b762486b069313569485b313c95eb9d32028e
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053883"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294218"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
@@ -32,9 +32,7 @@ Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Selezionare **Servizi**.
 3.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
-    > [!NOTE]
-    >  Se si dispone di un partner elencato nel tenant di Office 365, questa opzione non è visualizzata. Per assistenza, consultare il partner. 
-
+  
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Selezionare **Clienti personali**.
@@ -163,7 +161,7 @@ Per altre informazioni, vedere [FastTrack Center Benefit per Office 365](https:/
 |**Microsoft Azure Active Directory Premium**     |  Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.       |
 |**Microsoft Azure Information Protection**    |  Disponibile per P2, come parte di E5 o come piano autonomo. Disponibile per i servizi cloud idonei ai vantaggi di FastTrack. Per i servizi cloud P1, FastTrack condivide la Guida di auto distribuzione.       |
 |**Microsoft Intune**    |   Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.      |
-|**Cloud Attach**     |    Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.     |
+|**Gestione configurazione di cloud Attach con Microsoft Intune**     |    Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.     |
 |**Microsoft Intune per Education**     |  Idoneo se è stato acquistato come piano autonomo o come parte di A3 o A5.       |
 |**Microsoft Advanced Threat Protection**     |    Con limitazioni. Idoneo solo se è stato acquistato come piano autonomo. A tale scopo, visitare il [Portale Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
 |**Microsoft Advanced Threat Analytics**   |        Con limitazioni. Idoneo solo se è stato acquistato come piano autonomo. A tale scopo, visitare il [Portale Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |

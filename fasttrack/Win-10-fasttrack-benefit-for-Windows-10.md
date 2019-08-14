@@ -3,28 +3,29 @@ title: Vantaggio FastTrack Center per Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Si usufruisce del vantaggio FastTrack Center per Windows 10 quando si acquistano * almeno* 150 licenze per un servizio o piano idoneo.
-ms.openlocfilehash: 4f5bb38f90f9fcae180f6e4d6d4d7771a597c03a
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: ddf69dae98fc9868f3071b470bdd67bbc1dd1e68
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054123"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294421"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Vantaggio FastTrack Center per Windows 10
 
-Si usufruisce di FastTrack Center Benefit per Windows 10 quando si acquistano almeno 150 licenze per un piano o un servizio idoneo. È quindi possibile collaborare con esperti FastTrack, che forniscono indicazioni e correzioni in caso di problemi relativi alla compatibilità dell'app durante la distribuzione di Windows 10 e Office 365 ProPlus, e mantenersi aggiornati senza costi aggiuntivi (con un abbonamento idoneo).
+Si usufruisce del vantaggio FastTrack Center per Windows 10 quando si acquistano almeno 150 licenze per un servizio o piano idoneo. È quindi possibile collaborare con specialisti di FastTrack per valutare, correggere e distribuire Windows 10 e coordinare i vantaggi del centro FastTrack per Office 365 ProPlus. Il servizio di verifica dell'app desktop rende disponibile un esperto di FastTrack, che fornisce indicazioni di consulenza e correzione se si verificano problemi di compatibilità delle app.  Gli specialisti di FastTrack forniscono indicazioni anche durante la distribuzione e rimangono aggiornati con Windows 10 e Office 365 ProPlus. Questi vantaggi del servizio sono disponibili senza costi aggiuntivi con un abbonamento idoneo incluso nei piani e nei [servizi idonei per FastTrack](M365-eligible-services-and-plans.md).
   
 > [!NOTE]
 > Ai fini del presente documento, gli esperti FastTrack possono essere sia dipendenti Microsoft sia fornitori approvati da Microsoft o partner approvati da Microsoft. 
     
-
+- [Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
+- [Desktop App Assure](Win-10-desktop-app-assure.md)
   
 
   
