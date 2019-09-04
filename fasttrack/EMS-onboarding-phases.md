@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0ea242b03fc0d7cdfc3241c6d2f023213c2fa383
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: ba93fb6e6ba23219752eebb857ed156f2cbfaab8
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294302"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711540"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
@@ -283,7 +283,7 @@ Ai clienti vengono fornite indicazioni su come:
 Sono inoltre disponibili indicazioni per i clienti che vogliono applicare la protezione con Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME) e prevenzione della perdita dei dati (DLP).
 
 > [!NOTE]
-> **Per saperne di più** consultare [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).
+> **Per saperne di più** consultare [Enterprise Mobility + Security](https://www.microsoft.com/it-IT/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Passaggi successivi
 
