@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,118 +14,118 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: a758a288d5e4ce653ae8f15f54c9ac5fe7a92ae1
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 82d63a875be39bdb2dbd8d19d5855c0bb11daffd
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711624"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342535"
 ---
-# <a name="your-responsibilities"></a><span data-ttu-id="6b07f-103">Responsabilità dell'utente</span><span class="sxs-lookup"><span data-stu-id="6b07f-103">Your Responsibilities</span></span>
+# <a name="your-responsibilities"></a><span data-ttu-id="e437d-103">Responsabilità dell'utente</span><span class="sxs-lookup"><span data-stu-id="e437d-103">Your Responsibilities</span></span>
 
-<span data-ttu-id="6b07f-104">Ecco le responsabilità dell'utente durante il processo di onboarding.</span><span class="sxs-lookup"><span data-stu-id="6b07f-104">You have the following responsibilities during onboarding.</span></span>
+<span data-ttu-id="e437d-104">Ecco le responsabilità dell'utente durante il processo di onboarding.</span><span class="sxs-lookup"><span data-stu-id="e437d-104">You have the following responsibilities during onboarding.</span></span>
 
-## <a name="general-responsibilities"></a><span data-ttu-id="6b07f-105">Responsabilità generali</span><span class="sxs-lookup"><span data-stu-id="6b07f-105">General responsibilities</span></span>
+## <a name="general-responsibilities"></a><span data-ttu-id="e437d-105">Responsabilità generali</span><span class="sxs-lookup"><span data-stu-id="e437d-105">General responsibilities</span></span>
 
--   <span data-ttu-id="6b07f-106">Offrire miglioramenti e integrazioni al tenant di Enterprise Mobility + Security (EMS) oltre le opzioni configurabili elencate qui. </span><span class="sxs-lookup"><span data-stu-id="6b07f-106">Provide any enhancements and integrations to your O365_W14_2nd tenant beyond the configurable options listed here.</span></span>
+-   <span data-ttu-id="e437d-106">Offrire miglioramenti e integrazioni al tenant di Enterprise Mobility + Security (EMS) oltre le opzioni configurabili elencate qui. </span><span class="sxs-lookup"><span data-stu-id="e437d-106">Provide any enhancements and integrations to your O365_W14_2nd tenant beyond the configurable options listed here.</span></span>
 
--   <span data-ttu-id="6b07f-107">Fornire un programma generale e la gestione dei progetti delle risorse.</span><span class="sxs-lookup"><span data-stu-id="6b07f-107">Provide overall program and project management of your resources.</span></span>
+-   <span data-ttu-id="e437d-107">Fornire un programma generale e la gestione dei progetti delle risorse.</span><span class="sxs-lookup"><span data-stu-id="e437d-107">Provide overall program and project management of your resources.</span></span>
 
--   <span data-ttu-id="6b07f-108">Fornire comunicazioni degli utenti finali, documentazione, formazione e gestione delle modifiche.</span><span class="sxs-lookup"><span data-stu-id="6b07f-108">Provide end-user communications, documentation, training, and change management.</span></span>
+-   <span data-ttu-id="e437d-108">Fornire comunicazioni degli utenti finali, documentazione, formazione e gestione delle modifiche.</span><span class="sxs-lookup"><span data-stu-id="e437d-108">Provide end-user communications, documentation, training, and change management.</span></span>
 
--   <span data-ttu-id="6b07f-109">Fornire documentazione di supporto tecnico e formazione.</span><span class="sxs-lookup"><span data-stu-id="6b07f-109">Provide helpdesk documentation and training.</span></span>
+-   <span data-ttu-id="e437d-109">Fornire documentazione di supporto tecnico e formazione.</span><span class="sxs-lookup"><span data-stu-id="e437d-109">Provide helpdesk documentation and training.</span></span>
 
--   <span data-ttu-id="6b07f-110">Produrre report, presentazioni o verbali di riunioni specifiche per l'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="6b07f-110">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span>
+-   <span data-ttu-id="e437d-110">Produrre report, presentazioni o verbali di riunioni specifiche per l'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="e437d-110">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span>
 
--   <span data-ttu-id="6b07f-111">Creare documentazione tecnica e architetturale specifica dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="6b07f-111">Create architectural and technical documentation specific to your organization.</span></span>
+-   <span data-ttu-id="e437d-111">Creare documentazione tecnica e architetturale specifica dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="e437d-111">Create architectural and technical documentation specific to your organization.</span></span>
 
--   <span data-ttu-id="6b07f-112">Progettare, approvigionare, installare e configurare hardware e reti.</span><span class="sxs-lookup"><span data-stu-id="6b07f-112">Design, procure, install, and configure hardware and networking.</span></span>
+-   <span data-ttu-id="e437d-112">Progettare, approvigionare, installare e configurare hardware e reti.</span><span class="sxs-lookup"><span data-stu-id="e437d-112">Design, procure, install, and configure hardware and networking.</span></span>
 
--   <span data-ttu-id="6b07f-113">Approvigionare, installare e configurare i software.</span><span class="sxs-lookup"><span data-stu-id="6b07f-113">Procure, install, and configure software.</span></span>
+-   <span data-ttu-id="e437d-113">Approvigionare, installare e configurare i software.</span><span class="sxs-lookup"><span data-stu-id="e437d-113">Procure, install, and configure software.</span></span>
 
--   <span data-ttu-id="6b07f-114">Gestire, configurare e applicare criteri di sicurezza oltre a quelli creati per la configurazione e le funzionalità di base dei servizi EMS.</span><span class="sxs-lookup"><span data-stu-id="6b07f-114">Manage, configure, and apply security policies beyond those created for your EMS services baseline configuration and functionality.</span></span>
+-   <span data-ttu-id="e437d-114">Gestire, configurare e applicare criteri di sicurezza oltre a quelli creati per la configurazione e le funzionalità di base dei servizi EMS.</span><span class="sxs-lookup"><span data-stu-id="e437d-114">Manage, configure, and apply security policies beyond those created for your EMS services baseline configuration and functionality.</span></span>
 
--   <span data-ttu-id="6b07f-115">Registrare gli account utente oltre quelli usati per testare la configurazione e le funzionalità di base dei servizi EMS di Microsoft Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="6b07f-115">Enroll user accounts beyond those used to test the Microsoft Azure Active Directory EMS services baseline configuration and functionality.</span></span>
+-   <span data-ttu-id="e437d-115">Registrare gli account utente oltre quelli usati per testare la configurazione e le funzionalità di base dei servizi EMS di Microsoft Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="e437d-115">Enroll user accounts beyond those used to test the Microsoft Azure Active Directory EMS services baseline configuration and functionality.</span></span>
 
--   <span data-ttu-id="6b07f-116">Gestire la configurazione di rete, l’analisi, la convalida della larghezza di banda, la verifica e il monitoraggio. </span><span class="sxs-lookup"><span data-stu-id="6b07f-116">Provide network configuration, analysis, bandwidth validation, testing, and monitoring.</span></span>
+-   <span data-ttu-id="e437d-116">Gestire la configurazione di rete, l’analisi, la convalida della larghezza di banda, la verifica e il monitoraggio. </span><span class="sxs-lookup"><span data-stu-id="e437d-116">Provide network configuration, analysis, bandwidth validation, testing, and monitoring.</span></span>
 
--   <span data-ttu-id="6b07f-117">Gestire il processo di approvazione della gestione di una modifica tecnica e creare la documentazione in base alle linee guida.</span><span class="sxs-lookup"><span data-stu-id="6b07f-117">Manage a technical change management approval process and create supporting documentation.</span></span>
+-   <span data-ttu-id="e437d-117">Gestire il processo di approvazione della gestione di una modifica tecnica e creare la documentazione in base alle linee guida.</span><span class="sxs-lookup"><span data-stu-id="e437d-117">Manage a technical change management approval process and create supporting documentation.</span></span>
 
--   <span data-ttu-id="6b07f-118">Modifica delle guide operative e dei modelli operativi.</span><span class="sxs-lookup"><span data-stu-id="6b07f-118">Modify your operational model and operation guides.</span></span>
+-   <span data-ttu-id="e437d-118">Modifica delle guide operative e dei modelli operativi.</span><span class="sxs-lookup"><span data-stu-id="e437d-118">Modify your operational model and operation guides.</span></span>
 
--   <span data-ttu-id="6b07f-119">Configurare l’autenticazione a più fattori locale.</span><span class="sxs-lookup"><span data-stu-id="6b07f-119">Set up multi-factor authentication</span></span>
+-   <span data-ttu-id="e437d-119">Configurare l’autenticazione a più fattori locale.</span><span class="sxs-lookup"><span data-stu-id="e437d-119">Set up multi-factor authentication</span></span>
 
--   <span data-ttu-id="6b07f-120">Ritirare e rimuovere gli ambienti e i servizi di origine usati in precedenza.</span><span class="sxs-lookup"><span data-stu-id="6b07f-120">Decommission and remove previously used source environments and services.</span></span>
+-   <span data-ttu-id="e437d-120">Ritirare e rimuovere gli ambienti e i servizi di origine usati in precedenza.</span><span class="sxs-lookup"><span data-stu-id="e437d-120">Decommission and remove previously used source environments and services.</span></span>
 
--   <span data-ttu-id="6b07f-121">Creare e gestire l'ambiente di testing.</span><span class="sxs-lookup"><span data-stu-id="6b07f-121">Construct and maintain your test environment.</span></span>
+-   <span data-ttu-id="e437d-121">Creare e gestire l'ambiente di testing.</span><span class="sxs-lookup"><span data-stu-id="e437d-121">Construct and maintain your test environment.</span></span>
 
--   <span data-ttu-id="6b07f-122">Installare i Service Pack / gli aggiornamenti cumulativi e altri aggiornamenti necessari sui server dell'infrastruttura.</span><span class="sxs-lookup"><span data-stu-id="6b07f-122">Install service packs and other required updates on infrastructure servers.</span></span>
+-   <span data-ttu-id="e437d-122">Installare i Service Pack / gli aggiornamenti cumulativi e altri aggiornamenti necessari sui server dell'infrastruttura.</span><span class="sxs-lookup"><span data-stu-id="e437d-122">Install service packs and other required updates on infrastructure servers.</span></span>
 
--   <span data-ttu-id="6b07f-123">Fornire e configurare tutti i certificati SSL (Secure Sockets Layer) pubblici.</span><span class="sxs-lookup"><span data-stu-id="6b07f-123">Provide and configure any public Secure Sockets Layer (SSL) certificates.</span></span>
+-   <span data-ttu-id="e437d-123">Fornire e configurare tutti i certificati SSL (Secure Sockets Layer) pubblici.</span><span class="sxs-lookup"><span data-stu-id="e437d-123">Provide and configure any public Secure Sockets Layer (SSL) certificates.</span></span>
 
--   <span data-ttu-id="6b07f-124">Configurare o aggiornare Configuration Manager ai requisiti minimi per l'integrazione di Microsoft Intune con Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="6b07f-124">Set up or upgrade Configuration Manager to the minimum requirements for Microsoft Intune integration with Configuration Manager.</span></span>
+-   <span data-ttu-id="e437d-124">Configurare o aggiornare Configuration Manager ai requisiti minimi per l'integrazione di Microsoft Intune con Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="e437d-124">Set up or upgrade Configuration Manager to the minimum requirements for Microsoft Intune integration with Configuration Manager.</span></span>
 
--   <span data-ttu-id="6b07f-125">Se necessario per la distribuzione dei profili Wi-Fi e VPN con Intune, fornire e configurare l'autorità di certificazione, le infrastrutture Wi-Fi e VPN in base alle esigenze.</span><span class="sxs-lookup"><span data-stu-id="6b07f-125">If needed for deploying Wi-Fi and VPN profiles with Intune, provide and configure certificate authority, Wi-Fi and VPN infrastructures as needed.</span></span>
+-   <span data-ttu-id="e437d-125">Se necessario per la distribuzione dei profili Wi-Fi e VPN con Intune, fornire e configurare l'autorità di certificazione, le infrastrutture Wi-Fi e VPN in base alle esigenze.</span><span class="sxs-lookup"><span data-stu-id="e437d-125">If needed for deploying Wi-Fi and VPN profiles with Intune, provide and configure certificate authority, Wi-Fi and VPN infrastructures as needed.</span></span>
 
--   <span data-ttu-id="6b07f-126">Scrivere le Condizioni d'uso dell’organizzazione da configurare e visualizzare nel portale aziendale di Microsoft Intune a cui gli utenti finali possono accedere.</span><span class="sxs-lookup"><span data-stu-id="6b07f-126">Write the organization’s Terms of Use (TOU) statement to be configured and displayed on the Microsoft Intune company portal that end users can access.</span></span>
+-   <span data-ttu-id="e437d-126">Scrivere le Condizioni d'uso dell’organizzazione da configurare e visualizzare nel portale aziendale di Microsoft Intune a cui gli utenti finali possono accedere.</span><span class="sxs-lookup"><span data-stu-id="e437d-126">Write the organization’s Terms of Use (TOU) statement to be configured and displayed on the Microsoft Intune company portal that end users can access.</span></span>
 
--   <span data-ttu-id="6b07f-127">Aggiornare il server del sito di Configuration Manager e i client di Configuration Manager alle versioni più recenti (se necessario).</span><span class="sxs-lookup"><span data-stu-id="6b07f-127">Upgrade Configuration Manager site server and Configuration manager clients to the latest build versions (when needed).</span></span>
+-   <span data-ttu-id="e437d-127">Aggiornare il server del sito di Configuration Manager e i client di Configuration Manager alle versioni più recenti (se necessario).</span><span class="sxs-lookup"><span data-stu-id="e437d-127">Upgrade Configuration Manager site server and Configuration manager clients to the latest build versions (when needed).</span></span>
 
--   <span data-ttu-id="6b07f-128">Quando è necessaria l'integrazione con Microsoft Intune, iscriversi ad abbonamenti di terze parti, ad esempio Mobile Threat Defense, spese per telecomunicazioni ecc.</span><span class="sxs-lookup"><span data-stu-id="6b07f-128">Sign up for 3rd party subscriptions like Mobile Threat Defense, Telecom expenses, etc. when integration with Microsoft Intune is needed.</span></span>
+-   <span data-ttu-id="e437d-128">Quando è necessaria l'integrazione con Microsoft Intune, iscriversi ad abbonamenti di terze parti, ad esempio Mobile Threat Defense, spese per telecomunicazioni ecc.</span><span class="sxs-lookup"><span data-stu-id="e437d-128">Sign up for 3rd party subscriptions like Mobile Threat Defense, Telecom expenses, etc. when integration with Microsoft Intune is needed.</span></span>
 
--   <span data-ttu-id="6b07f-129">Iscriversi agli abbonamenti a Team Viewer, Threat Defense e soluzione di gestione delle spese per telecomunicazioni.</span><span class="sxs-lookup"><span data-stu-id="6b07f-129">Sign up for Team Viewer, Mobile Threat Defense and Telecom expense management solution subscriptions.</span></span>
+-   <span data-ttu-id="e437d-129">Iscriversi agli abbonamenti a Team Viewer, Threat Defense e soluzione di gestione delle spese per telecomunicazioni.</span><span class="sxs-lookup"><span data-stu-id="e437d-129">Sign up for Team Viewer, Mobile Threat Defense and Telecom expense management solution subscriptions.</span></span>
 
--   <span data-ttu-id="6b07f-130">Abbonarsi alle licenze di Windows Defender Advanced Threat Protection.</span><span class="sxs-lookup"><span data-stu-id="6b07f-130">Sign up for Windows Defender Advanced Threat Protection licenses.</span></span> <span data-ttu-id="6b07f-131">(Licenze Windows E5 o Microsoft E5).</span><span class="sxs-lookup"><span data-stu-id="6b07f-131">(Windows E5 or Microsoft E5 licenses).</span></span>
+-   <span data-ttu-id="e437d-130">Abbonarsi alle licenze di Windows Defender Advanced Threat Protection.</span><span class="sxs-lookup"><span data-stu-id="e437d-130">Sign up for Windows Defender Advanced Threat Protection licenses.</span></span> <span data-ttu-id="e437d-131">(Licenze Windows E5 o Microsoft E5).</span><span class="sxs-lookup"><span data-stu-id="e437d-131">(Windows E5 or Microsoft E5 licenses).</span></span>
 
-## <a name="initiate-phase"></a><span data-ttu-id="6b07f-132">Fase di avvio</span><span class="sxs-lookup"><span data-stu-id="6b07f-132">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="e437d-132">Fase di avvio</span><span class="sxs-lookup"><span data-stu-id="e437d-132">Initiate phase</span></span>
 
--   <span data-ttu-id="6b07f-133">Collaborare con il team di FastTrack per avviare l'onboarding dei servizi idonei.</span><span class="sxs-lookup"><span data-stu-id="6b07f-133">Work with FastTrack Specialists to begin onboarding of eligible services.</span></span>
+-   <span data-ttu-id="e437d-133">Collaborare con il team di FastTrack per avviare l'onboarding dei servizi idonei.</span><span class="sxs-lookup"><span data-stu-id="e437d-133">Work with FastTrack Specialists to begin onboarding of eligible services.</span></span>
 
--   <span data-ttu-id="6b07f-134">Participare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.</span><span class="sxs-lookup"><span data-stu-id="6b07f-134">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>
+-   <span data-ttu-id="e437d-134">Participare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.</span><span class="sxs-lookup"><span data-stu-id="e437d-134">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>
 
-## <a name="assess-phase"></a><span data-ttu-id="6b07f-135">Fase di valutazione</span><span class="sxs-lookup"><span data-stu-id="6b07f-135">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="e437d-135">Fase di valutazione</span><span class="sxs-lookup"><span data-stu-id="e437d-135">Assess phase</span></span>
 
--   <span data-ttu-id="6b07f-136">Identificare le parti interessate, tra cui un project manager, per completare le attività di valutazione necessarie.</span><span class="sxs-lookup"><span data-stu-id="6b07f-136">Identify appropriate stakeholders (including a project manager and business owners) to complete the necessary assessment activities.</span></span>
+-   <span data-ttu-id="e437d-136">Identificare le parti interessate, tra cui un project manager, per completare le attività di valutazione necessarie.</span><span class="sxs-lookup"><span data-stu-id="e437d-136">Identify appropriate stakeholders (including a project manager and business owners) to complete the necessary assessment activities.</span></span>
 
--   <span data-ttu-id="6b07f-137">Condividere lo schermo con il team di FastTrack, se sono necessarie indicazioni nel caso si sia scelto di eseguire gli strumenti di valutazione dell’ambiente, di EMS o delle relative singole sottoscrizioni al servizio cloud.</span><span class="sxs-lookup"><span data-stu-id="6b07f-137">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment, EMS, or its individual cloud service subscriptions (if you choose to).</span></span>
+-   <span data-ttu-id="e437d-137">Condividere lo schermo con il team di FastTrack, se sono necessarie indicazioni nel caso si sia scelto di eseguire gli strumenti di valutazione dell’ambiente, di EMS o delle relative singole sottoscrizioni al servizio cloud.</span><span class="sxs-lookup"><span data-stu-id="e437d-137">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment, EMS, or its individual cloud service subscriptions (if you choose to).</span></span>
 
--   <span data-ttu-id="6b07f-138">Partecipare alle riunioni per creare l'elenco di controllo delle correzioni e per contribuire al piano generale, che include argomenti quali: infrastruttura, rete, amministrazione, preparazione alla sincronizzazione delle directory, protezione della rete e identità federata.</span><span class="sxs-lookup"><span data-stu-id="6b07f-138">Participate in the meetings to create the remediation checklist, and contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>
+-   <span data-ttu-id="e437d-138">Partecipare alle riunioni per creare l'elenco di controllo delle correzioni e per contribuire al piano generale, che include argomenti quali: infrastruttura, rete, amministrazione, preparazione alla sincronizzazione delle directory, protezione della rete e identità federata.</span><span class="sxs-lookup"><span data-stu-id="e437d-138">Participate in the meetings to create the remediation checklist, and contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>
 
--   <span data-ttu-id="6b07f-139">Partecipare alle riunioni per delineare l'approccio di provisioning utente.</span><span class="sxs-lookup"><span data-stu-id="6b07f-139">Participate in the meetings to outline the user-provisioning approach.</span></span>
+-   <span data-ttu-id="e437d-139">Partecipare alle riunioni per delineare l'approccio di provisioning utente.</span><span class="sxs-lookup"><span data-stu-id="e437d-139">Participate in the meetings to outline the user-provisioning approach.</span></span>
 
--   <span data-ttu-id="6b07f-140">Partecipare alle riunioni per pianificare la configurazione del servizio in linea.</span><span class="sxs-lookup"><span data-stu-id="6b07f-140">Participate in the meetings to plan online service configuration.</span></span>
+-   <span data-ttu-id="e437d-140">Partecipare alle riunioni per pianificare la configurazione del servizio in linea.</span><span class="sxs-lookup"><span data-stu-id="e437d-140">Participate in the meetings to plan online service configuration.</span></span>
 
--   <span data-ttu-id="6b07f-141">Creare un piano di supporto per la preparazione della migrazione.</span><span class="sxs-lookup"><span data-stu-id="6b07f-141">Create support plan for migration readiness.</span></span>
+-   <span data-ttu-id="e437d-141">Creare un piano di supporto per la preparazione della migrazione.</span><span class="sxs-lookup"><span data-stu-id="e437d-141">Create support plan for migration readiness.</span></span>
 
-## <a name="remediate-phase"></a><span data-ttu-id="6b07f-142">Fase di correzione</span><span class="sxs-lookup"><span data-stu-id="6b07f-142">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="e437d-142">Fase di correzione</span><span class="sxs-lookup"><span data-stu-id="e437d-142">Remediate phase</span></span>
 
--   <span data-ttu-id="6b07f-143">Eseguire i passaggi necessari per completare le attività di correzione identificate nella fase di valutazione.</span><span class="sxs-lookup"><span data-stu-id="6b07f-143">Perform required steps to complete remediation activities identified in the Assess phase.</span></span>
+-   <span data-ttu-id="e437d-143">Eseguire i passaggi necessari per completare le attività di correzione identificate nella fase di valutazione.</span><span class="sxs-lookup"><span data-stu-id="e437d-143">Perform required steps to complete remediation activities identified in the Assess phase.</span></span>
 
--   <span data-ttu-id="6b07f-144">Partecipare alle riunioni del checkpoint.</span><span class="sxs-lookup"><span data-stu-id="6b07f-144">Participate in checkpoint meetings and:</span></span>
+-   <span data-ttu-id="e437d-144">Partecipare alle riunioni del checkpoint.</span><span class="sxs-lookup"><span data-stu-id="e437d-144">Participate in checkpoint meetings and:</span></span>
 
-## <a name="enable-phase"></a><span data-ttu-id="6b07f-145">Fase di attivazione</span><span class="sxs-lookup"><span data-stu-id="6b07f-145">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="e437d-145">Fase di attivazione</span><span class="sxs-lookup"><span data-stu-id="e437d-145">Enable phase</span></span>
 
--   <span data-ttu-id="6b07f-146">Condividere lo schermo con il team di FastTrack, se sono necessarie indicazioni nel caso si sia scelto di eseguire gli strumenti di valutazione dell’ambiente, di EMS o delle relative singole sottoscrizioni al servizio cloud.</span><span class="sxs-lookup"><span data-stu-id="6b07f-146">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment, EMS, or its individual cloud service subscriptions (if you choose to).</span></span> <span data-ttu-id="6b07f-147">Gestire le risorse in base alle esigenze.</span><span class="sxs-lookup"><span data-stu-id="6b07f-147">Manage resources as appropriate.</span></span>
+-   <span data-ttu-id="e437d-146">Condividere lo schermo con il team di FastTrack, se sono necessarie indicazioni nel caso si sia scelto di eseguire gli strumenti di valutazione dell’ambiente, di EMS o delle relative singole sottoscrizioni al servizio cloud.</span><span class="sxs-lookup"><span data-stu-id="e437d-146">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment, EMS, or its individual cloud service subscriptions (if you choose to).</span></span> <span data-ttu-id="e437d-147">Gestire le risorse in base alle esigenze.</span><span class="sxs-lookup"><span data-stu-id="e437d-147">Manage resources as appropriate.</span></span>
 
--   <span data-ttu-id="6b07f-148">Configurare gli elementi relativi alla rete in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="6b07f-148">Configure network-related items per guidance from the FastTrack team.</span></span>
+-   <span data-ttu-id="e437d-148">Configurare gli elementi relativi alla rete in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="e437d-148">Configure network-related items per guidance from the FastTrack team.</span></span>
 
--   <span data-ttu-id="6b07f-149">Eseguire la preparazione delle directory e configurarne la sincronizzazione in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="6b07f-149">Perform directory readiness and configure directory synchronization per guidance from the FastTrack team.</span></span>
+-   <span data-ttu-id="e437d-149">Eseguire la preparazione delle directory e configurarne la sincronizzazione in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="e437d-149">Perform directory readiness and configure directory synchronization per guidance from the FastTrack team.</span></span>
 
--   <span data-ttu-id="6b07f-150">Configurare un metodo di autenticazione, ad esempio gestito o federato.</span><span class="sxs-lookup"><span data-stu-id="6b07f-150">Configure an authentication method, such as managed or federated.</span></span> 
+-   <span data-ttu-id="e437d-150">Configurare un metodo di autenticazione, ad esempio gestito o federato.</span><span class="sxs-lookup"><span data-stu-id="e437d-150">Configure an authentication method, such as managed or federated.</span></span> 
 
--   <span data-ttu-id="6b07f-151">Configurare l'infrastruttura correlata alla protezione (come le porte del firewall) in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="6b07f-151">Configure security-related infrastructure (like firewall ports) per guidance from the FastTrack team.</span></span>
+-   <span data-ttu-id="e437d-151">Configurare l'infrastruttura correlata alla protezione (come le porte del firewall) in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="e437d-151">Configure security-related infrastructure (like firewall ports) per guidance from the FastTrack team.</span></span>
 
--   <span data-ttu-id="6b07f-152">Implementare l'infrastruttura client in modo appropriato.</span><span class="sxs-lookup"><span data-stu-id="6b07f-152">Implement appropriate client infrastructure.</span></span>
+-   <span data-ttu-id="e437d-152">Implementare l'infrastruttura client in modo appropriato.</span><span class="sxs-lookup"><span data-stu-id="e437d-152">Implement appropriate client infrastructure.</span></span>
 
--   <span data-ttu-id="6b07f-153">Implementare l'approccio di provisioning utente in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="6b07f-153">Implement a user-provisioning approach per guidance from the FastTrack team.</span></span>
+-   <span data-ttu-id="e437d-153">Implementare l'approccio di provisioning utente in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="e437d-153">Implement a user-provisioning approach per guidance from the FastTrack team.</span></span>
 
--   <span data-ttu-id="6b07f-154">Attivare i vari servizi in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="6b07f-154">Enable various services per guidance from the FastTrack team.</span></span>
+-   <span data-ttu-id="e437d-154">Attivare i vari servizi in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="e437d-154">Enable various services per guidance from the FastTrack team.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="6b07f-155">**Per saperne di più**</span><span class="sxs-lookup"><span data-stu-id="6b07f-155">\*\*\*\* Want to learn more?</span></span> <span data-ttu-id="6b07f-156">Vedere [Enterprise Mobility + Security](https://www.microsoft.com/it-IT/cloud-platform/enterprise-mobility)</span><span class="sxs-lookup"><span data-stu-id="6b07f-156">[Microsoft Enterprise Mobility + Security](https://www.microsoft.com/it-IT/cloud-platform/enterprise-mobility)</span></span>
+> <span data-ttu-id="e437d-155">**Per saperne di più**</span><span class="sxs-lookup"><span data-stu-id="e437d-155">\*\*\*\* Want to learn more?</span></span> <span data-ttu-id="e437d-156">Vedere [Enterprise Mobility + Security](https://www.microsoft.com/it-IT/cloud-platform/enterprise-mobility)</span><span class="sxs-lookup"><span data-stu-id="e437d-156">[Microsoft Enterprise Mobility + Security](https://www.microsoft.com/it-IT/cloud-platform/enterprise-mobility)</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="6b07f-157">Vedere anche</span><span class="sxs-lookup"><span data-stu-id="6b07f-157">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="e437d-157">Vedere anche</span><span class="sxs-lookup"><span data-stu-id="e437d-157">See also</span></span>
 
-- [<span data-ttu-id="6b07f-158">Vantaggio FastTrack per EMS</span><span class="sxs-lookup"><span data-stu-id="6b07f-158">FastTrack benefit for EMS</span></span>](EMS-fasttrack-benefit-for-EMS.md)
-- [<span data-ttu-id="6b07f-159">Vantaggio FastTrack per Office 365</span><span class="sxs-lookup"><span data-stu-id="6b07f-159">FastTrack Center Benefit for Office 365</span></span>](O365-fasttrack-benefit-for-office-365.md)
+- [<span data-ttu-id="e437d-158">Vantaggio FastTrack per EMS</span><span class="sxs-lookup"><span data-stu-id="e437d-158">FastTrack benefit for EMS</span></span>](EMS-fasttrack-benefit-for-EMS.md)
+- [<span data-ttu-id="e437d-159">Vantaggio FastTrack per Office 365</span><span class="sxs-lookup"><span data-stu-id="e437d-159">FastTrack Center Benefit for Office 365</span></span>](O365-fasttrack-benefit-for-office-365.md)
 
