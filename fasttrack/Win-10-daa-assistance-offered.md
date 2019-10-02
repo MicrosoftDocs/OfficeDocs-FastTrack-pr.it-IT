@@ -3,19 +3,19 @@ title: Assistenza offerta
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al momento dell'acquisto di uno dei servizi di Windows 10 o Microsoft 365, gli esperti FastTrack forniscono indicazioni e correzioni per la distribuzione di Windows 10 e Office 365 ProPlus e consentono di mantenersi aggiornati senza costi aggiuntivi (con un abbonamento idoneo).
-ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712248"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342571"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta  
 
@@ -51,7 +51,9 @@ FastTrack non fornisce assistenza per:
 Le responsabilità dell'utente includono:
 - Creazione di un inventario delle app.
 - Convalida di tali app in Windows 10 e Office 365 ProPlus.
+
 > [!NOTE]
-> Microsoft non può apportare modifiche al codice sorgente del cliente. Tuttavia, il team di Desktop App Assure può fornire indicazioni agli sviluppatori di app se il codice sorgente è disponibile per le applicazioni del cliente. [!NOTE]
-> FastTrack non può risolvere i problemi di compatibilità di versioni precedenti di componenti aggiuntivi, macro e app ISV se sono presenti versioni più recenti supportate in Windows 10 e Office 365 ProPlus.[!NOTE]
+> Microsoft non può apportare modifiche al codice sorgente del cliente. Tuttavia, il team di Desktop App Assure può fornire indicazioni agli sviluppatori di app se il codice sorgente è disponibile per le applicazioni del cliente.
+
+> [!NOTE]
 > Contattare un [partner Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) per fornire assistenza per i servizi identificati come esclusi dall'ambito.

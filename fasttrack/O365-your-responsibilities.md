@@ -3,19 +3,19 @@ title: Responsabilità dell'utente
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Ecco le responsabilità dell'utente durante il processo di onboarding.
-ms.openlocfilehash: 60bdfd0ba6a9d9840a8cdaaa64506c0aba8b1716
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 30e23a54e511e978c58fd3654ee160c1c7b74c1b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712104"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342151"
 ---
 # <a name="your-responsibilities"></a>Responsabilità dell'utente
 
@@ -99,8 +99,6 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.\*
 - Implementare l'infrastruttura client in modo appropriato.  
 - Implementare l'approccio di provisioning utente in base alle indicazioni di Microsoft.  
 - Attivare i vari servizi in base alle indicazioni di Microsoft.  
-- Ottenere un ID Apple, se si configura la gestione dei dispositivi mobili (MDM, Mobile Device Management).   
-- Aggiornare il certificato del servizio APN (Apple Push Notification).
     
 \*Per informazioni sulle responsabilità dell’utente per Office 365 US Government, vedere [Responsabilità dell’utente per Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
