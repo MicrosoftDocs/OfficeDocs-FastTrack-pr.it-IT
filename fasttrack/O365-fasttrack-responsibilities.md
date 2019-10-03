@@ -3,19 +3,19 @@ title: Responsabilità di FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: 4e2383b2654fb1218bbb2cb9913e6cbf6b94572a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712157"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342295"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -224,15 +224,7 @@ Fornire indicazioni su:
 - Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.
 - Selezione e configurazione di un'installazione locale o cloud.
 - Creazione del codice XML di configurazione dello Strumento di distribuzione di Office con lo Strumento di personalizzazione di Office o del codice XML nativo per configurare il pacchetto di distribuzione.
-- Implementazione con System Center Configuration Manager, che include una guida per la creazione del pacchetto di System Center Configuration Manager.
-    
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-Fornire indicazioni su:
-- Conferma dell'abilitazione di Microsoft StaffHub sul tenant Office 365.
-- Abilitazione o disabilitazione delle licenze utente.
-- Componenti di base del prodotto.
-- Scaricare i percorsi per Microsoft StaffHub.
+- Distribuzione con System Center Configuration Manager, inclusa l'assistenza per la creazione di pacchetti di System Center Configuration Manager.
     
 ## <a name="outlook-for-ios-and-android"></a>Outlook per iOS e Android
 
