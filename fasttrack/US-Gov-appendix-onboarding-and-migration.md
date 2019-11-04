@@ -3,19 +3,19 @@ title: Fasi di onboarding e migrazione per Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avviare, valutare, correggere e abilitare. È possibile seguire queste fasi con una fase di migrazione dei dati facoltativa, come illustrato nella figura seguente."
-ms.openlocfilehash: 05e14c08148a5b02df9c175882a2853f0a39301c
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: fc6f89d64ee78089c584014a080d8739e94239eb
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342727"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921974"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
 
@@ -59,7 +59,7 @@ Ciò include una collaborazione con l'utente per comprendere in che modo intende
 
 Il responsabile FastTrack effettua una chiamata interattiva con l'utente e il team di adozione per pianificare il buon esito del processo. In questo modo, l'utente viene a conoscenza delle capacità dei servizi idonei acquistati, degli elementi essenziali necessari, della metodologia per l'uso del servizio e degli scenari utili per sfruttare il servizio. Microsoft supporta l'utente nella pianificazione per il buon esito del processo e fornisce commenti e suggerimenti sulle aree principali (in base alle necessità).
   
-Gli esperti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Sono disponibili strumenti che consentono di raccogliere i dati relativi all'ambiente e di valutare i requisiti di larghezza di banda e i browser Internet, i sistemi operativi client, il sistema DNS (Domain Name System), la rete, l'infrastruttura e il sistema di identità determinare se le modifiche sono necessarie per l'onboarding. 
+Gli specialisti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Sono disponibili strumenti che consentono di raccogliere i dati relativi all'ambiente e di valutare i requisiti di larghezza di banda e i browser Internet, i sistemi operativi client, il sistema DNS (Domain Name System), la rete, l'infrastruttura e il sistema di identità determinare se le modifiche sono necessarie per l'onboarding. 
   
 In base all'impostazione corrente, viene suggerito un piano di correzione che fornisce all'ambiente di origine i requisiti minimi per l'onboarding a Office 365 e, se necessario, per la migrazione dei dati e/o delle cassette postali. Viene offerta una serie di attività consigliate per aumentare l'adozione e il valore dell'utente finale. Vengono inoltre stabilite delle chiamate di controllo appropriate per la fase di correzione.
   
@@ -149,7 +149,7 @@ Per Skype for Business Online, viene fornito materiale sussidiario per:
 Per Microsoft StaffHub viene fornito materiale sussidiario per: 
 - Conferma dei requisiti minimi.   
 - Configurazione delle porte del firewall.   
-- Configurazione DNS.  
+- Configurazione di DNS.  
 - Conferma dell'abilitazione di Microsoft Teams sul tenant Office 365.    
 - Abilitazione o disabilitazione delle licenze utente.
     
