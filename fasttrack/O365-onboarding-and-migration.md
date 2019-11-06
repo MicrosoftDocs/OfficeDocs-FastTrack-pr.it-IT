@@ -3,19 +3,19 @@ title: Fasi del processo di onboarding e migrazione
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: L'onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che possono essere seguite da una fase di migrazione dei dati facoltativa.
-ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 21b201c4c9d88c3b92c815beeef3e6ae46c3b73a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342415"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922642"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fasi del processo di onboarding e migrazione
 
@@ -97,10 +97,14 @@ Per Exchange Online, l'utente viene guidato nell'utilizzo della posta elettronic
 - Configurare le funzionalità di Exchange Online Protection (EOP) per tutti i domini abilitati alla posta elettronica convalidati in Office 365.
     > [!NOTE]
     > I record MX (Mail Exchange) devono puntare a Office 365. 
-- Configurare la funzionalità Exchange Online Advanced Threat Protection (ATP) se rientra nel servizio di sottoscrizione dopo aver impostato i record MX in modo che puntino a Office 365. Questa funzionalità viene configurata nelle impostazioni antimalware di Exchange Online Protection.
+- Configurare la funzionalità Office 365 Advanced Threat Protection (ATP) se rientra nel servizio di sottoscrizione. Per ulteriori informazioni, vedere [Office 365 Advanced Threat Protection](#office-365-advanced-threat-protection).
 - Configurare la funzionalità di prevenzione della perdita dei dati (DLP) per tutti i domini abilitati per la posta elettronica convalidati in Office 365 se rientra nel servizio in abbonamento. Questa operazione viene eseguita dopo aver impostato i record MX in modo che puntino a Office 365.
 - Configurare Office 365 Message Encryption (OME) per tutti i domini abilitati per la posta elettronica convalidati in Office 365 se rientra nel servizio in abbonamento. Questa operazione viene eseguita dopo aver impostato i record MX in modo che puntino a Office 365.
-- Configurare le porte del firewall.
+
+> [!NOTE]
+> Il servizio Replica delle cassette postali tenta di eseguire la migrazione dei messaggi di posta elettronica protetti da Information Rights Managed (IRM) dalla cassetta postale dell'utente alla cassetta postale di Exchange Online corrispondente. La possibilità di leggere i contenuti protetti dopo la migrazione dipende dal fatto che il cliente esegua il mapping e copi i modelli di Active Directory Rights Managed Services (AD RMS) in Azure Rights Management Service (Azure RMS).
+
+- Configurazione delle porte del firewall.
 - Impostare DNS, incluso il servizio obbligatorio di Autodiscover, SPF (Sender Policy Framework) e i record MX, se necessario. 
 - Configurare il flusso di posta elettronica tra l'ambiente di messaggistica di origine e Exchange Online (in base alle esigenze).
 - Eseguire la migrazione della posta dall'ambiente di messaggistica di origine a Office 365.
@@ -128,6 +132,14 @@ Per OneDrive for Business, la procedura dipende dal corrente utilizzo o meno di 
   
 ![Passaggi onboarding di OneDrive durante la fase di attivazione](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+
+Per Office 365 ATP, viene fornito materiale sussidiario per:
+- Abilitazione di Collegamenti sicuri, Allegati sicuri e anti-phishing. 
+- Configurazione di automazione, analisi e risposta.
+- Uso del simulatore di attacchi.
+- Creazione di report e analisi delle minacce.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Per Microsoft StaffHub viene fornito materiale sussidiario per:

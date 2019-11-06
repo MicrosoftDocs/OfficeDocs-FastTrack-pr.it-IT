@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack fornisce indicazioni per la distribuzione di Windows 10 che consentono di eseguire l'aggiornamento da Windows 7 Professional e Windows 8.1 Professional a Windows 10 Enterprise.
-ms.openlocfilehash: ffbbde094e77bfc5ddf6155a318e7534e2a1c666
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e9999306b8ac1a6916562eb7ac0f422622c834da
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342655"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921570"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -24,6 +24,7 @@ FastTrack fornisce indicazioni per la distribuzione di Windows 10 che consentono
 - Distribuire Windows 10 Enterprise con Microsoft System Center Configuration Manager o Microsoft 365.
 - Distribuire Office 365 ProPlus. 
 - Aggiornare Windows 10 Enterprise e Office 365 ProPlus con System Center Configuration Manager o Microsoft 365.
+- Collegare tramite cloud Configuration Manager con Microsoft Intune o distribuire Intune come unica soluzione di gestione cloud.
   
 > [!NOTE]
 > FastTrack offre ai clienti un approccio consigliato, linee guida e procedure consigliate progettate per ottenere risultati rapidi e prevedibili. Se si sceglie di eseguire la distribuzione senza seguire questa guida, ciò potrebbe influire sull'esperienza. L'assistenza viene definita come una combinazione di supporto in forma orale e scritta. Quando gli esperti di FastTrack offrono assistenza, il personale di FastTrack non può agire per conto dell'utente. È possibile usare i servizi di FastTrack per i piani idonei a condizione che l'abbonamento sia corrente.  
