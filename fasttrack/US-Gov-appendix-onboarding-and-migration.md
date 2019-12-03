@@ -3,19 +3,19 @@ title: Fasi di onboarding e migrazione per Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avviare, valutare, correggere e abilitare. È possibile seguire queste fasi con una fase di migrazione dei dati facoltativa, come illustrato nella figura seguente."
-ms.openlocfilehash: fc6f89d64ee78089c584014a080d8739e94239eb
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: f1c208654cf85e7c9f5211a0275d43153185e2e2
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921974"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663481"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
 
@@ -100,7 +100,7 @@ Per Exchange Online, l'utente viene guidato nell'utilizzo della posta elettronic
     > [!NOTE]
     > I record MX (Mail Exchange) devono puntare a Office 365.   
 - Configurare la funzionalità Protezione avanzata dalle minacce per Exchange Online (ATP) se rientra nel servizio di sottoscrizione una volta che i record MX puntano a Office 365. Questa funzionalità è configurata come parte delle impostazioni antimalware di Exchange Online Protection.   
-- Configurare le porte del firewall.   
+- Configurazione delle porte del firewall.   
 - Impostare DNS, incluso il servizio obbligatorio di Autodiscover, SPF (Sender Policy Framework) e i record MX, se necessario.     
 - Configurare il flusso di posta elettronica tra l'ambiente di messaggistica di origine e Exchange Online (in base alle esigenze).   
 - Eseguire la migrazione della posta dall'ambiente di messaggistica di origine a Office 365.   
