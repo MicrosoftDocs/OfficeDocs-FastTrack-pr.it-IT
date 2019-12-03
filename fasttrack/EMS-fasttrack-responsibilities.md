@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 65be29729f38b3007399b05b495b56f641680878
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 71030fee255c784f57ed4ee880b6bc01087d5a1b
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921102"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662857"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -148,7 +148,7 @@ Fornire indicazioni sulla configurazione:
 
   - Fino a tre (3) o più software come integrazioni applicazioni di servizio (SaaS) con Single Sign-on (SSO) dall’[Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
-  - Il provisioning automatico degli utenti per le applicazioni SaaS preintegrate, come indicato [nell'elenco delle esercitazioni di integrazione di app](https://docs.microsoft.com/it-IT/azure/active-directory/saas-apps/tutorial-list), solo per il provisioning in uscita.
+  - Il provisioning automatico degli utenti per le applicazioni SaaS preintegrate, come indicato [nell'elenco delle esercitazioni di integrazione di app](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), solo per il provisioning in uscita.
 
   - Schermata di accesso personalizzata, tra cui il logo, il testo e le immagini.
 

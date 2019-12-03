@@ -3,19 +3,19 @@ title: Responsabilità di FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 08fc251860aca5868deefd19904abd30b5a9f8b9
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921582"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662989"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -107,49 +107,6 @@ Fornire indicazioni su:
     
 Per ulteriori informazioni sulle responsabilità nella migrazione dei dati, vedere [Migrazione dei dati](O365-data-migration.md).
   
-## <a name="sharepoint-online"></a>SharePoint Online
-
-Fornire indicazioni su:
-- Impostazione di provisioning incluse le licenze dell'utente.
-- Abilitazione alla creazione di siti per l'amministratore di SharePoint Online.    
-- Pianificazione delle raccolte di siti. 
-- Protezione del contenuto e gestione delle autorizzazioni.
-- Attivazione di siti personali e caratteristiche di social networking.
-- Configurazione delle caratteristiche di SharePoint Online. 
-- Fornitura di indicazioni sulla migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
-- Valutazione della configurazione relativa all'infrastruttura della farm locale di SharePoint, necessaria per l'ambiente ibrido di SharePoint Online. 
-- Utilizzo di strumenti e automazione per:
-  - Configurare le applicazioni del servizio di ricerca cloud in locale. 
-  - Configurare l'attendibilità tra gli ambienti SharePoint locali e cloud.
-- Configurare i siti locali di SharePoint affinché usino le funzionalità dell'ambiente ibrido di SharePoint Online.
-    
-## <a name="onedrive-for-business"></a>OneDrive for Business
-
-Fornire indicazioni su:
-- Identificazione delle opzioni di integrazione e della versione locale di SharePoint. 
-- Identificazione delle opzioni di sincronizzazione e identità.
-- Selezione dell'opzione di implementazione:   
-  - Implementazione just-in-time.
-  - Implementazione in più fasi (in sequenza e fasi).
-- Preparazione dell'ambiente locale alla distribuzione di OneDrive for Business:
-  - Identificazione del client di sincronizzazione OneDrive for Business corretto.
-  - Configurazione di DNS, porte di rete e firewall. 
-- Assegnazione di licenze per l'utente finale. 
-- Impostazione di gruppi di destinatari di SharePoint Online per controllare e regolare chi scarica OneDrive for Business. 
-- Distribuzione del client di sincronizzazione OneDrive for Business su desktop.   
-- Come configurare il reindirizzamento all'ambiente ibrido di SharePoint Online e OneDrive for Business (solo SharePoint 2013 e SharePoint 2016).
-- Migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
-    
-## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
-
-Fornire indicazioni su:
-- Abilitazione di Collegamenti sicuri.
-- Abilitazione di Allegati sicuri.
-- Abilitazione di criteri anti-phishing.
-- Configurazione di automazione, analisi e risposta.
-- Uso del simulatore di attacchi.
-- Creazione di report e analisi delle minacce.
-
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fornire indicazioni su:
@@ -175,26 +132,51 @@ Fornire indicazioni su:
 - Abilitazione degli eventi live in Teams. 
 - Configurazione dell'organizzazione e integrazione in Microsoft Stream.
 
-
-## <a name="skype-for-business-online"></a>Skype for Business online
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
 Fornire indicazioni su:
-- Provisioning delle identità di Skype for Business per Office 365. 
-- Abilitazione delle conferenze in linea, della messaggistica immediata (IM) e funzionalità di presenza per Office 365. 
-- Creazione di account da associare ai dispositivi del sistema chat room supportati (fino a 10 account). 
-- Configurazione di un ambiente server del dominio condiviso in grado di supportare Lync ibrido o scenari ibridi di Skype for Business online (se applicabile).
-- Abilitazione dell'audioconferenza:
-  - Configurazione aziendale delle impostazioni predefinite del bridge per conferenze.
-  - Assegnazione di bridge per conferenze agli utenti con licenza
-- Abilitazione del sistema telefonico:
-  - Abilitazione del sistema telefonico e dell'onboarding relativo ai piani di chiamata (mercati idonei).
-  - Assegnazione di numeri agli utenti con licenza.
-  - Guida alla portabilità del numero locale tramite UI fino a 999.
-  - Supporto RS per la portabilità del numero locale superiore a 999.
-- Abilitazione di Skype for Business Meeting Broadcast
-  - Onboarding guidato per l'abilitazione di Skype for Business Meeting Broadcast.
-  - Configurazione aziendale per la federazione con il servizio Meeting Broadcast.
+- Abilitazione di Collegamenti sicuri.
+- Abilitazione di Allegati sicuri.
+- Abilitazione di criteri anti-phishing.
+- Configurazione di automazione, analisi e risposta.
+- Uso del simulatore di attacchi.
+- Creazione di report e analisi delle minacce.
+
+## <a name="office-365-proplus"></a>Office 365 ProPlus
+
+Fornire indicazioni su:
+- Risoluzione dei problemi di implementazione.
+- Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.
+- Installazione di Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.
+- Installazione delle app di Office Mobile (ad esempio Outlook per iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile. 
+- Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.
+- Selezione e configurazione di un'installazione locale o cloud.
+- Creazione del codice XML di configurazione dello Strumento di distribuzione di Office con lo Strumento di personalizzazione di Office o del codice XML nativo per configurare il pacchetto di distribuzione.
+- Distribuzione con System Center Configuration Manager, inclusa l'assistenza per la creazione di pacchetti di System Center Configuration Manager.
     
+## <a name="onedrive-for-business"></a>OneDrive for Business
+
+Fornire indicazioni su:
+- Identificazione delle opzioni di integrazione e della versione locale di SharePoint. 
+- Identificazione delle opzioni di sincronizzazione e identità.
+- Selezione dell'opzione di implementazione:   
+  - Implementazione just-in-time.
+  - Implementazione in più fasi (in sequenza e fasi).
+- Preparazione dell'ambiente locale alla distribuzione di OneDrive for Business:
+  - Identificazione del client di sincronizzazione OneDrive for Business corretto.
+  - Configurazione di DNS, porte di rete e firewall. 
+- Assegnazione di licenze per l'utente finale. 
+- Impostazione di gruppi di destinatari di SharePoint Online per controllare e regolare chi scarica OneDrive for Business. 
+- Distribuzione del client di sincronizzazione OneDrive for Business su desktop.   
+- Come configurare il reindirizzamento all'ambiente ibrido di SharePoint Online e OneDrive for Business (solo SharePoint 2013 e SharePoint 2016).
+- Migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
+    
+## <a name="outlook-for-ios-and-android"></a>Outlook per iOS e Android
+
+Fornire indicazioni su:
+- Download di Outlook su dispositivi iOS e Android.
+- Configurazione degli account di posta elettronica in Outlook.
+
 ## <a name="power-bi"></a>Power BI
 
 Fornire indicazioni su:
@@ -220,28 +202,45 @@ Fornire indicazioni su:
 - Configurazione delle impostazioni di aggiornamento usando lo strumento di distribuzione di Office 365 oppure i modelli dei criteri di gruppo.
 - Impostazione di un solo server di distribuzione nel sito per Client desktop di Project Online, incluse le istruzioni per creare un file configuration.xml per lo strumento di distribuzione di Office 2016. 
 - Connessione di Client desktop di Project Online a Project Online.
+
+## <a name="sharepoint-online"></a>SharePoint Online
+
+Fornire indicazioni su:
+- Impostazione di provisioning incluse le licenze dell'utente.
+- Abilitazione alla creazione di siti per l'amministratore di SharePoint Online.    
+- Pianificazione delle raccolte di siti. 
+- Protezione del contenuto e gestione delle autorizzazioni.
+- Attivazione di siti personali e caratteristiche di social networking.
+- Configurazione delle caratteristiche di SharePoint Online. 
+- Fornitura di indicazioni sulla migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
+- Valutazione della configurazione relativa all'infrastruttura della farm locale di SharePoint, necessaria per l'ambiente ibrido di SharePoint Online. 
+- Utilizzo di strumenti e automazione per:
+  - Configurare le applicazioni del servizio di ricerca cloud in locale. 
+  - Configurare l'attendibilità tra gli ambienti SharePoint locali e cloud.
+- Configurare i siti locali di SharePoint affinché usino le funzionalità dell'ambiente ibrido di SharePoint Online.
+    
+## <a name="skype-for-business-online"></a>Skype for Business Online
+
+Fornire indicazioni su:
+- Provisioning delle identità di Skype for Business per Office 365. 
+- Abilitazione delle conferenze in linea, della messaggistica immediata (IM) e funzionalità di presenza per Office 365. 
+- Creazione di account da associare ai dispositivi del sistema chat room supportati (fino a 10 account). 
+- Configurazione di un ambiente server del dominio condiviso in grado di supportare Lync ibrido o scenari ibridi di Skype for Business online (se applicabile).
+- Abilitazione dell'audioconferenza:
+  - Configurazione aziendale delle impostazioni predefinite del bridge per conferenze.
+  - Assegnazione di bridge per conferenze agli utenti con licenza
+- Abilitazione del sistema telefonico:
+  - Abilitazione del sistema telefonico e dell'onboarding relativo ai piani di chiamata (mercati idonei).
+  - Assegnazione di numeri agli utenti con licenza.
+  - Guida alla portabilità del numero locale tramite UI fino a 999.
+  - Supporto RS per la portabilità del numero locale superiore a 999.
+- Abilitazione di Skype for Business Meeting Broadcast
+  - Onboarding guidato per l'abilitazione di Skype for Business Meeting Broadcast.
+  - Configurazione aziendale per la federazione con il servizio Meeting Broadcast.
     
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 Fornire una guida sulla conversione della rete Yammer Basic singola in una sola rete Yammer Enterprise.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-Fornire indicazioni su:
-- Risoluzione dei problemi di implementazione.
-- Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.
-- Installazione di Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.
-- Installazione delle app di Office Mobile (ad esempio Outlook per iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile. 
-- Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.
-- Selezione e configurazione di un'installazione locale o cloud.
-- Creazione del codice XML di configurazione dello Strumento di distribuzione di Office con lo Strumento di personalizzazione di Office o del codice XML nativo per configurare il pacchetto di distribuzione.
-- Distribuzione con System Center Configuration Manager, inclusa l'assistenza per la creazione di pacchetti di System Center Configuration Manager.
-    
-## <a name="outlook-for-ios-and-android"></a>Outlook per iOS e Android
-
-Fornire indicazioni su:
-- Download di Outlook su dispositivi iOS e Android.
-- Configurazione degli account di posta elettronica in Outlook.
-
 \*Per informazioni sulle responsabilità di FastTrack per Office 365 US Government, vedere [Responsabilità di FastTrack per Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
 

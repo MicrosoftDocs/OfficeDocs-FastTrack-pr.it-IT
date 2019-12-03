@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 8f850c133d18ea42b50f3c4333092d5358d8b1c8
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 858294224aa18dc3f2aae927630498f49afeb872
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921594"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662917"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
@@ -103,7 +103,7 @@ La configurazione di Azure AD Premium include l'abilitazione delle caratteristic
 
 -   Fino a tre (3) o più integrazioni di applicazioni software come un servizio (SaaS) con Single Sign-on (SSO) da [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
--   Il provisioning automatico degli utenti per le applicazioni SaaS preintegrate, come indicato [nell'elenco delle esercitazioni di integrazione di app](https://docs.microsoft.com/it-IT/azure/active-directory/saas-apps/tutorial-list), solo per il provisioning in uscita.
+-   Il provisioning automatico degli utenti per le applicazioni SaaS preintegrate, come indicato [nell'elenco delle esercitazioni di integrazione di app](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), solo per il provisioning in uscita.
 
 -   Schermata di accesso personalizzata, tra cui il logo, il testo e le immagini.
 
@@ -280,7 +280,7 @@ Ai clienti vengono fornite indicazioni su come:
 Sono inoltre disponibili indicazioni per i clienti che vogliono applicare la protezione con Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME) e prevenzione della perdita dei dati (DLP).
 
 > [!NOTE]
-> **Per saperne di più** consultare [Enterprise Mobility + Security](https://www.microsoft.com/it-IT/cloud-platform/enterprise-mobility).
+> **Per saperne di più** consultare [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Passaggi successivi
 
