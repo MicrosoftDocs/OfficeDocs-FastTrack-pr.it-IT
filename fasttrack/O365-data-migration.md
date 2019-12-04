@@ -3,19 +3,19 @@ title: Migrazione dei dati
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack forniscono linee guida sulla procedura di migrazione di dati a Office 365. Si tratta di un'opportunità offerta a tutti i clienti idonei con servizi Office 365 per Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: 011ac6cd7a6f53872bf9545cb837700418415566
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921246"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662929"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 
@@ -66,10 +66,6 @@ Le migrazioni vengono eseguite in base a una pianificazione anticipata standardi
 #### <a name="us-governmentdod"></a>Governo degli Stati Uniti/DoD
 
 Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, cinque (5) giorni a settimana (24x5) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì alle 24 ora UTC al venerdì a mezzanotte ora UTC. Ciò significa che l'ultima migrazione pianificata viene eseguita il venerdì alle 20:00 ora UTC.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland (MCD) Germania
-
-Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 9 ore al giorno, cinque (5) giorni a settimana (9x5) nelle fasce orarie di migrazione predefinite. È previsto un solo batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì a mezzanotte ora UTC al venerdì alle 21:00 ora UTC.
     
  ### <a name="end-state"></a>Stato finale
   
@@ -172,10 +168,6 @@ Le migrazioni vengono eseguite in base a una pianificazione anticipata standardi
 
 Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, cinque (5) giorni a settimana (24x5) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì alle 24 ora UTC al venerdì a mezzanotte ora UTC. Ciò significa che l'ultima migrazione pianificata viene eseguita il venerdì alle 20:00 ora UTC.
 
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland (MCD) Germania
-
-Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 9 ore al giorno, cinque (5) giorni a settimana (9x5) nelle fasce orarie di migrazione predefinite. È previsto un solo batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì a mezzanotte ora UTC al venerdì alle 21:00 ora UTC.
-
 - Tutte le migrazioni sono soggette alle quote di SharePoint Online descritte in [SharePoint Online e OneDrive for Business: limiti del software](https://go.microsoft.com/fwlink/?LinkID=616612).   
 - La quantità complessiva dei dati migrati sarà legata al 75% della quota di archiviazione di SharePoint Online complessiva per la quale è abilitato l'utente (compresa l'archiviazione aggiuntiva che potrebbe essere stata acquistata separatamente).
     
@@ -230,8 +222,8 @@ Eseguire le seguenti operazioni durante le migrazioni:
 - Conduce la correzione della migrazione post-migrazione (se applicabile).
 - Pianifica e implementa la gestione delle modifiche e le comunicazioni con gli utenti finali (se applicabile).   
 - Amministrare e configurare le eventuali modifiche apportate al sistema di origine e ai dispositivi necessari per il completamento delle attività di migrazione e valutazione.
-- Forniscono una pianificazione in un metodo definito e un elenco dei dati utente specifici di cui eseguire la migrazione in ogni fase, con almeno sette (7) giorni di anticipo.
-- Eliminano i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
+- Forniscono una pianificazione in un metodo definito e un elenco dei dati utente specifici di cui eseguire la migrazione in ogni fase, con almeno tre (3) giorni di anticipo.
+- Eliminare i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
 > [!NOTE]
 > Microsoft non garantisce la velocità di migrazione dei file.
     
@@ -255,10 +247,6 @@ Le migrazioni vengono eseguite in base a una pianificazione anticipata standardi
 #### <a name="us-governmentdod"></a>Governo degli Stati Uniti/DoD
 
 Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, cinque (5) giorni a settimana (24x5) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì alle 24 ora UTC al venerdì a mezzanotte ora UTC. Ciò significa che l'ultima migrazione pianificata viene eseguita il venerdì alle 20:00 ora UTC.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland (MCD) Germania
-
-Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 9 ore al giorno, cinque (5) giorni a settimana (9x5) nelle fasce orarie di migrazione predefinite. È previsto un solo batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì a mezzanotte ora UTC al venerdì alle 21:00 ora UTC.
     
 - Tutte le migrazioni richiedono accesso e autorizzazioni appropriate per l'ambiente di origine.   
 - Tutte le migrazioni sono soggette alle quote di OneDrive for Business descritte in [SharePoint Online e OneDrive for Business: limiti del software](https://go.microsoft.com/fwlink/?LinkId=698855).
@@ -285,7 +273,7 @@ Gli esperti di FastTrack eseguono le seguenti operazioni durante le migrazioni:
 - Forniscono i prerequisiti per gli strumenti di valutazione e migrazione applicabili per lo scenario.  
 - Forniscono i prerequisiti per l'accesso del team di migrazione all'ambiente di origine e di destinazione ai fini della valutazione e della migrazione.   
 - Forniscono appositi strumenti per effettuare valutazioni dell'ambiente di origine/destinazione o istruzioni su come utilizzare le funzioni delle piattaforme di origine native per creare report di valutazione.    
-- Forniscono una pianificazione in un metodo definito e un elenco dei dati utente specifici di cui eseguire la migrazione in ogni fase, con almeno sette (7) giorni di anticipo.
+- Forniscono una pianificazione in un metodo definito e un elenco dei dati utente specifici di cui eseguire la migrazione in ogni fase, con almeno tre (3) giorni di anticipo.
 - Eliminano i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
 - Forniscono assistenza durante la distribuzione e l'esecuzione di strumenti di valutazione e migrazione (se applicabile).   
 - Configura l'infrastruttura di migrazione nella preparazione della migrazione dei contenuti (laddove applicabile).    

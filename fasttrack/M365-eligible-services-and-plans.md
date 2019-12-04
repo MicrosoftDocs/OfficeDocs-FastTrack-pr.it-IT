@@ -3,19 +3,19 @@ title: Piani e servizi idonei
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
-ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 47f0a830a289974b8cfe370101d4049f3f19816f
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921174"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662769"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
@@ -72,6 +72,7 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Sicurezza Microsoft 365 E5\*
+- Microsoft 365 F1*
 - Microsoft 365 Business\*
     
  **Microsoft 365 Education**
@@ -164,8 +165,6 @@ Per altre informazioni, vedere [FastTrack Center Benefit per Office 365](https:/
 |**Microsoft Intune**    |   Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.      |
 |**Microsoft Intune e Configuration Manager**     |    Idoneo se è stato acquistato come piano autonomo o come parte di E3 o E5.     |
 |**Microsoft Intune per Education**     |  Idoneo se è stato acquistato come piano autonomo o come parte di A3 o A5.       |
-|**Azure Advanced Threat Protection**     |    Con limitazioni. Idoneo solo se è stato acquistato come piano autonomo. A tale scopo, visitare il [Portale Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
-|**Microsoft Cloud App Security**    |       Con limitazioni. Idoneo solo se è stato acquistato come piano autonomo. A tale scopo, visitare il [Portale Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
 Per ulteriori informazioni, vedere [FastTrack Center Benefit per Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
 
