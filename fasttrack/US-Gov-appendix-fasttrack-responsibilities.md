@@ -3,19 +3,19 @@ title: Responsabilità di FastTrack per il governo degli Stati Uniti di Office 3
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: fd1ff8f660ec5b9a808ef0b30b347fee62d4363c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 6ac727d55ba8d5653fb9ebffa95b7c3c4a104f70
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662941"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929294"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità di FastTrack per il governo degli Stati Uniti di Office 365
 
@@ -24,7 +24,7 @@ Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura 
 ## <a name="general"></a>Generale
 
 - Viene fornita assistenza al supporto remoto per un corretto sviluppo della pianificazione e alla relativa implementazione e per le necessarie attività di configurazione, come descritto nelle fasi riportate.
-- Offrire documentazione disponibile e strumenti software, console di amministrazione e script che consentono di ridurre o eliminare le attività di configurazione e risorse per una corretta configurazione. 
+- Offrire documentazione disponibile e strumenti software, console di amministrazione e script che consentono di ridurre o eliminare le attività di configurazione e risorse per una corretta configurazione.   
     
 ## <a name="initiate-phase"></a>Fase di avvio
 
@@ -137,7 +137,7 @@ Fornire indicazioni su:
 - Come configurare il reindirizzamento all'ambiente ibrido di SharePoint Online e OneDrive for Business (solo SharePoint 2013 e SharePoint 2016).  
 - Migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
     
-## <a name="skype-for-business-online"></a>Skype for Business online
+## <a name="skype-for-business-online"></a>Skype for Business Online
 
 Fornire indicazioni su:
 - Provisioning delle identità di Skype for Business per Office 365.   

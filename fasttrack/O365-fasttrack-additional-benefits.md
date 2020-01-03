@@ -3,18 +3,18 @@ title: Appendice B Ulteriore vantaggio di FastTrack Center
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: I clienti che acquistano almeno 20.000 licenze per un tenant di Exchange Online possono ottenere i servizi aggiuntivi di FastTrack Center. Per ulteriori dettagli, vedere Piani e servizi idonei.
-ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662869"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929210"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Appendice B: Ulteriore vantaggio di FastTrack Center
 
@@ -102,7 +102,6 @@ Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura 
 
 - Fornire indicazioni sulla coesistenza di un singolo albero di cartelle pubbliche, comprese informazioni su:  
   - Preparazione di cartelle pubbliche in Exchange 2007, Exchange 2010 e Exchange 2013. 
-  - Cmdlet Windows PowerShell necessari per sincronizzare la gerarchia di cartelle pubbliche di Exchange 2007, Exchange 2010 e Exchange 2013 con Exchange Online.  
   - Configurazione di Exchange Online per reindirizzare l'accesso della cartella pubblica alle cartelle pubbliche locali.  
   - Configurazione dell'accesso alle cartelle pubbliche da Exchange Online all'ambiente locale singolo di Exchange 2007, Exchange 2010 o Exchange 2013.  
   - Guida alla convalida dell'accesso alla cartella pubblica per un massimo di 10 utenti in Exchange Online.

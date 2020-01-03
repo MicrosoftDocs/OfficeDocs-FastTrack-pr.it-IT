@@ -3,19 +3,19 @@ title: Assistenza offerta
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Windows 10 o Microsoft 365, gli specialisti FastTrack forniscono indicazioni sulla distribuzione da remoto per garantire la protezione degli endpoint. Il nostro servizio di assistenza è personalizzato in base all'ambiente e alle esigenze di ogni cliente.
-ms.openlocfilehash: 16b4eadc6b9b92c025aaf020bbd452bcf7e5fffe
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: d9ac7129a10e59198c5c60e131ae019598a2a4db
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663397"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929186"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta  
 

@@ -3,19 +3,19 @@ title: Fasi del processo di onboarding e migrazione
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: L'onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che possono essere seguite da una fase di migrazione dei dati facoltativa.
-ms.openlocfilehash: 0d24ac751aa27a05431e5326b7de1cae25e77a2a
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: d40e0733bf0257faa7c5c39195377cd5872652c4
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662965"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40928778"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fasi del processo di onboarding e migrazione
 
