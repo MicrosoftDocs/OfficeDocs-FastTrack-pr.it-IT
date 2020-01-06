@@ -3,19 +3,19 @@ title: Migrazione dei dati
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack forniscono linee guida sulla procedura di migrazione di dati a Office 365. Si tratta di un'opportunità offerta a tutti i clienti idonei con servizi Office 365 per Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662929"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929222"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 
@@ -83,9 +83,9 @@ Lo stato finale atteso al termine di tutte le migrazioni include quanto segue:
 |||||
 |:-----|:-----|:-----|:-----|
 |**Ambiente di origine**|**Tipo di migrazione**|**Elementi sottoposti a migrazione**|**Elementi esclusi dalla migrazione**|
-|**Exchange 2003 e versioni successive**|Completa| Messaggi di posta elettronica <br/> Regole della cassetta postale <br/> Delegati <br/> Contatti della cassetta postale <br/> Calendario <br/> Attività <br/> Messaggi di posta elettronica con contenuto protetto da Microsoft Rights Management| Cartelle pubbliche <br/> Contatti personali <br/> Utenti abilitati all'utilizzo della posta <br/> Utenti bloccati o inattivi <br/> Firme <br/> Cassetta postale dumpster <br/>  Tutte le e-mail che superano il limite per la dimensione del messaggio <br/> Archiviazione dati <br/> Messaggi di posta elettronica crittografati <br/> Elementi danneggiati <br/>  Cassette postali inattive |
-|**Exchange 2003 ed Exchange 2007**|A fasi| Messaggi di posta elettronica <br/> Regole della cassetta postale <br/> Delegati <br/> Contatti della cassetta postale <br/> Calendario <br/> Attività <br/> Messaggi di posta elettronica con contenuto protetto da Microsoft Rights Management| Cartelle pubbliche <br/> Contatti personali <br/> Utenti abilitati all'utilizzo della posta <br/> Utenti bloccati o inattivi <br/> Firme <br/> Cassetta postale dumpster <br/> Tutte le e-mail che superano il limite per la dimensione del messaggio <br/> Archiviazione dati <br/> Messaggi di posta elettronica crittografati <br/> Elementi danneggiati <br/> Cassette postali inattive |
-|**Exchange 2010, Exchange 2013 ed Exchange 2016** <br/><br/> **Nota:** *per le dipendenze di Exchange locali, vedere [Prerequisiti per la distribuzione ibrida](https://go.microsoft.com/fwlink/?LinkId=787528).*           |Migrazione con distribuzione ibrida| Messaggi di posta elettronica <br/> Regole della cassetta postale <br/> Delegati <br/> Contatti della cassetta postale <br/> Calendario <br/> Tasks <br/> Firme <br/> Archivio personale migrato con la cassetta postale dell'utente <br/> Elementi ripristinabili <br/> Messaggi di posta elettronica con contenuto protetto da Microsoft Rights Management| Cartelle pubbliche <br/> Tutti i messaggi di posta elettronica che superano il limite relativo alla dimensione <br/> Archivio di inserimento nel journal oppure tutte le altre soluzioni di archiviazione di terze parti <br/> Utenti bloccati o inattivi <br/> Archiviazione dati da file PST (Personal Storage Table) <br/> Messaggi di posta elettronica crittografati <br/> Elementi danneggiati <br/> Cassette postali inattive |
+|**Exchange 2003 e versioni successive**|Completa| Messaggi di posta elettronica <br/> Regole della cassetta postale <br/> Delegati <br/> Contatti della cassetta postale <br/> Calendario <br/> Attività <br/> Messaggi di posta elettronica con contenuto protetto da Microsoft Rights Management <br/> Messaggi di posta elettronica crittografati| Cartelle pubbliche <br/> Contatti personali <br/> Utenti abilitati all'utilizzo della posta <br/> Utenti bloccati o inattivi <br/> Firme <br/> Cassetta postale dumpster <br/>  Tutte le e-mail che superano il limite per la dimensione del messaggio <br/> Archiviazione dati <br/> Elementi danneggiati <br/>  Cassette postali inattive |
+|**Exchange 2003 ed Exchange 2007**|A fasi| Messaggi di posta elettronica <br/> Regole della cassetta postale <br/> Delegati <br/> Contatti della cassetta postale <br/> Calendario <br/> Attività <br/> Messaggi di posta elettronica con contenuto protetto da Microsoft Rights Management <br/> Messaggi di posta elettronica crittografati| Cartelle pubbliche <br/> Contatti personali <br/> Utenti abilitati all'utilizzo della posta <br/> Utenti bloccati o inattivi <br/> Firme <br/> Cassetta postale dumpster <br/> Tutte le e-mail che superano il limite per la dimensione del messaggio <br/> Archiviazione dati <br/> Elementi danneggiati <br/> Cassette postali inattive |
+|**Exchange 2010, Exchange 2013 ed Exchange 2016** <br/><br/> **Nota:** *per le dipendenze di Exchange locali, vedere [Prerequisiti per la distribuzione ibrida](https://go.microsoft.com/fwlink/?LinkId=787528).*           |Migrazione con distribuzione ibrida| Messaggi di posta elettronica <br/> Regole della cassetta postale <br/> Delegati <br/> Contatti della cassetta postale <br/> Calendario <br/> Tasks <br/> Firme <br/> Archivio personale migrato con la cassetta postale dell'utente <br/> Elementi ripristinabili <br/> Messaggi di posta elettronica con contenuto protetto da Microsoft Rights Management <br/> Messaggi di posta elettronica crittografati| Cartelle pubbliche <br/> Tutti i messaggi di posta elettronica che superano il limite relativo alla dimensione <br/> Archivio di inserimento nel journal oppure tutte le altre soluzioni di archiviazione di terze parti <br/> Utenti bloccati o inattivi <br/> Archiviazione dati da file PST (Personal Storage Table) <br/> Elementi danneggiati <br/> Cassette postali inattive |
 |**Ambiente G Suite (solo Gmail, Contatti e Calendario)** <br/> <br/> **Nota** *L’ambiente di G Suite deve avere le API di Google e SDK di amministrazione di Google abilitati per l'estensione della funzionalità.* <br/> <br/> **Nota** *Posizione dei dati: FastTrack può trasferire, elaborare e archiviare i dati migrati in base alla posizione del tenancy del cliente negli Stati Uniti o in qualsiasi altro luogo in cui si trovano le strutture di Microsoft o dei relativi fornitori di terze parti. FastTrack elimina i dati archiviati entro trenta giorni dal completamento dei servizi applicabili.*           |Completa o a fasi| Messaggi di posta elettronica <br/> Contatti della cassetta postale <br/> Calendario <br/> Etichette | regole <br/> Delegati <br/> Firme <br/> Tasks <br/> Qualsiasi e-mail o allegato superiore ai 35 MB <br/> Utenti bloccati o inattivi <br/> Archiviazione dati da file PST o da una soluzione di archiviazione di terze parti (ad esempio, Google Vault) <br/> Messaggi di posta elettronica crittografati o con contenuto protetto <br/> Elementi danneggiati <br/> Hangouts di Google <br/> Gruppi di Google <br/> Cassette postali per la risorsa <br/> Cassette postali inattive |
 |**IBM Domino 7.0.3 e versioni successive** ([Appendice A - Migrazione da IBM Domino a Exchange Online](O365-from-ibm-domino-to-exchange-online.md))|A fasi| Messaggi di posta elettronica - ultimi 90 giorni <br/> Calendario - ultimi 90 giorni ed elementi futuri <br/> Contatti della cassetta postale - tutti <br/> Attività - tutte <br/> Sale e risorse - a condizione che siano implementate con il modello standard <br/> I file di posta elettronica, compresi i file di posta condivisi, devono utilizzare il modello di posta standard | Firme <br/> Regole della cassetta postale <br/> Delegati <br/> Elementi crittografati <br/> Collegamenti dei documenti <br/> Elementi decorativi dell'utente <br/> Tutti i messaggi di posta elettronica che superano il limite relativo alla dimensione <br/> Utenti bloccati o inattivi <br/> Archiviazione dati <br/> Elementi danneggiati <br/> Coesistenza di calendario <br/> Cassette postali inattive |
 |**Novell GroupWise 7.0.4 e versioni successive** <br/><br/> **Nota** *Posizione dei dati: FastTrack può trasferire, elaborare e archiviare i dati migrati in base alla posizione del tenancy del cliente negli Stati Uniti o in qualsiasi altro luogo in cui si trovano le strutture di Microsoft o dei relativi fornitori di terze parti. FastTrack elimina i dati archiviati entro trenta giorni dal completamento dei servizi applicabili.*           |A fasi| Messaggi di posta elettronica <br/> Calendario <br/> Contatti della cassetta postale <br/> Gruppi personali <br/> Attività (con limitazioni) <br/> Documenti | Regole <br/> Conversione di proxy/delegati/elenco di controllo di accesso (ACL) <br/> Firme <br/> Categorie di contatto <br/> Messaggi di posta elettronica crittografati <br/> Cartelle di ricerca <br/> Qualsiasi e-mail o allegato superiore ai 35 MB <br/> Utenti bloccati o inattivi <br/> Archiviazione dati <br/> Elementi crittografati o con contenuto protetto <br/> Elementi danneggiati <br/> Coesistenza di calendario <br/> Cassette postali inattive |
@@ -223,7 +223,7 @@ Eseguire le seguenti operazioni durante le migrazioni:
 - Pianifica e implementa la gestione delle modifiche e le comunicazioni con gli utenti finali (se applicabile).   
 - Amministrare e configurare le eventuali modifiche apportate al sistema di origine e ai dispositivi necessari per il completamento delle attività di migrazione e valutazione.
 - Forniscono una pianificazione in un metodo definito e un elenco dei dati utente specifici di cui eseguire la migrazione in ogni fase, con almeno tre (3) giorni di anticipo.
-- Eliminare i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
+- Eliminano i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
 > [!NOTE]
 > Microsoft non garantisce la velocità di migrazione dei file.
     
@@ -272,10 +272,8 @@ Gli esperti di FastTrack eseguono le seguenti operazioni durante le migrazioni:
 - Conducono un workshop dettagliato sulla migrazione illustrando la procedura e il metodo per lo scenario di migrazione selezionato.   
 - Forniscono i prerequisiti per gli strumenti di valutazione e migrazione applicabili per lo scenario.  
 - Forniscono i prerequisiti per l'accesso del team di migrazione all'ambiente di origine e di destinazione ai fini della valutazione e della migrazione.   
-- Forniscono appositi strumenti per effettuare valutazioni dell'ambiente di origine/destinazione o istruzioni su come utilizzare le funzioni delle piattaforme di origine native per creare report di valutazione.    
-- Forniscono una pianificazione in un metodo definito e un elenco dei dati utente specifici di cui eseguire la migrazione in ogni fase, con almeno tre (3) giorni di anticipo.
-- Eliminano i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
-- Forniscono assistenza durante la distribuzione e l'esecuzione di strumenti di valutazione e migrazione (se applicabile).   
+- Fornisce appositi strumenti per effettuare valutazioni dell'ambiente di origine/destinazione o istruzioni su come utilizzare le funzioni delle piattaforme di origine native per creare report di valutazione.    
+- Assiste alla distribuzione e all'esecuzione di strumenti di valutazione e migrazione (se applicabile).   
 - Configura l'infrastruttura di migrazione nella preparazione della migrazione dei contenuti (laddove applicabile).    
 - Conduce una migrazione di prova limitata per convalidare l'infrastruttura di migrazione e i prerequisiti necessari.    
 - Effettua il provisioning dei siti di OneDrive for Business di destinazione predefiniti come parte della migrazione.    
@@ -300,6 +298,8 @@ Eseguire le seguenti operazioni durante le migrazioni:
 - Installa il software di migrazione fornito da FastTrack in locale (se applicabile).  
 - Completa le attività di correzione descritte nell'apposito report fornito da FastTrack (se applicabile).   
 - Fornisce una pianificazione di migrazione mediante le linee guida e i modelli di FastTrack. 
+- Forniscono una pianificazione in un metodo definito e un elenco dei dati utente specifici di cui eseguire la migrazione in ogni fase, con almeno tre (3) giorni di anticipo.
+- Eliminano i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
 - Conduce una verifica di controllo qualità della migrazione e il test di accettazione per gli utenti.   
 - Conduce la correzione della migrazione post-migrazione (se applicabile).  
 - Pianifica e implementa la gestione delle modifiche e le comunicazioni con gli utenti finali (se applicabile).  
