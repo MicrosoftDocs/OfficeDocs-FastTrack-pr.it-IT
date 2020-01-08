@@ -10,16 +10,16 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: 6ac727d55ba8d5653fb9ebffa95b7c3c4a104f70
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: ab9213c8ea5095531a0a06bb40138c995be093a6
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929294"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959188"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità di FastTrack per il governo degli Stati Uniti di Office 365
 
-Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
+Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.  
   
 ## <a name="general"></a>Generale
 
@@ -137,7 +137,7 @@ Fornire indicazioni su:
 - Come configurare il reindirizzamento all'ambiente ibrido di SharePoint Online e OneDrive for Business (solo SharePoint 2013 e SharePoint 2016).  
 - Migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
     
-## <a name="skype-for-business-online"></a>Skype for Business Online
+## <a name="skype-for-business-online"></a>Skype for Business online
 
 Fornire indicazioni su:
 - Provisioning delle identità di Skype for Business per Office 365.   
