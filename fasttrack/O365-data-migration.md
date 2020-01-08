@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack forniscono linee guida sulla procedura di migrazione di dati a Office 365. Si tratta di un'opportunità offerta a tutti i clienti idonei con servizi Office 365 per Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929222"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959200"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 
@@ -98,7 +98,6 @@ Gli esperti di FastTrack eseguono le seguenti operazioni durante le migrazioni:
 - Fornisce il modello standard per pianificare le migrazioni della cassetta postale.
 - Fornisce informazioni sulle autorizzazioni necessarie per specialisti FastTrack. 
 - Raccoglie informazioni relative alla pianificazione della migrazione predeterminata della cassetta postale in un formato prestabilito.
-- Condivide gli strumenti preliminari con l'utente affinché sia possibile eseguire lo strumento preliminare e correggerne gli errori prima della migrazione delle cassette postali non riuscite.
 - Tenta di eseguire fino a due migrazioni di una singola cassetta postale in un batch di migrazione, prima di segnalare la migrazione come non riuscita.
 - Nel caso di ambienti di origine basati su Exchange e IMAP4, migrare i contenuti della cassetta postale dell'utente fino all'85% del limite di archiviazione (ad esempio, se il limite di archiviazione della cassetta postale è di 50 GB, Microsoft eseguirà la migrazione fino all'85% di tale limite). 
 - Abilitare la coesistenza del routing di posta SMTP tra l'ambiente della messaggistica di origine e Office 365 Exchange Online, a meno che non si utilizzi la migrazione completa.
