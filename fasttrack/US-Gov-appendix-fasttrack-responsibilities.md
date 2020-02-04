@@ -3,19 +3,19 @@ title: Responsabilità di FastTrack per il governo degli Stati Uniti di Office 3
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: ab9213c8ea5095531a0a06bb40138c995be093a6
-ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
+ms.openlocfilehash: 502f3c7595de510caf98b51b7b2d0bd274d076e8
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40959188"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677032"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità di FastTrack per il governo degli Stati Uniti di Office 365
 
@@ -137,7 +137,7 @@ Fornire indicazioni su:
 - Come configurare il reindirizzamento all'ambiente ibrido di SharePoint Online e OneDrive for Business (solo SharePoint 2013 e SharePoint 2016).  
 - Migrazione dei dati se viene utilizzato il servizio di migrazione dei dati FastTrack Center e se si è idonei.
     
-## <a name="skype-for-business-online"></a>Skype for Business online
+## <a name="skype-for-business-online"></a>Skype for Business Online
 
 Fornire indicazioni su:
 - Provisioning delle identità di Skype for Business per Office 365.   
