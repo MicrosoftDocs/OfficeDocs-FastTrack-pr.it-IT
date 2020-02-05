@@ -3,19 +3,19 @@ title: Assistenza offerta
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Windows 10 o Microsoft 365, gli specialisti FastTrack forniscono indicazioni sulla distribuzione da remoto per garantire la protezione degli endpoint. Il nostro servizio di assistenza è personalizzato in base all'ambiente e alle esigenze di ogni cliente.
-ms.openlocfilehash: d9ac7129a10e59198c5c60e131ae019598a2a4db
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 7496b42c0fde63e950f687254e1e52085aada551
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929186"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677266"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta  
 
@@ -24,9 +24,6 @@ Quando si acquista uno dei servizi di Windows 10 o Microsoft 365 (come descritto
 - Valutare lo stato dei servizi AV Windows o di altri software di sicurezza degli endpoint.
 - Valutare proxy e firewall che limitano il traffico di rete.
 - Identificare sponsor, discutere piani di distribuzione, date di inizio e cadenza delle riunioni di supporto.
-
-> [!NOTE]
-> Il supporto è disponibile solo in inglese al momento. 
 
 ## <a name="assistance"></a>Assistenza
 
@@ -45,6 +42,10 @@ FastTrack Center assistenza per:
 FastTrack non fornisce assistenza per:
 - Gestione dei progetti delle attività di correzione del cliente.
 - Supporto nel sito.
+- Onboarding o configurazione per gli agenti Microsoft Defender ATP seguenti:
+   - Windows Server
+   - macOS
+   - Linux
 - Isolamento basato sull'hardware, controllo delle app, protezione dagli exploit e indicazioni sui firewall di rete.
 - Gestione continua e risposta alle minacce.
 
