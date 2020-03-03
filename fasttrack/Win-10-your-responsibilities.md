@@ -3,19 +3,19 @@ title: Responsabilità dell'utente
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Ecco le responsabilità dell'utente durante il processo di onboarding di Windows 10.
-ms.openlocfilehash: d2214a280d1cb35cf4149fb0cc9679cca623915e
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 9a4c780898824783467a14ebf2570972034ff1e1
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677224"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347492"
 ---
 # <a name="your-responsibilities"></a>Responsabilità dell'utente
 
