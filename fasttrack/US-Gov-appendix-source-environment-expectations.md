@@ -3,19 +3,19 @@ title: Aspettative dell'ambiente di origine per Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Center Benefit fornisce assistenza nella configurazione dei livelli di integrazione con l'ambiente di origine, ad esempio, se si dispone già di servizi nell'ambiente di origine che si desidera migrare a Office 365.
-ms.openlocfilehash: 6324f5d0fdc57f936857dfa58f6679d273641b21
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: ac2b711d6b97584862d506666ab01e9fb5525a9e
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677176"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347420"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Aspettative dell'ambiente di origine per Office 365 US Government
 
