@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: e1c993b8a04b6c3f0d572f7e9f8f43721c3d43b6
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677008"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347480"
 ---
 # <a name="your-responsibilities"></a>Responsabilità dell'utente
 
@@ -75,7 +75,7 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 
 -   Iscriversi agli abbonamenti a Team Viewer, Threat Defense e soluzione di gestione delle spese per telecomunicazioni.
 
--   Abbonarsi alle licenze di Windows Defender Advanced Threat Protection. (Licenze Windows E5 o Microsoft E5).
+-   Abbonarsi alle licenze di Microsoft Defender Advanced Threat Protection. (Licenze Windows E5 o Microsoft E5).
 
 ## <a name="initiate-phase"></a>Fase di avvio
 

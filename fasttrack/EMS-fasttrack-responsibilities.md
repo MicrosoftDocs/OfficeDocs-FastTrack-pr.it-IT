@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0f5ed94a81a1846c8652cf78f96b6253ab774b5d
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676612"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347408"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -168,6 +168,10 @@ Fornire indicazioni sulla configurazione:
 
   - Controllo accessi di Azure Active Directory.
 
+  -   Password di protezione di Azure Active Directory.
+
+  -   Azure Active Directory B2B.
+
 ### <a name="enable-phase---intune"></a>Fase di attivazione - Intune
 
 > [!IMPORTANT]
@@ -222,7 +226,7 @@ Fornire indicazioni su come:
 
         -   Le soluzioni di gestione delle spese per telecomunicazioni (è necessario un abbonamento alla soluzione di gestione delle spese per telecomunicazioni).
 
-        -   Windows Defender Advanced Threat Protection (sono necessarie le licenze di Windows E5 o Microsoft 365 E5).
+        -   Microsoft Defender Advanced Threat Protection (sono necessarie le licenze di Windows E5 o Microsoft 365 E5).
 
     -   Configurare gli aggiornamenti software per le piattaforme supportate applicabili.
 

@@ -3,19 +3,19 @@ title: Responsabilità di FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: c8bbd015252265f7742c071b04c79e3b9d2c884c
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677104"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347768"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -152,7 +152,7 @@ Fornire indicazioni su:
 - Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.
 - Selezione e configurazione di un'installazione locale o cloud.
 - Creazione del codice XML di configurazione dello Strumento di distribuzione di Office con lo Strumento di personalizzazione di Office o del codice XML nativo per configurare il pacchetto di distribuzione.
-- Distribuzione con System Center Configuration Manager, inclusa l'assistenza per la creazione di pacchetti di System Center Configuration Manager.
+- Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 

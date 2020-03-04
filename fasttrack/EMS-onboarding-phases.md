@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 02f5a1c0c2bbbe2526f0ee0fcea9da844dae1f6a
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676804"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347504"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
@@ -32,25 +32,23 @@ L'onboarding include quattro fasi principali:
 Dopo aver acquistato i tipi e il numero appropriato di licenze, attenersi alle istruzioni nell'e-mail di conferma dell'acquisto per associare le licenze al tenant esistente o nuovo. Microsoft verifica quindi l'idoneità per il FastTrack Center Benefit e tenta di contattare l'utente per offrire assistenza nell’onboarding.
 
 > [!NOTE]
-> È anche possibile richiedere assistenza dal [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698), se si è pronti a distribuire questi servizi per l'organizzazione.
+> È anche possibile richiedere assistenza dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), se si è pronti a distribuire questi servizi per l'organizzazione.
 
 ### <a name="to-request-assistance"></a>Per richiedere assistenza
 
 1. Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2. Selezionare **FastTrack**.
-3. Selezionare **Servizi**.
-4. Completare il **modulo di richiesta di assistenza con Microsoft 365**.
+2. Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
+3. Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
 
 Una volta contattato il supporto tecnico per l'onboarding, verrà impostata la pianificazione delle riunioni online.
 
 I partner Microsoft possono anche ricevere assistenza tramite il [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A questo scopo:
 
 1. Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2. Selezionare **FastTrack**.
-3. Selezionare **Clienti personali**.
-4. Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
-5. Selezionare **Servizi**.
-6. Completare il **modulo di richiesta di assistenza con Microsoft 365**.
+2. Selezionare **Clienti personali**.
+3. Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+4. Selezionare **Servizi**.
+5. Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
 
 Dopo l'avvio del supporto per l’onboarding, FastTrack configurerà una programmazione delle riunioni online con l'utente per discutere il processo di onboarding, verificare i dati e configurare una riunione di avvio.
 
@@ -123,6 +121,10 @@ La configurazione di Azure AD Premium include l'abilitazione delle caratteristic
 
 -   Controllo accessi di Azure Active Directory.
 
+-   Password di protezione di Azure Active Directory.
+
+-   Azure Active Directory B2B.
+
 ![Fase di attivazione dell’onboarding - Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
 ### <a name="enable-phase---intune"></a>Fase di attivazione - Intune
@@ -162,7 +164,7 @@ Per Intune, una procedura guidata assiste l’utente le prime volte che usa Micr
 
             -   Soluzione di gestione delle spese per telecomunicazioni (è necessario un abbonamento alla soluzione di gestione delle spese per telecomunicazioni).
 
-            -   Windows Defender Advanced Threat Protection (sono necessarie le licenze di Windows E5 o Microsoft 365 E5).
+            -   Microsoft Defender Advanced Threat Protection (sono necessarie le licenze di Windows E5 o Microsoft 365 E5).
 
     -   Registrare i dispositivi di ogni [piattaforma supportata](https://technet.microsoft.com/library/dn600287.aspx) in Intune.
 
@@ -242,7 +244,7 @@ Le guide di FastTrack forniscono assistenza nella gestione simultanea dei dispos
 
 - Aggiungere utenti all'abbonamento a Intune, definire i ruoli di amministratore IT e creare gruppi di utenti e dispositivi.
 
-- Offrire indicazioni su come passare da Intune integrato con System Center Configuration Manager (ibrido) a Intune autonomo.
+- Offrire indicazioni su come passare da Intune integrato con Microsoft Endpoint Configuration Manager a Intune autonomo.
 
 - Fornire indicazioni su come configurare Azure Active Directory per la registrazione automatica MDM.
 

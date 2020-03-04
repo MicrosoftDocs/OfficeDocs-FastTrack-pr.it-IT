@@ -3,19 +3,19 @@ title: Assistenza offerta
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al momento dell'acquisto di uno dei servizi di Windows 10 o Microsoft 365, gli esperti FastTrack forniscono indicazioni e correzioni per la distribuzione di Windows 10 e Office 365 ProPlus e consentono di mantenersi aggiornati senza costi aggiuntivi (con un abbonamento idoneo).
-ms.openlocfilehash: 088901d2508acd679e261f3870476f8e21e79cdf
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677200"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347684"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta  
 
@@ -40,6 +40,8 @@ FastTrack fornisce assistenza per la correzione delle app distribuite nei prodot
 
 - Se le app o i siti Web sono compatibili con Internet Explorer 11, versioni supportate di Google Chrome o qualsiasi versione di Microsoft Edge, saranno compatibili anche con il nuovo Microsoft Edge.
 
+Per informazioni sulla distribuzione di Microsoft Edge, vedere [Panoramica dei canali Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). Poiché il Web è in continua evoluzione, pubblichiamo un elenco di [modifiche note che influiscono sulla compatibilità dei siti per Microsoft Edge](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
+
 ### <a name="windows-virtual-desktop"></a>Desktop virtuale Windows
 
 - Applicazioni virtualizzate che vengono eseguite su Windows Server Remote Desktop Session Host (RDSH) vengono eseguite anche nella multisessione di Windows 10 Enterprise come parte del Desktop virtuale Windows.
@@ -58,7 +60,7 @@ Per altre informazioni, vedere [che cos'è il Desktop virtuale Windows?](https:/
 
 ## <a name="out-of-scope"></a>Esclusioni
 
-FastTrack non fornisce assistenza per:
+I servizi FastTrack non includono:
 - Inventario e test delle app per stabilire cosa funziona e cosa non funziona in Windows 10 e Office 365 ProPlus. Per altre indicazioni su questo processo, visitare il [Centro di distribuzione desktop](https://go.microsoft.com/fwlink/?linkid=2080140). Per richiedere una valutazione approfondita dell'idoneità per l'aggiornamento, compilare l'apposito [modulo](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Ricerca di applicazioni ISV di terze parti per istruzioni su supporto e compatibilità con Windows 10. Per ulteriori informazioni, vedere [Desktop Analytics](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Servizi di sola creazione di pacchetti di app. Tuttavia, il team di App Assure crea pacchetti di app che abbiamo corretto per Windows 10 per garantire che possano essere distribuiti nell'ambiente del cliente.

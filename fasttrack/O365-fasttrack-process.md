@@ -3,19 +3,19 @@ title: Il processo FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Il processo FastTrack fornisce assistenza onboarding e servizi di adozione da parte dell’utente. '
-ms.openlocfilehash: a1c67af6c9bb19c967afcd32ba46ebc550068fd7
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677080"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347660"
 ---
 # <a name="the-fasttrack-process"></a>Il processo FastTrack
 
@@ -43,8 +43,8 @@ Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 3
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **Servizi**.
-3.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
+2.  Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
+3.  Completare il modulo di **Richiesta di assistenza per Microsoft 365**. 
   
  È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
     
@@ -55,7 +55,7 @@ I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https
 2.  Selezionare **Clienti personali**.
 3.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
 4.  Selezionare **Servizi**.
-5.  Completare il modulo **Richiesta di assistenza con Microsoft 365**. 
+5.  Completare il modulo di **Richiesta di assistenza per Microsoft 365**. 
 
 Nella tabella seguente sono elencati i ruoli e le responsabilità per il processo.
     

@@ -3,19 +3,19 @@ title: Fasi di onboarding
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Il processo di onboarding di Windows 10 prevede quattro fasi principali, ovvero avvio, valutazione, correzione e attivazione.
-ms.openlocfilehash: f2fb6dea1cd54393fa71e2fc97eae667647893ec
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: e39e2fe56deba31188faf022c69b68ab0a6ab5a0
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677236"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347756"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
@@ -27,7 +27,7 @@ Durante questa fase, verrà discusso il processo di onboarding, saranno verifica
 
 ## <a name="assess"></a>Valutazione
 
-Gli specialisti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Assicurarsi che System Center Configuration Manager venga aggiornato al livello necessario per supportare la distribuzione di Windows 10. 
+Gli specialisti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Assicurarsi che Microsoft Endpoint Configuration Manager venga aggiornato al livello necessario per supportare la distribuzione di Windows 10. 
 
 Sono disponibili opzioni consigliate per valutare le app di Windows 10. FastTrack fornisce indicazioni per abilitare l'uso di analisi desktop e consente di creare un piano di distribuzione di analisi desktop.
 

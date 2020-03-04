@@ -3,18 +3,18 @@ title: Appendice B Ulteriore vantaggio di FastTrack Center
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: I clienti che acquistano almeno 20.000 licenze per un tenant di Exchange Online possono ottenere i servizi aggiuntivi di FastTrack Center. Per ulteriori dettagli, vedere Piani e servizi idonei.
-ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676648"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347612"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Appendice B: Ulteriore vantaggio di FastTrack Center
 
@@ -43,7 +43,7 @@ Per Skype for Business online, viene fornita una guida per la migrazione degli u
 Nel caso di Office 365 ProPlus, viene fornita una guida per gli aspetti seguenti: 
 - Valutazione e pianificazione concentrate sulla preparazione dell'ambiente per la distribuzione iniziale e la gestione degli aggiornamenti in linea con le procedure consigliate di Microsoft. 
 - Sviluppo delle configurazioni di distribuzione e delle impostazioni di aggiornamento con lo Strumento di distribuzione di Office 365 e lo Strumento di personalizzazione di Office. 
-- Creazione di pacchetti per la distribuzione mediante System Center Configuration Manager.  
+- Creazione di pacchetti per la distribuzione con Microsoft Endpoint Configuration Manager.  
 - Uso del Readiness Toolkit for Office per identificare potenziali problemi di compatibilità relativi alle macro di Microsoft Visual Basic, Applications Edition (VBA) e ai componenti aggiuntivi usati con Office.
     
 ## <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
