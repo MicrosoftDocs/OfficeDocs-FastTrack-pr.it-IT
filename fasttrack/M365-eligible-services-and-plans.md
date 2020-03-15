@@ -10,35 +10,35 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
-ms.openlocfilehash: dd51175a74a4693da43030c36a2e84db77294d32
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
+ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347540"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637380"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
 Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
 
 > [!IMPORTANT]
-> Per ricevere i servizi di FastTrack, è necessario acquistare *almeno* 150 licenze dei piani idonei riportati nell'elenco.
+> Per ricevere i servizi di FastTrack, è necessario acquistare *almeno* 150 licenze dei piani idonei riportati nell'elenco. 
   
 È possibile ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) o il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
 Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), l'amministratore accede all'interfaccia di amministrazione e quindi fa clic sul widget **Serve aiuto?**. 
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
-3.  Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
+1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
+3.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
   
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
-1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **Clienti personali**.
-3.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
-4.  Selezionare **Servizi**.
-5.  Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
+1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selezionare **Clienti personali**.
+3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+4.    Selezionare **Servizi**.
+5.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
 
 È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
 
