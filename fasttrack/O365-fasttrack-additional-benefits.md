@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: I clienti che acquistano almeno 20.000 licenze per un tenant di Exchange Online possono ottenere i servizi aggiuntivi di FastTrack Center. Per ulteriori dettagli, vedere Piani e servizi idonei.
-ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 2cb4a8e5ba7378b96833c89da88db963e271552b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347612"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052561"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Appendice B: Ulteriore vantaggio di FastTrack Center
 
@@ -143,7 +143,3 @@ L'utente ha le seguenti responsabilità durante la procedura di onboarding. Si t
 - Indicare uno sponsor operativo o un lead con l'autorità decisionale necessaria per presiedere le riunioni sull'andamento dei progetti.  
 - Indicare uno sponsor esecutivo che possa collaborare con lo sponsor esecutivo Microsoft.  
 - Pianificare una riunione mensile sull'andamento del progetto.
-    
-
-  
-

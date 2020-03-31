@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Ecco le responsabilità dell'utente durante il processo di onboarding.
-ms.openlocfilehash: 9ef9df9c1430c73b8c8f9f93108555b16215bc0b
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 68023823f4bbc18618b922fd455f2f53834dcefc
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347624"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052633"
 ---
 # <a name="your-responsibilities"></a>Responsabilità dell'utente
 
@@ -102,4 +102,3 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.\*
     
 \*Per informazioni sulle responsabilità dell’utente per Office 365 US Government, vedere [Responsabilità dell’utente per Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
-
