@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avviare, valutare, correggere e abilitare. È possibile seguire queste fasi con una fase di migrazione dei dati facoltativa, come illustrato nella figura seguente."
-ms.openlocfilehash: eac974f67137a327b873b911a8c9906859fd3597
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 73c2647a6b1c34d2396d19bedecb7ca1768aba6f
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347528"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052993"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
 
@@ -34,18 +34,18 @@ Dopo aver acquistato i tipi e il numero appropriato di licenze, attenersi alle i
 Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), l'amministratore accede all'interfaccia di amministrazione e quindi fa clic sul widget **Serve aiuto?**. 
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **Richiedi assistenza per microsoft 365** dalle **azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** sulla scheda Distribuisci.
-3. Completare la **richiesta di assistenza per il modulo Microsoft 365** . 
+1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selezionare **Richiedi assistenza per microsoft 365** dalle **azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** sulla scheda Distribuisci.
+3. Completare il modulo di **Richiesta di assistenza per Microsoft 365**. 
 
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
-1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **Clienti personali**.
-3.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
-4.  Selezionare **Servizi**.
-5.  Completare la **richiesta di assistenza per il modulo Microsoft 365** .   
+1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selezionare **Clienti personali**.
+3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+4.    Selezionare **Servizi**.
+5.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**.   
 
-È inoltre possibile richiedere assistenza per FastTrack Center dal [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
+È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
     
 Durante questa fase, verrà discusso il processo di onboarding, saranno verificati i dati e verrà impostata la riunione iniziale.
   
@@ -184,11 +184,6 @@ Per Office 365 ProPlus, viene fornito materiale sussidiario per:
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
 - Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.    
 - Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da usare con lo strumento di distribuzione di Office 365.    
-- Distribuzione tramite Microsoft endpoint Configuration Manager, inclusa l'assistenza per la creazione di pacchetti di Microsoft endpoint Configuration Manager.
+- Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.
     
 ![Passaggi onboarding di Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
-
-  
-
-  
-

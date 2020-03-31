@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Ecco le responsabilità dell'utente durante il processo di onboarding.
-ms.openlocfilehash: 088534b930921210396a0ba9371bd3373756ff92
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0ee08a2fdbe05365731bd0110be29499ae6cce63
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347780"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052969"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Responsabilità del governo degli Stati Uniti di Office 365
 
@@ -103,7 +103,4 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 - Attivare i vari servizi in base alle indicazioni di Microsoft.    
 - Ottenere un ID Apple, se si configura la gestione dei dispositivi mobili (MDM, Mobile Device Management).   
 - Aggiornare il certificato del servizio APN (Apple Push Notification).
-    
-
   
-
