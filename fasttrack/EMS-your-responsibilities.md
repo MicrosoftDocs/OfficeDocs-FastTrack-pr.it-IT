@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: bec4a709c6728803b383db40f53fc84826fa6b55
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347480"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052539"
 ---
 # <a name="your-responsibilities"></a>Responsabilità dell'utente
 
@@ -63,11 +63,11 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 
 -   Fornire e configurare tutti i certificati SSL (Secure Sockets Layer) pubblici.
 
--   Configurare o aggiornare Configuration Manager ai requisiti minimi per l'integrazione di Microsoft Intune con Configuration Manager.
+-     Configurare o aggiornare Configuration Manager ai requisiti minimi per l'integrazione di Microsoft Intune con Configuration Manager.
 
--   Se necessario per la distribuzione dei profili Wi-Fi e VPN con Intune, fornire e configurare l'autorità di certificazione, le infrastrutture Wi-Fi e VPN in base alle esigenze.
+-     Se necessario per la distribuzione dei profili Wi-Fi e VPN con Intune, fornire e configurare l'autorità di certificazione, le infrastrutture Wi-Fi e VPN in base alle esigenze.
 
--   Scrivere le Condizioni d'uso dell’organizzazione da configurare e visualizzare nel portale aziendale di Microsoft Intune a cui gli utenti finali possono accedere.
+-   Scrivere le Condizioni d'uso dell'organizzazione da configurare e visualizzare nel portale aziendale di Microsoft Intune a cui gli utenti finali possono accedere.
 
 -   Aggiornare il server del sito di Configuration Manager e i client di Configuration Manager alle versioni più recenti (se necessario).
 
@@ -127,5 +127,6 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 ## <a name="see-also"></a>Vedere anche
 
 - [Vantaggio FastTrack per EMS](EMS-fasttrack-benefit-for-EMS.md)
+
 - [Vantaggio FastTrack per Office 365](O365-fasttrack-benefit-for-office-365.md)
 

@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347408"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052261"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -249,43 +249,37 @@ Fornire indicazioni su come:
     > [!NOTE]
     > Configurare Windows Autopilot all'esterno di Intune non rientra nell'offerta FastTrack.
 
-### <a name="enable-phase---co-management"></a>Fase di attivazione - Co-gestione
+### <a name="enable-phase---cloud-attach"></a>Fase di attivazione - Collegamento tramite cloud
 
 Fornire indicazioni su come:
 
 -   Licenze per gli utenti finali.
 
+-   Implementare il collegamento tramite cloud nella console di Configuration Manager.
+
 -   Aggiungere utenti all'abbonamento a Intune, definire i ruoli di amministratore IT e creare gruppi di utenti e dispositivi (se Intune non è installato).
 
--   Configurare Azure Active Directory per la registrazione automatica MDM.
+-   Configurare l'aggiunta ad Azure Active Directory ibrido.
 
--   Configurare l’aggiunta ad Azure Active Directory ibrido.
+-   Configurare Azure Active Directory per la registrazione automatica MDM.
 
 -   Configurare Cloud Management Gateway.
 
 -   Aggiungere utenti all'abbonamento a Intune, definire i ruoli di amministratore IT e creare gruppi di utenti e dispositivi.
 
--   Preparare Intune (se Intune non è installato):
+-   Preparare il servizio Intune per la gestione dei dispositivi:
 
-    -   Configurare l’autorità della gestione dei dispositivi mobili (MDM), in base alle esigenze di gestione, tra cui:
-
-    -   Configurare Intune come autorità MDM.
+    -   Configurare l'autorità di gestione dei dispositivi mobili (MDM) in Intune.
 
     -   Configurare i gruppi di test da usare per convalidare i criteri di gestione MDM.
 
     -   Esplorare il portale di amministrazione di Intune per trovare informazioni su utenti e dispositivi.
 
-    -   Configurare ruoli di Intune (operatore dell’help desk, amministratori e così via)
-
-    -   Configurare e distribuire criteri di protezione delle app di Intune per ogni piattaforma supportata.
+    -   Configurare ruoli di Intune (operatore dell'help desk, amministratori e così via)
 
     -   Registrare i dispositivi Windows 10 in Intune.
 
-- Abilitare la co-gestione nella console di Configuration Manager.
-
-- Passare ai carichi di lavoro in Intune.
-
-- Monitorare l'attività di co-gestione nel proprio ambiente.
+    -   Cambiare i carichi di lavoro per la gestione di Intune come desiderato.
 
 ### <a name="enable-phase--azure-information-protection"></a>Fase di attivazione - Azure Information Protection
 
@@ -311,3 +305,4 @@ Sono inoltre disponibili indicazioni per i clienti che vogliono applicare la pro
 ## <a name="next-steps"></a>Passaggi successivi
 
 [Offerta FastTrack per EMS - Proprie responsabilità](EMS-your-responsibilities.md)
+

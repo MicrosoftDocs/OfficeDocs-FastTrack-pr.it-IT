@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0a6ec092c8c9ec5ba574465fc10a59ae48e7b23e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347768"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052273"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -145,9 +145,9 @@ Fornire indicazioni su:
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
 Fornire indicazioni su:
-- Risoluzione dei problemi di implementazione.
-- Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.
-- Installazione di Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.
+- Risolvere i problemi di implementazione.
+- Assegnazione dei contratti di licenza con l'utente finale e di licenze basate sul dispositivo utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.
+- Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.
 - Installazione delle app di Office Mobile (ad esempio Outlook per iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile. 
 - Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.
 - Selezione e configurazione di un'installazione locale o cloud.
@@ -243,4 +243,3 @@ Fornire indicazioni su:
 Fornire una guida sulla conversione della rete Yammer Basic singola in una sola rete Yammer Enterprise.
   
 \*Per informazioni sulle responsabilità di FastTrack per Office 365 US Government, vedere [Responsabilità di FastTrack per Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
-

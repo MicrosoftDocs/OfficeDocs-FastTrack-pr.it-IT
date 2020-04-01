@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Windows 10 o Microsoft 365 (come indicato in Piani e servizi idonei), gli esperti FastTrack forniscono indicazioni sulla distribuzione e assistenza sulla compatibilità da remoto se si ha un'app Web o un sito che funzione con Internet Explorer o Google Chrome.
-ms.openlocfilehash: 24fc9e2794f30897172aa422902919594d2c6114
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 5bcad9585c9ebb6449350d72ed3ad9e5f17ae061
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347552"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052981"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta
 
@@ -32,17 +32,17 @@ FastTrack fornisce una guida remota per:
 Si può richiedere assistenza per la distribuzione di Microsoft Edge tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) o il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Per accedere, è necessario avere un account aziendale o dell'istituto di istruzione (ID organizzazione o ID di Azure Active Directory) in un tenant attivo. 
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
-3.  Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
+1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
+3.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
   
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
-1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **Clienti personali**.
-3.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
-4.  Selezionare **Servizi**.
-5.  Selezionare il modulo di **Richiesta di assistenza per Microsoft 365**.
-6.  Selezionare l'opzione di prodotto **Microsoft Edge** e completare il modulo.
+1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selezionare **Clienti personali**.
+3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+4.    Selezionare **Servizi**.
+5.    Selezionare il modulo di **Richiesta di assistenza per Microsoft 365**.
+6.    Selezionare l'opzione di prodotto **Microsoft Edge** e completare il modulo.
  
 Per assistenza sulla compatibilità dell'app, completare la [richiesta di servizio App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
@@ -52,4 +52,5 @@ I partner possono anche ricevere assistenza tramite il [sito FastTrack](https://
 
 I servizi FastTrack non includono:
 - Gestione dei progetti per la distribuzione di Microsoft Edge del cliente.
-- Supporto in sede.
+- Supporto nel sito.
+

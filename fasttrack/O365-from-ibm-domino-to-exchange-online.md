@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'La migrazione da IBM Domino a Exchange Online include diversi aspetti importanti, tra cui le attività eseguite durante le fasi seguenti:'
-ms.openlocfilehash: ac945137e7beee0d0813ce171fc7292d683e9cd9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 7c09957d2a1955313d42c17491d26aedd96c798a
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347576"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052381"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Appendice A: Migrazione da IBM Domino a Exchange Online
 
@@ -126,7 +126,7 @@ Le attività di preparazione alla migrazione sono coordinate tra l'utente e Fast
     
  **Responsabilità dell'utente**
   
-- Identificare e importare eventuali pianificazioni di migrazione 21 giorni prima della migrazione.
+- Fornire una pianificazione in un metodo definito e un elenco dei dati utente specifici da migrare in ogni fase.
     > [!NOTE]
     > Questa operazione è molto importante perché le attività di preparazione alla migrazione comprendono la correzione e i possibili tentativi di creazione di repliche nelle diverse fasi prima della data della migrazione effettiva (T-0). Durante la migrazione di alcune cassette postali, le attività "T-minus" vengono eseguite sulle altre. Ciò rende necessaria una perfetta pianificazione e coordinazione. 
 - Risolvere i problemi rilevati durante le attività "T-minus".
@@ -136,7 +136,3 @@ Le attività di preparazione alla migrazione sono coordinate tra l'utente e Fast
 - Individuare e segnalare i problemi di post-migrazione. FastTrack Center fornisce supporto post-migrazione fino a 5 giorni dopo la migrazione (T+5), allo scadere dei quali tutto ciò che riguarda la migrazione sarà di responsabilità dell'utente. È possibile registrare ticket di post-migrazione per problemi quali messaggi di posta elettronica, elementi di calendario e contatti mancanti o per la presenza di duplicati nella cassetta postale.
     
 FastTrack Center non copre la distribuzione, i canoni di licenza o il supporto relativo alla preparazione della directory (compresa la sincronizzazione delle directory Domino e Active Directory), i componenti aggiuntivi del software per la coesistenza per l'interoperabilità delle applicazioni Notes, la migrazione self-service o la migrazione dell'archivio.
-  
-
-  
-

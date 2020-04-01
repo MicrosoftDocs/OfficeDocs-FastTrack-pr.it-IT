@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
-ms.openlocfilehash: 801984b3f6f6762ba455bbff0f86e5cc3b1c2365
-ms.sourcegitcommit: 6f67f054a52821211ee0e3a5bc1926ec6c111310
+ms.openlocfilehash: 0f9b9326bafdfd4c6297ba9cfff1bf152358afd5
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707045"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052546"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
 Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
 
 > [!IMPORTANT]
-> Per ricevere i servizi di FastTrack, è necessario acquistare *almeno* 150 licenze dei piani idonei riportati nell'elenco. Novità di marzo 2020: Microsoft ha reso disponibili le licenze di valutazione della durata di sei mesi per [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) e [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) per aiutare i clienti con il lavoro in remoto e la formazione a distanza durante l'epidemia di COVID-19 (coronavirus). Eccezionalmente, FastTrack assiste con il processo di onboarding di queste licenze gratuite da marzo 2020 ad agosto 2020.  
+> Per ricevere i servizi di FastTrack, è necessario acquistare *almeno* 150 licenze dei piani idonei riportati nell'elenco. Novità di marzo 2020: Microsoft ha reso disponibili le licenze di valutazione della durata di sei mesi per [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) e [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) per aiutare i clienti con il lavoro in remoto e la formazione a distanza durante l'epidemia di COVID-19. Eccezionalmente, FastTrack assiste con il processo di onboarding di queste licenze di valutazione gratuite e anche di [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) per gli studenti da marzo 2020 ad agosto 2020. Microsoft si riserva il diritto di annullare, modificare o sospendere questa offerta in qualsiasi momento senza preavviso.   
   
 È possibile ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) o il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
@@ -224,6 +224,3 @@ I piani non idonei per i servizi di FastTrack includono (ma non si limitano a):
 
 I clienti che acquistano almeno 20.000 licenze per un tenant di Office 365 possono ottenere servizi aggiuntivi di FastTrack Center. Per ulteriori informazioni, vedere [Appendice B: Ulteriore vantaggio di FastTrack Center](O365-fasttrack-additional-benefits.md).
   
-
-  
-

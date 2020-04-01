@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2a81deb376f9d25a9d998c7ba49ae9a26205d94d
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9788df4d240397f1373849d3e4a740a5b58d4cae
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347792"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052297"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>FastTrack Center Benefit per Enterprise Mobility + Security (EMS)
 
@@ -33,10 +33,9 @@ ms.locfileid: "42347792"
 - Per informazioni sul processo di FastTrack Center e su chi è responsabile di cosa, vedere [Processo di FastTrack Center Benefit per Enterprise Mobility + Security](EMS-fasttrack-process.md).
 
     > [!TIP]
-    > Se si vuole scaricare un file con estensione zip che contiene **le guide** di Enterprise Mobility + Security e i messaggi di posta elettronica che possono essere personalizzati con il logo della propria organizzazione per favorire l’adozione di EMS all’interno dell’organizzazione, vedere [Guide FastTrack per EMS e messaggi di posta elettronica da personalizzare](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).
+    > Se si vuole scaricare un file con estensione zip che contiene **le guide** di Enterprise Mobility + Security e i messaggi di posta elettronica che possono essere personalizzati con il logo della propria organizzazione per favorire l'adozione di EMS all'interno dell'organizzazione, vedere [Guide FastTrack per EMS e messaggi di posta elettronica da personalizzare](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).
 
 ## <a name="next-steps"></a>Passaggi successivi
 
 [Piani e servizi idonei di FastTrack Center Benefit per EMS](M365-eligible-services-and-plans.md)
-
 

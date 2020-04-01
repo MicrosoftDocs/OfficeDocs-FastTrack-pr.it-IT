@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: L'onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che possono essere seguite da una fase di migrazione dei dati facoltativa.
-ms.openlocfilehash: c3716b2a55a2c04b58e19cf6530050cd843dcfdc
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 395a63f56f1140ae8475a4a2f090d1d3eb6dd7f7
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347744"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052825"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fasi del processo di onboarding e migrazione
 
@@ -37,16 +37,16 @@ Dopo aver acquistato i tipi e il numero appropriato di licenze, attenersi alle i
 Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), l'amministratore accede all'interfaccia di amministrazione e quindi fa clic sul widget **Serve aiuto?**. 
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
-3.  Completare il modulo di **Richiesta di assistenza per Microsoft 365**. 
+1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
+3.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**. 
   
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
-1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **Clienti personali**.
-3.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
-4.  Selezionare **Servizi**.
-5.  Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
+1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selezionare **Clienti personali**.
+3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+4.    Selezionare **Servizi**.
+5.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
 
 È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
     
@@ -205,7 +205,7 @@ Per Yammer, viene fornito materiale sussidiario per l'attivazione del servizio Y
 
 Per Office 365 ProPlus, viene fornito materiale sussidiario per:
 - Risolvere i problemi di implementazione.   
-- Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell. 
+- Assegnazione dei contratti di licenza con l'utente finale e di licenze basate sul dispositivo utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell. 
 - Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.   
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
 - Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.   
@@ -220,4 +220,3 @@ Per Office 365 ProPlus, viene fornito materiale sussidiario per:
 Per Outlook per iOS e Android, sono disponibili indicazioni su:
 - Download di Outlook per iOS e Android tramite l'Apple App Store e Google Play.
 - Configurazione degli account e accesso alla cassetta postale di Exchange Online.
-

@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 7a441fcd3020e2d9194a72fd8d6f8c39c2cb7894
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637392"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052345"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
@@ -232,33 +232,29 @@ I passaggi per la distribuzione sicura di Outlook Mobile per iOS e Android con I
     > [!IMPORTANT]
     > Il team di FastTrack non supporta la protezione di Outlook per iOS e Android con i criteri delle cassette postali dei dispositivi mobili di Exchange.
 
-#### <a name="co-management"></a>Co-gestione
+#### <a name="cloud-attach"></a>Collegamento tramite cloud
 
-Le guide di FastTrack forniscono assistenza nella gestione simultanea dei dispositivi Windows 10 sia con Configuration Manager che con Intune. I passaggi esatti dipendono dall'ambiente di origine e possono includere:
+FastTrack guida l'utente nella preparazione al collegamento tramite cloud degli ambienti di Configuration Manager esistenti con Intune. I passaggi esatti dipendono dall'ambiente di origine. Questi passaggi possono includere:
 
-- Illustrare i vantaggi della co-gestione.
+- Spiegare i vantaggi offerti dal collegamento tramite cloud di Configuration Manager con Intune.
 
-- Assegnare una licenza agli utenti finali. FastTrack offre anche assistenza su come attivare le licenze multilicenza per il tenant del servizio cloud Microsoft (se necessario).
+- Licenze per gli utenti finali. FastTrack offre anche assistenza su come attivare le licenze multilicenza per il tenant del servizio cloud Microsoft (se necessario).
 
-- Configurare le identità utilizzate da Intune, sfruttando Active Directory locale e/o le identità cloud.
+- Configurare le identità utilizzate da Intune, sfruttando Active Directory locale e le identità cloud.
 
 - Aggiungere utenti all'abbonamento a Intune, definire i ruoli di amministratore IT e creare gruppi di utenti e dispositivi.
 
-- Offrire indicazioni su come passare da Intune integrato con Microsoft Endpoint Configuration Manager a Intune autonomo.
+- Abilitare il collegamento tramite cloud nella console di Configuration Manager.
+
+- Fornire indicazioni su come configurare l'aggiunta ad Azure Active Directory ibrido.
 
 - Fornire indicazioni su come configurare Azure Active Directory per la registrazione automatica MDM.
 
-- Fornire indicazioni su come configurare Aggiunta ad Azure Active Directory ibrido.
+- Offrire indicazioni su come configurare il gateway di gestione cloud.
 
-- Offrire indicazioni su come configurare il gateway di gestione cloud
-
-- Abilitare la co-gestione nella console di Configuration Manager.
-
-- Configurare i carichi di lavoro supportati che si desidera far passare a Intune.
+- Configurare i carichi di lavoro supportati che si desidera passare a Intune.
 
 - Installare il client Configuration Manager nei dispositivi registrati di Intune.
-
-- Fornire istruzioni su come monitorare l'attività di co-gestione nel proprio ambiente.
 
 FastTrack fornisce all'utente, inoltre, delle linee guida per l'adozione corretta dei servizi idonei.
 
@@ -266,7 +262,7 @@ FastTrack fornisce all'utente, inoltre, delle linee guida per l'adozione corrett
 
 ![Fase di attivazione dell’onboarding - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![Fase di attivazione dell’onboarding - Co-gestione](./media/ft-9-enable-phase-comanagement.png) 
+![Fase di attivazione dell'onboarding - Collegamento tramite cloud](./media/cloud-attach-diagram.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>Fase di attivazione - Azure Information Protection
 
@@ -287,3 +283,4 @@ Sono inoltre disponibili indicazioni per i clienti che vogliono applicare la pro
 ## <a name="next-steps"></a>Passaggi successivi
 
 [Offerta FastTrack per EMS - Responsabilità Microsoft](EMS-fasttrack-responsibilities.md)
+

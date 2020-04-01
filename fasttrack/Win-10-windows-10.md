@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack fornisce indicazioni per la distribuzione di Windows 10 che consentono di eseguire l'aggiornamento da Windows 7 Professional e Windows 8.1 Professional a Windows 10 Enterprise.
-ms.openlocfilehash: 8d959c773009f144b258d18629c18a94d5c180fb
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 71abbc8958e462bef41aae4bbf9bdda9503ed50e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347516"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052513"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -40,15 +40,15 @@ Nella tabella seguente sono elencati i ruoli e le responsabilità per il process
 È possibile ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) o il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Per accedere, è necessario avere un account aziendale o dell'istituto di istruzione (ID organizzazione o ID di Azure Active Directory) in un tenant attivo. 
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
-3.  Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
+1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
+3.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
   
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
-1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selezionare **Clienti personali**.
-3.  Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
-4.  Selezionare **Servizi**.
-5.  Selezionare il modulo di **Richiesta di assistenza per Microsoft 365**.
-6.  Selezionare l'opzione di prodotto Windows 10 e completare il modulo.
+1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selezionare **Clienti personali**.
+3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
+4.    Selezionare **Servizi**.
+5.    Selezionare il modulo di **Richiesta di assistenza per Microsoft 365**.
+6.    Selezionare l'opzione di prodotto Windows 10 e completare il modulo.
  

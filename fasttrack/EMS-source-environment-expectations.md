@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 37fd12c6fd2b9fa09c27954f9119ad864983e691
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 72817a8fca704e480dd2e2b33287890b5e6450ea
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347468"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052333"
 ---
 # <a name="source-environment-expectations"></a>Previsioni dell'ambiente di origine
 
@@ -33,8 +33,8 @@ Nella tabella seguente vengono mostrate le previsioni per l'ambiente di origine 
 |------------|----------------------------------|
 |Onboarding di base|Insiemi di strutture di Active Directory con il livello di funzionalità foresta impostata a Windows Server 2008 o versioni successive, con la seguente configurazione dell'insieme di strutture:<br /><br />- Foresta unica di Active Directory<br />- Più foreste di Active Directory </br></br>**Nota**: per tutte le configurazioni di più foreste, la distribuzione di Active Directory Federation Services (AD FS) non rientra nell'ambito di FastTrack Center Benefit.|
 |Onboarding di Azure AD Premium|Active Directory locale e l'ambiente sono stati preparati per Azure AD Premium, che include la correzione di problemi rilevati che impediscono l'integrazione con le funzionalità di Azure AD e Azure AD Premium.|
-|Onboarding di Intune| Gli amministratori IT devono disporre di infrastrutture di autorità di certificazione, Wi-Fi e VPN esistenti già in uso negli ambienti di produzione durante la pianificazione della distribuzione dei profili Wi-Fi e VPN con Intune.<br /><br /> **Nota**: l’offerta del servizio non include l'assistenza per la configurazione o l’impostazione di infrastrutture di autorità di certificazione, Wi-Fi, VPN o certificati per le notifiche push di Apple MDM per  |
-|Cogestione|Gli amministratori IT di cogestione sono responsabili della preparazione dell'ambiente locale, che potrebbe includere la correzione di problemi che impediscono la gestione simultanea di dispositivi Windows 10 con Configuration Manager e Intune.<br /><br />**Nota**: l’offerta del servizio FastTrack non include l'assistenza per la configurazione o l'aggiornamento del server del sito di Configuration Manager e/o il client di Configuration Manager ai requisiti minimi necessari per supportare la cogestione con i dispositivi di Windows 10. |
+|Onboarding di Intune| Gli amministratori IT devono disporre di infrastrutture di autorità di certificazione, Wi-Fi e VPN esistenti già in uso negli ambienti di produzione durante la pianificazione della distribuzione dei profili Wi-Fi e VPN con Intune.<br /><br /> **Nota**: l'offerta del servizio non include l'assistenza per la configurazione o l'impostazione di infrastrutture di autorità di certificazione, Wi-Fi, VPN o certificati per le notifiche push di Apple MDM per  |
+|Collegare tramite cloud Configuration Manager con Intune|Con il collegamento tramite cloud gli amministratori IT sono responsabili della preparazione dell'ambiente locale, che potrebbe includere la correzione di problemi che impediscono il collegamento tramite cloud degli ambienti di Configuration Manager con Intune.<br /><br />**Nota**: l'offerta del servizio FastTrack non include l'assistenza per la configurazione o l'aggiornamento del server del sito di Configuration Manager e del client di Configuration Manager ai requisiti minimi necessari per supportare il collegamento tramite cloud. |
 |Intune integrato con Microsoft Defender Advanced Threat Protection (ATP)|**Nota**: l'offerta del servizio di FastTrack fornisce assistenza sull'integrazione di Intune con Microsoft Defender ATP e di creare criteri di conformità dei dispositivi in base alla valutazione del livello di rischio di Windows 10. L'offerta del servizio non fornisce assistenza sull'acquisto, sulla gestione delle licenze o sull'attivazione. |
 |Windows Autopilot|Gli amministratori IT sono responsabili della registrazione dei propri dispositivi nell'organizzazione, in quanto il fornitore hardware carica gli ID hardware per conto degli amministratori o caricandoli loro stessi nel servizio Windows Autopilot. |
 |Distribuire Outlook per iOS e Android in modo sicuro con Intune|<br /><br />- Identità dell’utente abilitate in Azure AD per Office 365.<br />- Exchange Online o Exchange ibrido configurato con le licenze utente assegnate.<br />|
@@ -48,3 +48,4 @@ Nella tabella seguente vengono mostrate le previsioni per l'ambiente di origine 
 ## <a name="next-steps"></a>Passaggi successivi
 
 [FastTrack Center Benefit per le fasi di onboarding EMS](EMS-onboarding-phases.md)
+
