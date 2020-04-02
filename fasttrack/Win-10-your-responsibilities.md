@@ -3,58 +3,58 @@ title: Responsabilità dell'utente
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Ecco le responsabilità dell'utente durante il processo di onboarding di Windows 10.
-ms.openlocfilehash: a728b78d41a9de5c6cbb3248fa988c0136e89402
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052309"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097790"
 ---
-# <a name="your-responsibilities"></a><span data-ttu-id="05316-103">Responsabilità dell'utente</span><span class="sxs-lookup"><span data-stu-id="05316-103">Your Responsibilities</span></span>
+# <a name="your-responsibilities"></a><span data-ttu-id="fba7c-103">Responsabilità dell'utente</span><span class="sxs-lookup"><span data-stu-id="fba7c-103">Your Responsibilities</span></span>
 
-<span data-ttu-id="05316-104">Ecco le responsabilità dell'utente durante il processo di onboarding.</span><span class="sxs-lookup"><span data-stu-id="05316-104">You have the following responsibilities during onboarding.</span></span>
+<span data-ttu-id="fba7c-104">Ecco le responsabilità dell'utente durante il processo di onboarding.</span><span class="sxs-lookup"><span data-stu-id="fba7c-104">You have the following responsibilities during onboarding.</span></span>
 
-## <a name="general"></a><span data-ttu-id="05316-105">Generale</span><span class="sxs-lookup"><span data-stu-id="05316-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="fba7c-105">Generale</span><span class="sxs-lookup"><span data-stu-id="fba7c-105">General</span></span>
 
-- <span data-ttu-id="05316-106">Fornire programma generale e gestione dei progetti delle risorse.</span><span class="sxs-lookup"><span data-stu-id="05316-106">Provide overall program and project management of your resources.</span></span>
-- <span data-ttu-id="05316-107">Fornire comunicazioni degli utenti finali, documentazione, formazione e gestione delle modifiche.</span><span class="sxs-lookup"><span data-stu-id="05316-107">Provide end-user communications, documentation, training, and change management.</span></span>
-- <span data-ttu-id="05316-108">Fornire documentazione di supporto tecnico e formazione.</span><span class="sxs-lookup"><span data-stu-id="05316-108">Provide helpdesk documentation and training.</span></span>
-- <span data-ttu-id="05316-109">Produrre report, presentazioni o verbali di riunioni specifiche per l'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="05316-109">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span>
-- <span data-ttu-id="05316-110">Creare documentazione tecnica e architetturale specifica dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="05316-110">Create architectural and technical documentation specific to your organization.</span></span>
-- <span data-ttu-id="05316-111">Progettare, approvigionare, installare e configurare hardware e reti.</span><span class="sxs-lookup"><span data-stu-id="05316-111">Design, procure, install, and configure hardware and networking.</span></span>
-- <span data-ttu-id="05316-112">Approvigionare, installare e configurare i software.</span><span class="sxs-lookup"><span data-stu-id="05316-112">Procure, install, and configure software.</span></span>
-- <span data-ttu-id="05316-113">Gestire il processo di approvazione della gestione di una modifica tecnica e creare la documentazione in base alle linee guida.</span><span class="sxs-lookup"><span data-stu-id="05316-113">Manage a technical change management approval process and creating guidance-based documentation.</span></span>
-- <span data-ttu-id="05316-114">Modifica delle guide e dei modelli operativi.</span><span class="sxs-lookup"><span data-stu-id="05316-114">Modifying your operational model and operation guides.</span></span>
-- <span data-ttu-id="05316-115">Installare gli aggiornamenti necessari sui server dell'infrastruttura.</span><span class="sxs-lookup"><span data-stu-id="05316-115">Install required updates on infrastructure servers.</span></span>
-- <span data-ttu-id="05316-116">Configurare o aggiornare Configuration Manager con i requisiti minimi.</span><span class="sxs-lookup"><span data-stu-id="05316-116">Set up or upgrade Configuration Manager to the minimum requirements.</span></span>
+- <span data-ttu-id="fba7c-106">Fornire programma generale e gestione dei progetti delle risorse.</span><span class="sxs-lookup"><span data-stu-id="fba7c-106">Provide overall program and project management of your resources.</span></span>
+- <span data-ttu-id="fba7c-107">Fornire comunicazioni degli utenti finali, documentazione, formazione e gestione delle modifiche.</span><span class="sxs-lookup"><span data-stu-id="fba7c-107">Provide end-user communications, documentation, training, and change management.</span></span>
+- <span data-ttu-id="fba7c-108">Fornire documentazione di supporto tecnico e formazione.</span><span class="sxs-lookup"><span data-stu-id="fba7c-108">Provide helpdesk documentation and training.</span></span>
+- <span data-ttu-id="fba7c-109">Produrre report, presentazioni o verbali di riunioni specifiche per l'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="fba7c-109">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span>
+- <span data-ttu-id="fba7c-110">Creare documentazione tecnica e architetturale specifica dell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="fba7c-110">Create architectural and technical documentation specific to your organization.</span></span>
+- <span data-ttu-id="fba7c-111">Progettare, approvigionare, installare e configurare hardware e reti.</span><span class="sxs-lookup"><span data-stu-id="fba7c-111">Design, procure, install, and configure hardware and networking.</span></span>
+- <span data-ttu-id="fba7c-112">Approvigionare, installare e configurare i software.</span><span class="sxs-lookup"><span data-stu-id="fba7c-112">Procure, install, and configure software.</span></span>
+- <span data-ttu-id="fba7c-113">Gestire il processo di approvazione della gestione di una modifica tecnica e creare la documentazione in base alle linee guida.</span><span class="sxs-lookup"><span data-stu-id="fba7c-113">Manage a technical change management approval process and creating guidance-based documentation.</span></span>
+- <span data-ttu-id="fba7c-114">Modifica delle guide e dei modelli operativi.</span><span class="sxs-lookup"><span data-stu-id="fba7c-114">Modifying your operational model and operation guides.</span></span>
+- <span data-ttu-id="fba7c-115">Installare gli aggiornamenti necessari sui server dell'infrastruttura.</span><span class="sxs-lookup"><span data-stu-id="fba7c-115">Install required updates on infrastructure servers.</span></span>
+- <span data-ttu-id="fba7c-116">Configurare o aggiornare Configuration Manager con i requisiti minimi.</span><span class="sxs-lookup"><span data-stu-id="fba7c-116">Set up or upgrade Configuration Manager to the minimum requirements.</span></span>
 
-## <a name="initiate-phase"></a><span data-ttu-id="05316-117">Fase di avvio</span><span class="sxs-lookup"><span data-stu-id="05316-117">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="fba7c-117">Fase di avvio</span><span class="sxs-lookup"><span data-stu-id="fba7c-117">Initiate phase</span></span>
 
-- <span data-ttu-id="05316-118">Collaborare con il team di FastTrack per avviare l'onboarding dei servizi idonei.</span><span class="sxs-lookup"><span data-stu-id="05316-118">Work with the FastTrack team to begin onboarding of eligible services.</span></span>
-- <span data-ttu-id="05316-119">Partecipare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.</span><span class="sxs-lookup"><span data-stu-id="05316-119">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>
+- <span data-ttu-id="fba7c-118">Collaborare con il team di FastTrack per avviare l'onboarding dei servizi idonei.</span><span class="sxs-lookup"><span data-stu-id="fba7c-118">Work with the FastTrack team to begin onboarding of eligible services.</span></span>
+- <span data-ttu-id="fba7c-119">Partecipare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.</span><span class="sxs-lookup"><span data-stu-id="fba7c-119">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>
 
-## <a name="assess-phase"></a><span data-ttu-id="05316-120">Fase di valutazione</span><span class="sxs-lookup"><span data-stu-id="05316-120">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="fba7c-120">Fase di valutazione</span><span class="sxs-lookup"><span data-stu-id="fba7c-120">Assess phase</span></span>
 
-- <span data-ttu-id="05316-121">Identificare le parti interessate, tra cui un project manager, per completare le attività di valutazione necessarie.</span><span class="sxs-lookup"><span data-stu-id="05316-121">Identify appropriate stakeholders (including a project manager) to complete the necessary assessment activities.</span></span>
-- <span data-ttu-id="05316-122">Condividere lo schermo con il team di FastTrack, se sono necessarie indicazioni nel caso si sia scelto di eseguire gli strumenti di valutazione per le sottoscrizioni all'ambiente o al servizio cloud.</span><span class="sxs-lookup"><span data-stu-id="05316-122">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
-- <span data-ttu-id="05316-123">Partecipare alle riunioni per creare l'elenco di controllo delle correzioni e per contribuire al piano generale, che include argomenti quali: infrastruttura, rete, amministrazione, preparazione alla sincronizzazione delle directory, protezione della rete e identità federata.</span><span class="sxs-lookup"><span data-stu-id="05316-123">Participate in the meetings to create the remediation checklist and to contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>
+- <span data-ttu-id="fba7c-121">Identificare le parti interessate, tra cui un project manager, per completare le attività di valutazione necessarie.</span><span class="sxs-lookup"><span data-stu-id="fba7c-121">Identify appropriate stakeholders (including a project manager) to complete the necessary assessment activities.</span></span>
+- <span data-ttu-id="fba7c-122">Condividere lo schermo con il team di FastTrack, se sono necessarie indicazioni nel caso si sia scelto di eseguire gli strumenti di valutazione per le sottoscrizioni all'ambiente o al servizio cloud.</span><span class="sxs-lookup"><span data-stu-id="fba7c-122">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
+- <span data-ttu-id="fba7c-123">Partecipare alle riunioni per creare l'elenco di controllo delle correzioni e per contribuire al piano generale, che include argomenti quali: infrastruttura, rete, amministrazione, preparazione alla sincronizzazione delle directory, protezione della rete e identità federata.</span><span class="sxs-lookup"><span data-stu-id="fba7c-123">Participate in the meetings to create the remediation checklist and to contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>
 
-## <a name="remediate-phase"></a><span data-ttu-id="05316-124">Fase di correzione</span><span class="sxs-lookup"><span data-stu-id="05316-124">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="fba7c-124">Fase di correzione</span><span class="sxs-lookup"><span data-stu-id="fba7c-124">Remediate phase</span></span>
 
-- <span data-ttu-id="05316-125">Eseguire i passaggi necessari per completare le attività di correzione identificate nella fase di valutazione.</span><span class="sxs-lookup"><span data-stu-id="05316-125">Perform required steps to complete remediation activities identified in the Assess phase.</span></span>
-- <span data-ttu-id="05316-126">Partecipare alle riunioni del checkpoint.</span><span class="sxs-lookup"><span data-stu-id="05316-126">Participate in checkpoint meetings.</span></span>
+- <span data-ttu-id="fba7c-125">Eseguire i passaggi necessari per completare le attività di correzione identificate nella fase di valutazione.</span><span class="sxs-lookup"><span data-stu-id="fba7c-125">Perform required steps to complete remediation activities identified in the Assess phase.</span></span>
+- <span data-ttu-id="fba7c-126">Partecipare alle riunioni del checkpoint.</span><span class="sxs-lookup"><span data-stu-id="fba7c-126">Participate in checkpoint meetings.</span></span>
 
-## <a name="enable-phase"></a><span data-ttu-id="05316-127">Fase di attivazione</span><span class="sxs-lookup"><span data-stu-id="05316-127">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="fba7c-127">Fase di attivazione</span><span class="sxs-lookup"><span data-stu-id="fba7c-127">Enable phase</span></span>
 
-- <span data-ttu-id="05316-128">Condividere lo schermo con il team di FastTrack, se sono necessarie indicazioni nel caso si sia scelto di eseguire gli strumenti di valutazione per le sottoscrizioni all'ambiente o al servizio cloud.</span><span class="sxs-lookup"><span data-stu-id="05316-128">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
-- <span data-ttu-id="05316-129">Configurare gli elementi relativi alla rete in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="05316-129">Configure network-related items per guidance from the FastTrack team.</span></span>
-- <span data-ttu-id="05316-130">Eseguire la preparazione della directory e configurare la sincronizzazione della directory in base alle linee guida del team di FastTrack per distribuire Office 365 ProPlus con Windows 10.</span><span class="sxs-lookup"><span data-stu-id="05316-130">Perform directory readiness and configure directory synchronization per guidance from the FastTrack team when deploying Office 365 ProPlus with Windows 10.</span></span>
-- <span data-ttu-id="05316-131">Configurare un metodo di autenticazione gestito o federato.</span><span class="sxs-lookup"><span data-stu-id="05316-131">Configure an authentication method, like managed or federated.</span></span>
+- <span data-ttu-id="fba7c-128">Condividere lo schermo con il team di FastTrack, se sono necessarie indicazioni nel caso si sia scelto di eseguire gli strumenti di valutazione per le sottoscrizioni all'ambiente o al servizio cloud.</span><span class="sxs-lookup"><span data-stu-id="fba7c-128">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
+- <span data-ttu-id="fba7c-129">Configurare gli elementi relativi alla rete in base alle linee guida del team di FastTrack.</span><span class="sxs-lookup"><span data-stu-id="fba7c-129">Configure network-related items per guidance from the FastTrack team.</span></span>
+- <span data-ttu-id="fba7c-130">Eseguire la preparazione della directory e configurare la sincronizzazione della directory in base alle linee guida del team di FastTrack per distribuire Office 365 ProPlus con Windows 10.</span><span class="sxs-lookup"><span data-stu-id="fba7c-130">Perform directory readiness and configure directory synchronization per guidance from the FastTrack team when deploying Office 365 ProPlus with Windows 10.</span></span>
+- <span data-ttu-id="fba7c-131">Configurare un metodo di autenticazione gestito o federato.</span><span class="sxs-lookup"><span data-stu-id="fba7c-131">Configure an authentication method, like managed or federated.</span></span>
 
