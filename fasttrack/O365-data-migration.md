@@ -3,19 +3,19 @@ title: Migrazione dei dati
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack forniscono linee guida sulla procedura di migrazione di dati a Office 365. Si tratta di un'opportunità offerta a tutti i clienti idonei con servizi Office 365 per Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: d7fdf8a6f751e2443449c8ef29e33df2978695a5
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052573"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098138"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 
@@ -50,12 +50,11 @@ Nella seguente tabella viene descritto quanto previsto per la migrazione nell'am
 |**Migrazione di OneDrive for Business**  <br/> | Condivisioni di file (condivisioni di file SMB su dispositivi che supportano SMB 2.0 e versioni successive).  <br/>  Un singolo ambiente di G Suite (soltanto Google Drive).  <br/>  Box (Starter, Business, Enterprise). <br/> <br/> **Nota:** *FastTrack migra solamente verso unità di Office 365 attive.*|
    
 ## <a name="migration-to-exchange-online"></a>Migrazione a Exchange Online
-
+''
 ### <a name="enable-to-migrate"></a>Abilitare alla migrazione
   
 Se si utilizza Microsoft per eseguire la migrazione della posta elettronica, sono disponibili istruzioni per abilitare Exchange Online e l'ambiente di origine per la migrazione. A seconda dell'ambiente di origine, è possibile che vengano eseguiti diversi passaggi di abilitazione. Viene fornita assistenza all'utente mediante una combinazione di strumenti e documentazione, nonché eseguendo le attività di configurazione se applicabili e possibili. In base ai parametri applicabili, è quindi possibile migrare le cassette postali, monitorare i processi e fornire report di stato.
-  
-Potrebbe essere necessario fornire a Microsoft autorizzazione e accesso al proprio sistema di posta per eseguire le attività di migrazione.
+" Potrebbe essere necessario fornire a Microsoft autorizzazione e accesso al proprio sistema di posta per eseguire le attività di migrazione.
   
 ### <a name="migration-policy-and-steps"></a>Procedura e criteri di migrazione
   
@@ -225,7 +224,7 @@ Eseguire le seguenti operazioni durante le migrazioni:
 - Pianifica e implementa la gestione delle modifiche e le comunicazioni con gli utenti finali (se applicabile).   
 - Amministrare e configurare le eventuali modifiche apportate al sistema di origine e ai dispositivi necessari per il completamento delle attività di migrazione e valutazione.
 - Forniscono una pianificazione in un metodo definito e un elenco dei dati utente specifici di cui eseguire la migrazione in ogni fase, con almeno tre (3) giorni di anticipo.
-- Eliminano i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
+- Eliminare i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
 > [!NOTE]
 > Microsoft non garantisce la velocità di migrazione dei file.
     
