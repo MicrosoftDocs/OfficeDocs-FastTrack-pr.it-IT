@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Il processo FastTrack fornisce assistenza onboarding e servizi di adozione da parte dell’utente. '
-ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 641637705a5a578b18f3ba06130d9477975b92f8
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097706"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666138"
 ---
 # <a name="the-fasttrack-process"></a>Il processo FastTrack
 
@@ -35,7 +35,7 @@ I servizi di adozione da parte dell'utente comprendono attività che rendono gli
 
 Nel diagramma seguente viene illustrata la procedura relativa all'onboarding.
   
-![Sequenza temporale per l'uso del vantaggio dell'onboarding](media/O365-Onboarding-Timeline.png)
+![Sequenza temporale per l'uso del vantaggio dell'onboarding](media/o365-onboarding-timeline-m365-apps.png)
   
 È possibile ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) o il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 

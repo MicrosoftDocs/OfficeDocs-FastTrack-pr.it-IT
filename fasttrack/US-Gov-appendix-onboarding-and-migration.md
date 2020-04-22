@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avviare, valutare, correggere e abilitare. È possibile seguire queste fasi con una fase di migrazione dei dati facoltativa, come illustrato nella figura seguente."
-ms.openlocfilehash: 2fe39da0e41e6d42cecef8d4ecb410a1676419e1
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098242"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665915"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
 
@@ -147,7 +147,7 @@ Per Skype for Business Online, viene fornito materiale sussidiario per:
 Per Microsoft StaffHub viene fornito materiale sussidiario per: 
 - Conferma dei requisiti minimi.   
 - Configurazione delle porte del firewall.   
-- Configurazione di DNS.  
+- Configurazione DNS.  
 - Conferma dell'abilitazione di Microsoft Teams sul tenant Office 365.    
 - Abilitazione o disabilitazione delle licenze utente.
     
@@ -175,15 +175,15 @@ Per Yammer, viene fornito materiale sussidiario per l'attivazione del servizio Y
 > [!NOTE]
 > Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquisito gratuitamente come offerta autonoma per ogni utente concesso in licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC in contratti Enterprise e contratti di sottoscrizione Enterprise. Yammer non è disponibile nei piani GCC High o DoD. 
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-Per Office 365 ProPlus, viene fornito materiale sussidiario per: 
+Per le app Microsoft 365, vengono fornite indicazioni per: 
 - Risolvere i problemi di implementazione.    
-- Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.    
-- Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.    
-- Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
+- Assegnare i contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.    
+- Installazione delle app di Microsoft 365 dal portale di Office 365 tramite la funzione a portata di clic.    
+- Installazione delle app di Office Mobile (come Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS o Android.   
 - Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.    
-- Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da usare con lo strumento di distribuzione di Office 365.    
+- Configurazione di un solo server di distribuzione nel sito per le app Microsoft 365, inclusa l'assistenza per la creazione di un file Configuration. XML da utilizzare con lo strumento di distribuzione di Office 365.    
 - Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.
     
-![Passaggi onboarding di Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
+![Passaggi onboarding di Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)

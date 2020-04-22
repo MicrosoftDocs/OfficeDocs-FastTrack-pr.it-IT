@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: 2a39c7fb74d0b8d9e369a0b61a7a97b892aa9e7a
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: f0f52400b0400267d00d2033ea2431277f4e2f33
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098254"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665860"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità di FastTrack per il governo degli Stati Uniti di Office 365
 
@@ -192,13 +192,13 @@ Fornire una guida sulla conversione della rete Yammer Basic singola in una sola 
 > [!NOTE]
 > Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquisito gratuitamente come offerta autonoma per ogni utente concesso in licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC in contratti Enterprise e contratti di sottoscrizione Enterprise. Yammer non è disponibile nei piani GCC High o DoD.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
 Fornire indicazioni su:
-- Risoluzione dei problemi di implementazione.   
-- Assegnazione dei contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.  
-- Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.   
+- Risolvere i problemi di implementazione.   
+- Assegnare i contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.  
+- Installazione delle app di Microsoft 365 dal portale di Office 365 tramite la funzione a portata di clic.   
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
-- Configurazione delle impostazioni di aggiornamento usando lo strumento di distribuzione di Office 2016 oppure i modelli dei criteri di gruppo.   
-- Configurazione di un solo server di distribuzione nel sito per Office 365 ProPlus, includendo una guida per la creazione del file configuration.xml da usare con lo strumento di distribuzione di Office 365.   
+- Configurazione delle impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office 2016 oppure i modelli dei criteri di gruppo.   
+- Configurazione di un solo server di distribuzione nel sito per le app Microsoft 365, inclusa l'assistenza per la creazione di un file Configuration. XML da utilizzare con lo strumento di distribuzione di Office 365.   
 - Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.
