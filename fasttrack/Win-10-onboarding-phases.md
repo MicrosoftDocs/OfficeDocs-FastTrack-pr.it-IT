@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Il processo di onboarding di Windows 10 prevede quattro fasi principali, ovvero avvio, valutazione, correzione e attivazione.
-ms.openlocfilehash: 814b59cebb7f129e9c01ecc205da72bb9029db3d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 06a975d5759fccabe638fc21d9042d95eb46bb07
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098398"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666124"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
@@ -31,7 +31,7 @@ Gli specialisti di FastTrack assistono l'utente nel valutare l'ambiente di origi
 
 Sono disponibili opzioni consigliate per valutare le app di Windows 10. FastTrack fornisce indicazioni per abilitare l'uso di analisi desktop e consente di creare un piano di distribuzione di analisi desktop.
 
-FastTrack può anche guidare la valutazione della compatibilità di Office 365 ProPlus sfruttando il dashboard di conformità di Office 365 in Configuration Manager o con il Toolkit di conformità autonomo per Office. Per altre informazioni sui servizi disponibili, vedere [FastTrack Center Benefit per Office 365](O365-fasttrack-benefit-for-office-365.md). 
+FastTrack può anche guidare la valutazione della compatibilità di App di Microsoft 365 sfruttando il dashboard di conformità di Office 365 in Configuration Manager o con il Toolkit di conformità autonomo per Office. Per altre informazioni sui servizi disponibili, vedere [FastTrack Center Benefit per Office 365](O365-fasttrack-benefit-for-office-365.md). 
 
 FastTrack valuta anche le strategie di gestione moderne, tra cui il collegamento tramite cloud di Configuration Manager con Microsoft Intune o la distribuzione di Intune come unica soluzione di gestione cloud.
 
@@ -43,9 +43,9 @@ L'utente esegue le attività di correzione basate sull'ambiente di origine, per 
 
 FastTrack fornisce indicazioni per l'aggiornamento dei dispositivi esistenti a Windows 10 Enterprise, purché soddisfino i requisiti hardware necessari per i dispositivi. Sono disponibili indicazioni per l'aggiornamento per supportare il movimento di distribuzione esistente. FastTrack consiglia e fornisce indicazioni per l'aggiornamento sul posto a Windows 10. Sono inoltre disponibili indicazioni per l'installazione di immagini pulite di Windows e per gli scenari di distribuzione di [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot). 
 
-Sono disponibili indicazioni per distribuire Office 365 ProPlus con Configuration Manager nell'ambito della distribuzione di Windows 10. Per altre informazioni sui servizi associati, vedere [Office 365 ProPlus](O365-onboarding-and-migration.md#office-365-proplus).
+Sono disponibili indicazioni per distribuire App di Microsoft 365 con Configuration Manager nell'ambito della distribuzione di Windows 10. Per altre informazioni sui servizi associati, vedere [App di Microsoft 365](O365-onboarding-and-migration.md#microsoft-365-apps).
 
-Sono disponibili indicazioni per aiutare l'organizzazione a mantenersi aggiornata con Windows 10 Enterprise e Office 365 ProPlus con l'ambiente di Configuration Manager esistente o con Microsoft 365.
+Sono disponibili indicazioni per aiutare l'organizzazione a mantenersi aggiornata con Windows 10 Enterprise e App di Microsoft 365 con l'ambiente di Configuration Manager esistente o con Microsoft 365.
 
 Se necessario, FastTrack è in grado di guidare i clienti nella gestione moderna mediante il collegamento tramite cloud di Configuration Manager a Intune o la distribuzione di Intune come soluzione autonoma. Vedere [FastTrack Center Benefit Process per Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md) per maggiori dettagli sui servizi associati.
 
