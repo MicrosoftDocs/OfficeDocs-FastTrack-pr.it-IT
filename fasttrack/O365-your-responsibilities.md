@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Ecco le responsabilità dell'utente durante il processo di onboarding.
-ms.openlocfilehash: e52a02c356fe9d516e041819717d38a0e2bee3ba
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 2529ba36c5656cceeea43f3360adba94e5d96ec3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097586"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666064"
 ---
 # <a name="your-responsibilities"></a>Responsabilità dell'utente
 
@@ -58,8 +58,8 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.\*
 
 - Configurare uno spazio di collaborazione Microsoft Teams per la procedura di onboarding e invitare i membri del team di FastTrack Center.   
 - Collaborare con gli esperti di FastTrack per avviare l'onboarding dei servizi idonei.     
-- Participare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.   
-- Fornire gli obiettivi per i servizi Office 365 (ad esempio, SharePoint Online, Exchange Online, Microsoft Teams e Office 365 ProPlus) e gli obiettivi aziendali.
+- Partecipare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.   
+- Fornire gli obiettivi per i servizi Office 365 (ad esempio, SharePoint Online, Exchange Online, Microsoft Teams e Microsoft 365 Apps) e gli obiettivi aziendali.
     
 ## <a name="assess-phase"></a>Fase di valutazione
 

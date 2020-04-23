@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Ecco le responsabilità dell'utente durante il processo di onboarding di Windows 10.
-ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097790"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666088"
 ---
 # <a name="your-responsibilities"></a>Responsabilità dell'utente
 
@@ -55,6 +55,6 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 
 - Condividere lo schermo con il team di FastTrack, se sono necessarie indicazioni nel caso si sia scelto di eseguire gli strumenti di valutazione per le sottoscrizioni all'ambiente o al servizio cloud.
 - Configurare gli elementi relativi alla rete in base alle linee guida del team di FastTrack.
-- Eseguire la preparazione della directory e configurare la sincronizzazione della directory in base alle linee guida del team di FastTrack per distribuire Office 365 ProPlus con Windows 10.
+- Eseguire la preparazione della directory e configurare la sincronizzazione della directory in base alle linee guida del team di FastTrack per distribuire Microsoft 365 Apps con Windows 10.
 - Configurare un metodo di autenticazione gestito o federato.
 

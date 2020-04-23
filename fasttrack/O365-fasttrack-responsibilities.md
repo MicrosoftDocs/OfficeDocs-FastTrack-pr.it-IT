@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098278"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666172"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -107,6 +107,18 @@ Fornire indicazioni su:
     
 Per ulteriori informazioni sulle responsabilità nella migrazione dei dati, vedere [Migrazione dei dati](O365-data-migration.md).
   
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
+
+Fornire indicazioni su:
+- Risolvere i problemi di implementazione.
+- Assegnazione dei contratti di licenza con l'utente finale e di licenze basate sul dispositivo utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.
+- Installare Microsoft 365 Apps dal portale di Office 365 tramite la tecnologia A portata di clic.
+- Installazione delle app di Office Mobile (ad esempio Outlook per iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS o Android. 
+- Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.
+- Selezione e configurazione di un'installazione locale o cloud.
+- Creazione del codice XML di configurazione dello Strumento di distribuzione di Office con lo Strumento di personalizzazione di Office o del codice XML nativo per configurare il pacchetto di distribuzione.
+- Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fornire indicazioni su:
@@ -141,18 +153,6 @@ Fornire indicazioni su:
 - Configurazione di automazione, analisi e risposta.
 - Uso del simulatore di attacchi.
 - Creazione di report e analisi delle minacce.
-
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-Fornire indicazioni su:
-- Risolvere i problemi di implementazione.
-- Assegnazione dei contratti di licenza con l'utente finale e di licenze basate sul dispositivo utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.
-- Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.
-- Installazione delle app di Office Mobile (ad esempio Outlook per iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile. 
-- Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.
-- Selezione e configurazione di un'installazione locale o cloud.
-- Creazione del codice XML di configurazione dello Strumento di distribuzione di Office con lo Strumento di personalizzazione di Office o del codice XML nativo per configurare il pacchetto di distribuzione.
-- Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 

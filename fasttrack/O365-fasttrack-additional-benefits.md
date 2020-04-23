@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: I clienti che acquistano almeno 20.000 licenze per un tenant di Exchange Online possono ottenere i servizi aggiuntivi di FastTrack Center. Per ulteriori dettagli, vedere Piani e servizi idonei.
-ms.openlocfilehash: 1317992820ba385e70ccb5908c0eab3a2dd7c140
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 62d0f5cf99624fbfb69a3bcb950f4718e0372512
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098182"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666112"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Appendice B: Ulteriore vantaggio di FastTrack Center
 
@@ -38,9 +38,9 @@ Nel caso di Exchange Online, viene fornita una guida di configurazione per gli a
 
 Per Skype for Business online, viene fornita una guida per la migrazione degli utenti di Lync locale e Skype for Business a Skype for Business online.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-Nel caso di Office 365 ProPlus, viene fornita una guida per gli aspetti seguenti: 
+Nel caso di Microsoft 365 Apps, viene fornita una guida per gli aspetti seguenti: 
 - Valutazione e pianificazione concentrate sulla preparazione dell'ambiente per la distribuzione iniziale e la gestione degli aggiornamenti in linea con le procedure consigliate di Microsoft. 
 - Sviluppo delle configurazioni di distribuzione e delle impostazioni di aggiornamento con lo Strumento di distribuzione di Office 365 e lo Strumento di personalizzazione di Office. 
 - Creazione di pacchetti per la distribuzione con Microsoft Endpoint Configuration Manager.  
@@ -127,7 +127,7 @@ Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura 
 
 - Fornire indicazioni sulla migrazione degli utenti raggruppati in una distribuzione ibrida di Skype for Business (mantenendo gli elenchi dei contatti degli utenti).
     
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
 - Fornire indicazioni e assistenza per:  
   - Valutazione e pianificazione in linea con le procedure consigliate di Microsoft per la distribuzione iniziale e per la gestione degli aggiornamenti.
