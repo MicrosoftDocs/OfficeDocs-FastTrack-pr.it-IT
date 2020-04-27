@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: L'onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che possono essere seguite da una fase di migrazione dei dati facoltativa.
-ms.openlocfilehash: d4e6447ced77c6a12cda8b6947633b97ba1fb755
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 0a64f10e0a0fe1be6e26801d1722a06fc0ef5e73
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098290"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666160"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fasi del processo di onboarding e migrazione
 
@@ -201,19 +201,19 @@ Per Project Online Professional e Project Online Premium, viene fornito material
 
 Per Yammer, viene fornito materiale sussidiario per l'attivazione del servizio Yammer Enterprise.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-Per Office 365 ProPlus, viene fornito materiale sussidiario per:
-- Risolvere i problemi di implementazione.   
+Nel caso di Microsoft 365 Apps, viene fornita una guida per gli aspetti seguenti:
+- Risoluzione dei problemi di implementazione.   
 - Assegnazione dei contratti di licenza con l'utente finale e di licenze basate sul dispositivo utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell. 
-- Installare Office 365 ProPlus dal portale di Office 365 tramite la tecnologia A portata di clic.   
-- Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
+- Installare Microsoft 365 Apps dal portale di Office 365 tramite la tecnologia A portata di clic.   
+- Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS o Android.   
 - Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.   
 - Selezione e configurazione di un'installazione locale o cloud. 
 - Creazione del codice XML di configurazione dello Strumento di distribuzione di Office con lo Strumento di personalizzazione di Office o del codice XML nativo per configurare il pacchetto di distribuzione.  
 - Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.
     
-![Passaggi onboarding di Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
+![Passaggi onboarding di Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook per iOS e Android
 
