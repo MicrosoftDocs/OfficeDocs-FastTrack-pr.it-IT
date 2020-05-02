@@ -3,19 +3,19 @@ title: Responsabilità del governo degli Stati Uniti di Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Ecco le responsabilità dell'utente durante il processo di onboarding.
-ms.openlocfilehash: 159f38e85340308bd97eaf31eb20f58fec1d0554
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 27d1309b0cfdd610ab56767765665d9bc887fc8b
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665812"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999748"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Responsabilità del governo degli Stati Uniti di Office 365
 
@@ -60,8 +60,8 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 
 - Configurare lo spazio di collaborazione di Microsoft teams per l'onboarding partnership e invitare i membri del team di FastTrack Center (non disponibile nei piani GCC High o DoD).   
 - Collaborare con gli esperti di FastTrack per avviare l'onboarding dei servizi idonei.     
-- Participare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.    
-- Fornire gli obiettivi per i servizi di Office 365 (ad esempio, SharePoint Online, Exchange Online, Microsoft teams e Microsoft 365 Apps) e gli obiettivi dell'organizzazione.
+- Partecipare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.    
+- Fornire gli obiettivi per i servizi Office 365 (ad esempio, SharePoint Online, Exchange Online, Microsoft Teams e Microsoft 365 Apps) e gli obiettivi aziendali.
     
 ## <a name="assess-phase"></a>Fase di valutazione
 
