@@ -3,19 +3,19 @@ title: Responsabilità di FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: 78abfd26506f457858bc2e56f3ccfd1407c4cbdf
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999820"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472201"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -118,6 +118,41 @@ Fornire indicazioni su:
 - Selezione e configurazione di un'installazione locale o cloud.
 - Creazione del codice XML di configurazione dello Strumento di distribuzione di Office con lo Strumento di personalizzazione di Office o del codice XML nativo per configurare il pacchetto di distribuzione.
 - Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.
+
+## <a name="microsoft-information-governance"></a>Governance delle informazioni di Microsoft 
+
+Fornire indicazioni su:
+- Gestione dei record.
+  - Applicazione delle autorizzazioni per la gestione dei record.
+  - Linee guida sulla traduzione di piani di file e pianificazioni di conservazione in etichette e criteri.
+  - Creazione di etichette e criteri di conservazione.
+  - Definizione dei criteri di eliminazione.
+  - Revisione degli elementi per la disposizione.
+- Gestione dei rischi Insider.
+  - Abilitazione dei log di controllo di Office 365.
+  - Configurazione delle impostazioni in gestione dei rischi Insider.
+  - Creazione di criteri di rischio Insider utilizzando i PlayBook incorporati.
+  - Configurazione delle autorizzazioni per la conformità della comunicazione.
+  - Creazione di criteri di conformità della comunicazione mediante modelli personalizzabili.
+  - Monitoraggio e revisione degli avvisi.
+- Governance delle informazioni.
+  - Applicazione delle autorizzazioni per la governance delle informazioni.
+  - Creazione di etichette di conservazione.
+  - Pubblicazione delle etichette di conservazione (manuale e automatica).
+  - Creazione di processi di importazione.
+
+## <a name="microsoft-information-protection"></a>Microsoft Information Protection
+
+Fornire indicazioni su:
+- Classificazione dei dati.
+- Tipi di informazioni riservate.
+- Creazione di etichette di riservatezza.
+- Applicazione di etichette di riservatezza. 
+- Etichettatura unificata.
+- Classificatori addestrabili.
+- Informazioni sui dati con Esplora contenuto e Esplora attività.
+- Pubblicazione di etichette mediante criteri (manuale e automatico).
+- Creazione di criteri di prevenzione della perdita di dati (DLP) per le chat e i canali di Microsoft teams.
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 

@@ -3,19 +3,19 @@ title: Il nuovo Microsoft Edge
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Benefit per Windows 10 fornisce una guida alla distribuzione del nuovo Microsoft Edge per i clienti di Windows 10 Enterprise con 150 o più postazioni.
-ms.openlocfilehash: f24fc38dc192ce36a604a2250c3dc2a28bbb7c53
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: c72aab8bbedcacce03de89a47483cf310bf8c808
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999618"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472033"
 ---
 # <a name="the-new-microsoft-edge"></a>Il nuovo Microsoft Edge
 
