@@ -3,7 +3,7 @@ title: Informazioni generali su FastTrack Center Benefit
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Con FastTrack Center Benefit per Office 365, è possibile lavorare in remoto con gli esperti di FastTrack per avere il proprio ambiente Office 365 pronto per l'uso e la pianificazione dell'implementazione e dell'utilizzo all'interno dell'organizzazione. Per ulteriori informazioni sull'idoneità, vedere FastTrack Center Benefit per Office 365.
-ms.openlocfilehash: f3dd071707d469041900f9bab86c07489ffcb4d0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999892"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471710"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Informazioni generali su FastTrack Center Benefit
 
@@ -30,10 +30,9 @@ Verranno trattati i seguenti argomenti:
 - [Migrazione dei dati](O365-data-migration.md)
 - [Responsabilità di FastTrack](O365-fasttrack-responsibilities.md)
 - [Responsabilità dell'utente](O365-your-responsibilities.md) 
-- [Appendice A: Migrazione da IBM Domino a Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
-- [Appendice B - Ulteriore vantaggio di FastTrack Center](O365-fasttrack-additional-benefits.md)
-- [Appendice C - Contratto di società in affari HIPAA di FastTrack Center](O365-hipaa-business-associate-agreement.md)
-- [Appendice D - Informazioni generali su FastTrack Center Benefit per Office 365 US Government](US-Gov-appendix-overview.md)
+- [Appendice A: Ulteriore vantaggio di FastTrack Center](O365-fasttrack-additional-benefits.md)
+- [Appendice B - Contratto di società in affari HIPAA di FastTrack Center](O365-hipaa-business-associate-agreement.md)
+- [Appendice C - Informazioni generali su FastTrack Center Benefit per Office 365 US Government](US-Gov-appendix-overview.md)
     
 Una volta completato l'onboarding, viene creato il tenant di Office 365. Gli utenti con licenza possono accedere a Office 365 utilizzando una delle seguenti opzioni di gestione delle identità:
 - Identità cloud con account Office 365 univoci.
