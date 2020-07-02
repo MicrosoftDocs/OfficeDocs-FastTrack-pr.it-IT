@@ -3,19 +3,19 @@ title: Responsabilità di FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: f7a519e0f5fd6b5b8d458fd326826e5a16797a67
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472201"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011430"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
@@ -82,7 +82,7 @@ Fornire indicazioni su:
       - Configurazione dell'autenticazione pass-through di Azure Active Directory, se necessario.\*\*
       - Configurazione dell'accesso Single Sign-On facile di Azure Active Directory, se necessario.\*\*\*
     > [!NOTE]
-    > L'Autenticazione pass-through di Azure Active Directory per ambienti con più foreste è supportata se sono presenti trust tra le foreste di Active Directory e se il routing dei suffissi nome è configurato correttamente. È possibile installare ulteriori agenti su più server locali per fornire disponibilità elevata per le richieste di accesso. Per ulteriori informazioni, vedere [Autenticazione pass-through di Azure Active Directory: avvio rapido](https://go.microsoft.com/fwlink/?linkid=860094) e [Accesso Single Sign-On facile di Azure Active Directory: guida introduttiva](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
 - Per una singola foresta, se la destinazione è costituita dalle identità federative: 
   - Installazione e configurazione di AD FS per l'autenticazione di domini locali con Office 365 in un solo sito e configurazione a tolleranza di errore, se necessario.
   - Installazione e configurazione di WAP per la pubblicazione dell'infrastruttura di AD FS su Internet, se necessario.
@@ -140,6 +140,15 @@ Fornire indicazioni su:
   - Creazione di etichette di conservazione.
   - Pubblicazione delle etichette di conservazione (manuale e automatica).
   - Creazione di processi di importazione.
+- EDiscovery avanzato.
+  - Dati non di Office 365.
+  - Impostazione delle autorizzazioni.
+  - Creazione di case.
+  - Aggiunta di depositari. 
+  - Esenzioni legali.
+  - Ricerca.
+  - Set di revisione.
+  - Esportazione di contenuto.
 
 ## <a name="microsoft-information-protection"></a>Microsoft Information Protection
 

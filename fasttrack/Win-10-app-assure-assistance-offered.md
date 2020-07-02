@@ -3,19 +3,19 @@ title: Assistenza offerta
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Al momento dell'acquisto di uno dei servizi di Windows 10 o Microsoft 365, gli esperti FastTrack forniscono indicazioni e correzioni per la distribuzione di Windows 10 e Microsoft 365 Apps e consentono di mantenersi aggiornati senza costi aggiuntivi (con un abbonamento idoneo).
-ms.openlocfilehash: 8b006493a46108791031ac1baa9bdd501278414f
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: bebe49e4fe8808192265bc1573ea410b0e63cdc2
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472055"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011034"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta  
 
@@ -61,7 +61,7 @@ Per altre informazioni, vedere [che cos'è il Desktop virtuale Windows?](https:/
 ## <a name="out-of-scope"></a>Esclusioni
 
 I servizi FastTrack non includono:
-- Inventario e test delle app per stabilire cosa funziona e cosa non funziona in Windows 10 e Microsoft 365 Apps. Per altre indicazioni su questo processo, visitare il [Centro di distribuzione desktop](https://go.microsoft.com/fwlink/?linkid=2080140). Per richiedere una valutazione approfondita dell'idoneità per l'aggiornamento, compilare l'apposito [modulo](https://go.microsoft.com/fwlink/?linkid=2053818).
+- App inventory and testing to determine what does and doesn't work on Windows 10 and Microsoft 365 Apps. For more guidance on this process, visit the [Desktop Deployment Center](https://go.microsoft.com/fwlink/?linkid=2080140). If you're interested in an in-depth upgrade readiness assessment, complete the [Customer Request for Modern Desktop Assessment](https://go.microsoft.com/fwlink/?linkid=2053818) form.
 - Ricerca di applicazioni ISV di terze parti per istruzioni su supporto e compatibilità con Windows 10. Per ulteriori informazioni, vedere [Desktop Analytics](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Servizi di sola creazione di pacchetti di app. Tuttavia, il team di App Assure crea pacchetti di app che abbiamo corretto per Windows 10 per garantire che possano essere distribuiti nell'ambiente del cliente.
 

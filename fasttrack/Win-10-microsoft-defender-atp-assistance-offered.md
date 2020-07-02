@@ -3,19 +3,19 @@ title: Assistenza offerta
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Windows 10 o Microsoft 365, gli specialisti FastTrack forniscono indicazioni sulla distribuzione da remoto per garantire la protezione degli endpoint. Il nostro servizio di assistenza è personalizzato in base all'ambiente e alle esigenze di ogni cliente.
-ms.openlocfilehash: 3cbfd8a00ebb829394d617be0d22867828c86c79
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: ec29f863b01ffb312b7b8b299580e5e38f60fa9d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472009"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011526"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta  
 
@@ -37,7 +37,7 @@ FastTrack fornisce una guida remota per:
     - Indagine e correzione automatizzate.
     - Punteggio di sicurezza.
 - Esaminare simulazioni ed esercitazioni (come scenari di pratica, malware falsi e analisi automatizzate).
-- Approfondimenti su creazione di report e analisi delle minacce.
+- Panoramica delle funzionalità di creazione di report e di analisi di minacce.
 - Integrazione di Office 365 ATP con Microsoft Defender ATP.
 - Procedure dettagliate nel portale di Microsoft Defender Security Center.
 
@@ -51,6 +51,7 @@ I servizi FastTrack non includono:
    - Windows Server
    - macOS
    - Linux
+   - Dispositivi mobili (Android e iOS)
 - Configurazione delle funzionalità di riduzione della superficie d'attacco seguenti:
     - Isolamento basato su hardware.
     - Controllo delle applicazioni.
@@ -60,3 +61,4 @@ I servizi FastTrack non includono:
 - Configurazione o formazione sulla revisione di connessione ad API o strumenti SIEM (Security Information and Event Management).
 - Iscrizione o configurazione di Microsoft Threat Protection (MTP).
 - Formazione o indicazioni sulla ricerca avanzata.
+- Formazione o orientamento per l'utilizzo o la creazione di query di Kusto.

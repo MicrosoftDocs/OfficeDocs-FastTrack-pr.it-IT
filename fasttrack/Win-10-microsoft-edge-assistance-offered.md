@@ -3,19 +3,19 @@ title: Assistenza offerta
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Windows 10 o Microsoft 365 (come indicato in Piani e servizi idonei), gli esperti FastTrack forniscono indicazioni sulla distribuzione e assistenza sulla compatibilità da remoto se si ha un'app Web o un sito che funzione con Internet Explorer o Google Chrome.
-ms.openlocfilehash: b72be35d0f7842aed62c3a60a85d9c7892235f6c
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472026"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011562"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta
 
@@ -36,7 +36,7 @@ Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/
 2.    Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
 3.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
   
-I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Selezionare **Clienti personali**.
 3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
