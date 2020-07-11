@@ -3,23 +3,23 @@ title: Fasi del processo di onboarding e migrazione
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: L'onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che possono essere seguite da una fase di migrazione dei dati facoltativa.
-ms.openlocfilehash: 0811237e5570fc9c2dd033edf2204dc2a9333f07
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+description: Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase.
+ms.openlocfilehash: 7361a3aa493ae9263076357bf2ce005c3f92a5b4
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999214"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011598"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fasi del processo di onboarding e migrazione
 
-Il processo di onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che, come si può vedere nella figura seguente, possono essere seguite da una fase facoltativa di migrazione dei dati.
+Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase as shown in the following figure.
   
 ![Fasi del vantaggio del processo di onboarding](media/O365-Onboarding-Phases.png)
   
@@ -41,7 +41,7 @@ Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/
 2.    Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
 3.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**. 
   
-I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Selezionare **Clienti personali**.
 3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
@@ -50,17 +50,17 @@ I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https
 
 È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
     
-Durante questa fase, viene discusso il processo di onboarding, vengono verificati i dati e viene organizzata una riunione di avvio progetto. Ciò include una collaborazione con l'utente per comprendere in che modo intende utilizzare il servizio e per conoscere i piani e gli obiettivi dell'organizzazione relativi alla gestione del servizio.
+During this phase, we discuss the onboarding process, verify your data, and set up a kickoff meeting. This includes working with you to understand how you intend to use the service and your organization's goals and plans to drive service usage.
   
 ![Processo di onboarding durante la fase di avviamento](media/O365-Onboarding-Initiate.png)
   
 ## <a name="assess-phase"></a>Fase di valutazione
 
-Il responsabile FastTrack effettua una chiamata interattiva con l'utente e il team di adozione per pianificare il buon esito del processo. In questo modo, l'utente viene a conoscenza delle capacità dei servizi idonei acquistati, degli elementi essenziali necessari, della metodologia per l'uso del servizio e degli scenari utili per sfruttare il servizio. Microsoft supporta l'utente nella pianificazione per il buon esito del processo e fornisce commenti e suggerimenti sulle aree principali (in base alle necessità).
+Your FastTrack Manager conducts an interactive success planning call with you and your adoption team. This introduces you to the capabilities of the eligible services you purchased, the key foundations you need for success, the methodology for driving usage of the service, and scenarios you can use to get value from the services. We assist you in success planning and provide feedback on key areas (as needed).
   
-Gli esperti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Vengono forniti strumenti per consentire all’utente di raccogliere dati sul proprio ambiente e per guidare l'utente nella stima dei requisiti della larghezza di banda e nella valutazione di browser, sistemi operativi di client, DNS (Domain Name System), rete, infrastruttura e sistema di identità, in caso fossero necessarie modifiche per l'onboarding.  
+FastTrack Specialists work with you to assess your source environment and the requirements. We provide tools for you to gather data about your environment and  guide you through estimating bandwidth requirements and assessing your internet browsers, client operating systems, Domain Name System (DNS), network, infrastructure, and identity system to determine if any changes are required for onboarding. 
   
-In base all'impostazione corrente, viene suggerito un piano di correzione che fornisce all'ambiente di origine i requisiti minimi per l'onboarding a Office 365 e, se necessario, per la migrazione dei dati e/o delle cassette postali. Viene offerta una serie di attività consigliate per aumentare l'adozione e il valore dell'utente finale. Vengono inoltre stabilite delle chiamate di controllo appropriate per la fase di correzione.
+Based on your current setup, we provide a remediation plan that brings your source environment up to the minimum requirements for successful onboarding to Office 365 and, if needed, for successful mailbox and/or data migration. We provide a set of suggested activities to increase end user value and adoption. We also set up appropriate checkpoint calls for the Remediate phase.
   
 ![Passaggi onboarding per la fase di valutazione](media/O365.png)
   
@@ -70,7 +70,7 @@ L'utente esegue le attività di correzione basate sull'ambiente di origine, per 
   
 ![Passaggi onboarding durante la fase di risoluzione](media/O365-Onboarding-Remediate.png)
   
-Viene inoltre fornita una serie di attività consigliate per aumentare l'adozione e il valore dell'utente finale. Prima di iniziare la fase di attivazione, vengono verificati i risultati delle attività di correzione per verificare che l'utente sia pronto a procedere. 
+We also provide a set of suggested activities to increase end user value and adoption. Before beginning the Enable phase, we jointly verify the outcomes of the remediation activities to make sure you're ready to proceed. 
   
 In questa fase, il responsabile FastTrack assiste l'utente nella pianificazione, guidandolo nella scelta delle risorse e delle procedure migliori per offrire assistenza e rendere il servizio disponibile per l'organizzazione e gestire l'uso dei servizi.
   
@@ -80,26 +80,26 @@ Una volta completate tutte le attività di correzione, si passa alla configurazi
   
 ## <a name="core"></a>Componenti di base
 
-L'onboarding di base prevede il provisioning di servizi e l'integrazione di identità e tenant. Include inoltre la procedura per fornire una base per i servizi di onboarding quali Exchange Online, SharePoint Online e Skype for Business Online. L'utente e il responsabile FastTrack continuano ad avere riunioni periodiche per la pianificazione ottimale del processo al fine di valutare i progressi ottenuti rispetto agli obiettivi prefissati e determinare l'ulteriore supporto necessario.
+Core onboarding involves service provisioning and tenant and identity integration. It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Skype for Business Online. You and your FastTrack Manager continue to have success planning checkpoint meetings to evaluate progress against your goals and determine what further assistance you need.
   
 ![Passaggi onboarding di base durante la fase_1 di abilitazione](media/O365-Onboarding-Enable-Core.png)
   
 ![Passaggi onboarding principali durante la fase_2 di abilitazione](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP è l'acronimo di Web Application Proxy. SSL è l'acronimo di Secure Sockets Layer. SDS è l'acronimo di School Data Sync. Per ulteriori informazioni su SDS, vedere [Introduzione a Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
   
 L'onboarding per uno o più servizi può iniziare al termine dell'onboarding di base.
   
 ## <a name="exchange-online"></a>Exchange Online
 
-Per Exchange Online, l'utente viene guidato nell'utilizzo della posta elettronica per l'organizzazione. La procedura esatta dipende dall'ambiente di origine e dai piani di migrazione della posta elettronica. Può includere materiale sussidiario per:
+For Exchange Online, we guide you through the process to get your organization ready to use email. The exact steps, depending on your source environment and your email migration plans, can include providing guidance for:
 - Configurare le funzionalità di Exchange Online Protection (EOP) per tutti i domini abilitati alla posta elettronica convalidati in Office 365.
     > [!NOTE]
     > I record MX (Mail Exchange) devono puntare a Office 365. 
 - Configurare la funzionalità Office 365 Advanced Threat Protection (ATP) se rientra nel servizio di sottoscrizione. Per ulteriori informazioni, vedere [Office 365 Advanced Threat Protection](#office-365-advanced-threat-protection).
-- Configurare la funzionalità di prevenzione della perdita dei dati (DLP) per tutti i domini abilitati per la posta elettronica convalidati in Office 365 se rientra nel servizio in abbonamento. Questa operazione viene eseguita dopo aver impostato i record MX in modo che puntino a Office 365.
-- Configurare Office 365 Message Encryption (OME) per tutti i domini abilitati per la posta elettronica convalidati in Office 365 se rientra nel servizio in abbonamento. Questa operazione viene eseguita dopo aver impostato i record MX in modo che puntino a Office 365.
+- Setting up the data loss prevention (DLP) feature for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.
+- Setting up Office 365 Message Encryption (OME) for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.
 
 > [!NOTE]
 > Il servizio Replica delle cassette postali tenta di eseguire la migrazione dei messaggi di posta elettronica protetti da Information Rights Managed (IRM) dalla cassetta postale dell'utente alla cassetta postale di Exchange Online corrispondente. La possibilità di leggere i contenuti protetti dopo la migrazione dipende dal fatto che il cliente esegua il mapping e copi i modelli di Active Directory Rights Managed Services (AD RMS) in Azure Rights Management Service (Azure RMS).
@@ -141,6 +141,28 @@ Per Office 365 ATP, viene fornito materiale sussidiario per:
 - Creazione di report e analisi delle minacce.
 
 ![Diagramma di Office 365 ATP (onboarding)](media/Office-365-Advanced-Threat-Protector-orange-3.png)
+
+## <a name="microsoft-information-governance"></a>Microsoft Information Governance
+
+Per la governance di Microsoft Information sono disponibili indicazioni per:
+
+- Governance delle informazioni.
+- Etichette e criteri di conservazione.
+- Gestione dei record.
+- Criteri di eliminazione.
+- Conformità delle comunicazioni.
+- Gestione dei rischi Insider 
+- Advanced eDiscovery.
+
+## <a name="microsoft-information-protection"></a>Microsoft Azure Information Protection
+
+Per Microsoft Information Protection sono disponibili indicazioni per:
+- Conoscere i dati tramite Esplora contenuto ed Esplora attività.
+- Etichette di riservatezza.
+- Classificazione dei dati.
+- Criteri di prevenzione della perdita dei dati (DLP) per chat e canali di Microsoft Teams.
+- Protezione dei dati.
+- Etichettatura unificata.
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
