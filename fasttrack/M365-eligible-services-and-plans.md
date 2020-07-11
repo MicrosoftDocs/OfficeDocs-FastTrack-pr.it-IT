@@ -3,19 +3,19 @@ title: Piani e servizi idonei
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Microsoft 365, gli esperti di FastTrack offrono assistenza per l’onboarding in Microsoft 365 e per iniziare a usarlo.
-ms.openlocfilehash: 9b6c7272d1b8083acd3d5765687ce841e08d086a
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999832"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011226"
 ---
 # <a name="eligible-services-and-plans"></a>Piani e servizi idonei
 
@@ -33,7 +33,7 @@ Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/
 2.    Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
 3.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
   
-I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Selezionare **Clienti personali**.
 3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
@@ -54,6 +54,8 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
 - Exchange Online 
 - Microsoft 365 Apps
 - Microsoft Defender Advanced Threat Protection
+- Microsoft Information Governance
+- Microsoft Information Protection
 - Microsoft Intune
 - Microsoft Teams
 - Office 365 Advanced Threat Protection
@@ -75,6 +77,10 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Sicurezza Microsoft 365 E5\*
+- Microsoft 365 E5 Compliance\*
+- Microsoft 365 E5 eDiscovery and Audit\*
+- Microsoft 365 E5 Information Protection and Governance\*
+- Gestione dei rischi Insider Microsoft 365 E5\*
 - Microsoft 365 F1\*
 - Microsoft 365 Business\*
 - Microsoft 365 Apps for enterprise\*
@@ -91,6 +97,10 @@ FastTrack Center fornisce assistenza per i seguenti servizi:
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 Security\*
+- Microsoft 365 A5 Compliance\*
+- Microsoft 365 A5 eDiscovery & Audit\*
+- Microsoft 365 A5 Information Protection & Governance\*
+- Gestione dei rischi Insider Microsoft 365 A5\*
 - Microsoft 365 Apps per l'istruzione (dispositivo)\*
  
 ## <a name="eligible-office-365-plans"></a>Piani di Office 365 idonei
@@ -227,5 +237,5 @@ I piani non idonei per i servizi di FastTrack includono (ma non si limitano a):
   
 ## <a name="fasttrack-center-additional-benefit-eligibility"></a>Idoneità a ulteriori vantaggi di FastTrack Center
 
-I clienti che acquistano almeno 20.000 licenze per un tenant di Office 365 possono ottenere servizi aggiuntivi di FastTrack Center. Per ulteriori informazioni, vedere [Appendice B: Ulteriore vantaggio di FastTrack Center](O365-fasttrack-additional-benefits.md).
+I clienti che acquistano almeno 20.000 licenze per un tenant di Office 365 possono ottenere i servizi aggiuntivi di FastTrack Center. Per altre informazioni, vedere [Appendice A: Ulteriore vantaggio di FastTrack Center](O365-fasttrack-additional-benefits.md).
   
