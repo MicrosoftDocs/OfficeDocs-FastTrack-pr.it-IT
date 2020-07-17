@@ -33,7 +33,7 @@ Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/
 2.    Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
 3.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
   
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Selezionare **Clienti personali**.
 3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.

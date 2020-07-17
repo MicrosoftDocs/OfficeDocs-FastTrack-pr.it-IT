@@ -23,13 +23,13 @@ Il processo FastTrack fornisce assistenza per onboarding e servizi di adozione d
   
 L'onboarding consiste di:
   
-- *Core onboarding* — These are tasks required for tenant configuration and integration with Azure Active Directory (Azure AD) if needed. Core onboarding also provides the baseline for onboarding other eligible services. 
-- *Service onboarding and migration* — Service onboarding tasks enable scenarios in your tenant. Data migration (including email and files) is covered in [Data Migration](O365-data-migration.md). 
+- *Onboarding di base*: si tratta di attività necessarie per la configurazione del tenant e l'integrazione con Azure Active Directory (Azure AD), se richiesta. L'onboarding di base fornisce, inoltre, la linea di base per l'onboarding di altri servizi. 
+- *Onboarding dei servizi e migrazione*: le attività di onboarding dei servizi abilitano gli scenari nel tenant. La migrazione dei dati (posta elettronica e file inclusi) verrà trattata in [Migrazione dei dati](O365-data-migration.md). 
     
-User adoption services are comprised of tasks that provide guidance for you to ensure your users are aware of the eligible services and can use them to drive business value. This assistance occurs in parallel to onboarding activities.
+I servizi di adozione da parte dell'utente comprendono attività che rendono gli utenti consapevoli dei servizi idonei e che è possibile utilizzare per creare valore aziendale. Questa assistenza viene fornita parallelamente alle attività di onboarding.
   
 > [!NOTE]
-> FastTrack provides customers with a recommended approach, guidance, and best practices engineered to deliver quick and predictable outcomes. If you choose to deploy outside of this guidance, your onboarding experience and usage of the service may be impacted. Guidance is defined as a combination of verbal and written assistance. When FastTrack Specialists provide guidance, FastTrack personnel cannot act on your behalf. You can use FastTrack services to onboard and adopt any qualifying product workload as long as your subscription is current. 
+> FastTrack offre ai clienti un approccio consigliato, linee guida e procedure consigliate progettate per ottenere risultati rapidi e prevedibili. Se si sceglie di eseguire la distribuzione senza seguire questa guida, ciò potrebbe influire sull'esperienza di onboarding e sull'utilizzo del servizio. L'assistenza viene definita come una combinazione di supporto in forma orale e scritta. Quando gli esperti di FastTrack offrono assistenza, il personale di FastTrack non può agire per conto dell'utente. È possibile utilizzare i servizi FastTrack per eseguire l'onboarding e adottare un flusso di lavoro idoneo, a condizione che la sottoscrizione sia attiva.  
   
 ## <a name="the-onboarding-process"></a>Il processo di onboarding
 
@@ -50,7 +50,7 @@ Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/
     
  Una volta contattata l'assistenza per l'onboarding, verrà impostata la pianificazione delle riunioni in linea.
     
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Selezionare **Clienti personali**.
 3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.

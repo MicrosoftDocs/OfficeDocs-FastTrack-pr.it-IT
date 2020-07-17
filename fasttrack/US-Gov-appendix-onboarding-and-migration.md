@@ -19,7 +19,7 @@ ms.locfileid: "45011274"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
 
-Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase as shown in the following figure.
+Il processo di onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che, come si può vedere nella figura seguente, possono essere seguite da una fase facoltativa di migrazione dei dati.
   
 ![Fasi del vantaggio del processo di onboarding](media/O365-Onboarding-Phases.png)
   
@@ -38,7 +38,7 @@ Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/
 2.    Selezionare **Richiedi assistenza per microsoft 365** dalle **azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** sulla scheda Distribuisci.
 3. Completare il modulo di **Richiesta di assistenza per Microsoft 365**. 
 
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Selezionare **Clienti personali**.
 3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
@@ -55,11 +55,11 @@ Ciò include una collaborazione con l'utente per comprendere in che modo intende
   
 ## <a name="assess-phase"></a>Fase di valutazione
 
-Your FastTrack Manager conducts an interactive success planning call with you and your adoption team. This introduces you to the capabilities of the eligible services you purchased, the key foundations you need for success, the methodology for driving usage of the service, and scenarios you can use to get value from the services. We assist you in success planning and provide feedback on key areas (as needed).
+Il responsabile FastTrack effettua una chiamata interattiva con l'utente e il team di adozione per pianificare il buon esito del processo. In questo modo, l'utente viene a conoscenza delle capacità dei servizi idonei acquistati, degli elementi essenziali necessari, della metodologia per l'uso del servizio e degli scenari utili per sfruttare il servizio. Microsoft supporta l'utente nella pianificazione per il buon esito del processo e fornisce commenti e suggerimenti sulle aree principali (in base alle necessità).
   
 Gli specialisti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Sono disponibili strumenti che consentono di raccogliere i dati relativi all'ambiente e di valutare i requisiti di larghezza di banda e la valutazione dei browser Internet, del sistema operativo client, del sistema DNS (Domain Name System), della rete, dell'infrastruttura e dell'identità per determinare se le modifiche sono necessarie per l'onboarding. 
   
-Based on your current setup, we provide a remediation plan that brings your source environment up to the minimum requirements for successful onboarding to Office 365 and, if needed, for successful mailbox and/or data migration. We provide a set of suggested activities to increase end user value and adoption. We also set up appropriate checkpoint calls for the Remediate phase.
+In base all'impostazione corrente, viene suggerito un piano di correzione che fornisce all'ambiente di origine i requisiti minimi per l'onboarding a Office 365 e, se necessario, per la migrazione dei dati e/o delle cassette postali. Viene offerta una serie di attività consigliate per aumentare l'adozione e il valore dell'utente finale. Vengono inoltre stabilite delle chiamate di controllo appropriate per la fase di correzione.
   
 ![Passaggi onboarding per la fase di valutazione](media/O365.png)
   
@@ -69,7 +69,7 @@ L'utente esegue le attività di correzione basate sull'ambiente di origine, per 
   
 ![Passaggi onboarding durante la fase di risoluzione](media/O365-Onboarding-Remediate.png)
   
-We also provide a set of suggested activities to increase end user value and adoption. Before beginning the Enable phase, we jointly verify the outcomes of the remediation activities to make sure you're ready to proceed. 
+Viene inoltre fornita una serie di attività consigliate per aumentare l'adozione e il valore dell'utente finale. Prima di iniziare la fase di attivazione, vengono verificati i risultati delle attività di correzione per verificare che l'utente sia pronto a procedere. 
   
 In questa fase, il responsabile FastTrack assiste l'utente nella pianificazione, guidandolo nella scelta delle risorse e delle procedure migliori per offrire assistenza e rendere il servizio disponibile per l'organizzazione e gestire l'uso dei servizi.
   
@@ -79,25 +79,25 @@ Una volta completate tutte le attività di correzione, si passa alla configurazi
   
 ## <a name="core"></a>Componenti di base
 
-Core onboarding involves service provisioning and tenant and identity integration. It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Skype for Business Online. You and your FastTrack Manager continue to have success planning checkpoint meetings to evaluate progress against your goals and determine what further assistance you need.
+L'onboarding di base prevede il provisioning di servizi e l'integrazione di identità e tenant. Include inoltre la procedura per fornire una base per i servizi di onboarding quali Exchange Online, SharePoint Online e Skype for Business Online. L'utente e il responsabile FastTrack continuano ad avere riunioni periodiche per la pianificazione ottimale del processo al fine di valutare i progressi ottenuti rispetto agli obiettivi prefissati e determinare l'ulteriore supporto necessario.
   
 ![Passaggi onboarding di base durante la fase_1 di abilitazione](media/O365-Onboarding-Enable-Core.png)
   
 ![Passaggi onboarding principali durante la fase_2 di abilitazione](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP è l'acronimo di Web Application Proxy. SSL è l'acronimo di Secure Sockets Layer. SDS è l'acronimo di School Data Sync. Per ulteriori informazioni su SDS, vedere [Introduzione a Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
   
 L'onboarding per uno o più servizi può iniziare al termine dell'onboarding di base.
   
 ## <a name="exchange-online"></a>Exchange Online
 
-For Exchange Online, we guide you through the process to get your organization ready to use email. The exact steps, depending on your source environment and your email migration plans, can include providing guidance for:
+Per Exchange Online, l'utente viene guidato nell'utilizzo della posta elettronica per l'organizzazione. La procedura esatta dipende dall'ambiente di origine e dai piani di migrazione della posta elettronica. Può includere materiale sussidiario per:
   
 - Configurare le funzionalità di Exchange Online Protection (EOP) per tutti i domini abilitati alla posta elettronica convalidati in Office 365.   
     > [!NOTE]
     > I record MX (Mail Exchange) devono puntare a Office 365.   
-- Setting up the Exchange Online Advanced Threat Protection (ATP) feature if it's part of your subscription service once your MX records point to Office 365. This feature is configured as part of the Exchange Online Protection antimalware settings.   
+- Configurare la funzionalità Protezione avanzata dalle minacce per Exchange Online (ATP) se rientra nel servizio di sottoscrizione una volta che i record MX puntano a Office 365. Questa funzionalità è configurata come parte delle impostazioni antimalware di Exchange Online Protection.   
 - Configurazione delle porte del firewall.   
 - Impostare DNS, incluso il servizio obbligatorio di Autodiscover, SPF (Sender Policy Framework) e i record MX, se necessario.     
 - Configurare il flusso di posta elettronica tra l'ambiente di messaggistica di origine e Exchange Online (in base alle esigenze).   

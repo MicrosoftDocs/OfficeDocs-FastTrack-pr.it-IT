@@ -11,7 +11,7 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see FastTrack Center Benefit for Office 365.
+description: Con FastTrack Center Benefit per Office 365, è possibile lavorare in remoto con gli esperti di FastTrack per avere il proprio ambiente Office 365 pronto per l'uso e la pianificazione dell'implementazione e dell'utilizzo all'interno dell'organizzazione. Per ulteriori informazioni sull'idoneità, vedere FastTrack Center Benefit per Office 365.
 ms.openlocfilehash: 3537f6effa5bd2c65f542496ea42ab70075621ce
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -21,7 +21,7 @@ ms.locfileid: "45011334"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Informazioni generali su FastTrack Center Benefit
 
-With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md).
+Con FastTrack Center Benefit per Office 365, è possibile lavorare in remoto con gli esperti di FastTrack per avere il proprio ambiente Office 365 pronto per l'uso e la pianificazione dell'implementazione e dell'utilizzo all'interno dell'organizzazione. Per ulteriori informazioni sull'idoneità, vedere [FastTrack Center Benefit per Office 365](O365-fasttrack-benefit-for-office-365.md).
   
 Verranno trattati i seguenti argomenti:
 - [Il processo FastTrack](O365-fasttrack-process.md) 
@@ -34,11 +34,11 @@ Verranno trattati i seguenti argomenti:
 - [Appendice B - Contratto di società in affari HIPAA di FastTrack Center](O365-hipaa-business-associate-agreement.md)
 - [Appendice C - Informazioni generali su FastTrack Center Benefit per Office 365 US Government](US-Gov-appendix-overview.md)
     
-Your Office 365 tenant is created at the completion of onboarding. Licensed users can access Office 365 by using one of the following identity options:
+Una volta completato l'onboarding, viene creato il tenant di Office 365. Gli utenti con licenza possono accedere a Office 365 utilizzando una delle seguenti opzioni di gestione delle identità:
 - Identità cloud con account Office 365 univoci.
-- Synchronized Identities with Office 365 accounts synchronized from your on-premises Active Directory with Azure Active Directory Connect (Password Hash Sync or Pass-through Authentication). These are for customers with:
+- Identità sincronizzate con account Office 365 sincronizzati da Active Directory locale con Azure Active Directory Connect (sincronizzazione degli hash delle password o autenticazione pass-throug ). Sono per i clienti con:
   - Una foresta Active Directory singola.
-  - Supported multi-forests Active Directory topology. For supported topologies, see [Source Environment Expectations](O365-source-environment-expectations.md).
+  - Una topologia di Active Directory a più foreste supportata. Per le topologie supportate, vedere [Previsioni dell'ambiente di origine](O365-source-environment-expectations.md).
 - Identità federate con i tipi di account Office 365 seguenti:
   - Sincronizzati da Active Directory con lo strumento Azure Active Directory Connect per i clienti con:
       - Una configurazione a foresta singola di Active Directory.

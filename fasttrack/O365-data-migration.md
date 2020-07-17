@@ -9,7 +9,7 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: FastTrack Specialists provide guidance on steps for data migration to Office 365. This is available for all eligible customers with Office 365 services for Exchange Online, OneDrive for Business, and SharePoint Online.
+description: Gli esperti di FastTrack forniscono linee guida sulla procedura di migrazione di dati a Office 365. Si tratta di un'opportunità offerta a tutti i clienti idonei con servizi Office 365 per Exchange Online, OneDrive for Business e SharePoint Online.
 ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -25,10 +25,10 @@ Potresti disporre di dati nell'ambiente di origine da migrare a Office 365.
 
 **Per i tenant di Office 365 con 500 o più licenze\*:** i servizi di migrazione dati sono disponibili per Exchange Online, SharePoint Online e OneDrive for business. Il vantaggio di FastTrack include indicazioni con l'integrazione di origine e la migrazione dei dati.
   
-\*If you purchased or renewed a commercial plan prior to 9/1/2017, 150 seats is the minimum seat requirement throughout your current subscription period in order to receive the migration benefit. For education plans, only paid faculty and staff licenses are eligible for migration services. 
+\*Se è stato acquistato o rinnovato un piano commerciale prima del 1/9/2017, il requisito minimo di postazioni durante il periodo di abbonamento corrente per ricevere il vantaggio della migrazione è 150 postazioni. Per i piani formativi, solo le licenze a pagamento dell'istituto di istruzione e del personale sono idonee per i servizi di migrazione. 
   
 > [!NOTE]
-> Data migrated through the FastTrack services may be transferred to, stored, and processed anywhere that Microsoft maintains facilities (except as otherwise provided for your particular FastTrack engagement). The FastTrack services aren't designed or intended for data subject to special legal or regulatory requirements. 
+> I dati migrati tramite FastTrack possono essere trasferiti, archiviati ed elaborati in tutti i paesi in cui sono presenti sedi Microsoft (se non diversamente indicato nel proprio accordo FastTrack). I servizi FastTrack non sono progettati per i dati soggetti a particolari requisiti normativi o legali. 
   
 > [!NOTE]
 > Problemi imprevisti (ad esempio, elementi non leggibili o corrotti nell'ambiente di origine e molti altri ancora) potrebbero impedire la migrazione di determinati elementi. 
@@ -47,7 +47,7 @@ Nella seguente tabella viene descritto quanto previsto per la migrazione nell'am
 
 |**Attività**|**Previsione dell'ambiente di origine**|
 |:-----|:-----|
-|**Migrazione di Exchange Online**  <br/> | Microsoft migrates any combination of the source environments listed below, each one at a time. We can migrate the onboarded messaging system using the FastTrack Center or if it's passed the FastTrack Center checks. This includes:  <br/>  Una o più foreste di Active Directory con una o più organizzazioni di Exchange, se è implementato Exchange 2010 Hybrid e versioni successive in ogni organizzazione e i sistemi di posta elettronica di Exchange sono 2003 e versioni successive.  <br/>  Un ambiente di posta elettronica con funzionalità IMAP singola.  <br/>  Ambienti G Suite (soltanto Gmail, Contatti e Calendario). <br/> <br/> **Nota:** *l'onboarding di Exchange Online deve essere completato prima della migrazione.* <br/> <br/> **Nota:** *FastTrack migra solamente verso cassette postali di Office 365 attive.* <br/> <br/> **Nota:** *per le dipendenze di Exchange locali, vedere [Prerequisiti per la distribuzione ibrida](https://go.microsoft.com/fwlink/?LinkId=787528).* <br/><br/> **Nota:** *quando si effettua la migrazione di più ambienti di messaggistica di origine (come più organizzazioni di Exchange o più domini Domino), tali migrazioni si verificano in sequenza.*| 
+|**Migrazione di Exchange Online**  <br/> | Microsoft consente di migrare qualsiasi combinazione degli ambienti di origine elencati di seguito, una per volta. È possibile migrare il sistema di messaggistica di cui è stato eseguito l'onboarding, tramite FastTrack Center o se ha superato i controlli di FastTrack Center. Ciò include:  <br/>  Una o più foreste di Active Directory con una o più organizzazioni di Exchange, se è implementato Exchange 2010 Hybrid e versioni successive in ogni organizzazione e i sistemi di posta elettronica di Exchange sono 2003 e versioni successive.  <br/>  Un ambiente di posta elettronica con funzionalità IMAP singola.  <br/>  Ambienti G Suite (soltanto Gmail, Contatti e Calendario). <br/> <br/> **Nota:** *l'onboarding di Exchange Online deve essere completato prima della migrazione.* <br/> <br/> **Nota:** *FastTrack migra solamente verso cassette postali di Office 365 attive.* <br/> <br/> **Nota:** *per le dipendenze di Exchange locali, vedere [Prerequisiti per la distribuzione ibrida](https://go.microsoft.com/fwlink/?LinkId=787528).* <br/><br/> **Nota:** *quando si effettua la migrazione di più ambienti di messaggistica di origine (come più organizzazioni di Exchange o più domini Domino), tali migrazioni si verificano in sequenza.*| 
 |**Migrazione di SharePoint Online**  <br/> | Condivisioni di file (condivisioni di file di Server Message Block su dispositivi che supportano SMB 2.0 e versioni successive). <br/> Ambiente G Suite singolo (solo Google Drive)<br/>  Box (Starter, Business, Enterprise).  <br/> Dropbox per Team (Standard e Advanced).<br/> |
 |**Migrazione di OneDrive for Business**  <br/> | Condivisioni di file (condivisioni di file SMB su dispositivi che supportano SMB 2.0 e versioni successive).  <br/>  Ambiente G Suite singolo (solo Google Drive)  <br/>  Box (Starter, Business, Enterprise). <br/> Dropbox per Team (Standard e Advanced).<br/><br/> **Nota:** *FastTrack migra solamente verso unità di Office 365 attive.*|
    
@@ -65,11 +65,11 @@ Se si utilizza Microsoft per eseguire la migrazione della posta elettronica, son
 
 #### <a name="commercial-and-uk-government"></a>Uso commerciale e governo del Regno Unito
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, sette (7) giorni a settimana (24x7) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione.
 
 #### <a name="us-governmentdod"></a>Governo degli Stati Uniti/DoD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, cinque (5) giorni a settimana (24x5) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì alle 24 ora UTC al venerdì a mezzanotte ora UTC. Ciò significa che l'ultima migrazione pianificata viene eseguita il venerdì alle 20:00 ora UTC.
     
  ### <a name="end-state"></a>Stato finale
   
@@ -82,7 +82,7 @@ Lo stato finale atteso al termine di tutte le migrazioni include quanto segue:
 - Il tipo di dati da migrare dipende dall'ambiente di origine, come indicato nella tabella seguente.
     
 > [!NOTE]
-> All source environments need to be on the latest service packs (SP) and rollup (RU)/cumulative update (CU) level for the respective product in the source environment at the end of the Enable phase. Data migration services are subject to external factors beyond Microsoft's control, like changes to third-party application programming interfaces (APIs), which could result in changes to, delays in, or suspension of these services. For the duration of the FastTrack services, data you make available to Microsoft is accessible from and stored anywhere that Microsoft and its suppliers maintain facilities. 
+> Tutti gli ambienti di origine devono trovarsi a livello di Service Pack (SP) e di rollup (RU)/aggiornamento cumulativo (CU) per il rispettivo prodotto nell'ambiente di origine, al termine della fase di attivazione. I servizi di migrazione dei dati sono soggetti a fattori esterni oltre al controllo di Microsoft, come le modifiche alle interfacce API di terze parti, che potrebbero causare modifiche, ritardi o la sospensione di tali servizi. Per la durata dei servizi FastTrack, è possibile accedere ai dati resi disponibili per Microsoft e archiviarli dovunque sia presente una sede di Microsoft e dei suoi fornitori. 
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -94,7 +94,7 @@ Lo stato finale atteso al termine di tutte le migrazioni include quanto segue:
 |**Origine IMAP4 (come Domino, GroupWise e Zimbra)** |Migrazione tramite strumenti nativi di IMAP4| Messaggi di posta elettronica | Regole <br/> Delegati <br/> Liste di distribuzione <br/> Contatti esterni <br/> Utenti abilitati all'utilizzo della posta <br/> Utenti bloccati o inattivi <br/> Contatti della cassetta postale <br/> Calendario <br/> Firme <br/> Attività <br/> Tutte le e-mail che superano il limite per la dimensione del messaggio <br/> Archiviazione dati <br/> Messaggi di posta elettronica crittografati <br/> Elementi danneggiati <br/> Cassette postali inattive |
    
 > [!NOTE]
-> If distribution lists (MailEnabledGroup objects) and external contacts (MailEnabledContact objects) are in the on-premises Active Directory, they can be synchronized using Azure AD Connect. However, they aren't a part of mailbox data migration. For more information, see the **Identity integration** example in [Core](O365-onboarding-and-migration.md#core). 
+> Se le liste di distribuzione (oggetti MailEnabledGroup) e i contatti esterni (oggetti MailEnabledContact) si trovano in Active Directory locale, è possibile sincronizzarli utilizzando Azure AD Connect. Tuttavia, non fanno parte della migrazione relativa ai dati della cassetta postale. Per maggior informazioni, vedere l'esempio **Identity Integration** in [Componenti di base](O365-onboarding-and-migration.md#core). 
   
 Gli esperti di FastTrack eseguono le seguenti operazioni durante le migrazioni:
 - Fornisce il modello standard per pianificare le migrazioni della cassetta postale.
@@ -104,7 +104,7 @@ Gli esperti di FastTrack eseguono le seguenti operazioni durante le migrazioni:
 - Nel caso di ambienti di origine basati su Exchange e IMAP4, migrare i contenuti della cassetta postale dell'utente fino all'85% del limite di archiviazione (ad esempio, se il limite di archiviazione della cassetta postale è di 50 GB, Microsoft eseguirà la migrazione fino all'85% di tale limite). 
 - Abilitare la coesistenza del routing di posta SMTP tra l'ambiente della messaggistica di origine e Office 365 Exchange Online, a meno che non si utilizzi la migrazione completa.
 - Fornire i rapporti post-migrazione.
-- Provide post-migration assistance for critical issues. The following issues are considered critical:
+- Fornisce assistenza di post-migrazione in caso di problemi critici. I seguenti problemi vengono considerati critici:
   - Perdita di dati durante la migrazione.
   - L'ambiente di origine non è più disponibile durante la migrazione.
   - Le attività di migrazione causano errori nell'ambiente di origine.
@@ -127,32 +127,32 @@ Eseguire le seguenti operazioni durante le migrazioni:
 |\>10.000  <br/> |1.500  <br/> |
    
    > [!NOTE]
-   > These numbers are based on best practice. However, the number of mailboxes that migrate per day will vary based on environment, readiness, and business constraints. Microsoft can't guarantee the speed of mailbox migration. 
+   > Tali cifre si basano sulle pratiche consigliate. Tuttavia, il numero di cassette postali sottoposte a migrazione ogni giorno varierà in base ai vincoli aziendali, di ambiente e conformità. Microsoft non è in grado di garantire la velocità di migrazione della cassetta postale. 
   
 - Pianificare almeno 35 cassette postali in un batch di migrazione. 
 - Correggere gli errori della pre-migrazione (se applicabile).  
 - Fornire accesso e autorizzazione all'ambiente di origine, come stabilito dagli specialisti FastTrack al fine di eseguire attività di migrazione. 
 - Procurarsi e/o fornire account amministrativi con licenza in Office 365 per eseguire attività di migrazione (in base alle esigenze). 
 - Supportare i problemi di migrazione dal lato client ed eseguire operazioni successive alla migrazione, se necessario. 
-- Migrate client-side data if desired. This includes, but is not limited to, local address books, data in local PST files, Outlook rules, and local Outlook settings.   
+- Eseguire la migrazione dei dati dal lato client, se desiderato. Tale migrazione include, ad esempio, le rubriche locali, i dati dei file PST locali, le regole e le impostazioni di Outlook locale.   
 - Ridurre la dimensione della cassetta postale a una percentuale inferiore rispetto all'85% del limite relativo alla cassetta postale di Office 365 (se applicabile).   
 - Gestire le azioni del rapporto di post-migrazione, comprese le cassette postali che non sono state spostate.  
 - Correggere gli errori di post-migrazione e pianificare di nuovo le cassette postali (se applicabile).   
-- Engage in post-migration assistance for critical issues. The following issues are considered critical:
+- Contribuire al supporto di post-migrazione in caso di problemi critici. I seguenti problemi vengono considerati critici:
   - Perdita di dati durante la migrazione.
   - L'ambiente di origine non è più disponibile durante la migrazione.
   - Le attività di migrazione causano errori nell'ambiente di origine.
     
-You need to follow the standard migration process and engage with Microsoft appropriately. This includes providing access and permissions to source and Office 365 environments, providing migration schedules, correcting any causes for migration errors, and so on. You also need to engage with end users for communications, mailbox migration schedule, and handling end user migration-related issues.
+È necessario seguire la procedura di migrazione standard e collaborare con Microsoft, fornendo autorizzazioni e accesso agli ambienti di origine e di Office 365, pianificazioni di migrazione, correggendo eventuali errori di migrazione e così via. Inoltre, è necessario rivolgersi agli utenti finali in caso di comunicazioni, pianificazione relativa alla migrazione della cassetta postale e gestione degli errori relativi alla migrazione dell'utente finale.
   
 > [!NOTE]
-> Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+> Le migrazioni utilizzano solo gli account che aderiscono ai requisiti di sicurezza definiti durante l'onboarding. Se non si utilizzano tali account, potrebbero verificarsi ritardi di migrazione. 
   
 ## <a name="migration-to-sharepoint-online"></a>Migrazione a SharePoint Online
 
 ### <a name="enable-to-migrate"></a>Abilitare alla migrazione
   
-If you use Microsoft to migrate your data, we provide guidance to enable both SharePoint Online and the source environment for migration. Depending on the source, we may perform various Enable steps. We provide guidance for you by using a combination of tools and documentation and by performing configuration tasks where applicable and feasible.
+Se si utilizza Microsoft per eseguire la migrazione dei dati, sono disponibili istruzioni per abilitare SharePoint Online e l'ambiente di origine per la migrazione. A seconda dell'origine, è possibile che vengano eseguiti diversi passaggi di abilitazione. Viene fornita assistenza all'utente mediante una combinazione di strumenti e documentazione, nonché eseguendo le attività di configurazione se applicabili e possibili.
   
 È necessario fornire a Microsoft l'accesso e le autorizzazioni per eseguire alcune attività.
   
@@ -163,11 +163,11 @@ If you use Microsoft to migrate your data, we provide guidance to enable both Sh
 
 #### <a name="commercial-and-uk-government"></a>Uso commerciale e governo del Regno Unito
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, sette (7) giorni a settimana (24x7) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione.
 
 #### <a name="us-governmentdod"></a>Governo degli Stati Uniti/DoD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, cinque (5) giorni a settimana (24x5) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì alle 24 ora UTC al venerdì a mezzanotte ora UTC. Ciò significa che l'ultima migrazione pianificata viene eseguita il venerdì alle 20:00 ora UTC.
 
 - Tutte le migrazioni sono soggette alle quote di SharePoint Online descritte in [SharePoint Online e OneDrive for Business: limiti del software](https://go.microsoft.com/fwlink/?LinkID=616612).   
 - La quantità complessiva dei dati migrati sarà legata al 75% della quota di archiviazione di SharePoint Online complessiva per la quale è abilitato l'utente (compresa l'archiviazione aggiuntiva che potrebbe essere stata acquistata separatamente).
@@ -208,14 +208,14 @@ Gli esperti di FastTrack eseguono le seguenti operazioni durante le migrazioni:
 - Fornisce supporto post-migrazione durante il test di accettazione per gli utenti fino a cinque giorni dopo il completamento della migrazione.
     
 Eseguire le seguenti operazioni durante le migrazioni: 
-- Provide project resources recommended for assessment and migration activities. These include: 
+- Fornisce le risorse del progetto consigliate per le attività di valutazione e migrazione. Ad esempio: 
   - Gestione dei progetti. 
   - Test di accettazione utenti (UAT).  
   - Amministratori responsabili delle piattaforme dei contenuti di origine e di destinazione.  
 - Fornisce i prerequisiti dell'infrastruttura per le attività di valutazione e migrazione (se richiesto).  
 - Fornisce accesso e autorizzazione all'ambiente di origine e di destinazione, come stabilito dagli specialisti FastTrack al fine di eseguire attività di migrazione (se richiesto).
     > [!NOTE]
-    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+    > Le migrazioni utilizzano solo gli account che aderiscono ai requisiti di sicurezza definiti durante l'onboarding. Se non si utilizzano tali account, potrebbero verificarsi ritardi di migrazione. 
 - Fornire i prerequisiti ed eseguire attività necessarie per supportare valutazione e migrazione.   
 - Installa gli strumenti di valutazione forniti da FastTrack e completa le attività di raccolta dei dati di valutazione (se applicabile).   
 - Installa il software di migrazione fornito da FastTrack in locale (se applicabile).   
@@ -234,9 +234,9 @@ Eseguire le seguenti operazioni durante le migrazioni:
 
  ### <a name="enable-to-migrate"></a>Abilitare alla migrazione
   
-If you use Microsoft to migrate your data, we provide guidance to enable both OneDrive for Business and the source environment for migration. Depending on the source, we may perform various Enable steps. We help you with some activities by using a combination of tools, documentation, and guidance, and by performing configuration tasks where applicable and feasible.
+Se si utilizza Microsoft per eseguire la migrazione dei dati, sono disponibili istruzioni per abilitare OneDrive for Business e l'ambiente di origine per la migrazione. A seconda dell'origine, è possibile che vengano eseguiti diversi passaggi di abilitazione. Viene fornita assistenza all'utente per alcune attività mediante una combinazione di strumenti, documentazione e linee guida, nonché eseguendo le attività di configurazione se applicabili e possibili.
   
-You may need to provide appropriate access and permissions to Microsoft to perform some activities. If you don't provide access and/or permissions, you need to perform certain defined tasks yourself with guidance from Microsoft. 
+Potrebbe essere necessario fornire a Microsoft autorizzazione e accesso per eseguire alcune attività. In caso contrario, l'utente deve eseguire alcune attività autonomamente, con la guida di Microsoft. 
   
 ### <a name="migration-policy-and-steps"></a>Procedura e criteri di migrazione
   
@@ -245,11 +245,11 @@ You may need to provide appropriate access and permissions to Microsoft to perfo
 
 #### <a name="commercial-and-uk-government"></a>Uso commerciale e governo del Regno Unito
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, sette (7) giorni a settimana (24x7) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione.
 
 #### <a name="us-governmentdod"></a>Governo degli Stati Uniti/DoD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+Le migrazioni vengono eseguite in base a una pianificazione anticipata standardizzata 24 ore al giorno, cinque (5) giorni a settimana (24x5) nelle fasce orarie di migrazione predefinite. Sono previsti tre batch di migrazione in ogni giorno di migrazione. Durante la settimana sono previsti cinque giorni per la migrazione: da lunedì alle 24 ora UTC al venerdì a mezzanotte ora UTC. Ciò significa che l'ultima migrazione pianificata viene eseguita il venerdì alle 20:00 ora UTC.
     
 - Tutte le migrazioni richiedono accesso e autorizzazioni appropriate per l'ambiente di origine.   
 - Tutte le migrazioni sono soggette alle quote di OneDrive for Business descritte in [SharePoint Online e OneDrive for Business: limiti del software](https://go.microsoft.com/fwlink/?LinkId=698855).
@@ -290,20 +290,20 @@ Gli esperti di FastTrack eseguono le seguenti operazioni durante le migrazioni:
 - Fornisce supporto post-migrazione durante il test di accettazione per gli utenti fino a cinque giorni dopo il completamento della migrazione.
    
 Eseguire le seguenti operazioni durante le migrazioni:
-- Provide project resources recommended for assessment and migration activities. These include:
+- Fornisce le risorse del progetto consigliate per le attività di valutazione e migrazione. Ad esempio:
   - Gestione dei progetti.
   - UAT.
   - Amministratori responsabili delle piattaforme dei contenuti di origine e di destinazione.
 - Fornisce i prerequisiti dell'infrastruttura per le attività di valutazione e migrazione (se richiesto).   
 - Fornisce accesso e autorizzazione all'ambiente di origine e di destinazione, come stabilito dagli specialisti FastTrack al fine di eseguire attività di migrazione (se richiesto).  
     > [!NOTE]
-    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+    > Le migrazioni utilizzano solo gli account che aderiscono ai requisiti di sicurezza definiti durante l'onboarding. Se non si utilizzano tali account, potrebbero verificarsi ritardi di migrazione. 
 - Installare gli strumenti di valutazione forniti da FastTrack e completare le attività di raccolta dei dati di valutazione (se applicabile).
 - Installa il software di migrazione fornito da FastTrack in locale (se applicabile).  
 - Completa le attività di correzione descritte nell'apposito report fornito da FastTrack (se applicabile).   
 - Fornisce una pianificazione di migrazione mediante le linee guida e i modelli di FastTrack. 
 - Fornire una pianificazione in un metodo definito e un elenco dei dati utente specifici da migrare in ogni fase.
-- Drop user data from the schedule until 24 hours in advance of the migration batch. This should correspond to the final migration batch.
+- Eliminano i dati utente dalla pianificazione fino a 24 ore prima del batch di migrazione. A quel punto, si è giunti al batch di migrazione finale.
 - Conduce una verifica di controllo qualità della migrazione e il test di accettazione per gli utenti.   
 - Conduce la correzione della migrazione post-migrazione (se applicabile).  
 - Pianifica e implementa la gestione delle modifiche e le comunicazioni con gli utenti finali (se applicabile).  
