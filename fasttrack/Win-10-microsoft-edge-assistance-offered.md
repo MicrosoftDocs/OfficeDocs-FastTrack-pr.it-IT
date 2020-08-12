@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Windows 10 o Microsoft 365 (come indicato in Piani e servizi idonei), gli esperti FastTrack forniscono indicazioni sulla distribuzione e assistenza sulla compatibilità da remoto se si ha un'app Web o un sito che funzione con Internet Explorer o Google Chrome.
-ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: 29a38add3ca5787faaf083e96ec858661fe823b0
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011562"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634182"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta
 
@@ -33,16 +33,15 @@ Si può richiedere assistenza per la distribuzione di Microsoft Edge tramite l'[
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Selezionare **Richiedi assistenza per Microsoft 365** in **Azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** nella scheda di distribuzione.
-3.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**.
+2.    Selezionare**Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
+3.    Completare il modulo **Richiesta di assistenza con Microsoft 365**.
   
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Selezionare **Clienti personali**.
-3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
-4.    Selezionare **Servizi**.
-5.    Selezionare il modulo di **Richiesta di assistenza per Microsoft 365**.
-6.    Selezionare l'opzione di prodotto **Microsoft Edge** e completare il modulo.
+2.    Selezionare**Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
+3.    Cercare il cliente immettendo il nome del cliente, il dominio o il TPID.
+4.    Selezionare il cliente dai risultati della ricerca.
+5.    Completare il modulo **Richiesta di assistenza con Microsoft 365**.
  
 Per assistenza sulla compatibilità dell'app, completare la [richiesta di servizio App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
