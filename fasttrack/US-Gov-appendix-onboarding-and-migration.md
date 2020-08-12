@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avviare, valutare, correggere e abilitare. È possibile seguire queste fasi con una fase di migrazione dei dati facoltativa, come illustrato nella figura seguente."
-ms.openlocfilehash: 8d4e396694af010f4233a3aeb8cedd6237baf203
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: a1c18b08e1be0cbb0afc26e9736d9b13c027de8f
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011274"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634218"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
 
@@ -35,17 +35,17 @@ Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 3
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Selezionare **Richiedi assistenza per microsoft 365** dalle **azioni rapide** nella parte superiore della pagina di destinazione o selezionando **Richiedi assistenza per Microsoft 365** sulla scheda Distribuisci.
-3. Completare il modulo di **Richiesta di assistenza per Microsoft 365**. 
-
+2.    Selezionare **Richiedi assistenza con Microsoft 365** dalle **azioni rapide** nella parte superiore della pagina di destinazione.
+3.    Completare la **richiesta di assistenza con il modulo Microsoft 365** .
+  
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Selezionare **Clienti personali**.
-3.    Cercare il cliente desiderato o selezionarlo nell'elenco di clienti.
-4.    Selezionare **Servizi**.
-5.    Completare il modulo di **Richiesta di assistenza per Microsoft 365**.   
+2.    Selezionare **Richiedi assistenza con Microsoft 365** dalle **azioni rapide** nella parte superiore della pagina di destinazione.
+3.    Cercare il cliente immettendo il nome, il dominio o il TPID del cliente.
+4.    Selezionare Customer dai risultati della ricerca.
+5.    Completare la **richiesta di assistenza con il modulo Microsoft 365** .
 
-È inoltre possibile richiedere assistenza per FastTrack Center dal [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
+È inoltre possibile richiedere assistenza per FastTrack Center dal [sito FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nell'elenco dei servizi disponibili per il tenant. 
     
 Durante questa fase, verrà discusso il processo di onboarding, saranno verificati i dati e verrà impostata la riunione iniziale.
   
