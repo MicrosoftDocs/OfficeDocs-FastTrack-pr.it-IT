@@ -1,22 +1,22 @@
 ---
-title: Appendice C - Informazioni generali su FastTrack Center Benefit per Office 365 US Government
+title: Appendice B-Panoramica dei vantaggi di FastTrack Center per Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Con FastTrack Center benefit per Office 365, è possibile lavorare in remoto con gli specialisti di FastTrack per ottenere l'ambiente Office 365 pronto per l'utilizzo e la pianificazione dell'implementazione e dell'utilizzo all'interno dell'organizzazione.
-ms.openlocfilehash: 1d6ab76f63bb9c15f037c9462e49024d805c6850
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 71aa948e87a2f4c5193bf4a1e860d10bb0fa9e3f
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011651"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776462"
 ---
-# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Appendice C - Informazioni generali su FastTrack Center Benefit per Office 365 US Government
+# <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Appendice B-Panoramica dei vantaggi di FastTrack Center per Office 365 US Government
 
 Con FastTrack Center benefit per Office 365, è possibile lavorare in remoto con gli specialisti di FastTrack per ottenere l'ambiente Office 365 pronto per l'utilizzo e la pianificazione dell'implementazione e dell'utilizzo all'interno dell'organizzazione. 
   
@@ -26,10 +26,10 @@ Anche se la maggior parte dei prodotti e delle caratteristiche sono uguali tra O
 > Per ricevere i servizi di FastTrack, passare al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) e richiedere assistenza.  
 
 Verranno trattati i seguenti argomenti:
-- [Il processo FastTrack](O365-fasttrack-process.md) 
+- [Processo e aspettative](process-and-expectations.md) 
 - [Aspettative dell'ambiente di origine per Office 365 US Government](US-Gov-appendix-source-environment-expectations.md)   
 - [Fasi di onboarding e migrazione per Office 365 US Government](US-Gov-appendix-onboarding-and-migration.md)
-- [Migrazione dei dati](O365-data-migration.md)    
+- [Migrazione dei dati](data-migration.md)    
 - [Responsabilità di FastTrack per il governo degli Stati Uniti di Office 365](US-Gov-appendix-fasttrack-responsibilities.md)   
 - [Responsabilità del governo degli Stati Uniti di Office 365](US-Gov-appendix-your-responsibilities.md)    
-- [Appendice A: Ulteriore vantaggio di FastTrack Center](O365-fasttrack-additional-benefits.md)
+
