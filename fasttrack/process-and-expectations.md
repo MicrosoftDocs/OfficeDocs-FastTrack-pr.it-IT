@@ -7,15 +7,15 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Il contenuto di quest’argomento coprirà i modi per entrare in contatto con l’assistenza FastTrack, come viene fornita tale assistenza, i suggerimenti per un'esperienza efficace e la comprensione delle responsabilità chiave sia di FastTrack che della tua azienda.
-ms.openlocfilehash: c484179acd265df11496418fb4af21758d363d7e
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776901"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817581"
 ---
 # <a name="process-and-expectations"></a>Processi e aspettative
 

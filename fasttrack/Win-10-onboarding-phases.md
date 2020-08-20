@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Il processo di onboarding di Windows 10 prevede quattro fasi principali, ovvero avvio, valutazione, correzione e attivazione.
-ms.openlocfilehash: 5781c71ee9748579097adc1a0ea103e7dc64945d
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: a7047bbec148fa6bbe49d8bb84f8a73f2a132e0d
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800680"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817557"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 

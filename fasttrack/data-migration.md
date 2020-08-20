@@ -7,15 +7,15 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack consente di eseguire la migrazione della posta elettronica e dei file negli ambienti di origine in Office 365 (Exchange Online, SharePoint Online e OneDrive for Business). Il tipo di assistenza che forniamo varia in base al numero di licenze di Office 365.
-ms.openlocfilehash: fc7f07aea6104fdc6f06b3d624778919b351b34d
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: 6b2c9cc3afba415c200b14fe34e65f1c3286e450
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: HT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776888"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817713"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 

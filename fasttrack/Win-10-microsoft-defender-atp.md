@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Il FastTrack Center Benefit per Windows 10 fornisce accesso a Microsoft Defender Advanced Threat Protection (ATP), un nuovo servizio progettato per consentire alle reti aziendali di bloccare, rilevare, analizzare e rispondere a minacce avanzate.
-ms.openlocfilehash: 124f0d85888114d5c9d22f25302d61c157599866
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 98a1978d5f1585613d6e24f28bb6bc54e608c76c
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800728"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817641"
 ---
 # <a name="microsoft-defender-advanced-threat-protection"></a>Microsoft Defender Advanced Threat Protection
 

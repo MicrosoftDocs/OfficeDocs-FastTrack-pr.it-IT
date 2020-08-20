@@ -7,15 +7,15 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: In questo argomento sono inclusi i dettagli sugli scenari di carico di lavoro supportati da FastTrack e le aspettative dell'ambiente di origine necessarie prima di iniziare. In base alla configurazione corrente, è possibile creare un piano di correzione che consentirà all'ambiente di origine di soddisfare i requisiti minimi per l'onboarding di esito positivo.
-ms.openlocfilehash: 1b1ffa5812905630723b5d8a23196fbbc18a9c32
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: d25c1df8e628f14487952cacc86ccf8fb9dad8c1
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800968"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817701"
 ---
 # <a name="products-and-capabilities"></a>Prodotti e funzionalità
 
