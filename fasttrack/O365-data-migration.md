@@ -12,14 +12,14 @@ ms.collection: FastTrack
 description: Gli esperti di FastTrack forniscono linee guida sulla procedura di migrazione di dati a Office 365. Si tratta di un'opportunità offerta a tutti i clienti idonei con servizi Office 365 per Exchange Online, OneDrive for Business e SharePoint Online.
 ms.openlocfilehash: cafbad6e17814d0a8961c22389c5870cfd82ec81
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800932"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 > [!CAUTION]
-> Questo contenuto non è più corrente e viene pianificato per la rimozione. Utilizzare il sommario nel riquadro di spostamento sinistro per il contenuto corrente.
+> Il contenuto non è più attuale ed è stata pianificata la rimozione. Usare il sommario nel riquadro di spostamento a sinistra per il contenuto attuale.
 
 Potresti disporre di dati nell'ambiente di origine da migrare a Office 365.
 
@@ -123,7 +123,7 @@ Eseguire le seguenti operazioni durante le migrazioni:
 |150-1.000  <br/> |25% del totale  <br/> |
 |1.001-5.000  <br/> |20% del totale  <br/> |
 |5.001-10.000  <br/> |15% del totale  <br/> |
-|\>10.000  <br/> |1500  <br/> |
+|\>10.000  <br/> |1.500  <br/> |
    
    > [!NOTE]
    > Tali cifre si basano sulle pratiche consigliate. Tuttavia, il numero di cassette postali sottoposte a migrazione ogni giorno varierà in base ai vincoli aziendali, di ambiente e conformità. Microsoft non è in grado di garantire la velocità di migrazione della cassetta postale. 

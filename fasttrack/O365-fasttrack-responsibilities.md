@@ -12,7 +12,7 @@ ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
 ms.openlocfilehash: c881976636243b258623c61ca1406a179177a063
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: it-IT
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800860"
@@ -20,7 +20,7 @@ ms.locfileid: "46800860"
 # <a name="fasttrack-responsibilities"></a>Responsabilità di FastTrack
 
 > [!CAUTION]
-> Questo contenuto non è più corrente e viene pianificato per la rimozione. Utilizzare il sommario nel riquadro di spostamento sinistro per il contenuto corrente.
+> Il contenuto non è più attuale ed è stata pianificata la rimozione. Usare il sommario nel riquadro di spostamento a sinistra per il contenuto attuale.
 
 Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.\*
   
@@ -113,7 +113,7 @@ Per ulteriori informazioni sulle responsabilità nella migrazione dei dati, vede
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
 Fornire indicazioni su:
-- Risoluzione dei problemi di implementazione.
+- Risolvere i problemi di implementazione.
 - Assegnazione dei contratti di licenza con l'utente finale e di licenze basate sul dispositivo utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.
 - Installare Microsoft 365 Apps dal portale di Office 365 tramite la tecnologia A portata di clic.
 - Installazione delle app di Office Mobile (ad esempio Outlook per iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS o Android. 
@@ -161,7 +161,7 @@ Fornire indicazioni su:
 - Creare etichette di riservatezza.
 - Applicare etichette di riservatezza. 
 - Etichettatura unificata.
-- Classificatori sottoponibili a training.
+- Classificatori sottoponibili a formazione.
 - Conoscere i dati tramite Esplora contenuto ed Esplora attività.
 - Pubblicare etichette con criteri (manuale e automatico).
 - Creare criteri di prevenzione della perdita dei dati (DLP) per chat e canali di Microsoft Teams.
