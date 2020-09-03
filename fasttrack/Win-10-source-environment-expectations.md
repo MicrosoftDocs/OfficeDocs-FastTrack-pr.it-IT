@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Center Benefit fornisce indicazioni per configurare livelli di integrazione con l'ambiente di origine per la distribuzione di Windows 10.
-ms.openlocfilehash: 84f026176cd93892272917ac5aa91fff62e6c37a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e9289f534ec0686655e58c12c5e12379b1849b33
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817269"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338162"
 ---
 # <a name="source-environment-expectations"></a>Previsioni dell'ambiente di origine
 
 > [!CAUTION]
-> Questo contenuto non è più corrente e viene pianificato per la rimozione. Utilizzare il sommario nel riquadro di spostamento sinistro per il contenuto corrente.
+> Il contenuto non è più attuale ed è stata pianificata la rimozione. Usare il sommario nel riquadro di spostamento a sinistra per il contenuto attuale.
 
 FastTrack Center Benefit fornisce indicazioni per configurare livelli di integrazione con l'ambiente di origine.
   

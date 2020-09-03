@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: 'Il processo FastTrack fornisce assistenza onboarding e servizi di adozione da parte dell’utente. '
-ms.openlocfilehash: ee0f8519ed1f6730236e1ba2d139131d91290b0f
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 48469fb79fd093b1b9a9a299cd807b8dfa440843
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817533"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338546"
 ---
 # <a name="the-fasttrack-process"></a>Il processo FastTrack
 
 > [!CAUTION]
-> Questo contenuto non è più corrente e viene pianificato per la rimozione. Utilizzare il sommario nel riquadro di spostamento sinistro per il contenuto corrente.
+> Il contenuto non è più attuale ed è stata pianificata la rimozione. Usare il sommario nel riquadro di spostamento a sinistra per il contenuto attuale.
 
 Il processo FastTrack fornisce assistenza per onboarding e servizi di adozione da parte dell'utente. 
   

@@ -9,15 +9,15 @@ ms.topic: overview
 f1_keywords:
 - microsoft-365-onboarding-benefit
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: FastTrack per Microsoft 365 fornisce indicazioni per la pianificazione, la distribuzione e l'adozione, incluso l'accesso remoto alle competenze tecniche, alle procedure consigliate, agli strumenti e alle risorse di Microsoft. FastTrack per Microsoft 365 aiuta le organizzazioni e i partner ad accelerare la distribuzione e ottenere l'adozione da parte degli utenti finali di Office 365, Windows 10 ed Enterprise Mobility + Security.
-ms.openlocfilehash: 2e0c429de0a3557260e9c9689514d8f1728e639e
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: HT
+ms.openlocfilehash: caaac70314d1c93405da5d0f0c3587d58b8343f6
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800944"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338426"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>FastTrack Center Benefit per Microsoft 365
 

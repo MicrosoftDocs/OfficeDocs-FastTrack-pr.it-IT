@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack Benefit per Windows 10 fornisce una guida alla distribuzione del nuovo Microsoft Edge per i clienti di Windows 10 Enterprise con 150 o più postazioni.
-ms.openlocfilehash: b0a0523749cfa834d0ade55c72e29ae9b0c2506e
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 521249edbcca687432074792b1cdf86f4298b263
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817617"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338486"
 ---
 # <a name="the-new-microsoft-edge"></a>Il nuovo Microsoft Edge
 
@@ -23,4 +23,4 @@ FastTrack Benefit per Windows 10 fornisce una guida alla distribuzione del nuovo
 
 Un esperto di FastTrack collaborerà con te per distribuire Microsoft Edge in Windows 10 Enterprise con Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager o Microsoft Intune).
 
-
+Per ulteriori informazioni sul vantaggio FastTrack, vedere [FastTrack Center benefit per Microsoft 365](introduction.md).

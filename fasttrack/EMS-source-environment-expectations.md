@@ -9,21 +9,21 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 7d9921daf56aa14589a6a050e736f94676b10143
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 285dee7b2372af0615673ecd330051fc50f49212
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817521"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338342"
 ---
 # <a name="source-environment-expectations"></a>Previsioni dell'ambiente di origine
 > [!CAUTION]
-> Questo contenuto non è più corrente e viene pianificato per la rimozione. Utilizzare il sommario nel riquadro di spostamento sinistro per il contenuto corrente.
+> Il contenuto non è più attuale ed è stata pianificata la rimozione. Usare il sommario nel riquadro di spostamento a sinistra per il contenuto attuale.
 
 Se si usa il [FastTrack Center Benefit per Enterprise Mobility + Security (EMS)](EMS-fasttrack-benefit-for-EMS.md) per avere Microsoft Azure Active Directory Premium, Microsoft Intune e Azure Information Protection pronti per l'uso, l'ambiente deve essere conforme alle previsioni descritte nelle sezioni seguenti.
 

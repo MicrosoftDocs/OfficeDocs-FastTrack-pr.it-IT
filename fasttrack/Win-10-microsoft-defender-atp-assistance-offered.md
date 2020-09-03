@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Windows 10 o Microsoft 365, gli specialisti FastTrack forniscono indicazioni sulla distribuzione da remoto per garantire la protezione degli endpoint. Il nostro servizio di assistenza è personalizzato in base all'ambiente e alle esigenze di ogni cliente.
-ms.openlocfilehash: bf488a2cbe1c61083425171de6942b5db59e58ad
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: a649f5a5959d877b75ad1f08edfbb18a015ba5bb
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817653"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338557"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta  
 
 > [!CAUTION]
-> Questo contenuto non è più corrente e viene pianificato per la rimozione. Utilizzare il sommario nel riquadro di spostamento sinistro per il contenuto corrente.
+> Il contenuto non è più attuale ed è stata pianificata la rimozione. Usare il sommario nel riquadro di spostamento a sinistra per il contenuto attuale.
 
 Quando si acquista uno dei servizi di Windows 10 o Microsoft 365 (come descritto in [Piani e servizi idonei](M365-eligible-services-and-plans.md)), gli specialisti FastTrack forniscono indicazioni sulla distribuzione da remoto per garantire la protezione degli endpoint. Il nostro servizio di assistenza è personalizzato in base all'ambiente e alle esigenze di ogni cliente. Specialisti FastTrack:
 - Valutare la versione del sistema operativo e la gestione dei dispositivi (tra cui Microsoft Intune, Microsoft Endpoint Configuration Manager, Oggetti Criteri di gruppo e le configurazioni di terze parti).

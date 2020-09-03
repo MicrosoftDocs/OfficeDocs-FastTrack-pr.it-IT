@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: FastTrack fornisce indicazioni per la distribuzione di Windows 10 che consentono di eseguire l'aggiornamento da Windows 7 Professional e Windows 8.1 Professional a Windows 10 Enterprise.
-ms.openlocfilehash: 0b19ada41624d8c8fa8d3ab5e85a14b42edd53f3
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e4cebb463833c71cc9129155e86821c69f180a27
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817137"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338126"
 ---
 # <a name="windows-10"></a>Windows 10
 
 > [!CAUTION]
-> Questo contenuto non è più corrente e viene pianificato per la rimozione. Utilizzare il sommario nel riquadro di spostamento sinistro per il contenuto corrente.
+> Il contenuto non è più attuale ed è stata pianificata la rimozione. Usare il sommario nel riquadro di spostamento a sinistra per il contenuto attuale.
 
 FastTrack fornisce indicazioni per la distribuzione di Windows 10 che consentono di eseguire l'aggiornamento da Windows 7 Professional e Windows 8.1 Professional a Windows 10 Enterprise. Si collabora con specialisti di FastTrack per:
 

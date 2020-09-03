@@ -9,19 +9,19 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
-ms.openlocfilehash: e919acc1a1982de5c023b0cdf84d4ac955b2ec9d
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 980cd0e0d996737df96d677ade192d5fcca38343
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817510"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338366"
 ---
 # <a name="onboarding-phases"></a>Fasi di onboarding
 
 > [!CAUTION]
-> Questo contenuto non è più corrente e viene pianificato per la rimozione. Utilizzare il sommario nel riquadro di spostamento sinistro per il contenuto corrente.
+> Il contenuto non è più attuale ed è stata pianificata la rimozione. Usare il sommario nel riquadro di spostamento a sinistra per il contenuto attuale.
 
 Se si usano i [Servizi e piani idonei](M365-eligible-services-and-plans.md) per ottenere Microsoft Azure Active Directory Premium, Microsoft Intune e Azure Information Protection pronti all’uso, nel processo sono coinvolte diverse fasi. Le sezioni seguenti descrivono ogni fase del processo di onboarding.
 

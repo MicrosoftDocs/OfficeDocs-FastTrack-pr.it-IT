@@ -9,22 +9,22 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: cd14af0915c7b0b023ae160a9d81d0f7f37ee1ad
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 26956e322088e5886d3ff525455cef8ae7a5d848
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817281"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338414"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>FastTrack Center Benefit per Enterprise Mobility + Security (EMS)
 
 > [!CAUTION]
-> Questo contenuto non è più corrente e viene pianificato per la rimozione. Utilizzare il sommario nel riquadro di spostamento sinistro per il contenuto corrente.
+> Il contenuto non è più attuale ed è stata pianificata la rimozione. Usare il sommario nel riquadro di spostamento a sinistra per il contenuto attuale.
 
 
 È possibile usare Enterprise Mobility + Security (EMS) FastTrack Center Benefit per acquistare almeno 150 licenze per EMS o qualsiasi altro dei suoi servizi singoli cloud in un piano idoneo. È possibile quindi collaborare con gli esperti FastTrack per valutare, correggere, abilitare e supportare l'utilizzo di quei servizi. Inoltre, questi specialisti offrono una guida alla migrazione. 
