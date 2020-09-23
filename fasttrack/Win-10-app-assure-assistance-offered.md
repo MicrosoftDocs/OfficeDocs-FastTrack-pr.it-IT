@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Al momento dell'acquisto di uno dei servizi di Windows 10 o Microsoft 365, gli esperti FastTrack forniscono indicazioni e correzioni per la distribuzione di Windows 10 e Microsoft 365 Apps e consentono di mantenersi aggiornati senza costi aggiuntivi (con un abbonamento idoneo).
-ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
+ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817689"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48206253"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta  
 
@@ -36,6 +36,13 @@ FastTrack fornisce assistenza per la correzione delle app distribuite nei prodot
 
 - Le app che hanno funzionato su Windows 7, Windows 8,1, Office 2010 e Office 2013 funzionano anche su Windows 10 e Microsoft 365 Apps.
 
+### <a name="windows-10-on-arm"></a>Windows 10 su ARM
+
+- Le app che hanno lavorato su Windows 7, Office 2010 o versioni successive funzionano con Windows 10 e Microsoft 365 Apps nei dispositivi di ARM64.
+
+> [!NOTE]
+> Le esclusioni e limitazioni di Windows 10 su ARM includono le app che si basano su driver software che non sono compatibili con ARM, utilizzano OpenGL o OpenCL oppure sono disponibili solo in 64 bit (x64).
+
 ### <a name="the-new-microsoft-edge"></a>Il nuovo Microsoft Edge
 
 - Se le app o i siti Web sono compatibili con Internet Explorer 11, versioni supportate di Google Chrome o qualsiasi versione di Microsoft Edge, saranno compatibili anche con il nuovo Microsoft Edge.
@@ -45,13 +52,14 @@ Per informazioni sulla distribuzione di Microsoft Edge, vedere [Panoramica dei c
 ### <a name="windows-virtual-desktop"></a>Desktop virtuale Windows
 
 - Applicazioni virtualizzate che vengono eseguite su Windows Server Remote Desktop Session Host (RDSH) vengono eseguite anche nella multisessione di Windows 10 Enterprise come parte del Desktop virtuale Windows.
-- Le app che vengono eseguite in un ambiente di Windows 7 o di infrastruttura desktop virtuale di Windows 10 vengono eseguite anche su Windows 7 Enterprise e Windows 10 Enterprise come parte del Desktop virtuale Windows.*
-- Le app che vengono eseguite su dispostivi client di Windows 7 o Windows 10, vengono eseguite anche su Windows 7 Enterprise e Windows 10 Enterprise come parte del Desktop virtuale Windows.\*
+- Le app in esecuzione su qualsiasi ambiente Windows 7 o Windows 10 Virtual Desktop Infrastructure (VDI) vengono eseguite anche su Windows 7 Enterprise e Windows 10 Enterprise come parte di Windows Virtual Desktop.
+- Le app che vengono eseguite su dispostivi client di Windows 7 o Windows 10, vengono eseguite anche su Windows 7 Enterprise e Windows 10 Enterprise come parte del Desktop virtuale Windows.
 
-\*Le esclusioni e le limitazioni di compatibilità nella multisessione di Windows 10 Enterprise includono:
-- Reindirizzamento limitato dell'hardware.
-- Le app con uso intensivo di A/V possono essere eseguite a una capacità ridotta.
-- Le app a 16 bit non sono supportate per la versione Desktop virtuale Windows a 64 bit.
+> [!NOTE]
+> Le esclusioni e le limitazioni di compatibilità nella multisessione di Windows 10 Enterprise includono: 
+> - Reindirizzamento limitato dell'hardware.
+> - Le app con uso intensivo di A/V possono essere eseguite a una capacità ridotta.
+> - Le app a 16 bit non sono supportate per la versione Desktop virtuale Windows a 64 bit.
 
 Per altre informazioni, vedere [che cos'è il Desktop virtuale Windows?](https://docs.microsoft.com/azure/virtual-desktop/overview) e [domande frequenti sulla multisessione Windows 10 Enterprise](https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq).
 
