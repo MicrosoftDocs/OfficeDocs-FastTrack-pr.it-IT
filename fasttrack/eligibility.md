@@ -3,19 +3,19 @@ title: Idoneità
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Questo argomento illustra i requisiti di idoneità per ricevere l’assistenza guidata remota dagli esperti FastTrack inclusa nell'acquisto delle licenze di Microsoft 365 e i dettagli sui prodotti e le funzionalità specifici coperti.
-ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817569"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320020"
 ---
 # <a name="eligibility"></a>Idoneità
 
@@ -46,8 +46,8 @@ Gli esperti FastTrack possono offrire assistenza guidata remota per i servizi se
   - Power BI
   - Project Online
   - SharePoint Online
-  - Skype for Business Online
   - Windows 10
+  - Desktop virtuale Windows
   - Yammer Enterprise
 
 ## <a name="eligible-plans"></a>Piani idonei
@@ -65,6 +65,7 @@ Gli esperti FastTrack possono offrire assistenza guidata remota per i servizi se
   - Microsoft 365 E5 eDiscovery and Audit\*
   - Microsoft 365 E5 Information Protection and Governance\*
   - Gestione dei rischi Insider Microsoft 365 E5\*
+  - Microsoft 365 F1\*
   - Microsoft 365 F3\*
   - Microsoft 365 Business\*
   - Microsoft 365 Apps for Enterprise\*
@@ -115,6 +116,19 @@ Gli esperti FastTrack possono offrire assistenza guidata remota per i servizi se
   - Exchange Online Protection
   - Office 365 Advanced Threat Protection
 
+#### <a name="microsoft-teams"></a>Microsoft Teams
+
+  - Sistema telefonico
+  - Piano di chiamata
+  - Audioconferenza
+  - Sala Microsoft Teams
+
+#### <a name="onedrive-for-business"></a>OneDrive for Business
+
+  - OneDrive for Business con Office
+  - OneDrive for Business Piano 1
+  - OneDrive for Business Piano 2
+
 #### <a name="project-online"></a>Project Online
 
   - Project Online Essentials
@@ -126,32 +140,16 @@ Gli esperti FastTrack possono offrire assistenza guidata remota per i servizi se
   - SharePoint Online Piano 1
   - SharePoint Online Piano 2
 
-#### <a name="onedrive-for-business"></a>OneDrive for Business
-
-  - OneDrive for Business con Office
-  - OneDrive for Business Piano 1
-  - OneDrive for Business Piano 2
-
-#### <a name="skype-for-business-online"></a>Skype for Business Online
-
-  - Sistema telefonico\*\*\*
-  - Piano di chiamata\*\*\*
-  - Audioconferenza\*\*\*
-  - Skype for Business online Piano 1
-  - Skype for Business online Piano 2
-
 #### <a name="yammer"></a>Yammer
 
   - Yammer Enterprise
-
 
 <br>
 
 \*Disponibile soltanto per i servizi cloud idonei con FastTrack e per le funzionalità riportate in questa descrizione dei vantaggi.  
       
 \*\*Per altre informazioni sul vantaggio FastTrack per il governo degli Stati Uniti, vedere [Office 365 US Government](https://aka.ms/aboutgovcloud).  
-      
-\*\*\*Utilizzabile per utenti con licenza di Skype for Business Online e Teams. Richiede l'acquisto valido di Skype for Business Online o Teams.  
+       
       
 ### <a name="enterprise-mobility--security-plans"></a>Piani Enterprise Mobility + Security  
       

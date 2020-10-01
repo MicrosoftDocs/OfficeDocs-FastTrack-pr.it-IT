@@ -3,19 +3,19 @@ title: Migrazione dei dati
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack consente di eseguire la migrazione della posta elettronica e dei file negli ambienti di origine in Office 365 (Exchange Online, SharePoint Online e OneDrive for Business). Il tipo di assistenza che forniamo varia in base al numero di licenze di Office 365.
-ms.openlocfilehash: 6b2c9cc3afba415c200b14fe34e65f1c3286e450
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817713"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319948"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 
@@ -281,6 +281,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Contenuto che appartenente all'account Google Drive che è in corso di migrazione </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Google Drive Admin per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
 <li> Autorizzazioni di appartenenza alle unità condivisa (<strong>Nota</strong>: usare i report amministratore di Google Drive per identificare l’appartenenza alle unità condivise. Indicare agli utenti finali di configurare queste impostazioni di appartenenza nella destinazione prima della migrazione). </li>
+<li> File contrassegnati come limitati o non copiabili </li>
 <li> File o cartelle che superano  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">i limiti e le restrizioni di SharePoint Online</span></a> </li>
 </ul></td>
 </tr>

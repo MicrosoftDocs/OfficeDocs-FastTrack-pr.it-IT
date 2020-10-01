@@ -3,19 +3,19 @@ title: Processi e aspettative
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Il contenuto di quest’argomento coprirà i modi per entrare in contatto con l’assistenza FastTrack, come viene fornita tale assistenza, i suggerimenti per un'esperienza efficace e la comprensione delle responsabilità chiave sia di FastTrack che della tua azienda.
-ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817581"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319936"
 ---
 # <a name="process-and-expectations"></a>Processi e aspettative
 
@@ -43,6 +43,8 @@ Se il partner richiede assistenza per conto dell'utente tramite il sito di FastT
 3.  Cercare il cliente immettendo il nome del cliente, il dominio o il TPID.
 4.  Selezionare il cliente dai risultati di ricerca.
 5.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
+
+Per richiedere assistenza per app assure, completare la [richiesta di servizio di app assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
 ## <a name="fasttrack-expectations"></a>Aspettative di FastTrack
 
