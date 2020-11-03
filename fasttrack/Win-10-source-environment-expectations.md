@@ -1,7 +1,7 @@
 ---
 title: Previsioni dell'ambiente di origine
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Center Benefit fornisce indicazioni per configurare livelli di integrazione con l'ambiente di origine per la distribuzione di Windows 10.
-ms.openlocfilehash: e9289f534ec0686655e58c12c5e12379b1849b33
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: b44c6b8b6219809769f7276575d7a8c08ddffd6b
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338162"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827262"
 ---
 # <a name="source-environment-expectations"></a>Previsioni dell'ambiente di origine
 

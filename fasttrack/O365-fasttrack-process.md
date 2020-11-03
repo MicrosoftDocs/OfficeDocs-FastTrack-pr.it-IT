@@ -1,7 +1,7 @@
 ---
 title: Il processo FastTrack
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com-msft
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Il processo FastTrack fornisce assistenza onboarding e servizi di adozione da parte dell’utente. '
-ms.openlocfilehash: 48469fb79fd093b1b9a9a299cd807b8dfa440843
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 6d13e6fc9247196c9a2e6cf7692abf3fa75152dc
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338546"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827046"
 ---
 # <a name="the-fasttrack-process"></a>Il processo FastTrack
 
@@ -26,8 +26,8 @@ Il processo FastTrack fornisce assistenza per onboarding e servizi di adozione d
   
 L'onboarding consiste di:
   
-- *Onboarding di base*: si tratta di attività necessarie per la configurazione del tenant e l'integrazione con Azure Active Directory (Azure AD), se richiesta. L'onboarding di base fornisce, inoltre, la linea di base per l'onboarding di altri servizi. 
-- *Onboarding dei servizi e migrazione*: le attività di onboarding dei servizi abilitano gli scenari nel tenant. La migrazione dei dati (posta elettronica e file inclusi) verrà trattata in [Migrazione dei dati](O365-data-migration.md). 
+- *Onboarding di base* : si tratta di attività necessarie per la configurazione del tenant e l'integrazione con Azure Active Directory (Azure AD), se richiesta. L'onboarding di base fornisce, inoltre, la linea di base per l'onboarding di altri servizi. 
+- *Onboarding dei servizi e migrazione* : le attività di onboarding dei servizi abilitano gli scenari nel tenant. La migrazione dei dati (posta elettronica e file inclusi) verrà trattata in [Migrazione dei dati](O365-data-migration.md). 
     
 I servizi di adozione da parte dell'utente comprendono attività che rendono gli utenti consapevoli dei servizi idonei e che è possibile utilizzare per creare valore aziendale. Questa assistenza viene fornita parallelamente alle attività di onboarding.
   
@@ -42,16 +42,16 @@ Nel diagramma seguente viene illustrata la procedura relativa all'onboarding.
   
 È possibile ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) o il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
-Per ottenere assistenza tramite l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), l'amministratore accede all'interfaccia di amministrazione e quindi fa clic sul widget **Serve aiuto?**. 
+Per ottenere assistenza tramite l' [interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), l'amministratore accede all'interfaccia di amministrazione e quindi fa clic sul widget **Serve aiuto?**. 
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Selezionare**Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
+2.    Selezionare **Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
 3.    Completare il modulo **Richiesta di assistenza con Microsoft 365**.
   
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Selezionare**Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
+2.    Selezionare **Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
 3.    Cercare il cliente immettendo il nome del cliente, il dominio o il TPID.
 4.    Selezionare il cliente dai risultati della ricerca.
 5.    Completare il modulo **Richiesta di assistenza con Microsoft 365**.

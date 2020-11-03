@@ -1,7 +1,7 @@
 ---
 title: Windows 10
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack fornisce indicazioni per la distribuzione di Windows 10 che consentono di eseguire l'aggiornamento da Windows 7 Professional e Windows 8.1 Professional a Windows 10 Enterprise.
-ms.openlocfilehash: e4cebb463833c71cc9129155e86821c69f180a27
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 8f0064df50c8d7f88e930de01f8bc3e3e1f0e24f
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338126"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827574"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -44,12 +44,12 @@ Nella tabella seguente sono elencati i ruoli e le responsabilità per il process
 
 Per ottenere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Selezionare**Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
+2.    Selezionare **Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
 3.    Completare il modulo **Richiesta di assistenza con Microsoft 365**.
   
 I partner possono anche ricevere assistenza tramite il [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) per conto di un cliente. A tale scopo:
 1.    Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Selezionare**Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
+2.    Selezionare **Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
 3.    Cercare il cliente immettendo il nome del cliente, il dominio o il TPID.
 4.    Selezionare il cliente dai risultati della ricerca.
 5.    Completare il modulo **Richiesta di assistenza con Microsoft 365**.

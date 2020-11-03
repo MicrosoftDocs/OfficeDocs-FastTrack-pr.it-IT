@@ -1,21 +1,21 @@
 ---
 title: Processi e aspettative
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Il contenuto di quest’argomento coprirà i modi per entrare in contatto con l’assistenza FastTrack, come viene fornita tale assistenza, i suggerimenti per un'esperienza efficace e la comprensione delle responsabilità chiave sia di FastTrack che della tua azienda.
-ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319936"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827649"
 ---
 # <a name="process-and-expectations"></a>Processi e aspettative
 
@@ -27,19 +27,19 @@ Ottenere assistenza da un esperto FastTrack
   
 È possibile richiedere l'assistenza da un esperto FastTrack in due modi:
 
-  - Tramite l'interfaccia di amministrazione di Microsoft. L'amministratore del tenant accede all'interfaccia di amministrazione di Microsoft e clicca sul widget **serve assistenza?**, che lo accompagna nel processo di richiesta.
+  - Tramite l'interfaccia di amministrazione di Microsoft. L'amministratore del tenant accede all'interfaccia di amministrazione di Microsoft e clicca sul widget **serve assistenza?** , che lo accompagna nel processo di richiesta.
   - Tramite il sito di FastTrack. L'utente o il partner richiede assistenza per l'azienda tramite il sito di FastTrack.
 
 Per richiedere assistenza direttamente tramite il sito di FastTrack:
 
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2.  Selezionare**Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
+2.  Selezionare **Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
 3.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
 
 Se il partner richiede assistenza per conto dell'utente tramite il sito di FastTrack, il partner dovrà:
 
 1.  Accedere al [sito di FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2.  Selezionare**Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
+2.  Selezionare **Richiedi assistenza con Microsoft 365** da **Azioni Rapide** nella parte superiore della pagina di destinazione.
 3.  Cercare il cliente immettendo il nome del cliente, il dominio o il TPID.
 4.  Selezionare il cliente dai risultati di ricerca.
 5.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
@@ -55,7 +55,7 @@ FastTrack fornisce indicazioni complete relative al passaggio e all'uso di Micro
 Lavori da remoto con gli specialisti di FastTrack attraverso colloqui tecnici, workshop e riunioni di checkpoint, tra cui:
 
   - **Colloqui tecnici e workshop:** questi forniscono approfondimenti e procedure consigliate per accelerare la distribuzione dei servizi Microsoft 365. Queste riunioni spesso forniscono una panoramica sulla documentazione disponibile, sugli strumenti software e sulle console di amministrazione. Durata standard: 60 minuti.
-  - **Riunioni di checkpoint:** brevi incontri settimanali o bisettimanali per assicurarsi che la distribuzione sia in corso. Durata standard: 30 minuti.
+  - **Riunioni Checkpoint:** Touchpoints settimanale o bisettimanale per garantire la progressione della distribuzione. Durata standard: 30 minuti.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Risultati previsti e principali attività chiave 
 

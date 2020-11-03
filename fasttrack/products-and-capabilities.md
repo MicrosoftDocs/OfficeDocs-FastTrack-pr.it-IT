@@ -1,21 +1,21 @@
 ---
 title: Prodotti e funzionalità
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In questo argomento sono inclusi i dettagli sugli scenari di carico di lavoro supportati da FastTrack e le aspettative dell'ambiente di origine necessarie prima di iniziare. In base alla configurazione corrente, è possibile creare un piano di correzione che consentirà all'ambiente di origine di soddisfare i requisiti minimi per l'onboarding di esito positivo.
-ms.openlocfilehash: a3477be6958dea88874bbc042445bbc693c10ffb
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48320032"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827106"
 ---
 # <a name="products-and-capabilities"></a>Prodotti e funzionalità
 
@@ -34,7 +34,7 @@ FastTrack fornisce indicazioni utili per la prima volta con le funzionalità di 
   - [Il nuovo Microsoft Edge](#the-new-microsoft-edge)
 
 > [!NOTE]
-> Per informazioni sulle aspettative dell'ambiente di origine per Office 365 US Government, vedere [source Environment aspettations for office 365 US Government](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
+> Per informazioni sulle previsioni dell’ambiente di origine di Office 365 U.S. Government, vedere [Previsioni dell’ambiente di origine di Office 365 U.S. Government](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
  
 ## <a name="general"></a>Generale
 
@@ -78,7 +78,7 @@ Sono disponibili linee guida Remote per:
 <li>  Più foreste account di Active Directory e topologie di foreste di risorse (Exchange e/o Lync 2010, Lync 2013 o Skype for Business).  </li>
 <li>  Più foreste account di Active Directory con una delle foreste in posizione centrale nella foresta account di Active Directory contenente Exchange e/o Lync 2010, Lync 2013 o Skype for Business.  </li>
 <li>  Più foreste account di Active Directory, ognuna con la propria organizzazione di Exchange.  </li>
-<li>  Attività necessarie per la configurazione tenant e l'integrazione con Azure Active Directory, se necessario.   </li>
+<li>  Attività necessarie per la configurazione tenant e l'integrazione con Azure Active Directory, se necessario.   </li>
 </ul>
   <strong>Importante</strong>  <ul>
 <li>  Per gli scenari a più foreste di Active Directory, se Lync 2010, Lync 2013 o Skype for business è distribuito, deve essere distribuito nella stessa foresta di Active Directory di Exchange.  </li>
@@ -101,7 +101,7 @@ Sono disponibili linee guida Remote per:
   Inoltre, se si dispone di una macro o di un componente aggiuntivo che ha avuto esito positivo con le versioni precedenti di Office e si verificano problemi di compatibilità, vengono fornite indicazioni per correggere il problema di compatibilità senza costi aggiuntivi tramite il programma app assure. Per ulteriori informazioni, vedere la sezione <strong>assure app</strong> di <a href="#windows-10">Windows 10</a> . </li>
 </ul></td>
 <td><ul>
-<li>  Il software client online deve essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 e Office</a>.  </li>
+<li>  Il software client online deve essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 e Office</a>.  </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -149,7 +149,7 @@ Sono disponibili linee guida Remote per:
 <li>  Configurazione di client delle cassette postali (Outlook per Windows, Outlook sul web e Outlook per iOS e Android).  </li>
 </ul>
   <strong>Migrazione dei dati</strong>  <br>
-Per informazioni sull'utilizzo del vantaggio FastTrack per la migrazione dei dati a Office 365, vedere <a href="https://review.docs.microsoft.com/fasttrack/data-migration">Data Migration</a>.   
+Per informazioni sull'utilizzo del vantaggio FastTrack per la migrazione dei dati a Office 365, vedere <a href="https://docs.microsoft.com/fasttrack/data-migration">Data Migration</a>.   
 <td>  L'ambiente di origine deve disporre di uno dei livelli minimi seguenti:
 <ul>
 <li>  Una o più organizzazioni di Exchange con Exchange Server 2003 e versioni successive.  </li>
@@ -157,7 +157,7 @@ Per informazioni sull'utilizzo del vantaggio FastTrack per la migrazione dei dat
 <li>  Un ambiente singolo G Suite (soltanto Gmail, contatti e Calendar).  </li>
 <li>  Per informazioni su multi-Geo capabilities, vedere <a href="https://go.microsoft.com/fwlink/?linkid=872776">multi-Geo capabilities in Exchange Online</a>.  </li>
 </ul>
-Il software client online come Project per Office 365, Outlook per Windows, Outlook per iOS e Android, il client di sincronizzazione di OneDrive for business, il desktop Power BI e Skype for business devono essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 Office</a>.  </td>
+Il software client online come Project per Office 365, Outlook per Windows, Outlook per iOS e Android, il client di sincronizzazione di OneDrive for business, il desktop Power BI e Skype for business devono essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 Office</a>.  </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Information Governance</strong></td>
@@ -186,6 +186,7 @@ Il software client online come Project per Office 365, Outlook per Windows, Outl
 <li>  Conoscere i dati tramite Esplora contenuto ed Esplora attività.  </li>
 <li>  Pubblicare etichette con criteri (manuale e automatico).  </li>
 <li>  Creare criteri di prevenzione della perdita dei dati (DLP) per chat e canali di Microsoft Teams.  </li>
+<li>  Creazione di criteri DLP per i dispositivi gestiti da Microsoft Endpoint Manager.  </li>
 </ul></td>
 <td>Oltre alla parte di <strong>onboarding di base</strong> in <a href="#general">generale</a>, non esistono requisiti minimi di sistema.</td>
 </tr>
@@ -211,7 +212,7 @@ Se applicabile, vengono fornite anche indicazioni per:
 <ul>
 <li>  Dispositivi della sala Microsoft teams:  </li>
 <ul>
-<li>  Creazione di account online necessari per i dispositivi di telefonia e sala riunioni supportati, elencati nel <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Catalogo dispositivi teams</a>.  </li>
+<li>  Creazione di account online necessari per i dispositivi di telefonia e di sala riunioni supportati elencati nel <a href="https://go.microsoft.com/fwlink/?linkid=2066478">catalogo dei dispositivi Teams</a>.  </li>
 <li>  Assistenza remota con la configurazione sul fianco del servizio dei dispositivi Microsoft teams Rooms certificati.  </li>
 <li>  Abilitazione dell'audioconferenza:  </li>
 <li>  Configurazione aziendale delle impostazioni predefinite del bridge per conferenze.  </li>
@@ -249,9 +250,9 @@ Se applicabile, vengono fornite anche indicazioni per:
 <li>  Le cassette postali di Exchange sono presenti (online e in locale in una configurazione ibrida di Exchange).  </li>
 <li>  Abilitato per i gruppi di Office 365.  </li>
 </ul>
-  <strong>Nota:</strong>   Se gli utenti non sono assegnati e abilitati con le licenze di SharePoint Online, non avranno l'archiviazione di OneDrive for business in Office 365. La condivisione dei file continua a funzionare nei canali, ma gli utenti non possono condividere file in chat senza OneDrive for Business Storage in Office 365. I team non supportano SharePoint locale.  <br>
-  <strong>Nota:</strong>   Lo stato ideale è che tutti gli utenti dispongano delle cassette postali in Exchange Online. Gli utenti con cassette postali ospitate in locale devono avere le rispettive identità sincronizzate con la directory di Office 365 tramite Azure AD Connect. Per questi clienti ibridi di Exchange, se la cassetta postale dell'utente è in locale, l'utente non è in grado di aggiungere o configurare i connettori.  
-  I programmi di installazione per i client desktop di Microsoft teams Windows e Mac possono essere scaricati da  <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> .  </td>
+  <strong>Nota:</strong> Se gli utenti non sono assegnati e abilitati con le licenze di SharePoint Online, non avranno l'archiviazione di OneDrive for business in Office 365. La condivisione dei file continua a funzionare nei canali, ma gli utenti non possono condividere file in chat senza OneDrive for Business Storage in Office 365. I team non supportano SharePoint locale.  <br>
+  <strong>Nota:</strong> Lo stato ideale è che tutti gli utenti dispongano delle cassette postali in Exchange Online. Gli utenti con cassette postali ospitate in locale devono avere le rispettive identità sincronizzate con la directory di Office 365 tramite Azure AD Connect. Per questi clienti ibridi di Exchange, se la cassetta postale dell'utente è in locale, l'utente non è in grado di aggiungere o configurare i connettori.  
+  I programmi di installazione per i client desktop di Microsoft Teams per Windows e Mac possono essere scaricati da <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>.  </td>
 </tr>
 <tr class="odd">
 <td><strong>Office 365 Advanced Threat Protection (ATP)</strong></td>
@@ -284,7 +285,7 @@ Se applicabile, vengono fornite anche indicazioni per:
 <li>  Assegnare licenze di Power BI.  </li>
 <li>  Distribuire l'app Power BI Desktop.  </li>
 </ul></td>
-<td>Il software client online come Power BI desktop deve essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 e Office</a>.</td>
+<td>Il software client online come Power BI desktop deve essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 e Office</a>.</td>
 </tr>
 <tr class="even">
 <td><strong>Project Online</strong></td>
@@ -295,7 +296,7 @@ Se applicabile, vengono fornite anche indicazioni per:
 <li>  Configurare il pool di risorse organizzazione (ERP).  </li>
 <li>  Creare il primo progetto.  </li>
 </ul></td>
-<td>Il software client online come Project per Office 365 deve essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 e Office</a>.</td>
+<td>Il software client online come Project per Office 365 deve essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 e Office</a>.</td>
 </tr>
 <tr class="odd">
 <td><strong>Project Online Professional e Premium</strong></td>
@@ -308,7 +309,7 @@ Se applicabile, vengono fornite anche indicazioni per:
 <li>  Configurare un unico server di distribuzione nel sito per Client desktop di Project Online, includendo una guida per la creazione del file configuration.xml da usare con lo strumento di distribuzione di Office 365.  </li>
 <li>  Connettere Client desktop di Project Online a Project Online Professional o Project Online Premium.  </li>
 </ul></td>
-<td>Il software client online come Project per Office 365 deve essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 e Office</a>.</td>
+<td>Il software client online come Project per Office 365 deve essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 e Office</a>.</td>
 </tr>
 <tr class="even">
 <td><strong>SharePoint Online e OneDrive for Business</strong></td>
@@ -334,7 +335,7 @@ Vengono fornite indicazioni aggiuntive per OneDrive for business a seconda della
 <li>  Distribuzione della sincronizzazione client di OneDrive for business.  </li>
 </ul>
   <strong>Migrazione dei dati</strong>  <br>
-Per informazioni sull'utilizzo del vantaggio FastTrack per la migrazione dei dati a Office 365, vedere <a href="https://review.docs.microsoft.com/fasttrack/data-migration">Data Migration</a>.
+Per informazioni sull'utilizzo del vantaggio FastTrack per la migrazione dei dati a Office 365, vedere <a href="https://docs.microsoft.com/fasttrack/data-migration">Data Migration</a>.
 </ul></td>
 <td><br><strong>Per l'ambiente ibrido di SharePoint:</strong>  
 <ul>
@@ -344,15 +345,15 @@ Per informazioni sull'utilizzo del vantaggio FastTrack per la migrazione dei dat
 <ul>
 <li>  Per abilitare l'ambiente ibrido di SharePoint, è necessario disporre di uno dei seguenti ambienti locali di SharePoint Server: 2013, 2016 o 2019.  </li>
 </ul>
-  <strong>Nota:</strong> L'aggiornamento degli ambienti di SharePoint locali a SharePoint Server non è incluso nell'ambito. Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft</a> per assistenza. Per ulteriori informazioni, vedere <a href="https://go.microsoft.com/fwlink/?linkid=853548">livelli di aggiornamento pubblico minimi per le funzionalità ibride di SharePoint</a><em>.</em>  <br>
-  <strong>Nota:</strong> Per informazioni su multi-Geo capabilities, vedere <a href="https://go.microsoft.com/fwlink/?linkid=831056">multi-Geo capabilities in OneDrive e SharePoint online in Office 365</a><em>.</em>  </td>
+  <strong>Nota:</strong> L'aggiornamento degli ambienti di SharePoint locali a SharePoint Server non è incluso nell'ambito. Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft</a> per assistenza. Per ulteriori informazioni, vedere <a href="https://go.microsoft.com/fwlink/?linkid=853548">livelli di aggiornamento pubblico minimi per le funzionalità ibride di SharePoint</a><em>.</em>  <br>
+  <strong>Nota:</strong> Per informazioni su multi-Geo capabilities, vedere <a href="https://go.microsoft.com/fwlink/?linkid=831056">multi-Geo capabilities in OneDrive e SharePoint online in Office 365</a><em>.</em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
 <td><ul>
 Vengono fornite istruzioni Remote per abilitare il servizio Yammer Enterprise.  
 </ul></td>
-<td>Il software client online deve essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 e Office</a>.</td>
+<td>Il software client online deve essere a un livello minimo, come definito nei <a href="https://go.microsoft.com/fwlink/?LinkID=723597">requisiti di sistema per Microsoft 365 e Office</a>.</td>
 </tr>
 </tbody>
 </table>
@@ -597,7 +598,7 @@ Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner 
 Per l'aggiornamento dell'infrastruttura, è necessario soddisfare i requisiti seguenti:
 <ul>
 <li>  Gestione configurazione Microsoft endpoint.  </li>
-<li>  La versione di Configuration Manager deve essere supportata dalla versione di destinazione di Windows 10. Per ulteriori informazioni, vedere la tabella di supporto di Configuration Manager al <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">supporto di Windows 10 in Configuration Manager</a>.  </li>
+<li>  La versione di Configuration Manager deve essere supportata dalla versione di destinazione di Windows 10. Per altre informazioni, vedere la tabella di supporto di Configuration Manager in <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Supporto per Windows 10 in Configuration Manager</a>.  </li>
 </ul>
 
 <tr class="odd">
@@ -651,7 +652,7 @@ Per l'aggiornamento dell'infrastruttura, è necessario soddisfare i requisiti se
   Windows Server 2019 Core Edition.  
   </li>
 <li>  
-  Canale semestrale di Windows Server (SAC) versione 1803.  
+  Windows Server Semi-Annual Channel (SAC) versione 1803.  
   </li>
 <li>  
   versioni macOS 10,13, 10,14 e 10,15.  
@@ -786,7 +787,7 @@ Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner 
 <li>Scenari di Linux.</li>
 <li>Conversione o migrazione dei profili utente.</li>
 </ul>
-Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft</a>   per assistenza con questi servizi.</td>
+Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft</a> per assistenza con questi servizi.</td>
 <td>È consigliabile che siano già presenti le operazioni seguenti:
 <ul>
 <li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Requisiti relativi alle licenze Desktop virtuali di Windows</a>.</li>

@@ -1,7 +1,7 @@
 ---
 title: 'Appendice A: Ulteriore vantaggio di FastTrack Center'
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: I clienti che acquistano almeno 20.000 licenze per un tenant di Exchange Online possono ottenere i servizi aggiuntivi di FastTrack Center. Per ulteriori dettagli, vedere Piani e servizi idonei.
-ms.openlocfilehash: 7b98f341bf645b83a91e11eec1a1f2347380d97a
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: a2b136b7d7bdae2a8f70bb0c9781e63140f9fa2b
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338438"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827070"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>Appendice A: Ulteriore vantaggio di FastTrack Center
 

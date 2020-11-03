@@ -1,21 +1,21 @@
 ---
 title: Migrazione dei dati
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack consente di eseguire la migrazione della posta elettronica e dei file negli ambienti di origine in Office 365 (Exchange Online, SharePoint Online e OneDrive for Business). Il tipo di assistenza che forniamo varia in base al numero di licenze di Office 365.
-ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319948"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827652"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 
@@ -23,8 +23,8 @@ FastTrack consente di eseguire la migrazione della posta elettronica e dei file 
 
 Il tipo di assistenza che forniamo varia in base al numero di licenze di Office 365:
 
-  - **Per i tenant di Office 365 con 150-499 licenze**: FastTrack fornisce solo una guida alla migrazione. Tu sei il responsabile dell'esecuzione della migrazione dei dati. Ti guideremo attraverso la documentazione che ti aiuta a pianificare e usare strumenti gratuiti per eseguire una migrazione in modalità self-service.
-  - **Per i tenant di Office 365 con 500 o più licenze**: FastTrack fornisce indicazioni di migrazione e servizi di migrazione dei dati. Forniamo una guida per aiutarti a pianificare la migrazione, configurare gli ambienti di origine e il tenant di Office 365 e usare a tuo vantaggio i nostri servizi di migrazione dei dati per la migrazione dati. Crea e pianifica gli eventi di migrazione. Avviamo gli eventi di migrazione in base alla programmazione, monitorando lo stato di avanzamento e fornendo relazioni sullo stato.
+  - **Per i tenant di Office 365 con 150-499 licenze** : FastTrack fornisce solo una guida alla migrazione. Tu sei il responsabile dell'esecuzione della migrazione dei dati. Ti guideremo attraverso la documentazione che ti aiuta a pianificare e usare strumenti gratuiti per eseguire una migrazione in modalità self-service.
+  - **Per i tenant di Office 365 con 500 o più licenze** : FastTrack fornisce indicazioni di migrazione e servizi di migrazione dei dati. Forniamo una guida per aiutarti a pianificare la migrazione, configurare gli ambienti di origine e il tenant di Office 365 e usare a tuo vantaggio i nostri servizi di migrazione dei dati per la migrazione dati. Crea e pianifica gli eventi di migrazione. Avviamo gli eventi di migrazione in base alla programmazione, monitorando lo stato di avanzamento e fornendo relazioni sullo stato.
 
 > [!NOTE]
 > Se hai acquistato o rinnovato un piano commerciale prima del 1/9/2017, sono necessarie solo 150 licenze per qualificarsi ai servizi di migrazione dei dati. Per i piani per il settore dell'istruzione, solo l'istituto di istruzione a pagamento e il personale sono idonei per i servizi di migrazione.
@@ -54,7 +54,7 @@ Se scegli di usare FastTrack per eseguire la migrazione della posta elettronica 
   - FastTrack migra soltanto verso cassette postali di Office 365 attive.
   - È necessario soddisfare requisiti specifici se intendi migrare da un ambiente Exchange locale. Per informazioni dettagliate, visita [Prerequisiti di distribuzione ibrida](https://go.microsoft.com/fwlink/?LinkId=787528).
   - Ogni ambiente di origine deve essere al livello di aggiornamento del Service Pack (SP) e del rollup (RU)/aggiornamento cumulativo (CU) per il rispettivo prodotto nell'ambiente di origine.
-  - Le liste di distribuzione (oggetti *MailEnabledGroup*) e i contatti esterni (oggetti *MailEnabledContact*) che si trovano in Active Directory locale non fanno parte della migrazione dei dati delle cassette postali. È possibile tuttavia sincronizzarli con Azure Active Directory (Azure AD) Connect. 
+  - Le liste di distribuzione (oggetti *MailEnabledGroup* ) e i contatti esterni (oggetti *MailEnabledContact* ) che si trovano in Active Directory locale non fanno parte della migrazione dei dati delle cassette postali. È possibile tuttavia sincronizzarli con Azure Active Directory (Azure AD) Connect. 
 
 ## <a name="source-environments"></a>Ambienti di origine
 
@@ -79,7 +79,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <tr class="odd">
 <td><strong>Exchange 2010, Exchange 2013, Exchange 2016 o Exchange 2019</strong><br />
 <br />
-<strong>Nota:</strong>  per le dipendenze di Exchange locali, vedere  <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">Prerequisiti per la distribuzione ibrida</span></a>.</td>
+<strong>Nota:</strong> Per le dipendenze di Exchange locali, vedere Prerequisiti per la <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">distribuzione ibrida</span></a>.</td>
 <td>Migrazione con distribuzione ibrida</td>
 <td><ul>
 <li>Messaggi di posta elettronica</li>
@@ -107,7 +107,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <tr class="even">
 <td><strong>Ambiente G Suite (solo Gmail, Contatti e Calendario)</strong><br />
 <br />
-<strong>Nota:</strong> l'ambiente G Suite deve rispettare i prerequisiti descritti in <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">Eseguire una migrazione di G Suite</a>.</td>
+<strong>Nota:</strong> L'ambiente G Suite deve soddisfare i prerequisiti descritti in <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">perform a g Suite Migration</a>.</td>
 <td>Completa o a fasi</td>
 <td><ul>
 <li> Messaggi di posta elettronica </li>
@@ -242,7 +242,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Documenti inaccessibili o corrotti </li>
 <li> Condivisioni nascoste </li>
 <li> Condivisione (come autorizzazioni concesse a livello di condivisione) </li>
-<li> File o cartelle che superano  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">i limiti e le restrizioni di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano i <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limiti e le restrizioni di SharePoint Online</span> correnti</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -282,7 +282,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Google Drive Admin per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
 <li> Autorizzazioni di appartenenza alle unità condivisa (<strong>Nota</strong>: usare i report amministratore di Google Drive per identificare l’appartenenza alle unità condivise. Indicare agli utenti finali di configurare queste impostazioni di appartenenza nella destinazione prima della migrazione). </li>
 <li> File contrassegnati come limitati o non copiabili </li>
-<li> File o cartelle che superano  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">i limiti e le restrizioni di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano i <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limiti e le restrizioni di SharePoint Online</span> correnti</a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -317,7 +317,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> App Box, Segnalibri, Preferiti e Flussi di lavoro </li>
 <li> Contenuto non di proprietà dell'account Box migrato </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Box per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
-<li> File o cartelle che superano  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">i limiti e le restrizioni di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano i <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limiti e le restrizioni di SharePoint Online</span> correnti</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -355,7 +355,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> App e preferiti di Dropbox (Pins/stars) </li>
 <li> Contenuto non di proprietà dell'account Dropbox migrato </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Dropbox per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione) </li>
-<li> File o cartelle che superano  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">i limiti e le restrizioni di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano i <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limiti e le restrizioni di SharePoint Online</span> correnti</a> </li>
 </ul></td>
 </tr>
 </tbody>
@@ -435,7 +435,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Documenti inaccessibili o corrotti </li>
 <li> Condivisioni nascoste </li>
 <li> Condivisione (come autorizzazioni concesse a livello di condivisione) </li>
-<li> File o cartelle che superano  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">i limiti e le restrizioni di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano i <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limiti e le restrizioni di SharePoint Online</span> correnti</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -474,7 +474,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Contenuto che appartenente all'account Google Drive che è in corso di migrazione </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Google Drive Admin per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
 <li> Autorizzazioni di appartenenza alle unità condivisa (<strong>Nota</strong>: usare i report amministratore di Google Drive per identificare l’appartenenza alle unità condivise. Indicare agli utenti finali di configurare queste impostazioni di appartenenza nella destinazione prima della migrazione). </li>
-<li> File o cartelle che superano  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">i limiti e le restrizioni di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano i <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limiti e le restrizioni di SharePoint Online</span> correnti</a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -509,7 +509,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> App Box, Segnalibri, Preferiti e Flussi di lavoro </li>
 <li> Contenuto non di proprietà dell'account Box migrato </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Box per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
-<li> File o cartelle che superano  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">i limiti e le restrizioni di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano i <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limiti e le restrizioni di SharePoint Online</span> correnti</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -547,7 +547,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> App e preferiti di Dropbox (Pins/stars) </li>
 <li> Contenuto non di proprietà dell'account Dropbox migrato </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Dropbox per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
-<li> File o cartelle che superano  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">i limiti e le restrizioni di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano i <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">limiti e le restrizioni di SharePoint Online</span> correnti</a> </li>
 </ul></td>
 </tr>
 </tbody>
