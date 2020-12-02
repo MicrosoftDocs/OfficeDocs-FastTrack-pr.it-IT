@@ -3,19 +3,19 @@ title: Migrazione dei dati
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack consente di eseguire la migrazione della posta elettronica e dei file negli ambienti di origine in Office 365 (Exchange Online, SharePoint Online e OneDrive for Business). Il tipo di assistenza che forniamo varia in base al numero di licenze di Office 365.
-ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 5a64bcbecffa3fd78f54b9a5e0f3f07e76d0b316
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827652"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525337"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 
@@ -23,8 +23,8 @@ FastTrack consente di eseguire la migrazione della posta elettronica e dei file 
 
 Il tipo di assistenza che forniamo varia in base al numero di licenze di Office 365:
 
-  - **Per i tenant di Office 365 con 150-499 licenze** : FastTrack fornisce solo una guida alla migrazione. Tu sei il responsabile dell'esecuzione della migrazione dei dati. Ti guideremo attraverso la documentazione che ti aiuta a pianificare e usare strumenti gratuiti per eseguire una migrazione in modalità self-service.
-  - **Per i tenant di Office 365 con 500 o più licenze** : FastTrack fornisce indicazioni di migrazione e servizi di migrazione dei dati. Forniamo una guida per aiutarti a pianificare la migrazione, configurare gli ambienti di origine e il tenant di Office 365 e usare a tuo vantaggio i nostri servizi di migrazione dei dati per la migrazione dati. Crea e pianifica gli eventi di migrazione. Avviamo gli eventi di migrazione in base alla programmazione, monitorando lo stato di avanzamento e fornendo relazioni sullo stato.
+  - **Per i tenant di Office 365 con 150-499 licenze**: FastTrack fornisce solo una guida alla migrazione. Tu sei il responsabile dell'esecuzione della migrazione dei dati. Ti guideremo attraverso la documentazione che ti aiuta a pianificare e usare strumenti gratuiti per eseguire una migrazione in modalità self-service.
+  - **Per i tenant di Office 365 con 500 o più licenze**: FastTrack fornisce indicazioni di migrazione e servizi di migrazione dei dati. Forniamo una guida per aiutarti a pianificare la migrazione, configurare gli ambienti di origine e il tenant di Office 365 e usare a tuo vantaggio i nostri servizi di migrazione dei dati per la migrazione dati. Crea e pianifica gli eventi di migrazione. Avviamo gli eventi di migrazione in base alla programmazione, monitorando lo stato di avanzamento e fornendo relazioni sullo stato.
 
 > [!NOTE]
 > Se hai acquistato o rinnovato un piano commerciale prima del 1/9/2017, sono necessarie solo 150 licenze per qualificarsi ai servizi di migrazione dei dati. Per i piani per il settore dell'istruzione, solo l'istituto di istruzione a pagamento e il personale sono idonei per i servizi di migrazione.
@@ -54,7 +54,7 @@ Se scegli di usare FastTrack per eseguire la migrazione della posta elettronica 
   - FastTrack migra soltanto verso cassette postali di Office 365 attive.
   - È necessario soddisfare requisiti specifici se intendi migrare da un ambiente Exchange locale. Per informazioni dettagliate, visita [Prerequisiti di distribuzione ibrida](https://go.microsoft.com/fwlink/?LinkId=787528).
   - Ogni ambiente di origine deve essere al livello di aggiornamento del Service Pack (SP) e del rollup (RU)/aggiornamento cumulativo (CU) per il rispettivo prodotto nell'ambiente di origine.
-  - Le liste di distribuzione (oggetti *MailEnabledGroup* ) e i contatti esterni (oggetti *MailEnabledContact* ) che si trovano in Active Directory locale non fanno parte della migrazione dei dati delle cassette postali. È possibile tuttavia sincronizzarli con Azure Active Directory (Azure AD) Connect. 
+  - Le liste di distribuzione (oggetti *MailEnabledGroup*) e i contatti esterni (oggetti *MailEnabledContact*) che si trovano in Active Directory locale non fanno parte della migrazione dei dati delle cassette postali. È possibile tuttavia sincronizzarli con Azure Active Directory (Azure AD) Connect. 
 
 ## <a name="source-environments"></a>Ambienti di origine
 
@@ -302,6 +302,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Autore ultima modifica </li>
 </ul></li>
 <li> Contenuto condiviso appartenente all'account Box in corso di migrazione </li>
+<li> Note di casella (convertite in formato documento di Word) </li>
 </ul></td>
 <td><ul>
 <li> Cronologia di proprietà, versioni precedenti e commenti </li>

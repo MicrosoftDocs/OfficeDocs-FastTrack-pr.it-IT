@@ -3,19 +3,19 @@ title: Idoneità
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Questo argomento illustra i requisiti di idoneità per ricevere l’assistenza guidata remota dagli esperti FastTrack inclusa nell'acquisto delle licenze di Microsoft 365 e i dettagli sui prodotti e le funzionalità specifici coperti.
-ms.openlocfilehash: 103ac3686aec9705fe9b48b9467a1927e1a9d018
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827634"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525389"
 ---
 # <a name="eligibility"></a>Idoneità
 

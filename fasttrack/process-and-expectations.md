@@ -3,19 +3,19 @@ title: Processi e aspettative
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Il contenuto di quest’argomento coprirà i modi per entrare in contatto con l’assistenza FastTrack, come viene fornita tale assistenza, i suggerimenti per un'esperienza efficace e la comprensione delle responsabilità chiave sia di FastTrack che della tua azienda.
-ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 0cd9d4cb727915357f0dd6460ac46ef862ee9797
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827649"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525333"
 ---
 # <a name="process-and-expectations"></a>Processi e aspettative
 
@@ -27,7 +27,7 @@ Ottenere assistenza da un esperto FastTrack
   
 È possibile richiedere l'assistenza da un esperto FastTrack in due modi:
 
-  - Tramite l'interfaccia di amministrazione di Microsoft. L'amministratore del tenant accede all'interfaccia di amministrazione di Microsoft e clicca sul widget **serve assistenza?** , che lo accompagna nel processo di richiesta.
+  - Tramite l'interfaccia di amministrazione di Microsoft. L'amministratore del tenant accede all'interfaccia di amministrazione di Microsoft e clicca sul widget **serve assistenza?**, che lo accompagna nel processo di richiesta.
   - Tramite il sito di FastTrack. L'utente o il partner richiede assistenza per l'azienda tramite il sito di FastTrack.
 
 Per richiedere assistenza direttamente tramite il sito di FastTrack:
