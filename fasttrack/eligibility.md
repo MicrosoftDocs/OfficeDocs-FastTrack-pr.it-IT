@@ -3,19 +3,19 @@ title: Idoneità
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Questo argomento illustra i requisiti di idoneità per ricevere l’assistenza guidata remota dagli esperti FastTrack inclusa nell'acquisto delle licenze di Microsoft 365 e i dettagli sui prodotti e le funzionalità specifici coperti.
-ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525389"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750019"
 ---
 # <a name="eligibility"></a>Idoneità
 
@@ -35,7 +35,10 @@ Gli esperti FastTrack possono offrire assistenza guidata remota per i servizi se
 > [!NOTE]
 > Office 365 ProPlus è stato rinominato in Microsoft 365 Apps. In alcuni casi, è possibile che venga usato il nome legacy. Per informazioni dettagliate su quando la modifica risulterà effettiva, vedere [Modifica del nome per Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
 
+  - Microsoft 365 Defender
+  - Microsoft Cloud App Security
   - Microsoft Defender Advanced Threat Protection (ATP)
+  - Che cosa è Microsoft Defender per identità? 
   - Microsoft Edge
   - Microsoft Information Governance
   - Microsoft Information Protection
