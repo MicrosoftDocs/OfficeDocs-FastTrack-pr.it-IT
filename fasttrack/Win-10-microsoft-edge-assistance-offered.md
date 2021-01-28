@@ -10,21 +10,21 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Quando si acquista uno dei servizi di Windows 10 o Microsoft 365 (come indicato in Piani e servizi idonei), gli esperti FastTrack forniscono indicazioni sulla distribuzione e assistenza sulla compatibilità da remoto se si ha un'app Web o un sito che funzione con Internet Explorer o Google Chrome.
-ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: c63a5eaac44eae8006ed8cb3d9285d57808c141c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827322"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016616"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta
 
-Quando si acquista uno dei servizi idonei di Windows 10 o Microsoft 365 (come descritto in [idoneità](eligibility.md)), gli specialisti di FastTrack forniscono indicazioni sulla distribuzione remota e assistenza per la compatibilità se si dispone di un'app Web o di un sito compatibile con Internet Explorer o Google Chrome. 
+Quando si acquista uno dei servizi di Windows 10 o Microsoft 365 idonei (come descritto in Dettaglio in [Idoneità),](eligibility.md)gli esperti fasttrack forniscono assistenza per la distribuzione remota e la compatibilità se si dispone di un'app Web o di un sito che funziona con Internet Explorer o Google Chrome. 
 
 ## <a name="assistance"></a>Assistenza
 
 FastTrack fornisce una guida remota per:
-- Indicazioni per la distribuzione del nuovo Microsoft Edge in Windows 10 Enterprise con Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager o Microsoft Intune).
+- Indicazioni per distribuire Microsoft Edge in Windows 10 Enterprise con Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager o Microsoft Intune).
 - Indicazioni per la configurazione di Microsoft Edge (usando criteri di gruppo o configurazione dell'app e criteri dell'app di Intune).
 - Indicazioni per inventariare l'elenco di siti che possono richiedere l'uso in modalità Internet Explorer.
 - Indicazioni per abilitare la modalità Internet Explorer con l'elenco siti dell'organizzazione esistente.

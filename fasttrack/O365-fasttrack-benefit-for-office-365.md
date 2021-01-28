@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Utilizzare FastTrack Center Benefit per Office 365 quando si acquistano almeno 150 licenze per un servizio idoneo o un piano per il tenant di Office 365 In seguito, è possibile collaborare con gli esperti FastTrack per valutare, correggere, abilitare, eseguire la migrazione e utilizzare tali servizi. Gli specialisti forniscono anche materiale sussidiario alla migrazione.
-ms.openlocfilehash: e55ea3df161fa93aa0a0da978e39d8d0eec42ac4
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 1185b35c74b7a8f8e789004a4e43e74640c5a28e
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827130"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016484"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Vantaggio FastTrack Center per Office 365
 
@@ -62,7 +62,7 @@ Si cercano informazioni su [FastTrack Center Benefit per Windows 10](Win-10-fast
 
 - Windows 10
 - App Assure
-- Il nuovo Microsoft Edge
+- Microsoft Edge
 - Microsoft Defender Advanced Threat Protection
     
 > [!NOTE]

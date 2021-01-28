@@ -10,16 +10,16 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Al momento dell'acquisto di uno dei servizi di Windows 10 o Microsoft 365, gli esperti FastTrack forniscono indicazioni e correzioni per la distribuzione di Windows 10 e Microsoft 365 Apps e consentono di mantenersi aggiornati senza costi aggiuntivi (con un abbonamento idoneo).
-ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4cd513a4e0c1edda3598a6650bdea91d90f5584f
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827418"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016422"
 ---
 # <a name="assistance-offered"></a>Assistenza offerta  
 
-Quando si acquista uno dei servizi Windows 10 o Microsoft 365 (come descritto in [idoneità](eligibility.md)), gli specialisti di FastTrack forniscono indicazioni di consulenza e correzione se si riscontrano problemi di compatibilità delle applicazioni quando si distribuiscono prodotti Microsoft più recenti come indicato in [prodotti Microsoft supportati](#supported-microsoft-products).
+Quando si acquista uno dei servizi di Windows 10 o Microsoft 365 (come descritto in dettaglio in [Idoneità),](eligibility.md)gli esperti fasttrack forniscono indicazioni di consulenza e correzione se si verificano problemi di compatibilità delle app durante la distribuzione di prodotti Microsoft più nuovi, come descritto in [Prodotti Microsoft](#supported-microsoft-products)supportati.
 
 Per assistenza, completare la [richiesta di servizio App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
@@ -36,23 +36,23 @@ FastTrack fornisce assistenza per la correzione delle app distribuite nei prodot
 
 - Le app che hanno funzionato su Windows 7, Windows 8,1, Office 2010 e Office 2013 funzionano anche su Windows 10 e Microsoft 365 Apps.
 
-### <a name="windows-10-on-arm"></a>Windows 10 su ARM
+### <a name="windows-10-on-arm"></a>Windows 10 in ARM
 
-- Le app che hanno lavorato su Windows 7, Office 2010 o versioni successive funzionano con Windows 10 e Microsoft 365 Apps nei dispositivi di ARM64.
+- Le app che hanno funzionato su Windows 7, Office 2010 o versioni successive funzionano su Windows 10 e Microsoft 365 Apps su dispositivi ARM64.
 
 > [!NOTE]
-> Le esclusioni e limitazioni di Windows 10 su ARM includono le app che si basano su driver software che non sono compatibili con ARM, utilizzano OpenGL o OpenCL oppure sono disponibili solo in 64 bit (x64).
+> Le esclusioni e le limitazioni di Windows 10 in ARM includono app che si basano su driver software non compatibili in ARM, usano OpenGL o OpenCL o sono disponibili solo a 64 bit (x64).
 
-### <a name="the-new-microsoft-edge"></a>Il nuovo Microsoft Edge
+### <a name="microsoft-edge"></a>Microsoft Edge
 
-- Se le app o i siti Web sono compatibili con Internet Explorer 11, versioni supportate di Google Chrome o qualsiasi versione di Microsoft Edge, saranno compatibili anche con il nuovo Microsoft Edge.
+- Se le app o i siti Web funzionano in Internet Explorer 11, nelle versioni supportate di Google Chrome o in qualsiasi versione di Microsoft Edge, funzionano anche con Microsoft Edge.
 
 Per informazioni sulla distribuzione di Microsoft Edge, vedere [Panoramica dei canali Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). Poiché il Web è in continua evoluzione, pubblichiamo un elenco di [modifiche note che influiscono sulla compatibilità dei siti per Microsoft Edge](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
 
 ### <a name="windows-virtual-desktop"></a>Desktop virtuale Windows
 
 - Applicazioni virtualizzate che vengono eseguite su Windows Server Remote Desktop Session Host (RDSH) vengono eseguite anche nella multisessione di Windows 10 Enterprise come parte del Desktop virtuale Windows.
-- Le app in esecuzione su qualsiasi ambiente Windows 7 o Windows 10 Virtual Desktop Infrastructure (VDI) vengono eseguite anche su Windows 7 Enterprise e Windows 10 Enterprise come parte di Windows Virtual Desktop.
+- Le app in esecuzione in qualsiasi ambiente VDI (Virtual Desktop Infrastructure) di Windows 7 o Windows 10 vengono eseguite anche in Windows 7 Enterprise e Windows 10 Enterprise come parte di Desktop virtuale Windows.
 - Le app che vengono eseguite su dispostivi client di Windows 7 o Windows 10, vengono eseguite anche su Windows 7 Enterprise e Windows 10 Enterprise come parte del Desktop virtuale Windows.
 
 > [!NOTE]

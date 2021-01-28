@@ -3,19 +3,19 @@ title: Idoneità
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Questo argomento illustra i requisiti di idoneità per ricevere l’assistenza guidata remota dagli esperti FastTrack inclusa nell'acquisto delle licenze di Microsoft 365 e i dettagli sui prodotti e le funzionalità specifici coperti.
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750019"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016460"
 ---
 # <a name="eligibility"></a>Idoneità
 
@@ -124,7 +124,7 @@ Gli esperti FastTrack possono offrire assistenza guidata remota per i servizi se
   - Sistema telefonico
   - Piano di chiamata
   - Audioconferenza
-  - Sala Microsoft Teams
+  - Microsoft Teams Room
 
 #### <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -168,7 +168,7 @@ Gli esperti FastTrack possono offrire assistenza guidata remota per i servizi se
 
 #### <a name="azure-information-protection"></a>Azure Information Protection
 
-  - Azure Information Protection piano 2\*\*\*\*\*
+  - Azure Information Protection
 
 #### <a name="microsoft-intune"></a>Microsoft Intune
 
@@ -184,10 +184,7 @@ Gli esperti FastTrack possono offrire assistenza guidata remota per i servizi se
       
 <br>
 
-\*\*\*\*Disponibile per i servizi cloud idonei ai vantaggi di FastTrack. In caso contrario, questo viene inoltrato a un esperto FastTrack o per una segnalazione partner.  
-      
-\*\*\*\*\*Disponibile per P2, come parte di E5 o come piano autonomo. Disponibile per i servizi cloud idonei ai vantaggi di FastTrack. Per i servizi cloud P1, FastTrack condivide la guida di auto distribuzione.  
-      
+\*\*\*\*Disponibile per i servizi cloud idonei ai vantaggi di FastTrack. In caso contrario, questo viene inoltrato a un esperto FastTrack o per una segnalazione partner.    
 
 ### <a name="windows-10-plans"></a>Piani di Windows 10
 
