@@ -9,19 +9,19 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
-description: Questo argomento include informazioni dettagliate sugli scenari di carico di lavoro supportati da FastTrack e sulle aspettative dell'ambiente di origine necessarie prima di iniziare. In base alla configurazione corrente, microsoft lavora con l'utente per creare un piano di correzione che resegni l'ambiente di origine ai requisiti minimi per l'onboarding corretto.
-ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+description: Questo argomento include informazioni dettagliate sugli scenari di carico di lavoro supportati da FastTrack e sulle aspettative dell'ambiente di origine necessarie prima di iniziare. In base alla configurazione corrente, microsoft lavora con l'utente per creare un piano di correzione che resegni l'ambiente di origine fino ai requisiti minimi per l'onboarding corretto.
+ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
+ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416565"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50464208"
 ---
 # <a name="products-and-capabilities"></a>Prodotti e funzionalità
 
 ## <a name="services-and-scenarios-supported-by-fasttrack"></a>Servizi e scenari supportati da FastTrack 
 
-Questo argomento include informazioni dettagliate sugli scenari di carico di lavoro supportati da FastTrack e sulle aspettative dell'ambiente di origine necessarie prima di iniziare. In base alla configurazione corrente, microsoft lavora con l'utente per creare un piano di correzione che resegni l'ambiente di origine fino ai requisiti minimi per l'onboarding corretto.
+Questo argomento include informazioni dettagliate sugli scenari di carico di lavoro supportati da FastTrack e sulle aspettative dell'ambiente di origine necessarie prima di iniziare. In base alla configurazione corrente, microsoft lavora con l'utente per creare un piano di correzione che resegni l'ambiente di origine ai requisiti minimi per l'onboarding corretto.
 
 FastTrack fornisce indicazioni per aiutarti prima con le funzionalità di base (comuni per tutti i Microsoft Online Services) e quindi con l'onboarding di ogni servizio idoneo:
 
@@ -82,7 +82,7 @@ Forniamo indicazioni remote per:
 <li>  Attività necessarie per la configurazione e l'integrazione del tenant con Azure Active Directory, se necessario.   </li>
 </ul>
   <strong>Importante</strong>  <ul>
-<li>  Per gli scenari di Active Directory a più foreste, se è distribuito Lync 2010, Lync 2013 o Skype for Business, deve essere distribuito nella stessa foresta di Active Directory di Exchange.  </li>
+<li>  Per gli scenari di Active Directory a più foreste, se lync 2010, Lync 2013 o Skype for Business è distribuito, deve essere distribuito nella stessa foresta di Active Directory di Exchange.  </li>
 <li>  Quando si implementano più foreste di Active Directory con più organizzazioni Exchange in una configurazione multi-ibrida di Exchange, gli spazi dei nomi dell'entità utente (UPN) condivisi tra foreste di origine non sono supportati. Gli spazi dei nomi SMTP primari tra organizzazioni di Exchange devono essere separati. Per ulteriori informazioni, vedere <a href="https://go.microsoft.com/fwlink/?linkid=845444">Distribuzioni ibride con più insiemi di strutture di Active Directory</a>.  </li>
 <li>  Per tutte le configurazioni di più foreste, la distribuzione di Active Directory Federation Services (AD FS) non è in ambito. Contatta un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza.  </li>
 </ul></td>
@@ -208,10 +208,10 @@ Forniamo indicazioni remote per:
 
 <strong>Controllo avanzato</strong> (supportato solo in E5)
 
-Forniamo indicazioni remote per: 
+Forniamo indicazioni remote per:  
 <ul>
 <li> Abilitazione del controllo avanzato.</li>
-<li> Esecuzione di un'interfaccia utente del log di controllo della ricerca e dei comandi di base di PowerShell di controllo.</li>
+<li> Esecuzione di un'interfaccia utente del log di controllo della ricerca e comandi di powerShell di controllo di base.</li>
 </ul>
 
 <strong> Compliance Manager</strong>
@@ -220,8 +220,8 @@ Forniamo indicazioni remote per:
 
 <ul> <li>Esame dei tipi di ruolo.  </li>
 <li> Aggiunta e configurazione di valutazioni.</li>
-<li> Valutare la conformità implementando azioni di miglioramento e determinando in che modo ciò influisce sul punteggio di conformità.</li>
-<li> Analisi del mapping dei controlli incorporati e valutazione dei controlli.</li>
+<li> Valutare la conformità implementando azioni di miglioramento e determinando l'impatto del punteggio di conformità.</li>
+<li> Revisione del mapping dei controlli incorporati e valutazione dei controlli.</li>
 <li> Generazione di un report all'interno di una valutazione.</li>
 </ul>
 
@@ -250,7 +250,7 @@ Forniamo indicazioni remote per:
 <li> Accesso a report e avvisi.</li>
 <li> Creare casi.</li>
 <li> Creazione di modelli di avviso.</li>
-<li> Linee guida per la creazione del connettore risorse umane (HR).</li>
+<li> Linee guida sulla creazione del connettore risorse umane (HR).</li>
 </ul>
 
 <strong> Conformità delle comunicazioni </strong> 
@@ -268,8 +268,8 @@ Forniamo indicazioni remote per:
 
 <ul> <li>Esame dei tipi di ruolo.  </li>
 <li> Aggiunta e configurazione di valutazioni.</li>
-<li> Valutare la conformità implementando azioni di miglioramento e determinando in che modo ciò influisce sul punteggio di conformità.</li>
-<li> Analisi del mapping dei controlli incorporati e valutazione dei controlli.</li>
+<li> Valutare la conformità implementando azioni di miglioramento e determinando l'impatto del punteggio di conformità.</li>
+<li> Revisione del mapping dei controlli incorporati e valutazione dei controlli.</li>
 <li> Generazione di un report all'interno di una valutazione.</li>
 </ul>
 
@@ -488,7 +488,7 @@ Forniamo indicazioni remote per:
 <li>  
   Controllo dell'app.  
   </li>
-<li> Controllo dispositivo.</li>
+<li> Controllo del dispositivo.</li>
 <li>  
   Protezione dagli exploit.  
   </li>
@@ -507,13 +507,13 @@ Forniamo indicazioni remote per:
 </ul>
 <li> Configurazione o gestione di BitLocker.</li>
 <li>  Iscrizione o configurazione di Microsoft Threat Experts.  </li>
-<li>  Configurazione o formazione che esamina le connessioni API o siem (Security Information and Event Management).  </li>
+<li>  Configurazione o formazione che esamina le connessioni SIEM (Security Information and Event Management) o API.  </li>
 <li>  Iscrizione o configurazione di Microsoft Threat Protection (MTP).  </li>
 <li>  Formazione o indicazioni sulla ricerca avanzata.  </li>
 <li>  Formazione o indicazioni su come usare o creare query Kusto.</li>
 </li>
 </ul>
-Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza con questi servizi.  
+Contatta un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza con questi servizi.  
 </ul></td>
 <td></td>
 
@@ -536,11 +536,11 @@ Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner 
 <li>  Distribuzione del sensore nell'ambiente a più foreste. </li>
 </ul>
 <li>  Integrazione di Defender per l'identità con Microsoft Cloud App Security (la licenza di Cloud App Security non è necessaria). </li>
-<li>  Fornire indicazioni sulla distribuzione, assistenza alla configurazione e formazione su: </li>
+<li>  Fornire indicazioni sulla distribuzione, assistenza alla configurazione ed istruzione su: </li>
 <ul>
 <li> Ottimizzazione dell'ambiente per ridurre il "rumore".  </li>
-<li>  Informazioni sul report di valutazione della sicurezza delle identità. </li>
-<li>  Informazioni sul punteggio di priorità dell'indagine utente e sul report di classificazione delle indagini degli utenti. </li>
+<li>  Informazioni sul report di valutazione della postura di sicurezza delle identità. </li>
+<li>  Informazioni sul punteggio di priorità dell'analisi degli utenti e sul report di classificazione delle indagini degli utenti. </li>
 <li> Informazioni sul report degli utenti inattivi.  </li>
 <li> Fornire opzioni di correzione per un account compromesso.  </li>
 </ul>
@@ -575,7 +575,7 @@ Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner 
 <li> Distribuzione di Defender per i sensori di identità come modello di prova.</li>
 </ul></td>
 <td><ul>
-<li>  Active Directory distribuito.  </li>
+<li>  Distribuzione di Active Directory.  </li>
 <li>  I controller di dominio in cui intendi installare Defender per i sensori di identità dispongono di connettività Internet al servizio cloud Defender for Identity.  </li>
 <ul>
 <li> Il firewall e il proxy devono essere aperti per comunicare con il servizio cloud Defender for Identity (*.atp.azure.com la porta 443 deve essere aperta).</li>
@@ -600,7 +600,7 @@ Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner 
 </li>
 <li>  Gestione dei record (supportata solo in E5).  </li>
 <ul><li>  Revisione della creazione del piano di file. </li>
-<li>  Creazione e gestione di record(inclusi i record basati su eventi).  </li>
+<li>  Creazione e gestione di record,inclusi i record basati su eventi.  </li>
 <li>  Revisione dell'eliminazione. </ul> </li>
 </ul>
 
@@ -610,8 +610,8 @@ Forniamo indicazioni remote per:
 
 <ul> <li>Esame dei tipi di ruolo.  </li>
 <li> Aggiunta e configurazione di valutazioni.</li>
-<li> Valutare la conformità implementando azioni di miglioramento e determinando in che modo ciò influisce sul punteggio di conformità.</li>
-<li> Analisi del mapping dei controlli incorporati e valutazione dei controlli.</li>
+<li> Valutare la conformità implementando azioni di miglioramento e determinando l'impatto del punteggio di conformità.</li>
+<li> Revisione del mapping dei controlli incorporati e valutazione dei controlli.</li>
 <li> Generazione di un report all'interno di una valutazione.</li>
 </ul>
 
@@ -651,8 +651,8 @@ Forniamo indicazioni remote per:
 
 <ul> <li>Esame dei tipi di ruolo.  </li>
 <li> Aggiunta e configurazione di valutazioni.</li>
-<li> Valutare la conformità implementando azioni di miglioramento e determinando in che modo ciò influisce sul punteggio di conformità.</li>
-<li> Analisi del mapping dei controlli incorporati e valutazione dei controlli.</li>
+<li> Valutare la conformità implementando azioni di miglioramento e determinando l'impatto del punteggio di conformità.</li>
+<li> Revisione del mapping dei controlli incorporati e valutazione dei controlli.</li>
 <li> Generazione di un report all'interno di una valutazione.</li>
 </ul>
 
@@ -693,7 +693,7 @@ Le responsabilità preliminari del cliente includono:
 <ul>
 <li>  Elenco di percorsi di condivisione file da analizzare.  </li>
 <li>  Tassonomia di classificazione approvata. </li>
-<li> Informazioni su eventuali restrizioni normative o requisiti relativi alla gestione delle chiavi.  </li>
+<li> Informazioni su eventuali restrizioni o requisiti normativi relativi alla gestione delle chiavi.  </li>
 <li>  Un account di servizio creato per Active Directory locale che è stato sincronizzato con Azure AD. </li>
 <li>  Etichette configurate per la classificazione e la protezione. </li>
 <li> Sono presenti tutti i prerequisiti per lo scanner di Azure Information Protection. Per ulteriori informazioni, vedere <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Prerequisiti per l'installazione</a>e la distribuzione dello scanner di etichettatura unificata di Azure Information Protection. </li>
@@ -768,7 +768,7 @@ Le responsabilità preliminari del cliente includono:
 <li>  Installare il client Configuration Manager nei dispositivi registrati di Intune.  </li>
 </ul> 
 
-<strong>Distribuire Outlook mobile per iOS e Android in modo sicuro</strong> È possibile fornire indicazioni per la distribuzione sicura di Outlook Mobile per iOS e Android nell'organizzazione per garantire agli utenti che siano installate tutte le app necessarie.  
+<strong>Distribuire Outlook Mobile per iOS e Android in modo sicuro</strong> È possibile fornire indicazioni per la distribuzione sicura di Outlook Mobile per iOS e Android nell'organizzazione per garantire agli utenti che siano installate tutte le app necessarie.  
   La procedura per distribuire in modo sicuro Outlook mobile per iOS e Android con Intune dipende dall'ambiente di origine. Può includere:
 <ul>
 <li>  Download delle app Outlook per iOS e Android, Microsoft Authenticator e portale aziendale intune tramite Apple App Store o Google Play Store.  </li>
@@ -781,7 +781,7 @@ Le responsabilità preliminari del cliente includono:
 </ul></li>
 </ul>  
   </td>
-<td>  Gli amministratori IT devono disporre di un'autorità di certificazione, di una rete wireless e di infrastrutture VPN esistenti già funzionanti nei propri ambienti di produzione durante la pianificazione della distribuzione di profili VPN e di rete wireless con Intune.  
+<td>  Gli amministratori IT devono disporre di un'autorità di certificazione, di una rete wireless e di infrastrutture VPN esistenti già funzionanti nei propri ambienti di produzione durante la pianificazione della distribuzione di reti wireless e profili VPN con Intune.  
   <strong>Nota:</strong>il vantaggio del servizio FastTrack non include l'assistenza per la configurazione delle autorità di certificazione, delle reti wireless, delle infrastrutture VPN o dei certificati push MDM di Apple per Intune.  
  
   <strong>Nota</strong>: l'offerta del servizio FastTrack non include l'assistenza per la configurazione o l'aggiornamento del server del sito di Configuration Manager e del client di Configuration Manager ai requisiti minimi necessari per supportare il collegamento tramite cloud. Contatta un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza.
@@ -828,7 +828,7 @@ Le responsabilità preliminari del cliente includono:
   Forniamo indicazioni remote per:
 <ul>
 <li>  Configurare le funzionalità di Exchange Online Protection (EOP) per tutti i domini abilitati alla posta elettronica convalidati in Office 365.  </li>
-<li>  Puntare i record MX (Mail Exchange) a Office 365.  </li>
+<li>  Configurazione dei record MX (Mail Exchange) in modo che puntino a Office 365.  </li>
 <li>  Configurazione della funzionalità Office 365 ATP se fa parte del servizio di sottoscrizione. Per ulteriori informazioni, vedere la parte relativa a <strong>Office 365 Advanced Threat Protection</strong> di questa tabella.  </li>
 <li>  Configurare la funzionalità di prevenzione della perdita dei dati (DLP) per tutti i domini abilitati per la posta elettronica convalidati in Office 365 se rientra nel servizio in abbonamento. Questa operazione viene eseguita dopo aver impostato i record MX in modo che puntino a Office 365.</li>
 <li>  Configurare Office 365 Message Encryption (OME) per tutti i domini abilitati per la posta elettronica convalidati in Office 365 se rientra nel servizio in abbonamento. Questa operazione viene eseguita dopo aver impostato i record MX in modo che puntino a Office 365.</li>
@@ -860,7 +860,7 @@ Il software client online come Project per Office 365, Outlook per Windows, Outl
 </li>
 <li>  Gestione dei record (supportata solo in E5).  </li>
 <ul><li>  Revisione della creazione del piano di file. </li>
-<li>  Creazione e gestione di record(inclusi i record basati su eventi).  </li>
+<li>  Creazione e gestione di record,inclusi i record basati su eventi.  </li>
 <li>  Revisione dell'eliminazione. </ul> </li>
 </ul>
 
@@ -870,8 +870,8 @@ Forniamo indicazioni remote per:
 
 <ul> <li>Esame dei tipi di ruolo.  </li>
 <li> Aggiunta e configurazione di valutazioni.</li>
-<li> Valutare la conformità implementando azioni di miglioramento e determinando in che modo ciò influisce sul punteggio di conformità.</li>
-<li> Analisi del mapping dei controlli incorporati e valutazione dei controlli.</li>
+<li> Valutare la conformità implementando azioni di miglioramento e determinando l'impatto del punteggio di conformità.</li>
+<li> Revisione del mapping dei controlli incorporati e valutazione dei controlli.</li>
 <li> Generazione di un report all'interno di una valutazione.</li>
 </ul>
 
@@ -912,8 +912,8 @@ Forniamo indicazioni remote per:
 
 <ul> <li>Esame dei tipi di ruolo.  </li>
 <li> Aggiunta e configurazione di valutazioni.</li>
-<li> Valutare la conformità implementando azioni di miglioramento e determinando in che modo ciò influisce sul punteggio di conformità.</li>
-<li> Analisi del mapping dei controlli incorporati e valutazione dei controlli.</li>
+<li> Valutare la conformità implementando azioni di miglioramento e determinando l'impatto del punteggio di conformità.</li>
+<li> Revisione del mapping dei controlli incorporati e valutazione dei controlli.</li>
 <li> Generazione di un report all'interno di una valutazione.</li>
 </ul>
 
@@ -952,7 +952,7 @@ Le responsabilità preliminari del cliente includono:
 <ul>
 <li>  Elenco di percorsi di condivisione file da analizzare.  </li>
 <li>  Tassonomia di classificazione approvata. </li>
-<li> Informazioni su eventuali restrizioni normative o requisiti relativi alla gestione delle chiavi.  </li>
+<li> Informazioni su eventuali restrizioni o requisiti normativi relativi alla gestione delle chiavi.  </li>
 <li>  Un account di servizio creato per Active Directory locale che è stato sincronizzato con Azure AD. </li>
 <li>  Etichette configurate per la classificazione e la protezione. </li>
 <li> Sono presenti tutti i prerequisiti per lo scanner di Azure Information Protection. Per ulteriori informazioni, vedere <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Prerequisiti per l'installazione</a>e la distribuzione dello scanner di etichettatura unificata di Azure Information Protection. </li>
@@ -1123,7 +1123,7 @@ Per informazioni sull'uso del vantaggio FastTrack per la migrazione dei dati a O
 <ul>
 <li>  Per abilitare l'ambiente ibrido di SharePoint, è necessario disporre di uno dei seguenti ambienti SharePoint Server locali: 2013, 2016 o 2019.  </li>
 </ul>
-  <strong>Nota:</strong> L'aggiornamento degli ambienti SharePoint locali a SharePoint Server non è nell'ambito. Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza. Per ulteriori informazioni, vedere <a href="https://go.microsoft.com/fwlink/?linkid=853548">Livelli di aggiornamento pubblico minimi per le funzionalità ibride di SharePoint.</a><em></em>  <br>
+  <strong>Nota:</strong> L'aggiornamento degli ambienti SharePoint locali a SharePoint Server non è nell'ambito. Contatta un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza. Per ulteriori informazioni, vedere Livelli di aggiornamento <a href="https://go.microsoft.com/fwlink/?linkid=853548">pubblico minimi per le funzionalità ibride di SharePoint.</a><em></em>  <br>
   <strong>Nota:</strong> Per informazioni su Multi-Geo Capabilities, vedere <a href="https://go.microsoft.com/fwlink/?linkid=831056">Multi-Geo Capabilities in OneDrive e SharePoint Online in Office 365.</a><em></em>  </td>
 </tr>
 <tr class="even">
@@ -1266,7 +1266,7 @@ Vengono fornite indicazioni remote per l'abilitazione del servizio Yammer Enterp
 <li>  Installare il client Configuration Manager nei dispositivi registrati di Intune.  </li>
 </ul> 
 
-<strong>Distribuire Outlook mobile per iOS e Android in modo sicuro</strong> È possibile fornire indicazioni per la distribuzione sicura di Outlook Mobile per iOS e Android nell'organizzazione per garantire agli utenti che siano installate tutte le app necessarie.  
+<strong>Distribuire Outlook Mobile per iOS e Android in modo sicuro</strong> È possibile fornire indicazioni per la distribuzione sicura di Outlook Mobile per iOS e Android nell'organizzazione per garantire agli utenti che siano installate tutte le app necessarie.  
   La procedura per distribuire in modo sicuro Outlook mobile per iOS e Android con Intune dipende dall'ambiente di origine. Può includere:
 <ul>
 <li>  Download delle app Outlook per iOS e Android, Microsoft Authenticator e portale aziendale intune tramite Apple App Store o Google Play Store.  </li>
@@ -1279,7 +1279,7 @@ Vengono fornite indicazioni remote per l'abilitazione del servizio Yammer Enterp
 </ul></li>
 </ul>  
   </td>
-<td>  Gli amministratori IT devono disporre di un'autorità di certificazione, di una rete wireless e di infrastrutture VPN esistenti già funzionanti nei propri ambienti di produzione durante la pianificazione della distribuzione di profili VPN e di rete wireless con Intune.  
+<td>  Gli amministratori IT devono disporre di un'autorità di certificazione, di una rete wireless e di infrastrutture VPN esistenti già funzionanti nei propri ambienti di produzione durante la pianificazione della distribuzione di reti wireless e profili VPN con Intune.  
   <strong>Nota:</strong>il vantaggio del servizio FastTrack non include l'assistenza per la configurazione delle autorità di certificazione, delle reti wireless, delle infrastrutture VPN o dei certificati push MDM di Apple per Intune.  
  
   <strong>Nota</strong>: l'offerta del servizio FastTrack non include l'assistenza per la configurazione o l'aggiornamento del server del sito di Configuration Manager e del client di Configuration Manager ai requisiti minimi necessari per supportare il collegamento tramite cloud. Contatta un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza.
@@ -1319,7 +1319,7 @@ Vengono fornite indicazioni remote per l'abilitazione del servizio Yammer Enterp
 <li>  Opzioni consigliate per valutare le tue app di Windows 10.  </li>
 <li>  Abilitazione dell'uso di Desktop Analytics e indicazioni tramite la creazione di un piano di distribuzione di Desktop Analytics.  </li>
 <li>  Valutazione della compatibilità di Microsoft 365 Apps sfruttando il dashboard di preparazione di Office 365 in Configuration Manager o con readiness Toolkit per Office autonomo e assistenza per la distribuzione di Microsoft 365 Apps.  </li>
-<li>  Creazione di un elenco di controllo per la correzione delle operazioni necessarie per portare l'ambiente di origine ai requisiti minimi per una distribuzione corretta.  </li>
+<li>  Creazione di un elenco di controllo di correzione sulle operazioni da eseguire per portare l'ambiente di origine ai requisiti minimi per una distribuzione corretta.  </li>
 <li>  Fornire indicazioni per l'aggiornamento dei dispositivi esistenti a Windows 10 Enterprise se soddisfano i requisiti hardware dei dispositivi necessari.  </li>
 <li>  Fornire indicazioni sull'aggiornamento per supportare il movimento di distribuzione esistente. FastTrack consiglia e fornisce indicazioni per l'aggiornamento sul posto a Windows 10. Sono inoltre disponibili indicazioni per l'installazione di immagini pulite di Windows e per gli scenari di distribuzione di Windows Autopilot.  </li>
 <li>  Distribuzione di Microsoft 365 Apps con Configuration Manager nell'ambito della distribuzione di Windows 10.   </li>
@@ -1336,7 +1336,7 @@ Vengono fornite indicazioni remote per l'abilitazione del servizio Yammer Enterp
 <li>  Uso di Microsoft Deployment Toolkit (MDT) per acquisire e distribuire immagini di Windows 10.  </li>
 <li>  Uso dell’Utilità di migrazione dello stato utente (USMT).  </li>
 </ul>
-Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza con questi servizi.  </td>
+Contatta un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza con questi servizi.  </td>
 <td>  Per l'aggiornamento del PC, è necessario soddisfare i requisiti seguenti:
 <ul>
 <li>  Sistema operativo di origine: Windows 7 Enterprise o Professional, Windows 8.1 Enterprise o Professional.  </li>
@@ -1473,7 +1473,7 @@ Per l'aggiornamento dell'infrastruttura, è necessario soddisfare i requisiti se
 <li>  
   Controllo dell'app.  
   </li>
-<li> Controllo dispositivo.</li>
+<li> Controllo del dispositivo.</li>
 <li>  
   Protezione dagli exploit.  
   </li>
@@ -1489,13 +1489,13 @@ Per l'aggiornamento dell'infrastruttura, è necessario soddisfare i requisiti se
 </ul></li>
 <li> Configurazione o gestione di BitLocker.</li>
 <li>  Iscrizione o configurazione di Microsoft Threat Experts.  </li>
-<li>  Configurazione o formazione che esamina le connessioni API o siem (Security Information and Event Management).  </li>
+<li>  Configurazione o formazione che esamina le connessioni SIEM (Security Information and Event Management) o API.  </li>
 <li>  Iscrizione o configurazione di Microsoft Threat Protection (MTP).  </li>
 <li>  Formazione o indicazioni sulla ricerca avanzata.  </li>
 <li>  Formazione o indicazioni su come usare o creare query Kusto.</li>
 </li>
 </ul>
-Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza con questi servizi.  
+Contatta un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza con questi servizi.  
 </ul></td>
 <td></td>
 
@@ -1544,8 +1544,8 @@ Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner 
 <li>Scenari Linux.</li>
 <li>Conversione o migrazione dei profili utente.</li>
 </ul>
-Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza con questi servizi.</td>
-<td>È necessario disporre già di quanto segue:
+Contatta un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza con questi servizi.</td>
+<td>Dovresti già disporre di quanto segue:
 <ul>
 <li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Requisiti di licenza di Desktop virtuale Windows</a>.</li>
 <li>Rete di Azure:
@@ -1609,7 +1609,7 @@ Per ulteriori informazioni, vedere <a href="https://docs.microsoft.com/azure/vir
 <strong>Nota:</strong>  Microsoft non può apportare modifiche al codice sorgente. Tuttavia, il team di App Assure può fornire indicazioni agli sviluppatori di app in merito alla disponibilità del codice sorgente per le applicazioni del cliente. 
 
 
-  Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza con questi servizi.  </td>
+  Contatta un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner Microsoft per</a> assistenza con questi servizi.  </td>
 
 </td>
 <td><strong>Windows 10 e Microsoft 365 Apps</strong>
@@ -1628,7 +1628,7 @@ Le app che hanno funzionato in Windows 7, Office 2010 o versioni successive funz
 <ul>
 <li> L'emulazione x64 (64 bit) è disponibile in anteprima per i clienti che partecipano al <a href="https://insider.windows.com/">Programma Windows Insider.</a>  </li>
 <li>  
- Per i clienti non Windows Insider con Windows 10 versione 2004 (o successiva), ARM64 Photoshop è supportato con OpenCL e <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenGL Compatibility Pack.</a> 
+ Per i clienti non windows insider con Windows 10 versione 2004 (o successiva), ARM64 Photoshop è supportato con OpenCL e <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenGL Compatibility Pack.</a> 
   </li>
 <li>  
   I clienti del Programma Windows Insider possono scaricare una versione Insider del pacchetto di compatibilità OpenCL e OpenGL da usare con altre app.    
@@ -1689,7 +1689,7 @@ Le app che hanno funzionato in Windows 7, Office 2010 o versioni successive funz
 Forniamo indicazioni per la distribuzione remota e l'adozione e assistenza per la compatibilità per: <ul> <li>Distribuzione di Microsoft Edge in Windows 10 con Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager o Intune).  </li>
 <li>  Configurazione di Microsoft Edge (tramite criteri di gruppo o la configurazione delle app di Intune e i criteri delle app).  </li>
 <li>  Inventario dell'elenco di siti che potrebbero richiedere l'uso in modalità Internet Explorer.  </li>
-<li>  Abilitazione della modalità Internet Explorer con l'elenco di siti dell'organizzazione esistente. Per ulteriori informazioni, vedere <a href="https://docs.microsoft.com/fasttrack/process-and-expectations#engaging-fasttrack">Coinvolgimento di FastTrack.</a> Inoltre, se si dispone di un'app Web o di un sito che funziona con Internet Explorer o Google Chrome e si verificano problemi di compatibilità, vengono fornite indicazioni per risolvere il problema senza costi aggiuntivi. Per richiedere il supporto della compatibilità per App Assure, accedi al portale <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack</a> per avviare un'interazione.  </li>
+<li>  Abilitazione della modalità Internet Explorer con l'elenco di siti dell'organizzazione esistente. Per ulteriori informazioni, vedere <a href="https://docs.microsoft.com/fasttrack/process-and-expectations#engaging-fasttrack">Coinvolgimento di FastTrack.</a> Inoltre, se si dispone di un'app Web o di un sito che funziona con Internet Explorer o Google Chrome e si verificano problemi di compatibilità, vengono fornite indicazioni per risolvere il problema senza costi aggiuntivi. Per richiedere il supporto della compatibilità per App Assure, accedi al portale <a href="https://fasttrack.microsoft.com/portal#/signin">fasttrack</a> per avviare un'interazione.  </li>
 <li> Indicazioni sulla pianificazione per l'adozione di Edge e la configurazione dei segnalibri di Microsoft Search.</li>
 </ul>
 
