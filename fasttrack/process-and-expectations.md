@@ -3,19 +3,19 @@ title: Processi e aspettative
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Il contenuto di quest’argomento coprirà i modi per entrare in contatto con l’assistenza FastTrack, come viene fornita tale assistenza, i suggerimenti per un'esperienza efficace e la comprensione delle responsabilità chiave sia di FastTrack che della tua azienda.
-ms.openlocfilehash: 99b21f0fa76cf5c392d47dcb53d78710130327bd
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: f5e734bc51f4f32c65c395df5e62c7003b2f6049
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416589"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187973"
 ---
 # <a name="process-and-expectations"></a>Processi e aspettative
 
@@ -44,7 +44,7 @@ Se il partner richiede assistenza per conto dell'utente tramite il sito di FastT
 4.  Selezionare il cliente dai risultati di ricerca.
 5.  Completare il modulo **Richiesta di assistenza con Microsoft 365**.
 
-Per richiedere assistenza per App Assure, completare la [richiesta del servizio App Assure.](https://go.microsoft.com/fwlink/?linkid=2022721)
+Per richiedere assistenza per App Assure, completa la [richiesta del servizio App Assure.](https://go.microsoft.com/fwlink/?linkid=2022721)
 
 ## <a name="fasttrack-expectations"></a>Aspettative di FastTrack
 
@@ -55,7 +55,7 @@ FastTrack fornisce indicazioni complete relative al passaggio e all'uso di Micro
 Lavori da remoto con gli specialisti di FastTrack attraverso colloqui tecnici, workshop e riunioni di checkpoint, tra cui:
 
   - **Colloqui tecnici e workshop:** questi forniscono approfondimenti e procedure consigliate per accelerare la distribuzione dei servizi Microsoft 365. Queste riunioni spesso forniscono una panoramica sulla documentazione disponibile, sugli strumenti software e sulle console di amministrazione. Durata standard: 60 minuti.
-  - **Riunioni checkpoint:** Punti di tocco settimanali o bisettimanale per garantire che la distribuzione sia in corso. Durata standard: 30 minuti.
+  - **Riunioni checkpoint:** Punti di contatto settimanali o bisettimanale per garantire che la distribuzione sia in corso. Durata standard: 30 minuti.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Risultati previsti e principali attività chiave 
 

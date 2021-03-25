@@ -1,23 +1,23 @@
 ---
-title: Responsabilità dell'utente per Office 365 US Government
+title: Responsabilità di Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Ecco le responsabilità dell'utente durante il processo di onboarding.
-ms.openlocfilehash: df3481b18ae675f85add83ba969fce78f24eaf6b
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: c6d54abb51faf276ad5d66a784c8b38cc1ed4c01
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416507"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188029"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Responsabilità dell'utente per Office 365 US Government
+# <a name="your-responsibilities-for-office-365-us-government"></a>Responsabilità di Office 365 US Government
 
 Ecco le responsabilità dell'utente durante il processo di onboarding.
   
@@ -41,8 +41,8 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 - Gestire, configurare e applicare criteri di sicurezza.    
 - Attivare i dispositivi mobili.    
 - Fornire configurazione di rete, analisi, convalida della larghezza di banda, verifica e monitoraggio. 
-- Modificare le regole del firewall per supportare url e intervalli di indirizzi IP specifici utilizzati dai servizi di Office 365 (se necessario).
-- Fornire gli endpoint del proxy inverso locale a Microsoft (se necessario).     
+- Modificare le regole del firewall per supportare gli URL e gli intervalli di indirizzi IP specifici utilizzati dai servizi di Office 365 (se necessario).
+- Fornire endpoint proxy inverso locali a Microsoft (se necessario).     
 - Modificare la rete per fornire la larghezza di banda necessaria per i servizi di Skype for Business online.   
 - Gestire il processo di approvazione della gestione di una modifica tecnica e creare la documentazione di supporto.    
 - Specificare e definire i criteri di gruppo per la gestione di server, workstation e utenti.    

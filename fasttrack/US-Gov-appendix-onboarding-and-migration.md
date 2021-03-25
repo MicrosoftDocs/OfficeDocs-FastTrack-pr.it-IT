@@ -3,19 +3,19 @@ title: Fasi di onboarding e migrazione per Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avvio, valutazione, correzione e attivazione. È possibile seguire queste fasi con una fase di migrazione dei dati facoltativa, come illustrato nella figura seguente."
-ms.openlocfilehash: 478ad19aad0d12e69fdab2a4d59f9554b37647b8
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avvio, valutazione, correzione e attivazione. È possibile seguire queste fasi con una fase facoltativa di migrazione dei dati, come illustrato nella figura seguente."
+ms.openlocfilehash: 706bce3d354c36809a151e3da320f827d1b5e154
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416601"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188093"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
 
@@ -23,7 +23,7 @@ Il processo di onboarding di Office 365 prevede quattro fasi principali (ovvero 
   
 ![Fasi del vantaggio del processo di onboarding](media/O365-Onboarding-Phases.png)
   
-Per le attività dettagliate per ogni fase, vedere [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) and [Your Responsibilities for Office 365 US Government.](US-Gov-appendix-your-responsibilities.md)
+Per le attività dettagliate per ogni fase, vedere [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) e [Your Responsibilities for Office 365 US Government.](US-Gov-appendix-your-responsibilities.md)
   
 ## <a name="initiate-phase"></a>Fase di avvio
 
@@ -57,7 +57,7 @@ Ciò include una collaborazione con l'utente per comprendere in che modo intende
 
 Il responsabile FastTrack effettua una chiamata interattiva con l'utente e il team di adozione per pianificare il buon esito del processo. In questo modo, l'utente viene a conoscenza delle capacità dei servizi idonei acquistati, degli elementi essenziali necessari, della metodologia per l'uso del servizio e degli scenari utili per sfruttare il servizio. Microsoft supporta l'utente nella pianificazione per il buon esito del processo e fornisce commenti e suggerimenti sulle aree principali (in base alle necessità).
   
-Gli specialisti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Sono disponibili strumenti per raccogliere dati sull'ambiente e guidare l'utente nella stima dei requisiti di larghezza di banda e nella valutazione di browser Internet, sistemi operativi client, DNS (Domain Name System), rete, infrastruttura e sistema di identità per determinare se sono necessarie modifiche per l'onboarding. 
+Gli specialisti di FastTrack assistono l'utente nel valutare l'ambiente di origine e i requisiti. Microsoft fornisce strumenti per raccogliere dati sull'ambiente e guidare l'utente nella valutazione dei requisiti di larghezza di banda e nella valutazione dei browser Internet, dei sistemi operativi client, DNS (Domain Name System), della rete, dell'infrastruttura e del sistema di identità per determinare se sono necessarie modifiche per l'onboarding. 
   
 In base all'impostazione corrente, viene suggerito un piano di correzione che fornisce all'ambiente di origine i requisiti minimi per l'onboarding a Office 365 e, se necessario, per la migrazione dei dati e/o delle cassette postali. Viene offerta una serie di attività consigliate per aumentare l'adozione e il valore dell'utente finale. Vengono inoltre stabilite delle chiamate di controllo appropriate per la fase di correzione.
   
@@ -142,7 +142,7 @@ Per Skype for Business Online, viene fornito materiale sussidiario per:
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> I seguenti non sono disponibili nei piani GCC High o DoD.
+> Quanto segue non è disponibile nei piani GCC High o DoD.
 
 Per Microsoft StaffHub viene fornito materiale sussidiario per: 
 - Conferma dei requisiti minimi.   
@@ -173,7 +173,7 @@ Per Project Online, viene fornito materiale sussidiario per:
 Per Yammer, viene fornito materiale sussidiario per l'attivazione del servizio Yammer Enterprise.
 
 > [!NOTE]
-> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente con licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC in base ai contratti Enterprise e agli accordi di sottoscrizione Enterprise. Yammer non è disponibile nei piani GCC High o DoD. 
+> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente con licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC in base ai contratti Enterprise Agreement e Ai contratti di sottoscrizione Enterprise. Yammer non è disponibile nei piani GCC High o DoD. 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
@@ -183,7 +183,7 @@ Nel caso di Microsoft 365 Apps, viene fornita una guida per gli aspetti seguenti
 - Installare Microsoft 365 Apps dal portale di Office 365 tramite la tecnologia A portata di clic.    
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS o Android.   
 - Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.    
-- Configurazione di un singolo server di distribuzione nel sito per Microsoft 365 Apps, inclusa l'assistenza per la creazione di un file configuration.xml da usare con lo Strumento di distribuzione di Office 365.    
+- Configurazione di un singolo server di distribuzione locale per Microsoft 365 Apps, inclusa l'assistenza per la creazione di un file configuration.xml da utilizzare con lo Strumento di distribuzione di Office 365.    
 - Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.
     
 ![Passaggi onboarding di Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)

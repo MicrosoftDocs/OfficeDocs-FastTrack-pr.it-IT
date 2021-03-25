@@ -3,19 +3,19 @@ title: Responsabilità di FastTrack per Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: d75d5f7c541d0800e82d08f1b060b89bfa82ee88
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: dde74c9880072ad8e5ff6386d09f88967af0ab16
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416531"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188069"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità di FastTrack per Office 365 US Government
 
@@ -96,9 +96,9 @@ Fornire indicazioni su:
 ## <a name="compliance"></a>Conformità
 
 Fornire indicazioni su:
-- Assistenza remota con **Microsoft Information Governance** (vedere Sicurezza e [conformità).](products-and-capabilities.md#security-and-compliance)
-- Assistenza remota con **Microsoft Information Protection** (vedere Sicurezza e [conformità).](products-and-capabilities.md#security-and-compliance)
-- Assistenza remota con **Azure Information Protection** (vedere Sicurezza e [conformità).](products-and-capabilities.md#security-and-compliance)
+- Assistenza remota con **Microsoft Information Governance** (vedere Sicurezza e [conformità](products-and-capabilities.md#security-and-compliance)).
+- Assistenza remota con **Microsoft Information Protection** (vedere Sicurezza e [conformità](products-and-capabilities.md#security-and-compliance)).
+- Assistenza remota con **Azure Information Protection** (vedere Sicurezza e [conformità](products-and-capabilities.md#security-and-compliance)).
 
 ## <a name="exchange-online"></a>Exchange Online
 
@@ -197,7 +197,7 @@ Fornire indicazioni su:
 Fornire una guida sulla conversione della rete Yammer Basic singola in una sola rete Yammer Enterprise.
 
 > [!NOTE]
-> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente con licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC in base ai contratti Enterprise e agli accordi di sottoscrizione Enterprise. Yammer non è disponibile nei piani GCC High o DoD.
+> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente con licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC in base ai contratti Enterprise Agreement e Ai contratti di sottoscrizione Enterprise. Yammer non è disponibile nei piani GCC High o DoD.
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
@@ -207,5 +207,5 @@ Fornire indicazioni su:
 - Installare Microsoft 365 Apps dal portale di Office 365 tramite la tecnologia A portata di clic.   
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
 - Configurazione delle impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office 2016 oppure i modelli dei criteri di gruppo.   
-- Configurazione di un singolo server di distribuzione nel sito per Microsoft 365 Apps, inclusa l'assistenza per la creazione di un file configuration.xml da usare con lo Strumento di distribuzione di Office 365.   
+- Configurazione di un singolo server di distribuzione locale per Microsoft 365 Apps, inclusa l'assistenza per la creazione di un file configuration.xml da utilizzare con lo Strumento di distribuzione di Office 365.   
 - Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.
