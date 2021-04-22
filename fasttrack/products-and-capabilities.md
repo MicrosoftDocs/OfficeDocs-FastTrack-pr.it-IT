@@ -3,19 +3,19 @@ title: Prodotti e funzionalità
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Questo argomento include informazioni dettagliate sugli scenari di carico di lavoro supportati da FastTrack e sulle aspettative dell'ambiente di origine necessarie prima di iniziare. In base alla configurazione corrente, microsoft lavora con l'utente per creare un piano di correzione che consente all'ambiente di origine di soddisfare i requisiti minimi per l'onboarding corretto.
-ms.openlocfilehash: 2bfca103fd9c58d95d9ba4a750e446a6e93b5719
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+ms.openlocfilehash: 70e279268f33591884c6bebb8625688ca724480d
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51188105"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51927034"
 ---
 # <a name="products-and-capabilities"></a>Prodotti e funzionalità
 
@@ -373,7 +373,7 @@ Forniamo indicazioni remote per:
 
 
 <tr class="even">
-<td><strong>Microsoft Defender ATP</strong></td>
+<td><strong>Microsoft Defender per endpoint</strong></td>
 <td>  Microsoft Defender for Endpoint è una piattaforma progettata per aiutare le reti aziendali a prevenire, rilevare, analizzare e rispondere alle minacce avanzate.  
   Forniamo indicazioni remote per:
 <ul>
@@ -1133,7 +1133,7 @@ Per l'aggiornamento dell'infrastruttura, è necessario soddisfare i requisiti se
 </ul>
 
 <tr class="odd">
-<td><strong>Microsoft Defender ATP</strong></td>
+<td><strong>Microsoft Defender per endpoint</strong></td>
 <td>  Per altre informazioni, vedi <strong>Microsoft Defender per Endpoint</strong> in Sicurezza e <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">conformità.</a></td>
 <td></td>
 
