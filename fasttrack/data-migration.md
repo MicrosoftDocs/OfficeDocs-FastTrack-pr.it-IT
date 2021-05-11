@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack consente di eseguire la migrazione della posta elettronica e dei file negli ambienti di origine in Office 365 (Exchange Online, SharePoint Online e OneDrive for Business). Il tipo di assistenza che forniamo varia in base al numero di licenze di Office 365.
-ms.openlocfilehash: 8d74a288291907db22213f317ce8e89923590907
-ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+ms.openlocfilehash: 0e33e8a79ebc577188644dbc69cd78707a575838
+ms.sourcegitcommit: 69a30fee5e7e199bd6830fb0837af1ae4904ef3b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996259"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312444"
 ---
 # <a name="data-migration"></a>Migrazione dei dati
 
@@ -79,7 +79,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <tr class="odd">
 <td><strong>Exchange 2010, Exchange 2013, Exchange 2016 o Exchange 2019</strong><br />
 <br />
-<strong>Nota:</strong> Per le dipendenze di Exchange locali, vedere <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">Prerequisiti per la distribuzione ibrida.</span></a></td>
+<strong>Nota:</strong> Per le dipendenze Exchange locali, vedere <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">Prerequisiti per la distribuzione ibrida.</span></a></td>
 <td>Migrazione con distribuzione ibrida</td>
 <td><ul>
 <li>Messaggi di posta elettronica</li>
@@ -160,7 +160,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>Responsabilità di FastTrack per le migrazioni di Exchange Online
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>Responsabilità di FastTrack per Exchange Online migrazioni
 
 Gli specialisti di FastTrack eseguono attività standard durante il progetto di migrazione. Fare riferimento alle informazioni sulle responsabilità della migrazione dei dati in [Processo e aspettative](process-and-expectations.md) per maggiori dettagli.
 
@@ -168,7 +168,7 @@ Gli specialisti di FastTrack eseguono anche le attività seguenti, specifiche de
 
   -  Forniscono indicazioni utili per abilitare la coesistenza di routing della posta SMTP tra gli ambienti di origine e Exchange Online, se applicabile.
 
-## <a name="your-responsibilities"></a>Responsabilità dell'utente
+### <a name="your-responsibilities"></a>Responsabilità dell'utente
 
 Tu esegui attività standard durante il progetto di migrazione. Fare riferimento alle informazioni sulle responsabilità della migrazione dei dati in [Processo e aspettative](process-and-expectations.md) per maggiori dettagli.
 
@@ -187,12 +187,12 @@ Tu esegui anche le attività seguenti, specifiche della migrazione di Exchange:
 
 Se scegli di usare FastTrack per eseguire la migrazione dei tuoi file di SharePoint Online, Microsoft fornisce linee guida sulla migrazione e sui servizi di migrazione dei dati. Forniamo una guida per aiutarti a pianificare la migrazione, configurare gli ambienti di origine e SharePoint Online e usare a tuo vantaggio i nostri servizi di migrazione dati per i tuoi file. Crea e pianifica gli eventi di migrazione. Avviamo gli eventi di migrazione in base alla programmazione, monitorando lo stato di avanzamento e fornendo relazioni sullo stato. Al termine degli eventi di migrazione, è possibile che i file provenienti da fonti opportunamente programmate e idonee dei vostri ambienti di origine siano stati migrati a SharePoint Online.
 
-## <a name="considerations"></a>Considerazioni
+### <a name="considerations"></a>Considerazioni
 
- - Tutte le migrazioni sono soggette a quote di SharePoint Online. Per informazioni <a href="https://go.microsoft.com/fwlink/?LinkId=698855">dettagliate, vedere Limiti di SharePoint.</a> 
+ - Tutte le migrazioni sono soggette a quote di SharePoint Online. Per informazioni <a href="https://go.microsoft.com/fwlink/?LinkId=698855">dettagliate, SharePoint limiti</a> di sicurezza. 
   - È consigliabile limitare l'importo complessivo della migrazione al 75% della quota complessiva di SharePoint Online a cui si ha diritto (incluso lo spazio di archiviazione aggiuntivo acquistato separatamente).
 
-## <a name="source-environment-details"></a>Dettagli ambiente di origine
+### <a name="source-environment-details"></a>Dettagli ambiente di origine
 
 Il servizio di migrazione dei dati esegue la migrazione dai seguenti ambienti di origine:
 
@@ -243,7 +243,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Documenti inaccessibili o corrotti </li>
 <li> Condivisioni nascoste </li>
 <li> Condivisione (come autorizzazioni concesse a livello di condivisione) </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -283,7 +283,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Google Drive Admin per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
 <li> Autorizzazioni di appartenenza alle unità condivisa (<strong>Nota</strong>: usare i report amministratore di Google Drive per identificare l’appartenenza alle unità condivise. Indicare agli utenti finali di configurare queste impostazioni di appartenenza nella destinazione prima della migrazione). </li>
 <li> File contrassegnati come limitati o non copiabili </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -319,7 +319,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> App Box, Segnalibri, Preferiti e Flussi di lavoro </li>
 <li> Contenuto non di proprietà dell'account Box migrato </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Box per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -357,17 +357,17 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> App e preferiti di Dropbox (Pins/stars) </li>
 <li> Contenuto non di proprietà dell'account Dropbox migrato </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Dropbox per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione) </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>Responsabilità di FastTrack per le migrazioni di SharePoint Online
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>Responsabilità di FastTrack per le migrazioni SharePoint Online
 
 Gli specialisti di FastTrack eseguono attività standard durante il progetto di migrazione. Fare riferimento alle informazioni sulle responsabilità della migrazione dei dati in [Processo e aspettative](process-and-expectations.md) per maggiori dettagli
 
-## <a name="your-responsibilities"></a>Responsabilità dell'utente
+### <a name="your-responsibilities"></a>Responsabilità dell'utente
 
 Tu esegui attività standard durante il progetto di migrazione. Fare riferimento alle informazioni sulle responsabilità della migrazione dei dati in [Processo e aspettative](process-and-expectations.md) per maggiori dettagli
 
@@ -379,13 +379,13 @@ Tu esegui anche le attività seguenti, specifiche della migrazione di SharePoint
 
 Se scegli di usare FastTrack per eseguire la migrazione dei tuoi file di OneDrive for Business, Microsoft fornisce linee guida sulla migrazione e sui servizi di migrazione dei dati. Forniamo una guida per aiutarti a pianificare la migrazione, configurare gli ambienti di origine e OneDrive for Business e usare a tuo vantaggio i nostri servizi di migrazione dati per i tuoi file. Crea e pianifica gli eventi di migrazione. Avviamo gli eventi di migrazione in base alla programmazione, monitorando lo stato di avanzamento e fornendo relazioni sullo stato. Al termine degli eventi di migrazione, è possibile che i file provenienti da fonti opportunamente programmate e idonee dei vostri ambienti di origine siano stati migrati a OneDrive for Business.
 
-## <a name="considerations"></a>Considerazioni
+### <a name="considerations"></a>Considerazioni
 
-  - Tutte le migrazioni sono soggette a quote di SharePoint Online. Per informazioni <a href="https://go.microsoft.com/fwlink/?LinkId=698855">dettagliate, vedere Limiti di SharePoint.</a> 
+  - Tutte le migrazioni sono soggette a quote di SharePoint Online. Per informazioni <a href="https://go.microsoft.com/fwlink/?LinkId=698855">dettagliate, SharePoint limiti</a> di sicurezza. 
   - È consigliabile limitare la quantità totale dei dati migrati al 75% della quota di archiviazione globale di SharePoint Online a cui si è autorizzati (incluso lo spazio di archiviazione aggiuntivo acquistato separatamente).
   - FastTrack esegue la migrazione solo alle unità attive di OneDrive for Business.
 
-## <a name="source-environment-details"></a>Dettagli ambiente di origine
+### <a name="source-environment-details"></a>Dettagli ambiente di origine
 
 Il servizio di migrazione dei dati esegue la migrazione dai seguenti ambienti di origine:
 
@@ -437,7 +437,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Documenti inaccessibili o corrotti </li>
 <li> Condivisioni nascoste </li>
 <li> Condivisione (come autorizzazioni concesse a livello di condivisione) </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -476,7 +476,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Contenuto che appartenente all'account Google Drive che è in corso di migrazione </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Google Drive Admin per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
 <li> Autorizzazioni di appartenenza alle unità condivisa (<strong>Nota</strong>: usare i report amministratore di Google Drive per identificare l’appartenenza alle unità condivise. Indicare agli utenti finali di configurare queste impostazioni di appartenenza nella destinazione prima della migrazione). </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -511,7 +511,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> App Box, Segnalibri, Preferiti e Flussi di lavoro </li>
 <li> Contenuto non di proprietà dell'account Box migrato </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Box per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -549,17 +549,17 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> App e preferiti di Dropbox (Pins/stars) </li>
 <li> Contenuto non di proprietà dell'account Dropbox migrato </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Dropbox per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>Responsabilità di FastTrack per le migrazioni di OneDrive for Business
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>Responsabilità di FastTrack per OneDrive for Business migrazioni
 
 Gli specialisti di FastTrack eseguono attività standard durante il progetto di migrazione. Fare riferimento alle informazioni sulle responsabilità della migrazione dei dati in [Processo e aspettative](process-and-expectations.md) per maggiori dettagli.
 
-## <a name="your-responsibilities"></a>Responsabilità dell'utente
+### <a name="your-responsibilities"></a>Responsabilità dell'utente
 
 Tu esegui attività standard durante il progetto di migrazione. Fare riferimento alle informazioni sulle responsabilità della migrazione dei dati in [Processo e aspettative](process-and-expectations.md) per maggiori dettagli.
 
@@ -567,17 +567,17 @@ Tu esegui anche le attività seguenti, specifiche della migrazione di OneDrive f
 
   - Esecuzione del provisioning di tutti i siti di OneDrive for Business che verranno assegnati agli eventi di migrazione.
 
-## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>Migrazione a Microsoft Teams e gruppi di Microsoft 365
+## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>Migrazione a Microsoft Teams e Microsoft 365 gruppi
 
-Quando si sceglie di utilizzare FastTrack per eseguire la migrazione dei file a Microsoft Teams e Ai gruppi di Microsoft 365, vengono fornite indicazioni per la migrazione e servizi di migrazione dei dati. Vengono fornite indicazioni per pianificare la migrazione, configurare gli ambienti di origine e Teams e i gruppi di Microsoft 365 e sfruttare i servizi di migrazione dei dati per eseguire la migrazione dei file. Crea e pianifica gli eventi di migrazione. Avviamo gli eventi di migrazione in base alla programmazione, monitorando lo stato di avanzamento e fornendo relazioni sullo stato. Al termine degli eventi di migrazione, è possibile prevedere la migrazione dei file provenienti da origini pianificate e idonee in modo appropriato degli ambienti di origine a Teams e gruppi di Microsoft 365. I canali di Teams e i gruppi di Microsoft 365 devono essere pre-provisioning dal cliente prima di poter eseguire la migrazione dei dati in questi tipi di destinazione. Teams e i gruppi di Microsoft 365 influiscono sulle autorizzazioni sul percorso di destinazione del file. Teams e i gruppi di Microsoft 365 sono creati per consentire la collaborazione. Il canale teams o il gruppo di Microsoft 365 determinano chi ha accesso a tali file durante la migrazione in tali destinazioni. FastTrack non aggiunge utenti finali o gruppi ad alcun canale di Teams o all'autorizzazione Gruppi di Microsoft 365 durante la migrazione.
+Quando si sceglie di usare FastTrack per eseguire la migrazione dei file a Microsoft Teams e Microsoft 365, vengono fornite indicazioni sulla migrazione e servizi di migrazione dei dati. Vengono fornite indicazioni per pianificare la migrazione, configurare gli ambienti di origine e i gruppi Teams e Microsoft 365 e sfruttare i servizi di migrazione dei dati per eseguire la migrazione dei file. Crea e pianifica gli eventi di migrazione. Avviamo gli eventi di migrazione in base alla programmazione, monitorando lo stato di avanzamento e fornendo relazioni sullo stato. Una volta completati gli eventi di migrazione, è possibile prevedere la migrazione dei file delle origini pianificate e idonee degli ambienti di origine in Teams e Microsoft 365 gruppi. Teams e i Microsoft 365 devono essere pre-provisioning dal cliente prima di poter eseguire la migrazione dei dati in questi tipi di destinazione. Teams e Microsoft 365 gruppi influiscono sulle autorizzazioni sul percorso di destinazione del file. Teams e Microsoft 365 sono creati per consentire la collaborazione. Il Teams o il Microsoft 365 determinano chi ha accesso a tali file durante la migrazione in tali destinazioni. FastTrack non aggiunge utenti finali o gruppi ad alcun canale Teams o Microsoft 365 gruppi durante la migrazione.
 
-## <a name="considerations"></a>Considerazioni
+### <a name="considerations"></a>Considerazioni
 
-- Tutte le migrazioni sono soggette a quote di SharePoint Online. Per informazioni <a href="https://go.microsoft.com/fwlink/?LinkId=698855">dettagliate, vedere Limiti di SharePoint.</a> 
+- Tutte le migrazioni sono soggette a quote di SharePoint Online. Per informazioni <a href="https://go.microsoft.com/fwlink/?LinkId=698855">dettagliate, SharePoint limiti</a> di sicurezza. 
 - È consigliabile limitare l'importo complessivo della migrazione al 75% della quota complessiva di SharePoint Online a cui si ha diritto (incluso lo spazio di archiviazione aggiuntivo acquistato separatamente). 
 
 
-## <a name="source-environment-details"></a>Dettagli ambiente di origine
+### <a name="source-environment-details"></a>Dettagli ambiente di origine
 
 Il servizio di migrazione dei dati esegue la migrazione dai seguenti ambienti di origine: 
 
@@ -616,7 +616,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 </ul></li>
 </ul>
 <br>
-*Configurazione della sincronizzazione della directory necessaria. Vengono migrate solo le autorizzazioni NTFS esposte a Esplora file di Windows. Le autorizzazioni gestite direttamente nei dispositivi di condivisione dei file non vengono migrate. Se i dati sono archiviati su un dispositivo SMB 2.0, vengono migrate le autorizzazioni equivalenti a NTFS esposte dal protocollo SMB. Le autorizzazioni sono influenzate dal gruppo di Microsoft 365 e/o dal canale di Microsoft Teams. Se la destinazione è un canale di Microsoft 365 Group o Microsoft Teams, il gruppo o il canale determina il profilo delle autorizzazioni finali per i file migrati. È consigliabile non eseguire la migrazione delle autorizzazioni per la migrazione dei file a un gruppo di Microsoft 365 o a un canale di Microsoft Teams.</td>
+*Configurazione della sincronizzazione della directory necessaria. Vengono migrate solo le autorizzazioni NTFS esposte a Esplora file di Windows. Le autorizzazioni gestite direttamente nei dispositivi di condivisione dei file non vengono migrate. Se i dati sono archiviati su un dispositivo SMB 2.0, vengono migrate le autorizzazioni equivalenti a NTFS esposte dal protocollo SMB. Le autorizzazioni sono influenzate dal Microsoft 365 e/o Microsoft Teams canale. Se la destinazione è un Microsoft 365 gruppo o Microsoft Teams, il gruppo o il canale determina il profilo delle autorizzazioni finali per i file migrati. È consigliabile non eseguire la migrazione delle autorizzazioni per la migrazione dei file a un Microsoft 365 gruppo o Microsoft Teams canale.</td>
 <td><ul>
 <li> Cronologia di proprietà e versioni precedenti </li>
 <li> Conversione degli URL incorporati nel contenuto </li>
@@ -629,7 +629,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Documenti inaccessibili o corrotti </li>
 <li> Condivisioni nascoste </li>
 <li> Condivisione (come autorizzazioni concesse a livello di condivisione) </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -652,7 +652,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Contenuto condiviso appartenente all'account Google Drive in corso di migrazione </li>
 </ul>
 <br>
-*Le autorizzazioni sono influenzate dal gruppo di Microsoft 365 e/o dal canale di Microsoft Teams. Se la destinazione è un canale di Microsoft 365 Group o Microsoft Teams, il gruppo o il canale determina il profilo delle autorizzazioni finali per i file migrati. È consigliabile non eseguire la migrazione delle autorizzazioni per la migrazione dei file a un gruppo di Microsoft 365 o a un canale di Microsoft Teams. 
+*Le autorizzazioni sono influenzate dal Microsoft 365 gruppo e/o Microsoft Teams canale. Se la destinazione è un Microsoft 365 gruppo o Microsoft Teams, il gruppo o il canale determina il profilo delle autorizzazioni finali per i file migrati. È consigliabile non eseguire la migrazione delle autorizzazioni per la migrazione dei file a un Microsoft 365 gruppo o Microsoft Teams canale. 
 </td>
 <td><ul>
 <li> Cronologia di proprietà, versioni precedenti e commenti </li>
@@ -671,7 +671,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Contenuto che appartenente all'account Google Drive che è in corso di migrazione </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Google Drive Admin per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
 <li> Autorizzazioni di appartenenza alle unità condivisa (<strong>Nota</strong>: usare i report amministratore di Google Drive per identificare l’appartenenza alle unità condivise. Indicare agli utenti finali di configurare queste impostazioni di appartenenza nella destinazione prima della migrazione). </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -694,7 +694,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Note casella (convertite in formato documento Word) </li>
 </ul>
 <br>
-*Le autorizzazioni sono influenzate dal gruppo di Microsoft 365 e/o dal canale di Microsoft Teams. Se la destinazione è un canale di Microsoft 365 Group o Microsoft Teams, il gruppo o il canale determina il profilo delle autorizzazioni finali per i file migrati. È consigliabile non eseguire la migrazione delle autorizzazioni per la migrazione dei file a un gruppo di Microsoft 365 o a un canale di Microsoft Teams. </td>
+*Le autorizzazioni sono influenzate dal Microsoft 365 gruppo e/o Microsoft Teams canale. Se la destinazione è un Microsoft 365 gruppo o Microsoft Teams, il gruppo o il canale determina il profilo delle autorizzazioni finali per i file migrati. È consigliabile non eseguire la migrazione delle autorizzazioni per la migrazione dei file a un Microsoft 365 gruppo o Microsoft Teams canale. </td>
 <td><ul>
 <li> Cronologia di proprietà, versioni precedenti e commenti </li>
 <li> Descrizioni di file e cartelle </li>
@@ -709,7 +709,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> App Box, Segnalibri, Preferiti e Flussi di lavoro </li>
 <li> Contenuto non di proprietà dell'account Box migrato </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Box per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -732,7 +732,7 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> Contenuto condiviso appartenente all'account Dropbox in corso di migrazione </li>
 </ul>
 <br>
-*Le autorizzazioni sono influenzate dal gruppo di Microsoft 365 e/o dal canale di Microsoft Teams. Se la destinazione è un canale di Microsoft 365 Group o Microsoft Teams, il gruppo o il canale determina il profilo delle autorizzazioni finali per i file migrati. È consigliabile non eseguire la migrazione delle autorizzazioni per la migrazione dei file a un gruppo di Microsoft 365 o a un canale di Microsoft Teams.
+*Le autorizzazioni sono influenzate dal Microsoft 365 gruppo e/o Microsoft Teams canale. Se la destinazione è un Microsoft 365 gruppo o Microsoft Teams, il gruppo o il canale determina il profilo delle autorizzazioni finali per i file migrati. È consigliabile non eseguire la migrazione delle autorizzazioni per la migrazione dei file a un Microsoft 365 gruppo o Microsoft Teams canale.
 </td>
 <td><ul>
 <li> Cronologia di proprietà, versioni precedenti e commenti </li>
@@ -750,22 +750,22 @@ Nella tabella seguente vengono illustrati i dettagli della migrazione specifici 
 <li> App e preferiti di Dropbox (Pins/stars) </li>
 <li> Contenuto non di proprietà dell'account Dropbox migrato </li>
 <li> Autorizzazioni e metadati di base degli utenti esterni ( <strong>Nota</strong>: usare i report di Dropbox per identificare i contenuti condivisi con gli utenti esterni. Indicare agli utenti finali di ricondividere i propri contenuti con utenti esterni dopo la migrazione). </li>
-<li> File o cartelle che superano le restrizioni e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di SharePoint Online</span></a> </li>
+<li> File o cartelle che superano le SharePoint e le limitazioni correnti <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">di Online</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Responsabilità di FastTrack per le migrazioni di Microsoft Teams e Gruppi di Microsoft 365
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Responsabilità di FastTrack per le migrazioni Microsoft Teams e Microsoft 365 gruppi
 
 Gli specialisti di FastTrack eseguono attività standard durante il progetto di migrazione. Fare riferimento alle informazioni sulle responsabilità della migrazione dei dati in [Processo e aspettative](process-and-expectations.md) per maggiori dettagli.
 
-## <a name="your-responsibilities"></a>Responsabilità dell'utente 
+### <a name="your-responsibilities"></a>Responsabilità dell'utente 
 
 Tu esegui attività standard durante il progetto di migrazione. Fare riferimento alle informazioni sulle responsabilità della migrazione dei dati in [Processo e aspettative](process-and-expectations.md) per maggiori dettagli.
-È inoltre possibile eseguire le attività seguenti, specifiche per le migrazioni di Microsoft Teams e gruppi di Microsoft 365: 
+È inoltre possibile eseguire le attività seguenti, specifiche per le migrazioni Microsoft Teams e Microsoft 365 gruppi: 
 
-- Effettuare il provisioning di tutti i canali di Microsoft Teams e dei gruppi di Microsoft 365 come destinazione degli eventi di migrazione.
+- Esegui il provisioning di Microsoft Teams canali e Microsoft 365 gruppi come destinazione degli eventi di migrazione.
 
 > [!NOTE]
->FastTrack non effettua il pre-provisioning dei canali di Microsoft Teams o dei gruppi di Microsoft 365. FastTrack non aggiunge utenti finali o gruppi ai canali di Microsoft Teams o ai gruppi di Microsoft 365. È necessario aggiungere gli utenti finali o i gruppi a tutti i canali di Microsoft Teams e ai gruppi di Microsoft 365 prima di eseguire la migrazione dei dati in tali destinazioni in modo che tali utenti finali hanno accesso ai documenti appena migrati
+>FastTrack non effettua il pre-provisioning Microsoft Teams canali o Microsoft 365 gruppi. FastTrack non aggiunge utenti finali o gruppi a Microsoft Teams o Microsoft 365 gruppi. È necessario aggiungere gli utenti finali o i gruppi a tutti i canali Microsoft Teams e i gruppi di Microsoft 365 prima di eseguire la migrazione dei dati in tali destinazioni in modo che tali utenti finali hanno accesso ai documenti appena migrati
