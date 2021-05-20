@@ -1,23 +1,23 @@
 ---
-title: Responsabilità di Office 365 US Government
+title: Le tue responsabilità per Office 365 governo degli Stati Uniti
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Ecco le responsabilità dell'utente durante il processo di onboarding.
-ms.openlocfilehash: f1d7a751443ab924758f094997d152e9633e55dd
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 771a28beda75e9d086d0627828a926c573472e94
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926902"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570578"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Responsabilità di Office 365 US Government
+# <a name="your-responsibilities-for-office-365-us-government"></a>Le tue responsabilità per Office 365 governo degli Stati Uniti
 
 Ecco le responsabilità dell'utente durante il processo di onboarding.
   
@@ -41,7 +41,7 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
 - Gestire, configurare e applicare criteri di sicurezza.    
 - Attivare i dispositivi mobili.    
 - Fornire configurazione di rete, analisi, convalida della larghezza di banda, verifica e monitoraggio. 
-- Modificare le regole del firewall per supportare gli URL e gli intervalli di indirizzi IP specifici utilizzati dai servizi di Office 365 (se necessario).
+- Modificare le regole del firewall per supportare gli URL e gli intervalli di indirizzi IP specifici utilizzati dai Office 365 (se necessario).
 - Fornire endpoint proxy inverso locali a Microsoft (se necessario).     
 - Modificare la rete per fornire la larghezza di banda necessaria per i servizi di Skype for Business online.   
 - Gestire il processo di approvazione della gestione di una modifica tecnica e creare la documentazione di supporto.    
@@ -58,7 +58,7 @@ Ecco le responsabilità dell'utente durante il processo di onboarding.
     
 ## <a name="initiate-phase"></a>Fase di avvio
 
-- Configurare lo spazio di collaborazione di Microsoft Teams per la partnership di onboarding e invitare i membri del team di FastTrack Center (non disponibili nei piani GCC High o DoD).   
+- Configurare lo spazio Microsoft Teams di collaborazione per la partnership di onboarding e invitare i membri del team di FastTrack Center (non disponibili GCC piani High o DoD).   
 - Collaborare con gli esperti di FastTrack per avviare l'onboarding dei servizi idonei.     
 - Partecipare alla riunione di inizio della collaborazione, gestire e guidare i partecipanti dell'organizzazione e confermare i tempi di correzione.    
 - Fornire gli obiettivi per i servizi Office 365 (ad esempio, SharePoint Online, Exchange Online, Microsoft Teams e Microsoft 365 Apps) e gli obiettivi aziendali.

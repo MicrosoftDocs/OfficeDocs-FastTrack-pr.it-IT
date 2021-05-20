@@ -1,23 +1,23 @@
 ---
-title: Responsabilità di FastTrack per Office 365 US Government
+title: Responsabilità di FastTrack per Office 365 us government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: adac2fee65878f2d593d3c249f4b7231cb7eb967
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 10b0895536be5d4ddd0026baa6f5e3e939a52fb5
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926944"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570518"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità di FastTrack per Office 365 US Government
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità di FastTrack per Office 365 us government
 
 Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.  
   
@@ -79,8 +79,8 @@ Fornire indicazioni su:
   - Installazione di un server di sincronizzazione delle directory tra Active Directory Domain Services (AD DS) e Office 365, se necessario.   
   - Configurazione della sincronizzazione della password (hash password) su Office 365 (Azure Active Directory) con lo strumento Azure Active Directory Connect, se necessario.  
   - Per gli ambienti con una o più foreste:
-      - Configurazione dell'autenticazione pass-through di Azure Active Directory, se necessario (non disponibile nei piani GCC High o DoD).
-      - Configurazione di Azure Active Directory Seamless Single Sign-On (SSO), se necessario (non disponibile nei piani GCC High o DoD).
+      - Configurazione Azure Active Directory'autenticazione pass-through, se necessario (non disponibile nei piani GCC High o DoD).
+      - Configurazione di Azure Active Directory single Sign-On (SSO), se necessario (non disponibile GCC piani High o DoD).
     > [!NOTE]
     > L'Autenticazione pass-through di Azure Active Directory per ambienti con più foreste è supportata se sono presenti trust tra le foreste di Active Directory e se il routing dei suffissi nome è configurato correttamente. È possibile installare ulteriori agenti su più server locali per fornire disponibilità elevata per le richieste di accesso. Per ulteriori informazioni, vedere [Autenticazione pass-through di Azure Active Directory: avvio rapido](https://go.microsoft.com/fwlink/?linkid=860094) e [Accesso Single Sign-On facile di Azure Active Directory: guida introduttiva](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
     > Per ulteriori informazioni sui limiti dell'autenticazione pass-through, vedere [Autenticazione pass-through di Azure Active Directory: limitazioni correnti](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
@@ -107,7 +107,7 @@ Fornire indicazioni su:
 - Abilitazione del routing di posta elettronica tra sistema di messaggistica di origine e ambienti Office 365.    
 - Configurazione delle funzionalità di Exchange Online Protection (comprese quelle di Protezione avanzata dalle minacce per Exchange Online se disponibili nella propria sottoscrizione) e verifica che i record MX puntino a Office 365 per tutti i domini abilitati alla posta elettronica convalidati.   
 - Configurazione ibrida tra l'organizzazione di Exchange singola in locale e Office 365 *o* tra più organizzazioni di Exchange locale e Office 365. 
-- Configurazione della messaggistica unificata con Exchange Online (la messaggistica unificata non è disponibile nei piani GCC DoD). 
+- La configurazione della messaggistica unificata con Exchange Online (la messaggistica unificata non è disponibile nei GCC DoD). 
     
 Per ulteriori informazioni sulle responsabilità nella migrazione dei dati, vedere [Migrazione dei dati](data-migration.md).
   
@@ -154,12 +154,12 @@ Fornire indicazioni su:
 - Abilitazione dell'audioconferenza:   
   - Configurazione aziendale delle impostazioni predefinite del bridge per conferenze.   
   - Assegnazione di bridge per conferenze agli utenti con licenza 
-- Abilitazione del sistema telefonico (non disponibile nei piani GCC High o DoD):  
+- Abilitazione Sistema telefonico (non disponibile nei piani GCC High o DoD):  
   - Abilitazione del sistema telefonico e dell'onboarding relativo ai piani di chiamata (mercati idonei). 
   - Assegnazione di numeri agli utenti con licenza.  
   - Guida alla portabilità del numero locale tramite UI fino a 999.  
   - Supporto RS per la portabilità del numero locale superiore a 999.  
-- Abilitazione di Skype for Business Meeting Broadcast (non disponibile nei piani GCC High o DoD):  
+- Abilitazione Skype for Business Trasmissione riunione (non disponibile nei piani GCC High o DoD):  
   - Onboarding guidato per l'abilitazione di Skype for Business Meeting Broadcast.  
   - Configurazione aziendale per la federazione con il servizio Meeting Broadcast.
     
@@ -197,7 +197,7 @@ Fornire indicazioni su:
 Fornire una guida sulla conversione della rete Yammer Basic singola in una sola rete Yammer Enterprise.
 
 > [!NOTE]
-> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente con licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC in base ai contratti Enterprise Agreement e Ai contratti di sottoscrizione Enterprise. Yammer non è disponibile nei piani GCC High o DoD.
+> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente concesso in licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC contratti Enterprise e Enterprise contratti di sottoscrizione. Yammer non è disponibile nei piani GCC High o DoD.
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
@@ -207,5 +207,5 @@ Fornire indicazioni su:
 - Installare Microsoft 365 Apps dal portale di Office 365 tramite la tecnologia A portata di clic.   
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
 - Configurazione delle impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office 2016 oppure i modelli dei criteri di gruppo.   
-- Configurazione di un singolo server di distribuzione locale per Microsoft 365 Apps, inclusa l'assistenza per la creazione di un file configuration.xml da utilizzare con lo Strumento di distribuzione di Office 365.   
+- Configurazione di un singolo server di distribuzione locale per Microsoft 365 Apps, inclusa l'assistenza per la creazione di un file configuration.xml da utilizzare con lo strumento Office 365 distribuzione.   
 - Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.

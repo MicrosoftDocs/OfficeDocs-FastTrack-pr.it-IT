@@ -3,7 +3,7 @@ title: FastTrack Center Benefit per Microsoft 365
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack è un vantaggio utile per distribuire Microsoft 365 (incluso negli abbonamenti idonei) senza costi aggiuntivi. È possibile usare i servizi di FastTrack con un abbonamento idoneo nuovo o esistente.
-ms.openlocfilehash: 14ea02061cbcb5f0b1b20ef5d379a204658b4e4a
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: e063b9c0bb67dc962c89f165001aecfa1fe1aa5f
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926943"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570410"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>FastTrack Center Benefit per Microsoft 365
 
