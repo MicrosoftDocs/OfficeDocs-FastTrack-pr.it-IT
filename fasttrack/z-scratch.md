@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: O365-seccomp
 localization_priority: None
 ms.collection: FastTrack
-description: FastTrack Guidance Dettagli per i servizi Microsoft.
-ms.openlocfilehash: 000a81c51729deba8d3f5c4d88a0baa918dcd048
-ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+description: FastTrack Guidance Details for servizi Microsoft.
+ms.openlocfilehash: 67dd428de8a8f48e0d52e4f6c6daf85cbd27ec76
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996244"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592397"
 ---
 # <a name="security-and-compliance"></a>Sicurezza e conformità
 
@@ -31,11 +31,11 @@ ms.locfileid: "51996244"
 <tr class="odd">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> Microsoft 365 Defender è una famiglia di prodotti di difesa aziendale pre e post-violazione unificata che coordina in modo nativo il rilevamento, la prevenzione, l'indagine e la risposta tra endpoint, identità, posta elettronica e app per fornire una protezione integrata da attacchi sofisticati. Forniamo indicazioni remote per: </p> 
+<td> <p> Microsoft 365 Defender è una suite di difesa aziendale unificata pre e post-violazione che coordina in modo nativo rilevamento, prevenzione, indagine e risposta tra endpoint, identità, posta elettronica e app per fornire una protezione integrata da attacchi sofisticati. Forniamo indicazioni remote per: </p> 
 <ul>
-<li>  Panoramica del Centro sicurezza Microsoft 365.  </li>
+<li>  Fornire una panoramica del centro Microsoft 365 sicurezza.  </li>
 <li>  Esame degli incidenti tra prodotti, inclusa la messa a fuoco su ciò che è critico garantendo l'ambito di attacco completo, gli asset influenzati e le azioni di correzione automatizzate raggruppate tra loro.  </li>
-<li>  Dimostrazione del modo in cui Microsoft 365 Defender può orchestrare l'analisi di asset, utenti, dispositivi e cassette postali che potrebbero essere state compromesse tramite l'auto-riparazione automatica. </li>
+<li>  Dimostrazione di Microsoft 365 Defender può orchestrare l'indagine di asset, utenti, dispositivi e cassette postali che potrebbero essere state compromesse tramite l'auto-correzione automatica. </li>
 <li>  Illustrando e fornendo esempi di come i clienti possono cercare in modo proattivo tentativi di intrusione e attività di violazione che influiscono su posta elettronica, dati, dispositivi e account in più set di dati.   </li>
 <li> Mostrare ai clienti come possono rivedere e migliorare la loro posizione di sicurezza in modo olistico usando Microsoft Secure Score.</li>
 </ul>
@@ -55,7 +55,7 @@ ms.locfileid: "51996244"
 </tr>
 <tr class="even">
 <td><strong>Microsoft Cloud App Security</strong></td>
-<td>  Microsoft Cloud App Security è un Cloud Access Security Broker (CASB) che offre visibilità avanzata, controllo sui viaggi di dati e analisi sofisticate per identificare e contrastare le minacce informatiche in tutti i servizi cloud microsoft e di terze parti. Forniamo indicazioni remote per:
+<td>  Microsoft Cloud App Security è un Cloud Access Security Broker (CASB) che offre visibilità avanzata, controllo sui viaggi dei dati e analisi sofisticate per identificare e contrastare le minacce informatiche in tutti i servizi cloud microsoft e di terze parti. Forniamo indicazioni remote per:
 <ul>
 <li>  Configurazione del portale, tra cui:  </li>
 <ul>
@@ -71,15 +71,15 @@ ms.locfileid: "51996244"
 <li> Zscaler.</li>
 <li> iboss.</li>
 </ul>
-<li> Connessione <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-gove">di app in primo</a> piano tramite connettori di app.</li>
-<li> Configurare il controllo dell'app di accesso condizionale nei portali di Accesso condizionale e Cloud App Security per applicare controlli di sessione in tempo reale.</li>
-<li> Distribuzione dei dashboard di Cloud App Security e Cloud Discovery.</li>
+<li> Connessione [di app in primo](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) piano tramite connettori di app.</li>
+<li> Configurazione del controllo dell'app di accesso condizionale nei portali di accesso condizionale e Cloud App Security per applicare i controlli delle sessioni in tempo reale.</li>
+<li> Distribuzione dei dashboard Cloud App Security e Cloud Discovery.</li>
 <li> Personalizzazione dei punteggi dei rischi delle app in base alle priorità dell'organizzazione.</li>
 <li> Creazione di tag e categorie dell'app.</li>
 <li> App che sanzionano e annullano l'applicazione.</li>
 <li> Utilizzo dei log attività e dei file.</li>
 <li> Gestione delle app OAuth.</li>
-<li> Informazioni sulla correlazione degli incidenti nel portale di Microsoft 365 Defender.</li>
+<li> Informazioni sulla correlazione degli eventi imprevisti nel portale Microsoft 365 Defender.</li>
 <li> Fornire assistenza alla configurazione con <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">i 20</a> casi d'uso principali per i casb (inclusa la creazione o l'aggiornamento di un massimo di sei (6) criteri) ad eccezione di: </li>
 <ul>
 <li> Controllo della configurazione dell'ambiente Internet as a Service (IaaS) (#18).</li>
@@ -96,9 +96,9 @@ ms.locfileid: "51996244"
 <li> Connessione di app personalizzate.</li>
 <li> Integrazione con provider di identità di terze parti (IsP) e provider di prevenzione della perdita dei dati (DLP).</li>
 <li> Formazione o indicazioni sulla ricerca avanzata.</li>
-<li> Analisi e correzione automatizzate, inclusi i playbook di Microsoft Power Automate.</li>
+<li> Analisi e correzione automatizzate, inclusi i playbook Power Automate Microsoft.</li>
 <li> Integrazione delle informazioni di sicurezza e degli eventi (SIEM) o delle API (incluso Azure Sentinel).</li>
-<li> Distribuzione di Cloud App Security come prova di concetto.</li>
+<li> La distribuzione Cloud App Security come prova di concetto.</li>
 </ul></td>
 </tr>
 
@@ -111,10 +111,10 @@ ms.locfileid: "51996244"
 <ul>
 <li>  Distribuzione delle tecnologie per proteggere gli endpoint.  </li>
 <li>  Configurazione dei profili di protezione degli endpoint e di restrizione dei dispositivi.  </li>
-<li>  Valutazione della versione del sistema operativo e della gestione dei dispositivi (inclusi Intune, Microsoft Endpoint Configuration Manager, oggetti Criteri di gruppo e configurazioni di terze parti), nonché lo stato dei servizi av di Windows Defender o altro software di sicurezza degli endpoint.  </li>
-<li>  Valutazione dello stato dei servizi Windows AV o di altro software di sicurezza degli endpoint.  </li>
+<li>  Valutazione della versione del sistema operativo e della gestione dei dispositivi (inclusi Intune, Microsoft Endpoint Configuration Manager, oggetti Criteri di gruppo e configurazioni di terze parti), nonché lo stato dei servizi av di Windows Defender o di altro software di sicurezza degli endpoint.  </li>
+<li>  Valutazione dello stato dei servizi di Windows av o altro software di sicurezza degli endpoint.  </li>
 <li>  Valutazione dei proxy e dei firewall che limitano il traffico di rete.  </li>
-<li>  Abilitazione del servizio Microsoft Defender ATP spiegando come distribuire un profilo agente ATP usando un endpoint di onboarding.  </li>
+<li>  Abilitazione del Microsoft Defender ATP servizio spiegando come distribuire un profilo agente ATP usando un endpoint di onboarding.  </li>
 <li>  Linee guida per la distribuzione, assistenza alla configurazione e formazione su:
 <ul>
 <li>  
@@ -255,14 +255,14 @@ Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner 
 <li>  Esecuzione dello strumento di ridimensionamento per la pianificazione della capacità delle risorse. </li>
 <li>  Esecuzione dello strumento di controllo per valutare la compatibilità dei controller di dominio con il sensore. </li>
 </ul>
-<li>  Distribuzione del sensore per acquisire e analizzare il traffico di rete e gli eventi di Windows direttamente dai controller di dominio, tra cui: </li>
+<li>  Distribuzione del sensore per acquisire e analizzare il traffico di rete e Windows eventi direttamente dai controller di dominio, tra cui: </li>
 <ul> 
 <li>  Download del pacchetto del sensore. </li>
 <li>  Configurazione del sensore. </li>
 <li>  Installazione del sensore nel controller di dominio in modo invisibile all'utente. </li>
 <li>  Distribuzione del sensore nell'ambiente a più foreste. </li>
 </ul>
-<li>  Integrazione di Defender for Identity con Microsoft Cloud App Security (le licenze di Cloud App Security non sono necessarie). </li>
+<li>  Integrazione di Defender for Identity con Microsoft Cloud App Security (Cloud App Security non è necessaria la licenza). </li>
 <li>  Fornire indicazioni sulla distribuzione, assistenza alla configurazione e formazione su: </li>
 <ul>
 <li> Ottimizzazione dell'ambiente per ridurre il "rumore".  </li>
@@ -354,7 +354,7 @@ Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner 
 <li>  Conoscere i dati tramite Esplora contenuto ed Esplora attività.  </li>
 <li>  Pubblicare etichette con criteri (manuale e automatico).  </li>
 <li>  Creare criteri di prevenzione della perdita dei dati (DLP) per chat e canali di Microsoft Teams.  </li>
-<li>  Creazione di criteri DLP degli endpoint per i dispositivi Windows 10.  </li>
+<li>  Creazione di criteri DLP degli endpoint per Windows 10 dispositivi.  </li>
 </ul>
 
 <strong>L'ambito seguente non è disponibile </strong>  
@@ -364,7 +364,7 @@ Contattare un <a href="https://go.microsoft.com/fwlink/?linkid=2080150">partner 
 <li>Creazione o modifica di dizionari di parole chiave.</li>
 <li>Script e codifica personalizzati.</li>
 </ul>
-<strong>Nota:</strong> Per ulteriori informazioni, vedere <strong>Azure Information Protection</strong> in Enterprise Mobility + <a href="products-and-capabilities.md#enterprise-mobility--security">Security.</a>
+<strong>Nota:</strong> Per ulteriori informazioni, vedere <strong>Azure Information Protection</strong> in <a href="products-and-capabilities.md#enterprise-mobility--security">Enterprise Mobility + Security.</a>
 <ul>
 
 </td>
@@ -465,7 +465,7 @@ Forniamo indicazioni remote per:
 
 <strong>L'ambito seguente non è disponibile </strong> 
 <ul>
-<li> Creazione e gestione dei flussi di Power Automate.</li>
+<li> Creazione e gestione di Power Automate flussi.</li>
 <li> Connettori dati (oltre il connettore HR). </li>
 <li> Configurazioni di espressioni regolari personalizzate (RegEx).</li>
 <li> Revisione dei documenti di progettazione, architetto e di terze parti.</li>

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Questo argomento illustra i requisiti di idoneità per ricevere l’assistenza guidata remota dagli esperti FastTrack inclusa nell'acquisto delle licenze di Microsoft 365 e i dettagli sui prodotti e le funzionalità specifici coperti.
-ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570494"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592400"
 ---
 # <a name="eligibility"></a>Idoneità
 
@@ -33,7 +33,7 @@ Gli esperti FastTrack possono offrire assistenza guidata remota per i servizi se
   - Microsoft 365 Apps
 
 > [!NOTE]
-> Office 365 ProPlus è stato rinominato in Microsoft 365 Apps. In alcuni casi, è possibile che venga usato il nome legacy. Per informazioni dettagliate su quando la modifica risulterà effettiva, vedere [Modifica del nome per Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
+> Office 365 ProPlus è stato rinominato in Microsoft 365 Apps. In alcuni casi, è possibile che venga usato il nome legacy. Per informazioni dettagliate su quando la modifica risulterà effettiva, vedere [Modifica del nome per Office 365 ProPlus](/deployoffice/name-change).
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security
