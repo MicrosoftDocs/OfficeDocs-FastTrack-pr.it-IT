@@ -1,23 +1,23 @@
 ---
-title: Responsabilità di FastTrack per Office 365 us government
+title: FastTrack Responsabilità per Office 365 governo degli Stati Uniti
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.
-ms.openlocfilehash: 10b0895536be5d4ddd0026baa6f5e3e939a52fb5
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 57e1ba446304fba42e3c1b815351d3942c6b4e39
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570518"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994913"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilità di FastTrack per Office 365 us government
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack Responsabilità per Office 365 governo degli Stati Uniti
 
 Gli esperti di FastTrack hanno le seguenti responsabilità durante la procedura di onboarding.  
   
@@ -97,7 +97,7 @@ Fornire indicazioni su:
 
 Fornire indicazioni su:
 - Assistenza remota con **Microsoft Information Governance** (vedere Sicurezza e [conformità](products-and-capabilities.md#security-and-compliance)).
-- Assistenza remota con **Microsoft Information Protection** (vedere Sicurezza e [conformità](products-and-capabilities.md#security-and-compliance)).
+- Assistenza remota con **Microsoft Information Protection** (vedere [Sicurezza e conformità](products-and-capabilities.md#security-and-compliance)).
 - Assistenza remota con **Azure Information Protection** (vedere Sicurezza e [conformità](products-and-capabilities.md#security-and-compliance)).
 
 ## <a name="exchange-online"></a>Exchange Online
@@ -154,12 +154,12 @@ Fornire indicazioni su:
 - Abilitazione dell'audioconferenza:   
   - Configurazione aziendale delle impostazioni predefinite del bridge per conferenze.   
   - Assegnazione di bridge per conferenze agli utenti con licenza 
-- Abilitazione Sistema telefonico (non disponibile nei piani GCC High o DoD):  
+- Abilitazione del sistema telefonico (non disponibile nei piani GCC High o DoD):  
   - Abilitazione del sistema telefonico e dell'onboarding relativo ai piani di chiamata (mercati idonei). 
   - Assegnazione di numeri agli utenti con licenza.  
   - Guida alla portabilità del numero locale tramite UI fino a 999.  
   - Supporto RS per la portabilità del numero locale superiore a 999.  
-- Abilitazione Skype for Business Trasmissione riunione (non disponibile nei piani GCC High o DoD):  
+- Abilitazione di Skype for Business Meeting Broadcast (non disponibile nei piani GCC High o DoD):  
   - Onboarding guidato per l'abilitazione di Skype for Business Meeting Broadcast.  
   - Configurazione aziendale per la federazione con il servizio Meeting Broadcast.
     
@@ -197,7 +197,7 @@ Fornire indicazioni su:
 Fornire una guida sulla conversione della rete Yammer Basic singola in una sola rete Yammer Enterprise.
 
 > [!NOTE]
-> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente concesso in licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC contratti Enterprise e Enterprise contratti di sottoscrizione. Yammer non è disponibile nei piani GCC High o DoD.
+> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente con licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC in base ai contratti Enterprise Agreement e Ai contratti di sottoscrizione Enterprise. Yammer non è disponibile nei piani GCC High o DoD.
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
@@ -207,5 +207,5 @@ Fornire indicazioni su:
 - Installare Microsoft 365 Apps dal portale di Office 365 tramite la tecnologia A portata di clic.   
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS, Android o Windows Mobile.   
 - Configurazione delle impostazioni di aggiornamento utilizzando lo strumento di distribuzione di Office 2016 oppure i modelli dei criteri di gruppo.   
-- Configurazione di un singolo server di distribuzione locale per Microsoft 365 Apps, inclusa l'assistenza per la creazione di un file configuration.xml da utilizzare con lo strumento Office 365 distribuzione.   
+- Configurazione di un singolo server di distribuzione locale per Microsoft 365 Apps, inclusa l'assistenza per la creazione di un file configuration.xml da utilizzare con lo Strumento di distribuzione di Office 365.   
 - Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.

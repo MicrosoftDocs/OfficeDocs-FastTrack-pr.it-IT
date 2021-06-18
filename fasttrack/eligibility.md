@@ -3,19 +3,19 @@ title: Idoneità
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Questo argomento illustra i requisiti di idoneità per ricevere l’assistenza guidata remota dagli esperti FastTrack inclusa nell'acquisto delle licenze di Microsoft 365 e i dettagli sui prodotti e le funzionalità specifici coperti.
-ms.openlocfilehash: 54eb2d4156c1b74a63944942ff79de89d84bfe91
-ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
+ms.openlocfilehash: 28f1c2e8907e62b3431d759ed90307d7d4dfb527
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626697"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994877"
 ---
 # <a name="eligibility"></a>Idoneità
 
@@ -55,7 +55,7 @@ Gli esperti FastTrack possono offrire assistenza guidata remota per i servizi se
 
 ## <a name="eligible-plans"></a>Piani idonei
 
-È necessario acquistare almeno 150 licenze per tenant di uno dei piani seguenti per essere idonei per FastTrack. L'elenco è diviso per famiglia di prodotti, per facilitare l'individuazione dei piani specifici acquistati dall'azienda: Microsoft 365, Office 365, Enterprise Mobility & Security e Windows 10.
+È necessario acquistare almeno 150 licenze da uno dei piani seguenti per essere idonei per FastTrack. L'elenco è diviso per famiglia di prodotti, per facilitare l'individuazione dei piani specifici acquistati dall'azienda: Microsoft 365, Office 365, Enterprise Mobility & Security e Windows 10.
 
 ### <a name="microsoft-365-plans"></a>Piani di Microsoft 365
 
@@ -204,7 +204,7 @@ Gli esperti FastTrack possono offrire assistenza guidata remota per i servizi se
 > Non sono richiesti requisiti minimi di licenza per i fornitori di software indipendenti commerciali (ISV) che creano app di Windows 10. Tutte le richieste di app devono essere destinate a una versione di Windows 10 o Microsoft 365 Apps attualmente compresa nella finestra di manutenzione "Mainstream".
 
 > [!NOTE]
-> L'idoneità per FastTrack Center Benefit si basa sull'acquisto di licenze a pagamento per i piani idonei indicati in precedenza. Come eccezione, FastTrack assiste nell'onboarding delle licenze di valutazione di Office 365 E1 da maggio 2021 al 30 giugno 2021 per i clienti idonei in India e Brasile per contribuire a rispondere all'attuale impennata di COVID-19. 
+> L'idoneità per FastTrack Center Benefit si basa sull'acquisto di licenze a pagamento per i piani idonei indicati in precedenza. Come eccezione, FastTrack assiste nell'onboarding delle licenze di valutazione di Office 365 E1 da maggio 2021 al 30 giugno 2021 per i clienti idonei in India e Brasile per aiutare a rispondere all'attuale impennata di COVID-19. 
 
 ### <a name="ineligible-plans"></a>Piani non idonei 
  I piani non idonei per i servizi di FastTrack includono (ma non si limitano a):
