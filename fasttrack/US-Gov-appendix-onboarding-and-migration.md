@@ -1,5 +1,5 @@
 ---
-title: Fasi di onboarding e migrazione per Office 365 US Government
+title: Fasi di onboarding e migrazione per Office 365 governo degli Stati Uniti
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
@@ -9,21 +9,21 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: "L'onboarding di Office 365 per Office 365 US Government ha quattro fasi principali: avvio, valutazione, correzione e attivazione. È possibile seguire queste fasi con una fase facoltativa di migrazione dei dati, come illustrato nella figura seguente."
-ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+description: 'Office 365 onboarding per Office 365 il governo degli Stati Uniti ha quattro fasi principali: avvio, valutazione, correzione e attivazione. È possibile seguire queste fasi con una fase facoltativa di migrazione dei dati, come illustrato nella figura seguente.'
+ms.openlocfilehash: 99bc16e1939bbc13a06aa7a93cd735918c652865
+ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994961"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255529"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 US Government
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fasi di onboarding e migrazione per Office 365 governo degli Stati Uniti
 
 Il processo di onboarding di Office 365 prevede quattro fasi principali (ovvero avvio, valutazione, correzione e attivazione) che, come si può vedere nella figura seguente, possono essere seguite da una fase facoltativa di migrazione dei dati.
   
 ![Fasi del vantaggio del processo di onboarding](media/O365-Onboarding-Phases.png)
   
-Per le attività dettagliate per ogni fase, vedere [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) e [Your Responsibilities for Office 365 US Government.](US-Gov-appendix-your-responsibilities.md)
+Per le attività dettagliate per ogni fase, vedere [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) e Your [Responsibilities for Office 365 US Government.](US-Gov-appendix-your-responsibilities.md)
   
 ## <a name="initiate-phase"></a>Fase di avvio
 
@@ -92,7 +92,7 @@ L'onboarding per uno o più servizi può iniziare al termine dell'onboarding di 
   
 ## <a name="exchange-online"></a>Exchange Online
 
-Per Exchange Online, l'utente viene guidato nell'utilizzo della posta elettronica per l'organizzazione. La procedura esatta dipende dall'ambiente di origine e dai piani di migrazione della posta elettronica. Può includere materiale sussidiario per:
+For Exchange Online, we remotely guide you through the process to get your organization ready to use email. I passaggi esatti, a seconda dell'ambiente di origine e dei piani di migrazione della posta elettronica, possono includere indicazioni per:
   
 - Configurare le funzionalità di Exchange Online Protection (EOP) per tutti i domini abilitati alla posta elettronica convalidati in Office 365.   
     > [!NOTE]
@@ -109,7 +109,7 @@ Per Exchange Online, l'utente viene guidato nell'utilizzo della posta elettronic
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online e OneDrive for Business
 
-Per SharePoint Online e OneDrive for Business, viene fornito materiale sussidiario per: 
+For SharePoint Online and OneDrive for Business, we provide remote guidance for: 
 - Configurazione DNS.   
 - Configurazione delle porte del firewall.   
 - Provisioning di utenti e licenze.   
@@ -125,15 +125,15 @@ Per OneDrive for Business, la procedura dipende dal corrente utilizzo o meno di 
   
 ![Passaggi onboarding di OneDrive durante la fase di attivazione](media/O365-Onboarding-Enable-ODB.png)
   
-## <a name="skype-for-business-online"></a>Skype for Business online
+## <a name="skype-for-business-online"></a>Skype for Business Online
 
-Per Skype for Business Online, viene fornito materiale sussidiario per: 
+For Skype for Business Online, we provide remote guidance for: 
 - Configurazione delle porte del firewall.    
 - Configurazione DNS.    
 - Creare account per qualsiasi dispositivo del sistema chat room.    
 - Distribuire un client Skype for Business online supportato.   
 - Definizione della configurazione del server di dominio diviso tra l'ambiente server Lync 2010, Lync 2013 o Skype for Business 2015 locale e il tenant di Skype for Business Online (se applicabile).
-- Abilitazione di Piani di chiamata, Skype Meeting Broadcast, Sistema telefonico e Piani di chiamata (nei mercati disponibili, non disponibili nei piani GCC High o DoD). 
+- Abilitazione dei piani di chiamata, Riunione Skype Broadcast e Sistema telefonico e piani di chiamata (nei mercati disponibili, non disponibili nei piani GCC High o DoD). 
     
 ![Passaggi onboarding di Lync durante la fase_1 di abilitazione](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,20 +142,48 @@ Per Skype for Business Online, viene fornito materiale sussidiario per:
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Quanto segue non è disponibile nei piani GCC High o DoD.
+> FastTrack assiste l'ambito in base alla disponibilità delle funzionalità in ogni rispettivo ambiente. Per un elenco delle funzionalità attualmente disponibili in ogni ambiente, vedere <a href="/office365/servicedescriptions/teams-service-description#feature-availability">Disponibilità delle funzionalità.</a>
 
-Per Microsoft StaffHub viene fornito materiale sussidiario per: 
-- Conferma dei requisiti minimi.   
+For Microsoft Teams, we provide remote guidance for: 
+- Verifica dei requisiti minimi in Exchange Online, SharePoint Online, Office 365 Groups e Azure Active Directory (Azure AD) per supportare Teams.
 - Configurazione delle porte del firewall.   
 - Configurazione DNS.  
 - Conferma dell'abilitazione di Microsoft Teams sul tenant Office 365.    
 - Abilitazione o disabilitazione delle licenze utente.
+- Valutazione della rete per Teams:
+    - Controlli di porta ed endpoint.
+    - Controlli sulla qualità della connessione.
+    - Stime sulla larghezza di banda.
+    - Configurazione dei Teams app (Teams app Web, Teams desktop e Teams per app iOS e Android).
+ 
+<br> Se applicabile, forniamo indicazioni per: </br>
+- Microsoft Teams Dispositivi sala:
+    - Creazione di account online necessari per i dispositivi di telefonia e di sala riunioni supportati elencati nel <a href="https://go.microsoft.com/fwlink/?linkid=2066478">catalogo dei dispositivi Teams</a>.
+    - Assistenza remota con la configurazione sul lato servizio di dispositivi Microsoft Teams Rooms certificati.
+- Abilitazione dell'audioconferenza:
+    - Configurazione aziendale delle impostazioni predefinite del bridge per conferenze.
+    - Assegnazione di bridge per conferenze agli utenti con licenza.
+- Sistema telefonico:
+    - Configurazione aziendale delle impostazioni predefinite vocali cloud.
+    - Indicazioni per i piani di chiamata (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">mercati disponibili</a>):  
+        - Assegnazione di numeri agli utenti con licenza.
+        - Guida alla portabilità del numero locale tramite UI fino a 999.
+        - Supporto RS per la richiesta di servizio di portabilità del numero locale superiore a 999.
+        - Linee guida per l'instradamento diretto:
+            - Indicazioni per la configurazione dell'organizzazione per la progettazione del routing diretto di scenari ospitati da partner o scenari distribuiti dal cliente per un massimo di 10 siti.
+            - Session Border Controller (SBC) configuration review.
+            - Assistenza remota con la configurazione del dial plan.
+            - Configurazione delle route vocali.
+            - Bypass multimediale e ottimizzazione multimediale locale.
+- Abilitazione degli eventi live in Teams.
+- Configurazione dell'organizzazione e integrazione in Microsoft Stream.
+- Linee guida per Skype for Business a Teams transizione. 
     
-![Diagramma di Microsoft Teams in FastTrack (fase di attivazione)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![Diagramma dei team FastTrack Microsoft (fase di attivazione)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-Per Power BI, viene fornito materiale sussidiario per:  
+For Power BI, we provide remote guidance for:  
 - Assegnare licenze di Power BI.    
 - Distribuire l'app Power BI Desktop.   
 ## <a name="project-online"></a>Project Online
@@ -170,20 +198,20 @@ Per Project Online, viene fornito materiale sussidiario per:
   
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
-Per Yammer, viene fornito materiale sussidiario per l'attivazione del servizio Yammer Enterprise.
+For Yammer, we provide remote guidance for enabling the Yammer Enterprise service.
 
 > [!NOTE]
-> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente con licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC in base ai contratti Enterprise Agreement e Ai contratti di sottoscrizione Enterprise. Yammer non è disponibile nei piani GCC High o DoD. 
+> Yammer Enterprise non è un componente di Office 365 US Government, ma può essere acquistato senza costi aggiuntivi come offerta autonoma per ogni utente concesso in licenza per Office 365 in GCC. Questa offerta è attualmente limitata ai clienti che acquistano Office 365 GCC contratti Enterprise e Enterprise contratti di sottoscrizione. Yammer non è disponibile nei piani GCC High o DoD. 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-Nel caso di Microsoft 365 Apps, viene fornita una guida per gli aspetti seguenti: 
+For Microsoft 365 Apps, we provide remote guidance for: 
 - Risoluzione dei problemi di implementazione.    
 - Assegnare i contratti di licenza con l'utente finale utilizzando l'[interfaccia di amministrazione di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e Windows PowerShell.    
 - Installare Microsoft 365 Apps dal portale di Office 365 tramite la tecnologia A portata di clic.    
 - Installazione delle app di Office Mobile (ad esempio Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) sui dispositivi iOS o Android.   
 - Configurare le impostazioni di aggiornamento con lo strumento di distribuzione di Office 365.    
-- Configurazione di un singolo server di distribuzione locale per Microsoft 365 Apps, inclusa l'assistenza per la creazione di un file configuration.xml da utilizzare con lo Strumento di distribuzione di Office 365.    
+- Configurazione di un singolo server di distribuzione locale per Microsoft 365 Apps, inclusa l'assistenza per la creazione di un file configuration.xml da utilizzare con lo strumento Office 365 distribuzione.    
 - Distribuzione con Microsoft Endpoint Configuration Manager, che include una guida per la creazione del pacchetto di Microsoft Endpoint Configuration Manager.
     
 ![Passaggi onboarding di Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
